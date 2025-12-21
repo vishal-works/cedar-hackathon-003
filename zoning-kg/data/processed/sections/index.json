@@ -1,0 +1,6602 @@
+{
+  "total_sections": 733,
+  "sections": [
+    {
+      "id": "25-1-1",
+      "title": "IMPLEMENTATION OF COMPREHENSIVE PLAN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96223,
+      "end_line": 96223,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-2",
+      "title": "APPLICABILITY OF REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96221,
+      "end_line": 96222,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-3",
+      "title": "CONFLICTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96226,
+      "end_line": 96227,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-21",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 39216,
+      "end_line": 39219,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-22",
+      "title": "MEASUREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1317,
+      "end_line": 1845,
+      "num_subsections": 19
+    },
+    {
+      "id": "25-1-23",
+      "title": "IMPERVIOUS COVER MEASUREMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102455,
+      "end_line": 102455,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-41",
+      "title": "NEIGHBORHOOD PLANNING AND ZONING DEPARTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96284,
+      "end_line": 96289,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-42",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102337,
+      "end_line": 102337,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-43",
+      "title": "WATERSHED PROTECTION AND DEVELOPMENT REVIEW DEPARTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96283,
+      "end_line": 96283,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-45",
+      "title": "ENVIRONMENTAL OFFICER",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96290,
+      "end_line": 96291,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-46",
+      "title": "LAND USE COMMISSION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1145,
+      "end_line": 1316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-61",
+      "title": "ORDER OF PROCESS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96240,
+      "end_line": 96240,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-62",
+      "title": "DEVELOPMENT ASSESSMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96280,
+      "end_line": 96280,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-63",
+      "title": "PROJECT ASSESSMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96229,
+      "end_line": 96229,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-64",
+      "title": "ACTION ON AN APPLICATION; DEADLINE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 2077,
+      "end_line": 2077,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-65",
+      "title": "UPDATES PERMITTED AFTER APPLICATION IS DENIED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103216,
+      "end_line": 103216,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-66",
+      "title": "TRANSFER OF PERMIT OR APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103453,
+      "end_line": 103453,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-81",
+      "title": "AUTHORITY TO FILE AN APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96230,
+      "end_line": 96230,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-82",
+      "title": "NON-SUBDIVISION APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1846,
+      "end_line": 1874,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-83",
+      "title": "PRELIMINARY PLAN OR PLAT APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 2548,
+      "end_line": 3390,
+      "num_subsections": 62
+    },
+    {
+      "id": "25-1-84",
+      "title": "SUBDIVISION CONSTRUCTION PLAN APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1875,
+      "end_line": 2076,
+      "num_subsections": 13
+    },
+    {
+      "id": "25-1-85",
+      "title": "APPLICATIONS RELATING TO A CLOSED MUNICIPAL SOLID WASTE LANDFILL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96281,
+      "end_line": 96281,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-86",
+      "title": "PROCESSING CYCLES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96282,
+      "end_line": 96282,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-87",
+      "title": "SEQUENCE OF REVIEW",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96238,
+      "end_line": 96238,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-88",
+      "title": "BOARD AND COMMISSION SCHEDULE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96239,
+      "end_line": 96239,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-89",
+      "title": "EXTENSION OF REVIEW PERIOD FOR PRELIMINARY PLANS AND PLATS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 43133,
+      "end_line": 43276,
+      "num_subsections": 11
+    },
+    {
+      "id": "25-1-90",
+      "title": "EXTENSION OF UPDATE DEADLINE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103226,
+      "end_line": 103227,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-91",
+      "title": "TOLLING OF APPLICATION PERIOD",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103463,
+      "end_line": 103463,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-111",
+      "title": "FEES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96232,
+      "end_line": 96232,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-112",
+      "title": "FISCAL SECURITY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 43312,
+      "end_line": 43517,
+      "num_subsections": 25
+    },
+    {
+      "id": "25-1-131",
+      "title": "INTERESTED PARTIES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1122,
+      "end_line": 1144,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-132",
+      "title": "NOTICE OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96292,
+      "end_line": 96292,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-133",
+      "title": "NOTICE OF APPLICATIONS AND ADMINISTRATIVE DECISIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 8227,
+      "end_line": 8554,
+      "num_subsections": 25
+    },
+    {
+      "id": "25-1-134",
+      "title": "PROCEDURES AND REQUIREMENTS FOR NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96294,
+      "end_line": 96294,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-135",
+      "title": "POSTING OF SIGNS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96298,
+      "end_line": 96298,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-151",
+      "title": "CONDUCT OF PUBLIC HEARINGS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96302,
+      "end_line": 96302,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-152",
+      "title": "POSTPONEMENT AND CONTINUATION OF PUBLIC HEARINGS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96299,
+      "end_line": 96299,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-153",
+      "title": "CHANGE OF LOCATION OF PUBLIC HEARINGS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96300,
+      "end_line": 96300,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-154",
+      "title": "RECORD OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96303,
+      "end_line": 96303,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-181",
+      "title": "STANDING TO APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96304,
+      "end_line": 96304,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-182",
+      "title": "INITIATING AN APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 46139,
+      "end_line": 46278,
+      "num_subsections": 12
+    },
+    {
+      "id": "25-1-183",
+      "title": "INFORMATION REQUIRED IN NOTICE OF APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96306,
+      "end_line": 96306,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-184",
+      "title": "NOTICE TO APPLICANT CONCERNING INTERESTED PARTY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96307,
+      "end_line": 96307,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-185",
+      "title": "NOTICE TO PRESIDING OFFICER AND APPLICANT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96310,
+      "end_line": 96310,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-186",
+      "title": "MEETING TO RESOLVE ISSUES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96308,
+      "end_line": 96308,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-187",
+      "title": "DEVELOPMENT NOT PERMITTED DURING APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96309,
+      "end_line": 96309,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-188",
+      "title": "SCHEDULING OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96311,
+      "end_line": 96311,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-189",
+      "title": "NOTICE OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96312,
+      "end_line": 96312,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-190",
+      "title": "APPELLATE BURDEN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96313,
+      "end_line": 96313,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-191",
+      "title": "CONDUCT OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96314,
+      "end_line": 96314,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-192",
+      "title": "POWER TO ACT ON APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96315,
+      "end_line": 96315,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-197",
+      "title": "USE DETERMINATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 9257,
+      "end_line": 9903,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-211",
+      "title": "APPLICATION FOR A VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96316,
+      "end_line": 96316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-212",
+      "title": "REPORT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96317,
+      "end_line": 96318,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-213",
+      "title": "REVIEW BY THE ENVIRONMENTAL BOARD",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96320,
+      "end_line": 96320,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-214",
+      "title": "PUBLIC HEARING AND NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 43277,
+      "end_line": 43311,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-1-215",
+      "title": "ACTION ON AN APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96321,
+      "end_line": 96321,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-216",
+      "title": "EFFECTIVE DATE OF VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96322,
+      "end_line": 96322,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-217",
+      "title": "EXPIRATION OF VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96323,
+      "end_line": 96324,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-218",
+      "title": "RESTRICTION ON SIMILAR APPLICATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96325,
+      "end_line": 96330,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-251",
+      "title": "APPLICATION FOR ADJUSTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96331,
+      "end_line": 96331,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-252",
+      "title": "CONSIDERATION OF APPLICATION FOR ADJUSTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96332,
+      "end_line": 96383,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-281",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96548,
+      "end_line": 96548,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-282",
+      "title": "PRECONSTRUCTION CONFERENCE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 45718,
+      "end_line": 45850,
+      "num_subsections": 12
+    },
+    {
+      "id": "25-1-283",
+      "title": "NOTICE OF CONFERENCE AND DISTRIBUTION OF PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96550,
+      "end_line": 96550,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-284",
+      "title": "CONFERENCE PROCEDURE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96551,
+      "end_line": 96551,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-285",
+      "title": "MINUTES OF CONFERENCE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96552,
+      "end_line": 96552,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-286",
+      "title": "INSPECTION REQUESTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96554,
+      "end_line": 96554,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-287",
+      "title": "INSPECTION RECORD CARD",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96555,
+      "end_line": 96555,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-288",
+      "title": "INSPECTION OF EROSION AND SEDIMENTATION CONTROLS AND TREE PROTECTION MEASURES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96553,
+      "end_line": 96553,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-289",
+      "title": "REINSPECTION FEE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96556,
+      "end_line": 96556,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-311",
+      "title": "DISTRIBUTION OF APPROVED PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96557,
+      "end_line": 96557,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-312",
+      "title": "SUBSTANTIAL COMPLETION NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96558,
+      "end_line": 96558,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-313",
+      "title": "FINAL INSPECTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96559,
+      "end_line": 96561,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-314",
+      "title": "ACCEPTANCE BY THE CITY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96562,
+      "end_line": 96562,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-331",
+      "title": "DISTRIBUTION OF APPROVED PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96563,
+      "end_line": 96563,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-332",
+      "title": "GRADING, DRAINAGE, AND WATER QUALITY FACILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96564,
+      "end_line": 96565,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-333",
+      "title": "CONNECTION OF CITY UTILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96571,
+      "end_line": 96571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-361",
+      "title": "CERTIFICATE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96566,
+      "end_line": 96566,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-362",
+      "title": "ISSUANCE OF CERTIFICATE OF COMPLIANCE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96567,
+      "end_line": 96567,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-363",
+      "title": "ISSUANCE OF CERTIFICATE OF OCCUPANCY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96569,
+      "end_line": 96569,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-364",
+      "title": "TEMPORARY CERTIFICATE OF OCCUPANCY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 4421,
+      "end_line": 4511,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-365",
+      "title": "EXEMPTION FROM COMPLIANCE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 4421,
+      "end_line": 4511,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-391",
+      "title": "COMPLIANCE WITH TITLE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96242,
+      "end_line": 96242,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-392",
+      "title": "INSPECTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96279,
+      "end_line": 96279,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-393",
+      "title": "COPY OF RELEASED SITE PLAN AT DEVELOPMENT SITE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96277,
+      "end_line": 96278,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-394",
+      "title": "COPY OF RIGHT-OF-WAY USE PERMIT TO BE KEPT ON-SITE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96275,
+      "end_line": 96275,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-411",
+      "title": "SUSPENSION OF A PERMIT OR LICENSE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96250,
+      "end_line": 96250,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-412",
+      "title": "SUSPENSION OF A RELEASED SITE PLAN OR APPROVED SUBDIVISION CONSTRUCTION PLAN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96253,
+      "end_line": 96253,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-413",
+      "title": "SUSPENSION OF A CERTIFICATE OF OCCUPANCY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96257,
+      "end_line": 96257,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-414",
+      "title": "SUSPENSION AND REVOCATION OF A RIGHT-OF-WAY USE PERMIT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96261,
+      "end_line": 96261,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-415",
+      "title": "SUSPENSION AND REVOCATION OF A VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96245,
+      "end_line": 96245,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-416",
+      "title": "REVOCATION AFTER SUSPENSION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96251,
+      "end_line": 96251,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-417",
+      "title": "NOTICE OF INTENT TO SUSPEND OR REVOKE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96244,
+      "end_line": 96244,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-418",
+      "title": "NOTICE OF SUSPENSION OR REVOCATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 4735,
+      "end_line": 5117,
+      "num_subsections": 36
+    },
+    {
+      "id": "25-1-441",
+      "title": "STOP WORK ORDER",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96266,
+      "end_line": 96270,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-442",
+      "title": "REMOVE OR RESTORE ORDER",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96271,
+      "end_line": 96271,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-443",
+      "title": "ORDER TO CLEAR PUBLIC RIGHT-OF-WAY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96265,
+      "end_line": 96265,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-461",
+      "title": "APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 69906,
+      "end_line": 70793,
+      "num_subsections": 26
+    },
+    {
+      "id": "25-1-462",
+      "title": "CRIMINAL ENFORCEMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 69385,
+      "end_line": 69905,
+      "num_subsections": 13
+    },
+    {
+      "id": "25-1-501",
+      "title": "INITIATION OF AMENDMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96573,
+      "end_line": 96573,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-502",
+      "title": "AMENDMENT; REVIEW",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 23680,
+      "end_line": 23727,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-1-531",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102767,
+      "end_line": 102773,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-534",
+      "title": "CONTENTS OF VESTED RIGHTS PETITION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5118,
+      "end_line": 5186,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-535",
+      "title": "FAIR NOTICE APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5620,
+      "end_line": 5637,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-536",
+      "title": "COMPLETENESS REVIEW FOR VESTED RIGHTS PETITION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103229,
+      "end_line": 103252,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-541",
+      "title": "VESTED RIGHTS DETERMINATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5436,
+      "end_line": 5523,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-542",
+      "title": "CRITERIA FOR APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5237,
+      "end_line": 5295,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-1-544",
+      "title": "PROJECT CONSENT AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5539,
+      "end_line": 5558,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-551",
+      "title": "EXPIRATION REQUIREMENTS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5615,
+      "end_line": 5615,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-552",
+      "title": "EXPIRATION OF PROJECTS BEGUN ON OR AFTER JUNE 23, 2014",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5578,
+      "end_line": 5610,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-1-553",
+      "title": "MANAGED GROWTH AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5539,
+      "end_line": 5558,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-554",
+      "title": "DORMANT PROJECTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5187,
+      "end_line": 5222,
+      "num_subsections": 5
+    },
+    {
+      "id": "25-1-601",
+      "title": "GENERAL PROVISIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5824,
+      "end_line": 6007,
+      "num_subsections": 7
+    },
+    {
+      "id": "25-1-602",
+      "title": "SINGLE-FAMILY DEDICATION OF PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6312,
+      "end_line": 6316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-603",
+      "title": "MULTI-FAMILY DEDICATION OF PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6312,
+      "end_line": 6316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-604",
+      "title": "STANDARDS FOR DEDICATED PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6110,
+      "end_line": 6113,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-605",
+      "title": "PRIVATE PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103366,
+      "end_line": 103366,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-606",
+      "title": "SINGLE-FAMILY FEE IN LIEU OF PARKLAND DEDICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6008,
+      "end_line": 6109,
+      "num_subsections": 5
+    },
+    {
+      "id": "25-1-607",
+      "title": "SINGLE-FAMILY PARKLAND DEVELOPMENT FEE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6317,
+      "end_line": 6331,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-1-608",
+      "title": "MULTI-FAMILY PARKLAND DEDICATION FEE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6114,
+      "end_line": 6117,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-609",
+      "title": "FEE PAYMENT AND EXPENDITURE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6818,
+      "end_line": 6822,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-701",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102420,
+      "end_line": 102428,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-702",
+      "title": "ADMINISTRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102929,
+      "end_line": 102960,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-703",
+      "title": "PROGRAM REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103743,
+      "end_line": 103746,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-704",
+      "title": "FEE WAIVERS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103644,
+      "end_line": 103646,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-711",
+      "title": "PURPOSE, APPLICABILITY, EXCEPTIONS AND DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7507,
+      "end_line": 7514,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-712",
+      "title": "TENANT NOTIFICATION REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 2208,
+      "end_line": 2489,
+      "num_subsections": 20
+    },
+    {
+      "id": "25-1-713",
+      "title": "ADDITIONAL NOTICE REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7527,
+      "end_line": 7552,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-1-714",
+      "title": "TENANT RELOCATION PROGRAM",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7340,
+      "end_line": 7390,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-1-715",
+      "title": "TENANT RELOCATION ASSISTANCE—DEVELOPER FUNDED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7465,
+      "end_line": 7474,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-716",
+      "title": "TENANT RELOCATION ASSISTANCE—CITY FUNDED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7475,
+      "end_line": 7506,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-717",
+      "title": "OFFENSES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103442,
+      "end_line": 103442,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-720",
+      "title": "PURPOSE, APPLICABILITY, SHORT TITLE, AUTHORITY, AND CONFLICT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103205,
+      "end_line": 103205,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-723",
+      "title": "AFFORDABILITY REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7713,
+      "end_line": 8226,
+      "num_subsections": 30
+    },
+    {
+      "id": "25-1-724",
+      "title": "CERTIFICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7659,
+      "end_line": 7712,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-801",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102456,
+      "end_line": 102468,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-803",
+      "title": "INITIATION OF NEIGHBORHOOD PLAN AMENDMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102576,
+      "end_line": 102617,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-804",
+      "title": "APPLICATION TO AMEND A NEIGHBORHOOD PLAN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103443,
+      "end_line": 103443,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-811",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102576,
+      "end_line": 102617,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-901",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102570,
+      "end_line": 102571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-903",
+      "title": "CITY COUNCIL HEARING AND ACTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 8555,
+      "end_line": 8773,
+      "num_subsections": 12
+    },
+    {
+      "id": "25-1-904",
+      "title": "NOTICE REQUIREMENTS FOR PROPOSED INTERLOCAL DEVELOPMENT AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102570,
+      "end_line": 102571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-1001",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103747,
+      "end_line": 103756,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-1010",
+      "title": "RECOMMENDATION CRITERIA",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 8977,
+      "end_line": 9256,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-2-1",
+      "title": "USE CLASSIFICATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96589,
+      "end_line": 96589,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-2",
+      "title": "DETERMINATION OF USE CLASSIFICATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 3391,
+      "end_line": 4420,
+      "num_subsections": 75
+    },
+    {
+      "id": "25-2-3",
+      "title": "RESIDENTIAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16512,
+      "end_line": 16552,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-4",
+      "title": "COMMERCIAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 49077,
+      "end_line": 49090,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-5",
+      "title": "INDUSTRIAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 49091,
+      "end_line": 49468,
+      "num_subsections": 27
+    },
+    {
+      "id": "25-2-6",
+      "title": "CIVIC USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16469,
+      "end_line": 16511,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-7",
+      "title": "AGRICULTURAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27612,
+      "end_line": 27863,
+      "num_subsections": 21
+    },
+    {
+      "id": "25-2-31",
+      "title": "PURPOSE OF DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96600,
+      "end_line": 96600,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-32",
+      "title": "ZONING DISTRICTS AND MAP CODES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 10680,
+      "end_line": 11655,
+      "num_subsections": 52
+    },
+    {
+      "id": "25-2-33",
+      "title": "HIERARCHY OF BASE DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96605,
+      "end_line": 96607,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-51",
+      "title": "PURPOSES OF RESIDENTIAL DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96609,
+      "end_line": 96609,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-52",
+      "title": "RESIDENTIAL DISTRICT DESIGNATIONS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96610,
+      "end_line": 96611,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-53",
+      "title": "LAKE AUSTIN RESIDENCE (LA) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96612,
+      "end_line": 96612,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-54",
+      "title": "RURAL RESIDENCE (RR) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96614,
+      "end_line": 96614,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-55",
+      "title": "SINGLE FAMILY RESIDENCE LARGE LOT (SF-1) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96616,
+      "end_line": 96616,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-56",
+      "title": "SINGLE FAMILY RESIDENCE STANDARD LOT (SF-2) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96618,
+      "end_line": 96618,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-57",
+      "title": "FAMILY RESIDENCE (SF-3) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96620,
+      "end_line": 96620,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-58",
+      "title": "SINGLE FAMILY RESIDENCE SMALL LOT (SF-4A) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96622,
+      "end_line": 96622,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-59",
+      "title": "SINGLE FAMILY RESIDENCE CONDOMINIUM SITE (SF-4B) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96624,
+      "end_line": 96624,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-60",
+      "title": "URBAN FAMILY RESIDENCE (SF-5) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96626,
+      "end_line": 96626,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-61",
+      "title": "TOWNHOUSE AND CONDOMINIUM RESIDENCE (SF-6) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96628,
+      "end_line": 96628,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-62",
+      "title": "MULTIFAMILY RESIDENCE LIMITED DENSITY (MF-1) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96630,
+      "end_line": 96630,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-63",
+      "title": "MULTIFAMILY RESIDENCE LOW DENSITY (MF-2) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96632,
+      "end_line": 96632,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-64",
+      "title": "MULTIFAMILY RESIDENCE MEDIUM DENSITY (MF-3) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96634,
+      "end_line": 96634,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-65",
+      "title": "MULTIFAMILY RESIDENCE MODERATE - HIGH DENSITY (MF-4) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96636,
+      "end_line": 96636,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-66",
+      "title": "MULTIFAMILY RESIDENCE HIGH DENSITY (MF-5) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96638,
+      "end_line": 96638,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-67",
+      "title": "MULTIFAMILY RESIDENCE HIGHEST DENSITY (MF-6) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96640,
+      "end_line": 96640,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-1",
+      "title": "IMPLEMENTATION OF COMPREHENSIVE PLAN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96223,
+      "end_line": 96223,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-2",
+      "title": "APPLICABILITY OF REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96221,
+      "end_line": 96222,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-3",
+      "title": "CONFLICTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96226,
+      "end_line": 96227,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-21",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 39216,
+      "end_line": 39219,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-22",
+      "title": "MEASUREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1317,
+      "end_line": 1845,
+      "num_subsections": 19
+    },
+    {
+      "id": "25-1-23",
+      "title": "IMPERVIOUS COVER MEASUREMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102455,
+      "end_line": 102455,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-41",
+      "title": "NEIGHBORHOOD PLANNING AND ZONING DEPARTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96284,
+      "end_line": 96289,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-42",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102337,
+      "end_line": 102337,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-43",
+      "title": "WATERSHED PROTECTION AND DEVELOPMENT REVIEW DEPARTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96283,
+      "end_line": 96283,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-45",
+      "title": "ENVIRONMENTAL OFFICER",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96290,
+      "end_line": 96291,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-46",
+      "title": "LAND USE COMMISSION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1145,
+      "end_line": 1316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-61",
+      "title": "ORDER OF PROCESS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96240,
+      "end_line": 96240,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-62",
+      "title": "DEVELOPMENT ASSESSMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96280,
+      "end_line": 96280,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-63",
+      "title": "PROJECT ASSESSMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96229,
+      "end_line": 96229,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-64",
+      "title": "ACTION ON AN APPLICATION; DEADLINE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 2077,
+      "end_line": 2077,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-65",
+      "title": "UPDATES PERMITTED AFTER APPLICATION IS DENIED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103216,
+      "end_line": 103216,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-66",
+      "title": "TRANSFER OF PERMIT OR APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103453,
+      "end_line": 103453,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-81",
+      "title": "AUTHORITY TO FILE AN APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96230,
+      "end_line": 96230,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-82",
+      "title": "NON-SUBDIVISION APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1846,
+      "end_line": 1874,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-83",
+      "title": "PRELIMINARY PLAN OR PLAT APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 2548,
+      "end_line": 3390,
+      "num_subsections": 62
+    },
+    {
+      "id": "25-1-84",
+      "title": "SUBDIVISION CONSTRUCTION PLAN APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1875,
+      "end_line": 2076,
+      "num_subsections": 13
+    },
+    {
+      "id": "25-1-85",
+      "title": "APPLICATIONS RELATING TO A CLOSED MUNICIPAL SOLID WASTE LANDFILL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96281,
+      "end_line": 96281,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-86",
+      "title": "PROCESSING CYCLES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96282,
+      "end_line": 96282,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-87",
+      "title": "SEQUENCE OF REVIEW",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96238,
+      "end_line": 96238,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-88",
+      "title": "BOARD AND COMMISSION SCHEDULE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96239,
+      "end_line": 96239,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-89",
+      "title": "EXTENSION OF REVIEW PERIOD FOR PRELIMINARY PLANS AND PLATS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 43133,
+      "end_line": 43276,
+      "num_subsections": 11
+    },
+    {
+      "id": "25-1-90",
+      "title": "EXTENSION OF UPDATE DEADLINE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103226,
+      "end_line": 103227,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-91",
+      "title": "TOLLING OF APPLICATION PERIOD",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103463,
+      "end_line": 103463,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-111",
+      "title": "FEES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96232,
+      "end_line": 96232,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-112",
+      "title": "FISCAL SECURITY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 43312,
+      "end_line": 43517,
+      "num_subsections": 25
+    },
+    {
+      "id": "25-1-131",
+      "title": "INTERESTED PARTIES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 1122,
+      "end_line": 1144,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-132",
+      "title": "NOTICE OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96292,
+      "end_line": 96292,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-133",
+      "title": "NOTICE OF APPLICATIONS AND ADMINISTRATIVE DECISIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 8227,
+      "end_line": 8554,
+      "num_subsections": 25
+    },
+    {
+      "id": "25-1-134",
+      "title": "PROCEDURES AND REQUIREMENTS FOR NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96294,
+      "end_line": 96294,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-135",
+      "title": "POSTING OF SIGNS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96298,
+      "end_line": 96298,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-151",
+      "title": "CONDUCT OF PUBLIC HEARINGS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96302,
+      "end_line": 96302,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-152",
+      "title": "POSTPONEMENT AND CONTINUATION OF PUBLIC HEARINGS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96299,
+      "end_line": 96299,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-153",
+      "title": "CHANGE OF LOCATION OF PUBLIC HEARINGS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96300,
+      "end_line": 96300,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-154",
+      "title": "RECORD OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96303,
+      "end_line": 96303,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-181",
+      "title": "STANDING TO APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96304,
+      "end_line": 96304,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-182",
+      "title": "INITIATING AN APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 46139,
+      "end_line": 46278,
+      "num_subsections": 12
+    },
+    {
+      "id": "25-1-183",
+      "title": "INFORMATION REQUIRED IN NOTICE OF APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96306,
+      "end_line": 96306,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-184",
+      "title": "NOTICE TO APPLICANT CONCERNING INTERESTED PARTY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96307,
+      "end_line": 96307,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-185",
+      "title": "NOTICE TO PRESIDING OFFICER AND APPLICANT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96310,
+      "end_line": 96310,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-186",
+      "title": "MEETING TO RESOLVE ISSUES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96308,
+      "end_line": 96308,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-187",
+      "title": "DEVELOPMENT NOT PERMITTED DURING APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96309,
+      "end_line": 96309,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-188",
+      "title": "SCHEDULING OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96311,
+      "end_line": 96311,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-189",
+      "title": "NOTICE OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96312,
+      "end_line": 96312,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-190",
+      "title": "APPELLATE BURDEN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96313,
+      "end_line": 96313,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-191",
+      "title": "CONDUCT OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96314,
+      "end_line": 96314,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-192",
+      "title": "POWER TO ACT ON APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96315,
+      "end_line": 96315,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-197",
+      "title": "USE DETERMINATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 9257,
+      "end_line": 9903,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-211",
+      "title": "APPLICATION FOR A VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96316,
+      "end_line": 96316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-212",
+      "title": "REPORT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96317,
+      "end_line": 96318,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-213",
+      "title": "REVIEW BY THE ENVIRONMENTAL BOARD",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96320,
+      "end_line": 96320,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-214",
+      "title": "PUBLIC HEARING AND NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 43277,
+      "end_line": 43311,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-1-215",
+      "title": "ACTION ON AN APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96321,
+      "end_line": 96321,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-216",
+      "title": "EFFECTIVE DATE OF VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96322,
+      "end_line": 96322,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-217",
+      "title": "EXPIRATION OF VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96323,
+      "end_line": 96324,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-218",
+      "title": "RESTRICTION ON SIMILAR APPLICATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96325,
+      "end_line": 96330,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-251",
+      "title": "APPLICATION FOR ADJUSTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96331,
+      "end_line": 96331,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-252",
+      "title": "CONSIDERATION OF APPLICATION FOR ADJUSTMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96332,
+      "end_line": 96383,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-281",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96548,
+      "end_line": 96548,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-282",
+      "title": "PRECONSTRUCTION CONFERENCE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 45718,
+      "end_line": 45850,
+      "num_subsections": 12
+    },
+    {
+      "id": "25-1-283",
+      "title": "NOTICE OF CONFERENCE AND DISTRIBUTION OF PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96550,
+      "end_line": 96550,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-284",
+      "title": "CONFERENCE PROCEDURE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96551,
+      "end_line": 96551,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-285",
+      "title": "MINUTES OF CONFERENCE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96552,
+      "end_line": 96552,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-286",
+      "title": "INSPECTION REQUESTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96554,
+      "end_line": 96554,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-287",
+      "title": "INSPECTION RECORD CARD",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96555,
+      "end_line": 96555,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-288",
+      "title": "INSPECTION OF EROSION AND SEDIMENTATION CONTROLS AND TREE PROTECTION MEASURES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96553,
+      "end_line": 96553,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-289",
+      "title": "REINSPECTION FEE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96556,
+      "end_line": 96556,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-311",
+      "title": "DISTRIBUTION OF APPROVED PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96557,
+      "end_line": 96557,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-312",
+      "title": "SUBSTANTIAL COMPLETION NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96558,
+      "end_line": 96558,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-313",
+      "title": "FINAL INSPECTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96559,
+      "end_line": 96561,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-314",
+      "title": "ACCEPTANCE BY THE CITY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96562,
+      "end_line": 96562,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-331",
+      "title": "DISTRIBUTION OF APPROVED PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96563,
+      "end_line": 96563,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-332",
+      "title": "GRADING, DRAINAGE, AND WATER QUALITY FACILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96564,
+      "end_line": 96565,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-333",
+      "title": "CONNECTION OF CITY UTILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96571,
+      "end_line": 96571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-361",
+      "title": "CERTIFICATE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96566,
+      "end_line": 96566,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-362",
+      "title": "ISSUANCE OF CERTIFICATE OF COMPLIANCE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96567,
+      "end_line": 96567,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-363",
+      "title": "ISSUANCE OF CERTIFICATE OF OCCUPANCY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96569,
+      "end_line": 96569,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-364",
+      "title": "TEMPORARY CERTIFICATE OF OCCUPANCY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 4421,
+      "end_line": 4511,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-365",
+      "title": "EXEMPTION FROM COMPLIANCE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 4421,
+      "end_line": 4511,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-391",
+      "title": "COMPLIANCE WITH TITLE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96242,
+      "end_line": 96242,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-392",
+      "title": "INSPECTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96279,
+      "end_line": 96279,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-393",
+      "title": "COPY OF RELEASED SITE PLAN AT DEVELOPMENT SITE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96277,
+      "end_line": 96278,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-394",
+      "title": "COPY OF RIGHT-OF-WAY USE PERMIT TO BE KEPT ON-SITE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96275,
+      "end_line": 96275,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-411",
+      "title": "SUSPENSION OF A PERMIT OR LICENSE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96250,
+      "end_line": 96250,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-412",
+      "title": "SUSPENSION OF A RELEASED SITE PLAN OR APPROVED SUBDIVISION CONSTRUCTION PLAN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96253,
+      "end_line": 96253,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-413",
+      "title": "SUSPENSION OF A CERTIFICATE OF OCCUPANCY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96257,
+      "end_line": 96257,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-414",
+      "title": "SUSPENSION AND REVOCATION OF A RIGHT-OF-WAY USE PERMIT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96261,
+      "end_line": 96261,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-415",
+      "title": "SUSPENSION AND REVOCATION OF A VARIANCE OR SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96245,
+      "end_line": 96245,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-416",
+      "title": "REVOCATION AFTER SUSPENSION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96251,
+      "end_line": 96251,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-417",
+      "title": "NOTICE OF INTENT TO SUSPEND OR REVOKE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96244,
+      "end_line": 96244,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-418",
+      "title": "NOTICE OF SUSPENSION OR REVOCATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 4735,
+      "end_line": 5117,
+      "num_subsections": 36
+    },
+    {
+      "id": "25-1-441",
+      "title": "STOP WORK ORDER",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96266,
+      "end_line": 96270,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-442",
+      "title": "REMOVE OR RESTORE ORDER",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96271,
+      "end_line": 96271,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-443",
+      "title": "ORDER TO CLEAR PUBLIC RIGHT-OF-WAY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96265,
+      "end_line": 96265,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-461",
+      "title": "APPEAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 69906,
+      "end_line": 70793,
+      "num_subsections": 26
+    },
+    {
+      "id": "25-1-462",
+      "title": "CRIMINAL ENFORCEMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 69385,
+      "end_line": 69905,
+      "num_subsections": 13
+    },
+    {
+      "id": "25-1-501",
+      "title": "INITIATION OF AMENDMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 96573,
+      "end_line": 96573,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-502",
+      "title": "AMENDMENT; REVIEW",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 23680,
+      "end_line": 23727,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-1-531",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102767,
+      "end_line": 102773,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-534",
+      "title": "CONTENTS OF VESTED RIGHTS PETITION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5118,
+      "end_line": 5186,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-535",
+      "title": "FAIR NOTICE APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5620,
+      "end_line": 5637,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-536",
+      "title": "COMPLETENESS REVIEW FOR VESTED RIGHTS PETITION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103229,
+      "end_line": 103252,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-541",
+      "title": "VESTED RIGHTS DETERMINATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5436,
+      "end_line": 5523,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-1-542",
+      "title": "CRITERIA FOR APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5237,
+      "end_line": 5295,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-1-544",
+      "title": "PROJECT CONSENT AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5539,
+      "end_line": 5558,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-551",
+      "title": "EXPIRATION REQUIREMENTS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5615,
+      "end_line": 5615,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-552",
+      "title": "EXPIRATION OF PROJECTS BEGUN ON OR AFTER JUNE 23, 2014",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5578,
+      "end_line": 5610,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-1-553",
+      "title": "MANAGED GROWTH AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5539,
+      "end_line": 5558,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-554",
+      "title": "DORMANT PROJECTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5187,
+      "end_line": 5222,
+      "num_subsections": 5
+    },
+    {
+      "id": "25-1-601",
+      "title": "GENERAL PROVISIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 5824,
+      "end_line": 6007,
+      "num_subsections": 7
+    },
+    {
+      "id": "25-1-602",
+      "title": "SINGLE-FAMILY DEDICATION OF PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6312,
+      "end_line": 6316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-603",
+      "title": "MULTI-FAMILY DEDICATION OF PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6312,
+      "end_line": 6316,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-604",
+      "title": "STANDARDS FOR DEDICATED PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6110,
+      "end_line": 6113,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-605",
+      "title": "PRIVATE PARKLAND",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103366,
+      "end_line": 103366,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-606",
+      "title": "SINGLE-FAMILY FEE IN LIEU OF PARKLAND DEDICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6008,
+      "end_line": 6109,
+      "num_subsections": 5
+    },
+    {
+      "id": "25-1-607",
+      "title": "SINGLE-FAMILY PARKLAND DEVELOPMENT FEE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6317,
+      "end_line": 6331,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-1-608",
+      "title": "MULTI-FAMILY PARKLAND DEDICATION FEE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6114,
+      "end_line": 6117,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-609",
+      "title": "FEE PAYMENT AND EXPENDITURE",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 6818,
+      "end_line": 6822,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-701",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102420,
+      "end_line": 102428,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-702",
+      "title": "ADMINISTRATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102929,
+      "end_line": 102960,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-703",
+      "title": "PROGRAM REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103743,
+      "end_line": 103746,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-704",
+      "title": "FEE WAIVERS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103644,
+      "end_line": 103646,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-711",
+      "title": "PURPOSE, APPLICABILITY, EXCEPTIONS AND DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7507,
+      "end_line": 7514,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-712",
+      "title": "TENANT NOTIFICATION REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 2208,
+      "end_line": 2489,
+      "num_subsections": 20
+    },
+    {
+      "id": "25-1-713",
+      "title": "ADDITIONAL NOTICE REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7527,
+      "end_line": 7552,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-1-714",
+      "title": "TENANT RELOCATION PROGRAM",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7340,
+      "end_line": 7390,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-1-715",
+      "title": "TENANT RELOCATION ASSISTANCE—DEVELOPER FUNDED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7465,
+      "end_line": 7474,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-716",
+      "title": "TENANT RELOCATION ASSISTANCE—CITY FUNDED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7475,
+      "end_line": 7506,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-717",
+      "title": "OFFENSES",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103442,
+      "end_line": 103442,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-720",
+      "title": "PURPOSE, APPLICABILITY, SHORT TITLE, AUTHORITY, AND CONFLICT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103205,
+      "end_line": 103205,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-723",
+      "title": "AFFORDABILITY REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7713,
+      "end_line": 8226,
+      "num_subsections": 30
+    },
+    {
+      "id": "25-1-724",
+      "title": "CERTIFICATION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 7659,
+      "end_line": 7712,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-1-801",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102456,
+      "end_line": 102468,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-803",
+      "title": "INITIATION OF NEIGHBORHOOD PLAN AMENDMENT",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102576,
+      "end_line": 102617,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-804",
+      "title": "APPLICATION TO AMEND A NEIGHBORHOOD PLAN",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103443,
+      "end_line": 103443,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-811",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102576,
+      "end_line": 102617,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-901",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102570,
+      "end_line": 102571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-903",
+      "title": "CITY COUNCIL HEARING AND ACTION",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 8555,
+      "end_line": 8773,
+      "num_subsections": 12
+    },
+    {
+      "id": "25-1-904",
+      "title": "NOTICE REQUIREMENTS FOR PROPOSED INTERLOCAL DEVELOPMENT AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 102570,
+      "end_line": 102571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-1001",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 103747,
+      "end_line": 103756,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-1-1010",
+      "title": "RECOMMENDATION CRITERIA",
+      "level": 2,
+      "parent_id": "chapter-25-1",
+      "start_line": 8977,
+      "end_line": 9256,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-2-1",
+      "title": "USE CLASSIFICATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96589,
+      "end_line": 96589,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-2",
+      "title": "DETERMINATION OF USE CLASSIFICATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 3391,
+      "end_line": 4420,
+      "num_subsections": 75
+    },
+    {
+      "id": "25-2-3",
+      "title": "RESIDENTIAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16512,
+      "end_line": 16552,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-4",
+      "title": "COMMERCIAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 49077,
+      "end_line": 49090,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-5",
+      "title": "INDUSTRIAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 49091,
+      "end_line": 49468,
+      "num_subsections": 27
+    },
+    {
+      "id": "25-2-6",
+      "title": "CIVIC USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16469,
+      "end_line": 16511,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-7",
+      "title": "AGRICULTURAL USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27612,
+      "end_line": 27863,
+      "num_subsections": 21
+    },
+    {
+      "id": "25-2-31",
+      "title": "PURPOSE OF DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96600,
+      "end_line": 96600,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-32",
+      "title": "ZONING DISTRICTS AND MAP CODES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 10680,
+      "end_line": 11655,
+      "num_subsections": 52
+    },
+    {
+      "id": "25-2-33",
+      "title": "HIERARCHY OF BASE DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96605,
+      "end_line": 96607,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-51",
+      "title": "PURPOSES OF RESIDENTIAL DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96609,
+      "end_line": 96609,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-52",
+      "title": "RESIDENTIAL DISTRICT DESIGNATIONS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96610,
+      "end_line": 96611,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-53",
+      "title": "LAKE AUSTIN RESIDENCE (LA) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96612,
+      "end_line": 96612,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-54",
+      "title": "RURAL RESIDENCE (RR) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96614,
+      "end_line": 96614,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-55",
+      "title": "SINGLE FAMILY RESIDENCE LARGE LOT (SF-1) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96616,
+      "end_line": 96616,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-56",
+      "title": "SINGLE FAMILY RESIDENCE STANDARD LOT (SF-2) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96618,
+      "end_line": 96618,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-57",
+      "title": "FAMILY RESIDENCE (SF-3) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96620,
+      "end_line": 96620,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-58",
+      "title": "SINGLE FAMILY RESIDENCE SMALL LOT (SF-4A) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96622,
+      "end_line": 96622,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-59",
+      "title": "SINGLE FAMILY RESIDENCE CONDOMINIUM SITE (SF-4B) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96624,
+      "end_line": 96624,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-60",
+      "title": "URBAN FAMILY RESIDENCE (SF-5) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96626,
+      "end_line": 96626,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-61",
+      "title": "TOWNHOUSE AND CONDOMINIUM RESIDENCE (SF-6) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96628,
+      "end_line": 96628,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-62",
+      "title": "MULTIFAMILY RESIDENCE LIMITED DENSITY (MF-1) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96630,
+      "end_line": 96630,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-63",
+      "title": "MULTIFAMILY RESIDENCE LOW DENSITY (MF-2) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96632,
+      "end_line": 96632,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-64",
+      "title": "MULTIFAMILY RESIDENCE MEDIUM DENSITY (MF-3) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96634,
+      "end_line": 96634,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-65",
+      "title": "MULTIFAMILY RESIDENCE MODERATE - HIGH DENSITY (MF-4) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96636,
+      "end_line": 96636,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-66",
+      "title": "MULTIFAMILY RESIDENCE HIGH DENSITY (MF-5) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96638,
+      "end_line": 96638,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-67",
+      "title": "MULTIFAMILY RESIDENCE HIGHEST DENSITY (MF-6) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96640,
+      "end_line": 96640,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-68",
+      "title": "MOBILE HOME RESIDENCE (MH) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96642,
+      "end_line": 96642,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-91",
+      "title": "PURPOSES OF COMMERCIAL DISTRICTS DESIGNATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96643,
+      "end_line": 96643,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-92",
+      "title": "COMMERCIAL DISTRICT DESIGNATIONS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96644,
+      "end_line": 96645,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-93",
+      "title": "NEIGHBORHOOD OFFICE (NO) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96646,
+      "end_line": 96646,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-94",
+      "title": "LIMITED OFFICE (LO) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96648,
+      "end_line": 96648,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-95",
+      "title": "GENERAL OFFICE (GO) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96650,
+      "end_line": 96650,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-96",
+      "title": "COMMERCIAL RECREATION (CR) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96652,
+      "end_line": 96652,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-97",
+      "title": "NEIGHBORHOOD COMMERCIAL (LR) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96654,
+      "end_line": 96654,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-98",
+      "title": "COMMUNITY COMMERCIAL (GR) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96656,
+      "end_line": 96656,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-99",
+      "title": "LAKE COMMERCIAL (L) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96658,
+      "end_line": 96658,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-100",
+      "title": "CENTRAL BUSINESS DISTRICT (CBD) DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 101006,
+      "end_line": 101006,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-101",
+      "title": "DOWNTOWN MIXED USE (DMU) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96661,
+      "end_line": 96661,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-102",
+      "title": "WAREHOUSE/LIMITED OFFICE (W/LO) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96663,
+      "end_line": 96663,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-103",
+      "title": "GENERAL COMMERCIAL SERVICES (CS) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96665,
+      "end_line": 96665,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-104",
+      "title": "COMMERCIAL-LIQUOR SALES (CS-1) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96667,
+      "end_line": 96667,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-105",
+      "title": "COMMERCIAL HIGHWAY SERVICES (CH) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96669,
+      "end_line": 96669,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-121",
+      "title": "PURPOSES OF INDUSTRIAL DISTRICT DESIGNATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96670,
+      "end_line": 96670,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-122",
+      "title": "INDUSTRIAL DISTRICT DESIGNATIONS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96671,
+      "end_line": 96672,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-123",
+      "title": "INDUSTRIAL PARK (IP) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96673,
+      "end_line": 96673,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-124",
+      "title": "MAJOR INDUSTRY (MI) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96674,
+      "end_line": 96674,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-125",
+      "title": "LIMITED INDUSTRIAL SERVICE (LI) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96676,
+      "end_line": 96676,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-126",
+      "title": "RESEARCH AND DEVELOPMENT (R&D) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96678,
+      "end_line": 96678,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-141",
+      "title": "AGRICULTURAL (AG) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96681,
+      "end_line": 96681,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-142",
+      "title": "AVIATION SERVICES (AV) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96680,
+      "end_line": 96680,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-143",
+      "title": "DEVELOPMENT RESERVE (DR) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96679,
+      "end_line": 96679,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-144",
+      "title": "PLANNED UNIT DEVELOPMENT (PUD) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96682,
+      "end_line": 96682,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-145",
+      "title": "PUBLIC (P) DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 17976,
+      "end_line": 18058,
+      "num_subsections": 7
+    },
+    {
+      "id": "25-2-146",
+      "title": "TRADITIONAL NEIGHBORHOOD (TN) DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96685,
+      "end_line": 96693,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-161",
+      "title": "CAPITOL DOMINANCE (CD) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16636,
+      "end_line": 16640,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-162",
+      "title": "CAPITOL VIEW CORRIDOR (CVC) OVERLAY DISTRICT PURPOSE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16641,
+      "end_line": 16642,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-163",
+      "title": "CENTRAL URBAN REDEVELOPMENT (CURE) COMBINING DISTRICT PURPOSE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96729,
+      "end_line": 96729,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-164",
+      "title": "CONDITIONAL OVERLAY (CO) COMBINING DISTRICT PURPOSE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96694,
+      "end_line": 96694,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-165",
+      "title": "CONGRESS AVENUE (CA) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96724,
+      "end_line": 96725,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-166",
+      "title": "CONVENTION CENTER (CC) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96728,
+      "end_line": 96728,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-167",
+      "title": "DOWNTOWN CREEKS (DC) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96727,
+      "end_line": 96727,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-168",
+      "title": "DOWNTOWN PARKS (DP) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96726,
+      "end_line": 96726,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-169",
+      "title": "EAST AUSTIN (EA) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96734,
+      "end_line": 96734,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-170",
+      "title": "EAST SIXTH/PECAN STREET (PS) OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 101037,
+      "end_line": 101037,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-171",
+      "title": "HISTORIC LANDMARK (H) COMBINING DISTRICT AND HISTORIC AREA (HD) COMBINING DISTRICT PURPOSES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96579,
+      "end_line": 96579,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-172",
+      "title": "MIXED USE (MU) COMBINING DISTRICT AND VERTICAL MIXED USE (VMU) OVERLAY DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96720,
+      "end_line": 96722,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-173",
+      "title": "NEIGHBORHOOD CONSERVATION (NC) COMBINING DISTRICT PURPOSE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96697,
+      "end_line": 96697,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-174",
+      "title": "PLANNED DEVELOPMENT AREA (PDA) COMBINING DISTRICT PURPOSE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96714,
+      "end_line": 96714,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-175",
+      "title": "WATERFRONT OVERLAY (WO) DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96719,
+      "end_line": 96719,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-177",
+      "title": "CRIMINAL JUSTICE CENTER OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-178",
+      "title": "BARTON SPRINGS ZONE OVERLAY DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102911,
+      "end_line": 102911,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-179",
+      "title": "UNIVERSITY NEIGHBORHOOD OVERLAY (UNO) DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102912,
+      "end_line": 102912,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-180",
+      "title": "LAKE AUSTIN (LA) OVERLAY DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 54701,
+      "end_line": 55832,
+      "num_subsections": 56
+    },
+    {
+      "id": "25-2-181",
+      "title": "DENSITY BONUS COMBINING DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103424,
+      "end_line": 103427,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-182",
+      "title": "EQUITABLE TRANSIT-ORIENTED DEVELOPMENT (ETOD) COMBINING DISTRICT PURPOSE AND BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103676,
+      "end_line": 103676,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-191",
+      "title": "ZONING MAP",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96602,
+      "end_line": 96602,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-192",
+      "title": "DETERMINATION OF DISTRICT BOUNDARIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96603,
+      "end_line": 96603,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-221",
+      "title": "DISTRICT DESIGNATION REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96604,
+      "end_line": 96604,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-222",
+      "title": "DESIGNATION OF ANNEXED LAND",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96608,
+      "end_line": 96608,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-241",
+      "title": "DISTINCTION BETWEEN ZONING AND REZONING",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 101048,
+      "end_line": 101048,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-242",
+      "title": "INITIATION OF ZONING OR REZONING",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96384,
+      "end_line": 96384,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-243",
+      "title": "PROPOSED DISTRICT BOUNDARIES MUST BE CONTIGUOUS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96385,
+      "end_line": 96385,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-244",
+      "title": "REZONING TO REPLACE A PUBLIC RESTRICTIVE COVENANT WITH A CONDITIONAL OVERLAY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96404,
+      "end_line": 96500,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-245",
+      "title": "CONCURRENT PROCESSING OF MULTIPLE APPLICATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96386,
+      "end_line": 96386,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-246",
+      "title": "EXPIRATION OF APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96396,
+      "end_line": 96397,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-247",
+      "title": "RESTRICTIONS ON NEW APPLICATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96400,
+      "end_line": 96400,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-261",
+      "title": "NOTICE OF APPLICATION FILING",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96387,
+      "end_line": 96387,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-262",
+      "title": "DIRECTOR'S REPORT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96388,
+      "end_line": 96388,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-281",
+      "title": "SCHEDULING OF PUBLIC HEARING",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96402,
+      "end_line": 96402,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-282",
+      "title": "LAND USE COMMISSION PUBLIC HEARING AND RECOMMENDATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 17392,
+      "end_line": 17965,
+      "num_subsections": 38
+    },
+    {
+      "id": "25-2-283",
+      "title": "CITY COUNCIL ZONING HEARING AND ACTION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 17392,
+      "end_line": 17965,
+      "num_subsections": 38
+    },
+    {
+      "id": "25-2-284",
+      "title": "REQUIREMENT FOR APPROVAL BY THREE-FOURTHS OF COUNCIL",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96399,
+      "end_line": 96399,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-311",
+      "title": "CENTRAL URBAN REDEVELOPMENT (CURE) COMBINING DISTRICT APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96730,
+      "end_line": 96730,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-312",
+      "title": "CURE COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96731,
+      "end_line": 96733,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-331",
+      "title": "CONDITIONAL OVERLAY (CO) COMBINING DISTRICTS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96696,
+      "end_line": 96696,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-332",
+      "title": "CONDITIONAL OVERLAY (CO) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96695,
+      "end_line": 96695,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-333",
+      "title": "SPECIAL NOTICE FOR CONDITIONAL OVERLAY (CO) COMBINING DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96403,
+      "end_line": 96403,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-350",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103414,
+      "end_line": 103414,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-351",
+      "title": "LIMITS ON APPLICATIONS FOR HISTORIC DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102282,
+      "end_line": 102287,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-352",
+      "title": "HISTORIC DESIGNATION CRITERIA",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 12785,
+      "end_line": 12813,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-353",
+      "title": "APPLICATION REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102619,
+      "end_line": 102621,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-356",
+      "title": "HISTORIC AREA COMBINING DISTRICT ORDINANCE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 12584,
+      "end_line": 12784,
+      "num_subsections": 17
+    },
+    {
+      "id": "25-2-358",
+      "title": "NOTICE OF DESIGNATION TO TAX APPRAISAL DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102328,
+      "end_line": 102336,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-371",
+      "title": "NEIGHBORHOOD CONSERVATION (NC) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96698,
+      "end_line": 96698,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-372",
+      "title": "REQUEST BY NEIGHBORHOOD ORGANIZATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96699,
+      "end_line": 96699,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-373",
+      "title": "NEIGHBORHOOD PLANS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96701,
+      "end_line": 96703,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-374",
+      "title": "PUBLIC HEARINGS; NOTICE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96704,
+      "end_line": 96704,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-375",
+      "title": "REQUIREMENT FOR APPROVAL BY THREE-FOURTHS OF COUNCIL",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96709,
+      "end_line": 96709,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-441",
+      "title": "PLANNED DEVELOPMENT AREAS GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96715,
+      "end_line": 96717,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-451",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103710,
+      "end_line": 103710,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-452",
+      "title": "APPLICATIONS AND CRITERIA FOR DISTRICT DESIGNATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 13944,
+      "end_line": 13987,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-2-454",
+      "title": "DISTRICT DESIGNATION ORDINANCE AND DESIGNATION ON ZONING MAP",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 13857,
+      "end_line": 13943,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-2-471",
+      "title": "INTERPRETATION GUIDELINES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96947,
+      "end_line": 96950,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-472",
+      "title": "BOARD OF ADJUSTMENT VARIANCE AUTHORITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 23675,
+      "end_line": 23679,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-473",
+      "title": "VARIANCE REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 4512,
+      "end_line": 4533,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-474",
+      "title": "REQUIRED FINDINGS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97104,
+      "end_line": 97104,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-475",
+      "title": "APPEALS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97105,
+      "end_line": 97328,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-476",
+      "title": "SPECIAL EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 4512,
+      "end_line": 4533,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-491",
+      "title": "PERMITTED, CONDITIONAL, AND PROHIBITED USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15156,
+      "end_line": 15197,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-2-492",
+      "title": "SITE DEVELOPMENT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15198,
+      "end_line": 15205,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-511",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15392,
+      "end_line": 16468,
+      "num_subsections": 84
+    },
+    {
+      "id": "25-2-512",
+      "title": "LOT SIZE MINIMUM",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96936,
+      "end_line": 96940,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-513",
+      "title": "OPENNESS OF REQUIRED YARDS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96944,
+      "end_line": 96944,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-514",
+      "title": "(RESERVED)",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 32564,
+      "end_line": 32567,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-515",
+      "title": "REAR YARD OF THROUGH LOT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96946,
+      "end_line": 96946,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-518",
+      "title": "QUALIFYING DEVELOPMENT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103206,
+      "end_line": 103206,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-519",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103422,
+      "end_line": 103423,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-531",
+      "title": "HEIGHT LIMIT EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 18059,
+      "end_line": 18212,
+      "num_subsections": 8
+    },
+    {
+      "id": "25-2-532",
+      "title": "IMPERVIOUS COVER LIMIT EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96955,
+      "end_line": 96955,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-533",
+      "title": "STREET YARD EXCEPTIONS IN CERTAIN COMMERCIAL AREAS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96945,
+      "end_line": 96945,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-534",
+      "title": "QUALIFYING DEVELOPMENT EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103207,
+      "end_line": 103212,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-551",
+      "title": "LAKE AUSTIN (LA) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 11656,
+      "end_line": 11681,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-552",
+      "title": "RURAL RESIDENCE (RR) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96742,
+      "end_line": 96742,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-553",
+      "title": "SINGLE-FAMILY RESIDENCE LARGE LOT (SF-1) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96958,
+      "end_line": 96958,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-554",
+      "title": "SINGLE-FAMILY RESIDENCE STANDARD LOT (SF-2) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96959,
+      "end_line": 96959,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-555",
+      "title": "FAMILY RESIDENCE (SF-3) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 39224,
+      "end_line": 39227,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-556",
+      "title": "ADDITIONAL IMPERVIOUS COVER IN SINGLE-FAMILY STANDARD LOT (SF-2) AND FAMILY RESIDENCE (SF-3) DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14670,
+      "end_line": 14672,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-558",
+      "title": "SINGLE-FAMILY RESIDENCE CONDOMINIUM SITE (SF-4B) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14679,
+      "end_line": 14681,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-559",
+      "title": "URBAN FAMILY RESIDENCE (SF-5) DISTRICT OR TOWNHOUSE AND CONDOMINIUM RESIDENCE (SF-6) DISTRICT RETIREMENT HOUSING USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14682,
+      "end_line": 14685,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-560",
+      "title": "MULTIFAMILY RESIDENCE LIMITED DENSITY (MF-1) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96965,
+      "end_line": 96965,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-561",
+      "title": "MULTIFAMILY RESIDENCE LOW DENSITY (MF-2) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14686,
+      "end_line": 14688,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-562",
+      "title": "MULTIFAMILY RESIDENCE MEDIUM DENSITY (MF-3) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14689,
+      "end_line": 14691,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-563",
+      "title": "MULTIFAMILY RESIDENCE MODERATE-HIGH DENSITY (MF-4) AND MULTIFAMILY RESIDENCE HIGH DENSITY (MF-5) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14692,
+      "end_line": 14695,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-565",
+      "title": "SPECIAL SETBACK REQUIREMENTS FOR CERTAIN RESIDENTIAL PROPERTY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96971,
+      "end_line": 96971,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-581",
+      "title": "CENTRAL BUSINESS DISTRICT (CBD) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14696,
+      "end_line": 14698,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-582",
+      "title": "COMMERCIAL HIGHWAY (CH) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14702,
+      "end_line": 14704,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-583",
+      "title": "COMMERCIAL RECREATION (CR) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96972,
+      "end_line": 96972,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-584",
+      "title": "WAREHOUSE/LIMITED OFFICE (W/LO) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14699,
+      "end_line": 14701,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-585",
+      "title": "SPECIAL REQUIREMENTS FOR BUILDINGS IN CERTAIN COMMERCIAL DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96941,
+      "end_line": 96941,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-586",
+      "title": "DOWNTOWN DENSITY BONUS PROGRAM",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 21715,
+      "end_line": 21915,
+      "num_subsections": 18
+    },
+    {
+      "id": "25-2-587",
+      "title": "REQUIREMENTS FOR CERTAIN USES IN A NEIGHBORHOOD COMMERCIAL (LR) DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-588",
+      "title": "REQUIREMENTS FOR CERTAIN USES IN A LIMITED OFFICE (LO) DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102688,
+      "end_line": 102693,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-591",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102222,
+      "end_line": 102226,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-601",
+      "title": "INDUSTRIAL PARK (IP), MAJOR INDUSTRY (MI), AND LIMITED INDUSTRIAL SERVICE (LI) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14705,
+      "end_line": 14707,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-602",
+      "title": "RESEARCH AND DEVELOPMENT (R&D) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-603",
+      "title": "RESEARCH AND DEVELOPMENT (R&D) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14708,
+      "end_line": 14710,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-621",
+      "title": "AGRICULTURAL (AG) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14714,
+      "end_line": 14716,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-622",
+      "title": "AVIATION SERVICES (AV) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-623",
+      "title": "AVIATION SERVICES (AV) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14711,
+      "end_line": 14713,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-624",
+      "title": "PUBLIC (P) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-625",
+      "title": "PUBLIC (P) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14717,
+      "end_line": 15150,
+      "num_subsections": 19
+    },
+    {
+      "id": "25-2-641",
+      "title": "CAPITOL DOMINANCE (CD) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97009,
+      "end_line": 97009,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-642",
+      "title": "CAPITOL VIEW CORRIDOR (CVC) OVERLAY DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16643,
+      "end_line": 17391,
+      "num_subsections": 8
+    },
+    {
+      "id": "25-2-643",
+      "title": "CONGRESS AVENUE (CA), EAST SIXTH/PECAN STREET (PS), DOWNTOWN PARKS (DP), AND DOWNTOWN CREEKS (DC) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97010,
+      "end_line": 97010,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-644",
+      "title": "CONVENTION CENTER (CC) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96751,
+      "end_line": 96752,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-645",
+      "title": "EAST AUSTIN (EA) OVERLAY DISTRICT USE RESTRICTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96735,
+      "end_line": 96739,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-647",
+      "title": "LAKE AUSTIN (LA) OVERLAY DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 11682,
+      "end_line": 12165,
+      "num_subsections": 34
+    },
+    {
+      "id": "25-2-648",
+      "title": "PLANNED DEVELOPMENT AREA (PDA) PERFORMANCE STANDARDS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 13715,
+      "end_line": 13856,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-649",
+      "title": "PLANNED DEVELOPMENT AREA (PDA) APPROVED BEFORE JANUARY 1, 1985",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96718,
+      "end_line": 96718,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-471",
+      "title": "INTERPRETATION GUIDELINES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96947,
+      "end_line": 96950,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-472",
+      "title": "BOARD OF ADJUSTMENT VARIANCE AUTHORITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 23675,
+      "end_line": 23679,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-473",
+      "title": "VARIANCE REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 4512,
+      "end_line": 4533,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-474",
+      "title": "REQUIRED FINDINGS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97104,
+      "end_line": 97104,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-475",
+      "title": "APPEALS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97105,
+      "end_line": 97328,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-476",
+      "title": "SPECIAL EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 4512,
+      "end_line": 4533,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-491",
+      "title": "PERMITTED, CONDITIONAL, AND PROHIBITED USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15156,
+      "end_line": 15197,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-2-492",
+      "title": "SITE DEVELOPMENT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15198,
+      "end_line": 15205,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-511",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15392,
+      "end_line": 16468,
+      "num_subsections": 84
+    },
+    {
+      "id": "25-2-512",
+      "title": "LOT SIZE MINIMUM",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96936,
+      "end_line": 96940,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-513",
+      "title": "OPENNESS OF REQUIRED YARDS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96944,
+      "end_line": 96944,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-514",
+      "title": "(RESERVED)",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 32564,
+      "end_line": 32567,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-515",
+      "title": "REAR YARD OF THROUGH LOT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96946,
+      "end_line": 96946,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-518",
+      "title": "QUALIFYING DEVELOPMENT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103206,
+      "end_line": 103206,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-519",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103422,
+      "end_line": 103423,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-531",
+      "title": "HEIGHT LIMIT EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 18059,
+      "end_line": 18212,
+      "num_subsections": 8
+    },
+    {
+      "id": "25-2-532",
+      "title": "IMPERVIOUS COVER LIMIT EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96955,
+      "end_line": 96955,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-533",
+      "title": "STREET YARD EXCEPTIONS IN CERTAIN COMMERCIAL AREAS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96945,
+      "end_line": 96945,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-534",
+      "title": "QUALIFYING DEVELOPMENT EXCEPTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103207,
+      "end_line": 103212,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-551",
+      "title": "LAKE AUSTIN (LA) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 11656,
+      "end_line": 11681,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-552",
+      "title": "RURAL RESIDENCE (RR) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96742,
+      "end_line": 96742,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-553",
+      "title": "SINGLE-FAMILY RESIDENCE LARGE LOT (SF-1) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96958,
+      "end_line": 96958,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-554",
+      "title": "SINGLE-FAMILY RESIDENCE STANDARD LOT (SF-2) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96959,
+      "end_line": 96959,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-555",
+      "title": "FAMILY RESIDENCE (SF-3) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 39224,
+      "end_line": 39227,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-556",
+      "title": "ADDITIONAL IMPERVIOUS COVER IN SINGLE-FAMILY STANDARD LOT (SF-2) AND FAMILY RESIDENCE (SF-3) DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14670,
+      "end_line": 14672,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-558",
+      "title": "SINGLE-FAMILY RESIDENCE CONDOMINIUM SITE (SF-4B) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14679,
+      "end_line": 14681,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-559",
+      "title": "URBAN FAMILY RESIDENCE (SF-5) DISTRICT OR TOWNHOUSE AND CONDOMINIUM RESIDENCE (SF-6) DISTRICT RETIREMENT HOUSING USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14682,
+      "end_line": 14685,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-560",
+      "title": "MULTIFAMILY RESIDENCE LIMITED DENSITY (MF-1) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96965,
+      "end_line": 96965,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-561",
+      "title": "MULTIFAMILY RESIDENCE LOW DENSITY (MF-2) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14686,
+      "end_line": 14688,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-562",
+      "title": "MULTIFAMILY RESIDENCE MEDIUM DENSITY (MF-3) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14689,
+      "end_line": 14691,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-563",
+      "title": "MULTIFAMILY RESIDENCE MODERATE-HIGH DENSITY (MF-4) AND MULTIFAMILY RESIDENCE HIGH DENSITY (MF-5) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14692,
+      "end_line": 14695,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-565",
+      "title": "SPECIAL SETBACK REQUIREMENTS FOR CERTAIN RESIDENTIAL PROPERTY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96971,
+      "end_line": 96971,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-581",
+      "title": "CENTRAL BUSINESS DISTRICT (CBD) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14696,
+      "end_line": 14698,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-582",
+      "title": "COMMERCIAL HIGHWAY (CH) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14702,
+      "end_line": 14704,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-583",
+      "title": "COMMERCIAL RECREATION (CR) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96972,
+      "end_line": 96972,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-584",
+      "title": "WAREHOUSE/LIMITED OFFICE (W/LO) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14699,
+      "end_line": 14701,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-585",
+      "title": "SPECIAL REQUIREMENTS FOR BUILDINGS IN CERTAIN COMMERCIAL DISTRICTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96941,
+      "end_line": 96941,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-586",
+      "title": "DOWNTOWN DENSITY BONUS PROGRAM",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 21715,
+      "end_line": 21915,
+      "num_subsections": 18
+    },
+    {
+      "id": "25-2-587",
+      "title": "REQUIREMENTS FOR CERTAIN USES IN A NEIGHBORHOOD COMMERCIAL (LR) DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-588",
+      "title": "REQUIREMENTS FOR CERTAIN USES IN A LIMITED OFFICE (LO) DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102688,
+      "end_line": 102693,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-591",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102222,
+      "end_line": 102226,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-601",
+      "title": "INDUSTRIAL PARK (IP), MAJOR INDUSTRY (MI), AND LIMITED INDUSTRIAL SERVICE (LI) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14705,
+      "end_line": 14707,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-602",
+      "title": "RESEARCH AND DEVELOPMENT (R&D) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-603",
+      "title": "RESEARCH AND DEVELOPMENT (R&D) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14708,
+      "end_line": 14710,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-621",
+      "title": "AGRICULTURAL (AG) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14714,
+      "end_line": 14716,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-622",
+      "title": "AVIATION SERVICES (AV) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-623",
+      "title": "AVIATION SERVICES (AV) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14711,
+      "end_line": 14713,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-624",
+      "title": "PUBLIC (P) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-625",
+      "title": "PUBLIC (P) DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14717,
+      "end_line": 15150,
+      "num_subsections": 19
+    },
+    {
+      "id": "25-2-641",
+      "title": "CAPITOL DOMINANCE (CD) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97009,
+      "end_line": 97009,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-642",
+      "title": "CAPITOL VIEW CORRIDOR (CVC) OVERLAY DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16643,
+      "end_line": 17391,
+      "num_subsections": 8
+    },
+    {
+      "id": "25-2-643",
+      "title": "CONGRESS AVENUE (CA), EAST SIXTH/PECAN STREET (PS), DOWNTOWN PARKS (DP), AND DOWNTOWN CREEKS (DC) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97010,
+      "end_line": 97010,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-644",
+      "title": "CONVENTION CENTER (CC) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96751,
+      "end_line": 96752,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-645",
+      "title": "EAST AUSTIN (EA) OVERLAY DISTRICT USE RESTRICTIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96735,
+      "end_line": 96739,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-647",
+      "title": "LAKE AUSTIN (LA) OVERLAY DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 11682,
+      "end_line": 12165,
+      "num_subsections": 34
+    },
+    {
+      "id": "25-2-648",
+      "title": "PLANNED DEVELOPMENT AREA (PDA) PERFORMANCE STANDARDS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 13715,
+      "end_line": 13856,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-649",
+      "title": "PLANNED DEVELOPMENT AREA (PDA) APPROVED BEFORE JANUARY 1, 1985",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96718,
+      "end_line": 96718,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-651",
+      "title": "BARTON SPRINGS ZONE (BSZ) OVERLAY DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102252,
+      "end_line": 102252,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-652",
+      "title": "DENSITY BONUS 90 (DB90) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103657,
+      "end_line": 103675,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-653",
+      "title": "EQUITABLE TRANSIT-ORIENTED DEVELOPMENT (ETOD) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103677,
+      "end_line": 103678,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-654",
+      "title": "DENSITY BONUS ETOD (DBETOD) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103679,
+      "end_line": 103683,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-655",
+      "title": "DENSITY BONUS CREATIVE SPACES (DBCS) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103711,
+      "end_line": 103720,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-671",
+      "title": "TOWN LAKE PARK TERMS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 19965,
+      "end_line": 20707,
+      "num_subsections": 29
+    },
+    {
+      "id": "25-2-672",
+      "title": "TOWN LAKE PARK REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 19836,
+      "end_line": 19964,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-691",
+      "title": "WATERFRONT OVERLAY (WO) DISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 18213,
+      "end_line": 18237,
+      "num_subsections": 2
+    },
+    {
+      "id": "25-2-692",
+      "title": "WATERFRONT OVERLAY (WO) SUBDISTRICT USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 20708,
+      "end_line": 20711,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-711",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96983,
+      "end_line": 96983,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-712",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96581,
+      "end_line": 96581,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-713",
+      "title": "VARIANCES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 20913,
+      "end_line": 20945,
+      "num_subsections": 1
+    },
+    {
+      "id": "25-2-714",
+      "title": "ADDITIONAL FLOOR AREA",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 21916,
+      "end_line": 22472,
+      "num_subsections": 33
+    },
+    {
+      "id": "25-2-715",
+      "title": "REVIEW AND RECOMMENDATION OF THE SMALL AREA PLANNING JOINT COMMITTEE OF THE PLANNING COMMISSION AND THE ZONING AND PLATTING COMMISSION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 12166,
+      "end_line": 12335,
+      "num_subsections": 11
+    },
+    {
+      "id": "25-2-721",
+      "title": "WATERFRONT OVERLAY (WO) COMBINING DISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 20712,
+      "end_line": 20803,
+      "num_subsections": 6
+    },
+    {
+      "id": "25-2-722",
+      "title": "SPECIAL REGULATIONS FOR PUBLIC WORKS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96985,
+      "end_line": 96985,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-723",
+      "title": "SPECIAL REGULATIONS FOR PUBLIC RIGHTS-OF-WAY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96986,
+      "end_line": 96986,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-731",
+      "title": "AUDITORIUM SHORES SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97000,
+      "end_line": 97000,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-732",
+      "title": "BALCONES ROCK CLIFF SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97003,
+      "end_line": 97003,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-733",
+      "title": "BUTLER SHORES SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97001,
+      "end_line": 97001,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-734",
+      "title": "EAST RIVERSIDE SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96997,
+      "end_line": 96997,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-735",
+      "title": "FESTIVAL BEACH SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96993,
+      "end_line": 96993,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-736",
+      "title": "LAMAR SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96990,
+      "end_line": 96990,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-737",
+      "title": "MONTOPOLIS/RIVER TERRACE SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96995,
+      "end_line": 96995,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-738",
+      "title": "NORTH SHORE CENTRAL SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96991,
+      "end_line": 96991,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-739",
+      "title": "RAINEY STREET SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 16553,
+      "end_line": 16635,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-740",
+      "title": "RED BLUFF SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96994,
+      "end_line": 96994,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-741",
+      "title": "SOUTH LAKESHORE SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96996,
+      "end_line": 96996,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-742",
+      "title": "SOUTH SHORE CENTRAL SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96999,
+      "end_line": 96999,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-743",
+      "title": "TRAVIS HEIGHTS SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96998,
+      "end_line": 96998,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-744",
+      "title": "UNIVERSITY/DEEP EDDY SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96989,
+      "end_line": 96989,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-745",
+      "title": "ZILKER PARK SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 97002,
+      "end_line": 97002,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-746",
+      "title": "CITY HALL SUBDISTRICT REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102179,
+      "end_line": 102181,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-751",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102273,
+      "end_line": 102281,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-754",
+      "title": "USE REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102300,
+      "end_line": 102312,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-756",
+      "title": "HEIGHT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102494,
+      "end_line": 102499,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-758",
+      "title": "BUILDING WALL HEIGHT, STEPBACKS, AND ENVELOPE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103306,
+      "end_line": 103346,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-760",
+      "title": "STREETSCAPE IMPROVEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 22473,
+      "end_line": 22477,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-765",
+      "title": "AFFORDABLE HOUSING",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 22478,
+      "end_line": 23384,
+      "num_subsections": 71
+    },
+    {
+      "id": "25-2-770",
+      "title": "CONSERVATION SINGLE FAMILY RESIDENTIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102776,
+      "end_line": 102783,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-772",
+      "title": "SINGLE-FAMILY ATTACHED RESIDENTIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 37872,
+      "end_line": 37875,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-773",
+      "title": "DUPLEX, TWO-UNIT, AND THREE-UNIT RESIDENTIAL USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 15206,
+      "end_line": 15387,
+      "num_subsections": 13
+    },
+    {
+      "id": "25-2-774",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96763,
+      "end_line": 96763,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-775",
+      "title": "TOWNHOUSES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 32568,
+      "end_line": 32571,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-776",
+      "title": "CONDOMINIUM RESIDENTIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 32572,
+      "end_line": 34025,
+      "num_subsections": 70
+    },
+    {
+      "id": "25-2-777",
+      "title": "RETIREMENT HOUSING USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96766,
+      "end_line": 96766,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-778",
+      "title": "FRONT YARD SETBACK FOR CERTAIN RESIDENTIAL USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 39232,
+      "end_line": 39235,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-779",
+      "title": "SMALL LOT SINGLE-FAMILY RESIDENTIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14676,
+      "end_line": 14678,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-780",
+      "title": "MULTIFAMILY RESIDENTIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14673,
+      "end_line": 14675,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-781",
+      "title": "BED AND BREAKFAST RESIDENTIAL USE STRUCTURES CLASSIFIED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 67037,
+      "end_line": 69384,
+      "num_subsections": 42
+    },
+    {
+      "id": "25-2-783",
+      "title": "NUMBER OF ROOMS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 25211,
+      "end_line": 25923,
+      "num_subsections": 43
+    },
+    {
+      "id": "25-2-784",
+      "title": "PARKING REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 25211,
+      "end_line": 25923,
+      "num_subsections": 43
+    },
+    {
+      "id": "25-2-801",
+      "title": "ADULT-ORIENTED BUSINESSES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96774,
+      "end_line": 96775,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-802",
+      "title": "ART GALLERY AND ART WORKSHOP USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96753,
+      "end_line": 96753,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-803",
+      "title": "COMMERCIAL BLOOD PLASMA CENTER CONDITIONAL USE REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-804",
+      "title": "COMMUNICATION SERVICE FACILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96778,
+      "end_line": 96778,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-805",
+      "title": "DROP-OFF RECYCLING COLLECTION FACILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-806",
+      "title": "PLANT NURSERIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96582,
+      "end_line": 96582,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-807",
+      "title": "SPECIAL USE IN HISTORIC DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 9904,
+      "end_line": 10679,
+      "num_subsections": 14
+    },
+    {
+      "id": "25-2-808",
+      "title": "RESTAURANTS AND COCKTAIL LOUNGES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96772,
+      "end_line": 96772,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-811",
+      "title": "ELECTRONIC TESTING USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102662,
+      "end_line": 102667,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-812",
+      "title": "MOBILE FOOD ESTABLISHMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 26422,
+      "end_line": 26912,
+      "num_subsections": 30
+    },
+    {
+      "id": "25-2-815",
+      "title": "LARGE RETAIL USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 46387,
+      "end_line": 46622,
+      "num_subsections": 14
+    },
+    {
+      "id": "25-2-817",
+      "title": "ELECTRONIC PROTOTYPE ASSEMBLY USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102798,
+      "end_line": 102799,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-818",
+      "title": "MOBILE RETAIL ESTABLISHMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102915,
+      "end_line": 102919,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-819",
+      "title": "PERFORMANCE VENUES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103545,
+      "end_line": 103545,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-820",
+      "title": "ELECTRIC VEHICLE CHARGING USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103691,
+      "end_line": 103697,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-831",
+      "title": "COLLEGE OR UNIVERSITY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96773,
+      "end_line": 96773,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-832",
+      "title": "PRIVATE SCHOOLS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96768,
+      "end_line": 96770,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-833",
+      "title": "EDUCATIONAL FACILITY DEVELOPMENT STANDARDS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27024,
+      "end_line": 27033,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-834",
+      "title": "FEE WAIVER FOR EDUCATIONAL FACILITIES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27034,
+      "end_line": 27102,
+      "num_subsections": 10
+    },
+    {
+      "id": "25-2-835",
+      "title": "SCHOOL DISTRICT DEVELOPMENT AGREEMENTS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 26913,
+      "end_line": 27023,
+      "num_subsections": 3
+    },
+    {
+      "id": "25-2-836",
+      "title": "CLUB OR LODGE IN RESIDENTIAL DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96776,
+      "end_line": 96776,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-837",
+      "title": "COMMUNITY RECREATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96777,
+      "end_line": 96777,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-838",
+      "title": "EMPLOYEE RECREATION USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96754,
+      "end_line": 96754,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-839",
+      "title": "TELECOMMUNICATION TOWERS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 14622,
+      "end_line": 14666,
+      "num_subsections": 4
+    },
+    {
+      "id": "25-2-840",
+      "title": "SPECIAL REQUIREMENTS FOR TELECOMMUNICATION TOWERS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27103,
+      "end_line": 27611,
+      "num_subsections": 38
+    },
+    {
+      "id": "25-2-841",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96754,
+      "end_line": 96754,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-842",
+      "title": "COMMUNITY EVENTS USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102182,
+      "end_line": 102183,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-861",
+      "title": "FACILITIES FOR HELICOPTERS AND OTHER NONFIXED WING AIRCRAFT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96780,
+      "end_line": 96780,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-862",
+      "title": "RECYCLING CENTER",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96783,
+      "end_line": 96783,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-863",
+      "title": "URBAN FARMS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102846,
+      "end_line": 102846,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-864",
+      "title": "MARKET GARDENS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102847,
+      "end_line": 102853,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-865",
+      "title": "LIGHT MANUFACTURING USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 102867,
+      "end_line": 102868,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-891",
+      "title": "ACCESSORY USES GENERALLY",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96584,
+      "end_line": 96584,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-892",
+      "title": "APPLICABLE REGULATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96787,
+      "end_line": 96787,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-893",
+      "title": "ACCESSORY USES FOR A PRINCIPAL RESIDENTIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 29291,
+      "end_line": 32563,
+      "num_subsections": 233
+    },
+    {
+      "id": "25-2-894",
+      "title": "ACCESSORY USES FOR A PRINCIPAL COMMERCIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 28017,
+      "end_line": 28547,
+      "num_subsections": 34
+    },
+    {
+      "id": "25-2-895",
+      "title": "ACCESSORY USES FOR A COMMERCIAL RECREATION DISTRICT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96790,
+      "end_line": 96790,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-896",
+      "title": "ACCESSORY USES FOR A PRINCIPAL INDUSTRIAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96791,
+      "end_line": 96791,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-897",
+      "title": "ACCESSORY USES FOR A PRINCIPAL CIVIC USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96792,
+      "end_line": 96792,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-898",
+      "title": "ACCESSORY USE FOR A PRINCIPAL AGRICULTURAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96793,
+      "end_line": 96793,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-899",
+      "title": "FENCES AS ACCESSORY USES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96794,
+      "end_line": 96795,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-900",
+      "title": "HOME OCCUPATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27864,
+      "end_line": 27867,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-901",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 41135,
+      "end_line": 41981,
+      "num_subsections": 38
+    },
+    {
+      "id": "25-2-902",
+      "title": "RESIDENTIAL TOURS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27868,
+      "end_line": 28016,
+      "num_subsections": 10
+    },
+    {
+      "id": "25-2-903",
+      "title": "GARAGE SALES",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 27868,
+      "end_line": 28016,
+      "num_subsections": 10
+    },
+    {
+      "id": "25-2-904",
+      "title": "SHORT-TERM RENTAL USE",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 103723,
+      "end_line": 103723,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-921",
+      "title": "TEMPORARY USES DESCRIBED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96796,
+      "end_line": 96796,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-922",
+      "title": "APPLICATION; APPROVAL; AND EXTENSION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96800,
+      "end_line": 96803,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-923",
+      "title": "DETERMINATIONS",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 28771,
+      "end_line": 29290,
+      "num_subsections": 33
+    },
+    {
+      "id": "25-2-924",
+      "title": "CONDITIONS OF APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 28771,
+      "end_line": 29290,
+      "num_subsections": 33
+    },
+    {
+      "id": "25-2-925",
+      "title": "SITE RESTORATION",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96797,
+      "end_line": 96797,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-941",
+      "title": "NONCONFORMING USE DEFINED",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96804,
+      "end_line": 96806,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-942",
+      "title": "USES CONFORMING ON MARCH 1, 1984",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96810,
+      "end_line": 96815,
+      "num_subsections": 0
+    },
+    {
+      "id": "25-2-943",
+      "title": "SUBSTANDARD LOT",
+      "level": 2,
+      "parent_id": "chapter-25-2",
+      "start_line": 96807,
+      "end_line": 96809,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-22",
+      "title": "MEASUREMENTS",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 83516,
+      "end_line": 83758,
+      "num_subsections": 8
+    },
+    {
+      "id": "30-1-41",
+      "title": "CITY COUNCIL",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-42",
+      "title": "COMMISSIONERS COURT",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 103498,
+      "end_line": 103498,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-43",
+      "title": "LAND USE COMMISSION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 103499,
+      "end_line": 103502,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-61",
+      "title": "ADMINISTRATIVE RULES",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 94378,
+      "end_line": 96220,
+      "num_subsections": 25
+    },
+    {
+      "id": "30-1-71",
+      "title": "ORDER OF PROCESS",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-73",
+      "title": "PROJECT ASSESSMENT",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 84067,
+      "end_line": 84083,
+      "num_subsections": 2
+    },
+    {
+      "id": "30-1-91",
+      "title": "FINAL APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-92",
+      "title": "DISCRETIONARY AUTHORITY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 83497,
+      "end_line": 83515,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-93",
+      "title": "SINGLE OFFICE STRUCTURE AND FUNCTION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 83772,
+      "end_line": 83876,
+      "num_subsections": 10
+    },
+    {
+      "id": "30-1-111",
+      "title": "AUTHORITY TO FILE AN APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-113",
+      "title": "PRELIMINARY PLAN OR PLAT APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 84552,
+      "end_line": 84579,
+      "num_subsections": 4
+    },
+    {
+      "id": "30-1-114",
+      "title": "APPLICATIONS RELATING TO A CLOSED MUNICIPAL SOLID WASTE LANDFILL",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102500,
+      "end_line": 102534,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-116",
+      "title": "SUBDIVISION CONSTRUCTION PLAN APPLICATION REQUIREMENTS AND EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 84507,
+      "end_line": 84520,
+      "num_subsections": 1
+    },
+    {
+      "id": "30-1-118",
+      "title": "EXTENSION OF REVIEW PERIOD",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 86644,
+      "end_line": 86841,
+      "num_subsections": 14
+    },
+    {
+      "id": "30-1-119",
+      "title": "TOLLING OF APPLICATION PERIOD",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 103258,
+      "end_line": 103259,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-132",
+      "title": "FISCAL SECURITY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 86842,
+      "end_line": 87226,
+      "num_subsections": 36
+    },
+    {
+      "id": "30-1-151",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-152",
+      "title": "INTERESTED PARTIES",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 83377,
+      "end_line": 83400,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-154",
+      "title": "NOTICE OF APPLICATIONS AND ADMINISTRATIVE DECISIONS",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102539,
+      "end_line": 102542,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-171",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-191",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-221",
+      "title": "APPLICABILITY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-223",
+      "title": "INITIATING AN APPEAL",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 103508,
+      "end_line": 103508,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-251",
+      "title": "APPLICATION FOR A VARIANCE",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-253",
+      "title": "REVIEW BY THE ENVIRONMENTAL COMMISSION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 103509,
+      "end_line": 103509,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-271",
+      "title": "EFFECT OF SPECIAL EXCEPTION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-331",
+      "title": "PRECONSTRUCTION CONFERENCE REQUIRED",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-351",
+      "title": "DISTRIBUTION OF APPROVED PLANS",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-352",
+      "title": "INSPECTION REQUESTS",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 83167,
+      "end_line": 83376,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-431",
+      "title": "SUSPENSION OF APPROVED SUBDIVISION CONSTRUCTION PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-435",
+      "title": "NOTICE OF SUSPENSION OR REVOCATION",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 86203,
+      "end_line": 86371,
+      "num_subsections": 20
+    },
+    {
+      "id": "30-1-481",
+      "title": "INITIATION OF AMENDMENT",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-1-483",
+      "title": "AMENDMENT AND REVIEW BY COUNTY",
+      "level": 2,
+      "parent_id": "chapter-30-1",
+      "start_line": 86372,
+      "end_line": 86643,
+      "num_subsections": 17
+    },
+    {
+      "id": "30-2-1",
+      "title": "COMPLIANCE",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-3",
+      "title": "TEMPORARY EXEMPTION FROM CITY PLATTING REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102641,
+      "end_line": 102653,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-31",
+      "title": "PLANNING COMMISSION AND ZONING AND PLATTING COMMISSION RULES",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-32",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103260,
+      "end_line": 103260,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-33",
+      "title": "SINGLE OFFICE ACTION WITHIN 30 DAYS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 84322,
+      "end_line": 84506,
+      "num_subsections": 13
+    },
+    {
+      "id": "30-2-34",
+      "title": "ORIGINAL TRACT REQUIREMENT",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103262,
+      "end_line": 103263,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-35",
+      "title": "CITY BOARD AND COMMISSION REVIEW OF REQUESTS ASSOCIATED WITH SUBDIVISION APPLICATION",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103513,
+      "end_line": 103513,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-36",
+      "title": "VARIANCE FILING AND CONSIDERATION",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103264,
+      "end_line": 103264,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-41",
+      "title": "ACTION IN 15 DAYS AFTER APPLICANT RESPONSE",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103265,
+      "end_line": 103265,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-51",
+      "title": "PRELIMINARY PLAN REQUIREMENT",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-53",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103266,
+      "end_line": 103266,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-55",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103267,
+      "end_line": 103267,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-56",
+      "title": "STAFF REVIEW OF APPLICATION FOR PRELIMINARY PLAN APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102314,
+      "end_line": 102327,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-57",
+      "title": "ACTION ON PRELIMINARY PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103269,
+      "end_line": 103269,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-58",
+      "title": "RESERVED",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103270,
+      "end_line": 103270,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-60",
+      "title": "EXPIRATION OF APPROVED PRELIMINARY PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103028,
+      "end_line": 103028,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-61",
+      "title": "CHANGES TO AN APPROVED PRELIMINARY PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103519,
+      "end_line": 103519,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-62",
+      "title": "APPEAL OF DISAPPROVAL OF A PRELIMINARY PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 87227,
+      "end_line": 87391,
+      "num_subsections": 18
+    },
+    {
+      "id": "30-2-81",
+      "title": "LAND INCLUDED IN PLAT",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-82",
+      "title": "REVIEW OF APPLICATION FOR PLAT APPROVAL; EXPIRATION",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103029,
+      "end_line": 103033,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-83",
+      "title": "PLAT ACKNOWLEDGMENT FOR PLAT APPROVAL",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103273,
+      "end_line": 103274,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-84",
+      "title": "PLAT APPROVAL AUTHORITY AND CRITERIA",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 84084,
+      "end_line": 84321,
+      "num_subsections": 18
+    },
+    {
+      "id": "30-2-85",
+      "title": "RECORDATION",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103524,
+      "end_line": 103524,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-86",
+      "title": "APPEAL OF DISAPPROVAL OF PLAT",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 87392,
+      "end_line": 87455,
+      "num_subsections": 4
+    },
+    {
+      "id": "30-2-87",
+      "title": "INFORMATION AND NOTICE REQUIRED ON COVER PAGE",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102660,
+      "end_line": 102660,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-100",
+      "title": "SUBDIVISION CONSTRUCTION PLAN APPROVAL AUTHORITY AND CRITERIA",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103526,
+      "end_line": 103526,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-101",
+      "title": "ACTION ON SUBDIVISION CONSTRUCTION PLAN; DEADLINE",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 87456,
+      "end_line": 87462,
+      "num_subsections": 1
+    },
+    {
+      "id": "30-2-102",
+      "title": "UPDATES PERMITTED AFTER APPLICATION IS DENIED",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 87477,
+      "end_line": 88048,
+      "num_subsections": 48
+    },
+    {
+      "id": "30-2-104",
+      "title": "SUBDIVISION CONSTRUCTION PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103529,
+      "end_line": 103529,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-105",
+      "title": "EXPIRATION OF SUBDIVISION CONSTRUCTION PLAN",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103530,
+      "end_line": 103530,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-131",
+      "title": "PROPERTY MARKERS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-151",
+      "title": "STREET ALIGNMENT",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-159",
+      "title": "PRIVATE STREETS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 88049,
+      "end_line": 88480,
+      "num_subsections": 29
+    },
+    {
+      "id": "30-2-171",
+      "title": "ACCESS TO LOTS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-176",
+      "title": "FLAG LOTS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103531,
+      "end_line": 103532,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-191",
+      "title": "WATER LINES",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-195",
+      "title": "REQUESTS FOR UTILITY SERVICE",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102313,
+      "end_line": 102313,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-211",
+      "title": "DEFINITIONS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-212",
+      "title": "PARK SERVICE PROVIDER DETERMINATION",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 88481,
+      "end_line": 89082,
+      "num_subsections": 38
+    },
+    {
+      "id": "30-2-218",
+      "title": "SUBMITTAL REQUIREMENTS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 103533,
+      "end_line": 103542,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-2-231",
+      "title": "TOWNHOUSE LOTS",
+      "level": 2,
+      "parent_id": "chapter-30-2",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-3-21",
+      "title": "RESERVATION OF RIGHT-OF-WAY",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89156,
+      "end_line": 89209,
+      "num_subsections": 5
+    },
+    {
+      "id": "30-3-22",
+      "title": "CONSTRUCTING A STRUCTURE OR IMPROVEMENT IN RIGHT-OF-WAY PROHIBITED",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89210,
+      "end_line": 89258,
+      "num_subsections": 3
+    },
+    {
+      "id": "30-3-25",
+      "title": "DEDICATION OF RIGHT-OF-WAY",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89285,
+      "end_line": 89336,
+      "num_subsections": 4
+    },
+    {
+      "id": "30-3-26",
+      "title": "AGREEMENT FOR TEMPORARY USE OF RESERVED RIGHT-OF-WAY",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89083,
+      "end_line": 89089,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-3-41",
+      "title": "WAIVER REQUEST",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89083,
+      "end_line": 89089,
+      "num_subsections": 0
+    },
+    {
+      "id": "30-3-42",
+      "title": "NOTICE OF WAIVER REQUEST",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89337,
+      "end_line": 89384,
+      "num_subsections": 5
+    },
+    {
+      "id": "30-3-43",
+      "title": "ACTION ON WAIVER",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 89090,
+      "end_line": 89103,
+      "num_subsections": 1
+    },
+    {
+      "id": "30-3-71",
+      "title": "STANDARDS FOR DESIGN AND CONSTRUCTION",
+      "level": 2,
+      "parent_id": "chapter-30-3",
+      "start_line": 102253,
+      "end_line": 102256,
+      "num_subsections": 0
+    }
+  ]
+}
