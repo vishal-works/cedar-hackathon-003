@@ -1,0 +1,151 @@
+{
+  "section_id": "25-1-111",
+  "content": "\n(A)\n\nThe fees required under this title shall be established by separate city or county\nordinance. In establishing a fee, the city and county shall each take into account\nthe division of responsibility between city and county staff prescribed by Section 30-1-93 (Single Office Structure and Function) and the Agreement on Subdivision Platting in the Extraterritorial Jurisdiction Between\nthe City of Austin and Travis County dated April 1, 2002, as amended.\n\n(B)\n\nBefore the single office accepts an application, the city and county shall each calculate\nthe fees due, and the single office shall collect both fees from the applicant.\n\nSource: City Code Section 25-1-111; Ord. 031211-11; Ord. 031211-42; Ord. 20050929-079.\n\n(A)\n\nAn applicant shall post fiscal security required under this title with the single\noffice.\n\n(B)\n\nThe single office shall determine whether fiscal security is payable to the city,\nthe county, or both.\n\n(C)\n\nThe amount of fiscal security posted by an applicant shall equal the estimated cost\nto the city or county to do the work for which the fiscal security is required. A\nqualified professional must provide the single office with a detailed estimate of\nthe cost. The single office's approval of the estimate is required.\n\n(D)\n\nAn applicant may post as fiscal security:\n\n(1)\n\na cash deposit;\n\n(2)\n\na performance bond; or\n\n(3)\n\na letter of credit.\n\n(E)\n\nThe single office shall return the fiscal security to the applicant if the single\noffice determines that:\n\n(1)\n\nthe applicant has obtained a certificate of compliance or final acceptance letter\nfor the work for which the fiscal security was posted; or\n\n(2)\n\nthe obligation to do the work for which the fiscal security was posted has terminated.\n\n(F)\n\nThe single office may draw on the fiscal security and pay the cost of fulfilling the\napplicant's obligations if the single office determines that an applicant has breached\nthe obligations secured by the fiscal security. The single office shall pay the balance\nof the fiscal security, if any, to the applicant. The applicant is liable to the single\noffice for the cost that exceeds the amount of fiscal security, if any.\n\nSource: City Code Section 25-1-112; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 15,
+      "end": 23,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 30-1-93",
+      "label": "SECTION_REF",
+      "start": 247,
+      "end": 262,
+      "normalized": {
+        "section": "30-1-93",
+        "subsection": null,
+        "full_reference": "30-1-93"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 483,
+      "end": 489,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 584,
+      "end": 590,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-111",
+      "label": "SECTION_REF",
+      "start": 654,
+      "end": 670,
+      "normalized": {
+        "section": "25-1-111",
+        "subsection": null,
+        "full_reference": "25-1-111"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 769,
+      "end": 777,
+      "normalized": "required"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 811,
+      "end": 817,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 836,
+      "end": 842,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1088,
+      "end": 1096,
+      "normalized": "required"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1147,
+      "end": 1153,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1203,
+      "end": 1209,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1240,
+      "end": 1248,
+      "normalized": "required"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1392,
+      "end": 1398,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1463,
+      "end": 1469,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1743,
+      "end": 1749,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1855,
+      "end": 1861,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1963,
+      "end": 1969,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 2080,
+      "end": 2086,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-112",
+      "label": "SECTION_REF",
+      "start": 2171,
+      "end": 2187,
+      "normalized": {
+        "section": "25-1-112",
+        "subsection": null,
+        "full_reference": "25-1-112"
+      }
+    }
+  ]
+}

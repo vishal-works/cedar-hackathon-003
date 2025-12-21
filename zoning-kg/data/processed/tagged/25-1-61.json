@@ -1,0 +1,194 @@
+{
+  "section_id": "25-1-61",
+  "content": "\n(A)\n\nAn applicant must obtain city and county approvals in the following order:\n\n(1)\n\nzoning, for an area annexed by the city for limited purposes;\n\n(2)\n\nsubdivision;\n\n(3)\n\nsite plan; and\n\n(4)\n\nbuilding permit, for an area annexed by the city for limited purposes.\n\n(B)\n\nAn applicant must obtain approvals for subdivision development in the following order:\n\n(1)\n\npreliminary plan, if required;\n\n(2)\n\nplat; and\n\n(3)\n\nsubdivision construction plan.\n\n(C)\n\nAn applicant may concurrently file zoning and site plan applications if no subdivision\nis required.\n\n(D)\n\nAn applicant may concurrently file subdivision, site plan, and building permit applications,\nif no zoning or rezoning is required or requested.\n\n(E)\n\nThe single office may authorize concurrent applications under the following circumstances:\n\n(1)\n\nPlat and preliminary plan if the single office determines the application for the\npreliminary plan only has outstanding deficiencies that are of an administrative nature\nthat will not require significant changes to the layout or design of the subdivision.\n\n(2)\n\nPlat and subdivision construction plan if;\n\n(a)\n\nthe preliminary plan has been approved;\n\n(b)\n\nthe single office determines that the application for the plat only has outstanding\ndeficiencies are of an administrative nature that will not require significant changes\nto the layout or design of the subdivision; and\n\n(c)\n\nthe subdivision construction plan has been certified complete under Section 25-1-84 (Subdivision Construction Application Requirements and Expiration).\n\nSource: City Code Section 25-1-61; Ord. 031211-11; Ord. 031211-42; Ord. No. 20190822-117, § 38, 9-1-19; Ord. No. 20230831-142, Pt. 3, 9-1-23.\n\n(A)\n\nA person considering development in the planning jurisdiction may request that the\nsingle office prepare an assessment of the proposed development. The city and county\nencourage a development assessment for a residential project of more than 200 acres,\nor a commercial or mixed use project of more than 50 acres.\n\n(B)\n\nA development assessment is based on information provided by the requestor and the\nrequirements applicable at the time of the request.\n\n(C)\n\nA development assessment includes:\n\n(1)\n\nan explanation of the procedures and requirements of this title for zoning and rezoning,\nsubdivision, site plan approval, and building permits;\n\n(2)\n\nan estimate of fees; and\n\n(3)\n\nan identification of potential major issues for the project, including whether:\n\n(a)\n\nfor an area annexed by the city for limited purposes, the proposed land use conforms\nto the comprehensive plan and current zoning;\n\n(b)\n\nproposed arterials, if any, comply with the transportation plan;\n\n(c)\n\nproposed collector streets, if any, are adequate for the projected traffic;\n\n(d)\n\nthere are significant environmental issues;\n\n(e)\n\nthere are significant drainage or floodplain issues;\n\n(f)\n\nadequate utilities are available; and\n\n(g)\n\nthe proposed density or floor area:\n\n(i)\n\nis consistent with the requirements of this title;\n\n(ii)\n\nfor an area annexed by the city for limited purposes, is appropriate, considering\nthe surrounding land use or zoning; and\n\n(iii)\n\nis consistent with watershed requirements.\n\n(D)\n\nThe single office shall deliver a development assessment to the requestor within 21\ndays after the request is received. After its delivery, the requestor may seek a meeting\nwith the single office to discuss the development assessment.\n\nSource: City Code Section 25-1-62; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 131,
+      "end": 138,
+      "normalized": "limited"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 248,
+      "end": 255,
+      "normalized": "limited"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 386,
+      "end": 394,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 545,
+      "end": 553,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 682,
+      "end": 690,
+      "normalized": "required"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 722,
+      "end": 728,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 848,
+      "end": 854,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1176,
+      "end": 1182,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-84",
+      "label": "SECTION_REF",
+      "start": 1458,
+      "end": 1473,
+      "normalized": {
+        "section": "25-1-84",
+        "subsection": null,
+        "full_reference": "25-1-84"
+      }
+    },
+    {
+      "text": "Section 25-1-61",
+      "label": "SECTION_REF",
+      "start": 1561,
+      "end": 1576,
+      "normalized": {
+        "section": "25-1-61",
+        "subsection": null,
+        "full_reference": "25-1-61"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1781,
+      "end": 1787,
+      "normalized": "office"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1900,
+      "end": 1911,
+      "normalized": "residential"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1923,
+      "end": 1932,
+      "normalized": "gt"
+    },
+    {
+      "text": "200 acres",
+      "label": "MEASUREMENT",
+      "start": 1933,
+      "end": 1942,
+      "normalized": {
+        "value": 200,
+        "unit": "acre",
+        "original": "200 acres"
+      }
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 1949,
+      "end": 1959,
+      "normalized": "commercial"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 1963,
+      "end": 1972,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1984,
+      "end": 1993,
+      "normalized": "gt"
+    },
+    {
+      "text": "50 acres",
+      "label": "MEASUREMENT",
+      "start": 1994,
+      "end": 2002,
+      "normalized": {
+        "value": 50,
+        "unit": "acre",
+        "original": "50 acres"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 2495,
+      "end": 2502,
+      "normalized": "limited"
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 2915,
+      "end": 2922,
+      "normalized": "density_max"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 3038,
+      "end": 3045,
+      "normalized": "limited"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 3192,
+      "end": 3198,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 3370,
+      "end": 3376,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-62",
+      "label": "SECTION_REF",
+      "start": 3435,
+      "end": 3450,
+      "normalized": {
+        "section": "25-1-62",
+        "subsection": null,
+        "full_reference": "25-1-62"
+      }
+    }
+  ]
+}

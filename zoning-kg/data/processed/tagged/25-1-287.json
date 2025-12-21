@@ -1,0 +1,77 @@
+{
+  "section_id": "25-1-287",
+  "content": "\n(A)\n\nA permittee may not begin work under a permit until an inspection record card is posted\non the site.\n\n(B)\n\nThe permittee shall post the card in a readily accessible location.\n\n(C)\n\nAn inspector shall note each inspection on the record card.\n\n(D)\n\nThe permittee shall post the record card until a final report is issued indicating\ncompletion of the required work.\n\nSource: City Code Section 25-1-287; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nThe owner shall request an inspection of erosion and sedimentation controls and tree\nprotection measures after the owner installs the controls and measures.\n\n(B)\n\nThe single office shall schedule the inspection. The owner, consulting engineer, and\ncontractor shall attend the inspection.\n\n(C)\n\nDuring the inspection, the owner shall:\n\n(1)\n\ndemonstrate that the erosion and sedimentation controls and tree protection measures\ncomply with the Environmental Criteria Manual; and\n\n(2)\n\npresent a plan to the inspector that includes future erosion and sedimentation controls,\ndrainage, and utility and street layout.\n\n(D)\n\nAfter two days notice to the owner, the inspector may modify the approved erosion\ncontrol and construction sequencing if:\n\n(1)\n\nthe inspector determines that the plans are inadequate;\n\n(2)\n\nthe inspector confirms the determination with the single office; and\n\n(3)\n\nthe single office provides written approval of the modification.\n\n(E)\n\nThe inspector may make minor changes to the erosion control and construction sequencing\nplans without written approval from single office if the modification upgrades erosion\ncontrols or reflects construction progress.\n\n(F)\n\nExcept as provided in Subsection (G), the owner may not begin construction until the\nsingle office determines that the erosion and sedimentation controls and tree protection\nmeasures comply with applicable requirements.\n\n(G)\n\nIf the single office does not conduct an inspection on or before the fifth day after\nreceiving a request, the owner may proceed with construction.\n\nSource: City Code Section 25-1-288; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 354,
+      "end": 362,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-287",
+      "label": "SECTION_REF",
+      "start": 388,
+      "end": 404,
+      "normalized": {
+        "section": "25-1-287",
+        "subsection": null,
+        "full_reference": "25-1-287"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 618,
+      "end": 624,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1309,
+      "end": 1315,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1338,
+      "end": 1344,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1529,
+      "end": 1535,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1715,
+      "end": 1721,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1863,
+      "end": 1869,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-288",
+      "label": "SECTION_REF",
+      "start": 2015,
+      "end": 2031,
+      "normalized": {
+        "section": "25-1-288",
+        "subsection": null,
+        "full_reference": "25-1-288"
+      }
+    }
+  ]
+}

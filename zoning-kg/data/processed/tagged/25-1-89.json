@@ -1,0 +1,39 @@
+{
+  "section_id": "25-1-89",
+  "content": "\n(A)\n\nThe requirements of this section are mandated by state law and supersede any contrary\nprovisions of the City Code.\n\n(B)\n\nThe director shall approve, approve with conditions, or disapprove with reasons an\napplication for preliminary plan or plat not later than the 30th day after the application\nis filed unless the director has approved a written request from the applicant to\nextend the initial review period pursuant to Section 25-1-89 (Extension of Review Period).\n\n(C)\n\nA condition for approval or reason for disapproval must be in writing and may not\nbe arbitrary. The condition or reason must:\n\n(1)\n\nbe directly related to requirements adopted under Texas Local Government Code Chapter\n212 Subchapter A (Regulation of Subdivisions); and\n\n(2)\n\ninclude a citation to the law, including a statute or municipal ordinance, that is\nthe basis for the condition for approval or reason for disapproval.\n\n(D)\n\nIf the director fails to comply with Subsection (B), the application for preliminary\nplan or plat is approved by operation of law, unless the deadline for action has been\nextended pursuant to Section 25-1-89 (Extension of Review Period).\n\nSource: Section 13-1-484(e); Ord. 990225-70; Ord. 010607-8; Ord. 031211-11; Ord. No.",
+  "entities": [
+    {
+      "text": "Section 25-1-89",
+      "label": "SECTION_REF",
+      "start": 428,
+      "end": 443,
+      "normalized": {
+        "section": "25-1-89",
+        "subsection": null,
+        "full_reference": "25-1-89"
+      }
+    },
+    {
+      "text": "Subchapter A",
+      "label": "SECTION_REF",
+      "start": 702,
+      "end": 714,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "A",
+        "full_reference": "Subchapter A"
+      }
+    },
+    {
+      "text": "Section 25-1-89",
+      "label": "SECTION_REF",
+      "start": 1104,
+      "end": 1119,
+      "normalized": {
+        "section": "25-1-89",
+        "subsection": null,
+        "full_reference": "25-1-89"
+      }
+    }
+  ]
+}

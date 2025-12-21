@@ -1,0 +1,321 @@
+{
+  "section_id": "25-2-863",
+  "content": "\n(A)\n\nThis section applies to an urban farm use.\n\n(B)\n\nAn urban farm is allowed within the critical water quality zone if it meets the requirements\nin 25-8-261(B)(4) (Critical Water Quality Zone Development) for sustainable urban agriculture or a community garden.\n\n(C)\n\nA site area for an urban farm shall not be less than one acre and not more than five\nacres.\n\n(D)\n\nThe number of dwelling units allowed on a site may not exceed the number of dwelling\nunits allowed under the base zoning district regulations. Notwithstanding the foregoing,\nnot more than two units are allowed on the site. Animal raising in accordance with\nSection 25-2-863(F) is not allowed without a dwelling on the site. Accessory structures are permitted\nwithout a dwelling.\n\n(E)\n\nRaising livestock is prohibited notwithstanding Chapter 3-2 of the City Code.\n\n(F)\n\nFor properties not zoned residential, raising, slaughtering, processing and composting\nof fowl, rabbits, and aquatic foods using an aquaponic system is permitted in accordance\nwith Chapter 3-2 (Restrictions on Animals) of the City Code. One animal (either fowl or rabbit) may be processed per 1/10\nth\nof an acre per week. Composting, slaughtering or processing of animals must take place\nat least 50 feet from the nearest residential structure other than the structure associated\nwith the use. Slaughtering and processing animals must take place out of public view.\n\nFor properties zoned residential, raising of fowl, rabbits, and aquatic foods using\nan aquaponic system is permitted in accordance with Chapter 3-2 (Restrictions on Animals) of the City Code. Slaughtering and processing of aquatics foods is permitted. Slaughtering,\nprocessing of fowl and rabbits is prohibited. Composting of animal parts is prohibited\nin residential zoning districts.\n\n(G)\n\nWater conservation practices must be followed, at minimum in accordance with Chapter\n6-4 (Water Conservation) of the City Code.\n\n(H)\n\nThe use of synthetic inputs is prohibited. An Integrated Pest Management Plan, developed\nin accordance with the Environmental Criteria Manual and approved by the Watershed\nProtection Department, must be followed.\n\n(I)\n\nAgricultural and value-added agricultural products raised by the farmer or produced\nwithin the State of Texas may be sold from the site or distributed off-site to buyers.\nAgricultural products and value-added agricultural products produced off-site by someone\nother than the farmer cannot exceed 20% of the retail space by area.\n\n(J)\n\nEmployees are permitted. The maximum number of full-time, non-seasonal employees is\ntwo for each full acre, plus two for the remaining portion of an acre, if any. This\ndoes not include the property owner.\n\n(K)\n\nThe residential character of the lot and dwelling must be maintained.\n\n(L)\n\nFor an urban farm use, a sign is permitted in accordance with Chapter 25-10-155 (Urban Farm Sign).\n\n(M)\n\nAgricultural education activities as referenced in Chapter 25-2-7 (Agricultural Uses Described) do not require a temporary use permit.\n\nSource: Ord. 000406-86; Ord. 031211-11; Ord. 20110210-018; Ord. 20131121-105, Pt. 3, 3-21-14.",
+  "entities": [
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 72,
+      "end": 79,
+      "normalized": "permitted"
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 273,
+      "end": 282,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 314,
+      "end": 323,
+      "normalized": "lt"
+    },
+    {
+      "text": "one acre",
+      "label": "MEASUREMENT",
+      "start": 324,
+      "end": 332,
+      "normalized": {
+        "value": "one acre",
+        "unit": null,
+        "original": "one acre"
+      }
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 337,
+      "end": 350,
+      "normalized": "lte"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 383,
+      "end": 397,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 398,
+      "end": 405,
+      "normalized": "permitted"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 420,
+      "end": 430,
+      "normalized": "lte"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 460,
+      "end": 467,
+      "normalized": "permitted"
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 543,
+      "end": 556,
+      "normalized": "lte"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 571,
+      "end": 578,
+      "normalized": "permitted"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 653,
+      "end": 660,
+      "normalized": "permitted"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 718,
+      "end": 727,
+      "normalized": "permitted"
+    },
+    {
+      "text": "prohibited",
+      "label": "OPERATOR",
+      "start": 775,
+      "end": 785,
+      "normalized": "prohibited"
+    },
+    {
+      "text": "Chapter 3-2",
+      "label": "SECTION_REF",
+      "start": 802,
+      "end": 813,
+      "normalized": {
+        "type": "chapter",
+        "number": "3-2",
+        "full_reference": "Chapter 3-2"
+      }
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 863,
+      "end": 874,
+      "normalized": "residential"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 990,
+      "end": 999,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Chapter 3-2",
+      "label": "SECTION_REF",
+      "start": 1019,
+      "end": 1030,
+      "normalized": {
+        "type": "chapter",
+        "number": "3-2",
+        "full_reference": "Chapter 3-2"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1226,
+      "end": 1234,
+      "normalized": "gte"
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 1235,
+      "end": 1242,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1260,
+      "end": 1271,
+      "normalized": "residential"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1426,
+      "end": 1437,
+      "normalized": "residential"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 1512,
+      "end": 1521,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Chapter 3-2",
+      "label": "SECTION_REF",
+      "start": 1541,
+      "end": 1552,
+      "normalized": {
+        "type": "chapter",
+        "number": "3-2",
+        "full_reference": "Chapter 3-2"
+      }
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 1646,
+      "end": 1655,
+      "normalized": "permitted"
+    },
+    {
+      "text": "prohibited",
+      "label": "OPERATOR",
+      "start": 1705,
+      "end": 1715,
+      "normalized": "prohibited"
+    },
+    {
+      "text": "prohibited",
+      "label": "OPERATOR",
+      "start": 1747,
+      "end": 1757,
+      "normalized": "prohibited"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1761,
+      "end": 1772,
+      "normalized": "residential"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1847,
+      "end": 1854,
+      "normalized": "min"
+    },
+    {
+      "text": "prohibited",
+      "label": "OPERATOR",
+      "start": 1962,
+      "end": 1972,
+      "normalized": "prohibited"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 2435,
+      "end": 2445,
+      "normalized": "lte"
+    },
+    {
+      "text": "20%",
+      "label": "MEASUREMENT",
+      "start": 2446,
+      "end": 2449,
+      "normalized": {
+        "value": 20.0,
+        "unit": "%",
+        "original": "20%"
+      }
+    },
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 2457,
+      "end": 2463,
+      "normalized": "retail"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 2499,
+      "end": 2508,
+      "normalized": "permitted"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 2514,
+      "end": 2521,
+      "normalized": "max"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 2700,
+      "end": 2711,
+      "normalized": "residential"
+    },
+    {
+      "text": "L",
+      "label": "ZONE",
+      "start": 2768,
+      "end": 2769,
+      "normalized": {
+        "code": "L",
+        "original": "L"
+      }
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 2805,
+      "end": 2814,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Chapter 25-10",
+      "label": "SECTION_REF",
+      "start": 2834,
+      "end": 2847,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-10",
+        "full_reference": "Chapter 25-10"
+      }
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 2928,
+      "end": 2940,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    }
+  ]
+}

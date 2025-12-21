@@ -1,0 +1,64 @@
+{
+  "section_id": "25-2-672",
+  "content": "In Section 25-2-672 (Town Lake Park Regulations):\n\n(1)\n\nCOMMUNITY PARK means a portion of Town Lake Park that is intended for city wide use\nand designed to accommodate large numbers of people involved in a variety of activities.\nThe following areas in Town Lake Park are community parks:\n\n(a)\n\ntracts S-1, S-2, S-3A, S-4, S-6, S-7, S-8, S-9, N-1, N-2, N-3, N-4, N-5A, N-6, N-7,\nN-8, N-9, N-10, N-11, N-15, N-16A, and N-17A on the park classification map;\n\n(b)\n\npark land in the area bounded on the north by the Colorado River, on the west by Pleasant\nValley Road, on the south by the proposed extension of Lakeshore Boulevard, and on\nthe east by the crest of the bluff of Country Club Creek;\n\n(c)\n\npark land in the area bounded on the north by Lake Austin Boulevard, on the south\nby Town Lake, on the east by the MoPac Freeway, and on the west by the extension of\nthe western boundary of Eilers Park;\n\n(d)\n\nthe Holly Street Power Plant, when its current use ceases and it is dedicated as park\nland; and\n\n(e)\n\npark land within 50 feet of the shoreline of Town Lake.\n\n(2)\n\nCULTURAL PARK means a portion of Town Lake Park that is intended for cultural facilities,\nincluding museums, botanical gardens, and performance areas. The following areas in\nTown Lake Park are cultural parks:\n\n(a)\n\ntracts S-2D, S-3, S-4A, S-5, S-5A, S-5B, and S-5C on the park classification map;\n\n(b)\n\npark land in the area bounded on the east by Dawson Road, on the west by Lamar Boulevard,\non the south by Barton Springs Road, and on the north by Riverside Drive;\n\n(c)\n\npark land in the area bounded on the north by Town Lake, on the south by Barton Springs\nRoad, Barton Boulevard, and the westward extension of Linscomb Avenue, on the east\nby Lamar Boulevard, and on the west by Robert E. Lee Road and the hike and bike trail;\n\n(d)\n\npark land north of the intersection of River Street and Bierce Street, known as the\nCity of Austin Street and Bridge Yard; and\n\n(e)\n\nthe Seaholm Power Plant and the Green Water Treatment Plant, including the water intake\nstructures, when the current uses cease and the plants are dedicated as park land.\n\n(3)\n\nNEIGHBORHOOD PARK means a portion of Town Lake Park that is small, informal, is less\nintensely used than the developed areas of Town Lake Park, and serves adjacent neighborhoods.\nThe following areas in Town Lake Park are neighborhood parks:\n\n(a)\n\ntracts S-2A, S-10, N-5, N-16, and N-17 on the Park Classification Map;\n\n(b)\n\npark land in the area bounded on the north by Town Lake, on the west by East Bouldin\nCreek, on the east by Blunn Creek, and on the south by Riverside Drive; and\n\n(c)\n\npark land in the area bounded on the north by the Colorado River, on the east by Montopolis\nDrive, on the south by the extension of Grove Boulevard, and on the west by the crest\nof the bluff of Country Club Creek.\n\n(4)\n\nPARK CLASSIFICATION MAP means the map that is on file with the Parks and Recreation\nDepartment and that is Exhibit \"B\" to Ordinance No. 890126-P.\n\n(5)\n\nNATURAL AREA means that portion of Town Lake Park that is preserved as a natural environment\nwith limited human activity. The following areas in Town Lake Park are natural areas:\n\n(a)\n\ntracts W-1, S-2B, S-2C, N-3A, and N-18 on the Park Classification Map;\n\n(b)\n\npark land located between the Colorado River shoreline and the crest of the bluff\nnorth of the Colorado River, from Longhorn Dam to U.S. 183 (Montopolis Bridge); and\n\n(c)\n\npark land northeast of Town Lake from Tom Miller Dam to the west boundary of Eilers\nPark and southwest of Town Lake from Tom Miller Dam to the Austin Nature Center.\n\n(6)\n\nTOWN LAKE PARK PLAN means the Town Lake Park Plan adopted by Ordinance No. 890126-P.\n\n(7)\n\nTOWN LAKE PARK means all the dedicated park land in the waterfront overlay zoning\ndistrict.\n\n(8)\n\nURBAN WATERFRONT means that portion of Town Lake Park that is adjacent to high-density\nurban development. Tracts N-12, N-13, and N-14 on the park classification map are\nurban waterfront areas.\n\nSource: Section 13-2-228.1; Ord. 990225-70; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Section 25-2-672",
+      "label": "SECTION_REF",
+      "start": 3,
+      "end": 19,
+      "normalized": {
+        "section": "25-2-672",
+        "subsection": null,
+        "full_reference": "25-2-672"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 744,
+      "end": 755,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 1026,
+      "end": 1033,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 3079,
+      "end": 3086,
+      "normalized": "limited"
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 3854,
+      "end": 3861,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Section 13-2-228.1",
+      "label": "SECTION_REF",
+      "start": 3977,
+      "end": 3995,
+      "normalized": {
+        "section": "13-2-228.1",
+        "subsection": null,
+        "full_reference": "13-2-228.1"
+      }
+    }
+  ]
+}

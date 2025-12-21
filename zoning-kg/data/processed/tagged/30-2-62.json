@@ -1,0 +1,61 @@
+{
+  "section_id": "30-2-62",
+  "content": "Ord. No. 20230831-142, Pt. 23, effective September 1, 2023, repealed the former § 30-2-62, and enacted\na new § 30-2-62 as set out herein. The former § 30-2-62 pertained to expiration of\napproved preliminary plan and derived from City Code Section 25-4-62 and City/County\nsubdivision agreement; Ord. 031211-11; Ord. 031211-42; Ord. 20120524-130.\n\nAn application for approval of a plat may include all or a portion of the land included\nin an approved preliminary plan.\n\nSource: City Code Section 25-4-81; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "§ 30-2-62",
+      "label": "SECTION_REF",
+      "start": 80,
+      "end": 89,
+      "normalized": {
+        "section": "30-2-62",
+        "subsection": null,
+        "full_reference": "30-2-62"
+      }
+    },
+    {
+      "text": "§ 30-2-62",
+      "label": "SECTION_REF",
+      "start": 109,
+      "end": 118,
+      "normalized": {
+        "section": "30-2-62",
+        "subsection": null,
+        "full_reference": "30-2-62"
+      }
+    },
+    {
+      "text": "§ 30-2-62",
+      "label": "SECTION_REF",
+      "start": 149,
+      "end": 158,
+      "normalized": {
+        "section": "30-2-62",
+        "subsection": null,
+        "full_reference": "30-2-62"
+      }
+    },
+    {
+      "text": "Section 25-4-62",
+      "label": "SECTION_REF",
+      "start": 239,
+      "end": 254,
+      "normalized": {
+        "section": "25-4-62",
+        "subsection": null,
+        "full_reference": "25-4-62"
+      }
+    },
+    {
+      "text": "Section 25-4-81",
+      "label": "SECTION_REF",
+      "start": 486,
+      "end": 501,
+      "normalized": {
+        "section": "25-4-81",
+        "subsection": null,
+        "full_reference": "25-4-81"
+      }
+    }
+  ]
+}

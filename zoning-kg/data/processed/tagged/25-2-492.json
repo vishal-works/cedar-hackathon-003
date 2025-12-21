@@ -1,0 +1,48 @@
+{
+  "section_id": "25-2-492",
+  "content": "A single-family residential use in a multi-family district must comply with the site\ndevelopment regulations for a family residence (SF-3) district prescribed by Section 25-2-492 (Site Development Regulations).\n\nSource: Ord. 041118-57.",
+  "entities": [
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 2,
+      "end": 15,
+      "normalized": "single_family"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 16,
+      "end": 27,
+      "normalized": "residential"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 37,
+      "end": 49,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "SF-3",
+      "label": "ZONE",
+      "start": 133,
+      "end": 137,
+      "normalized": {
+        "code": "SF-3",
+        "original": "SF-3"
+      }
+    },
+    {
+      "text": "Section 25-2-492",
+      "label": "SECTION_REF",
+      "start": 162,
+      "end": 178,
+      "normalized": {
+        "section": "25-2-492",
+        "subsection": null,
+        "full_reference": "25-2-492"
+      }
+    }
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "section_id": "30-3-25",
+  "content": "(A)\n\nThe platting official may grant a variance from the dedication requirements of Section 30-3-25 (Dedication Of Right-Of-Way) if the platting official determines that the requirements:\n\n(1)\n\nplace an undue hardship on the property owner because of special circumstances applicable\nto the property; or\n\n(2)\n\nrender the property unsuitable for an economically feasible use.\n\n(B)\n\nAn applicant may appeal the denial of a variance to the council or commissioners court,\nas appropriate.\n\nSource: City Code Section 25-6-86 ; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "Section 30-3-25",
+      "label": "SECTION_REF",
+      "start": 84,
+      "end": 99,
+      "normalized": {
+        "section": "30-3-25",
+        "subsection": null,
+        "full_reference": "30-3-25"
+      }
+    },
+    {
+      "text": "Section 25-6-86",
+      "label": "SECTION_REF",
+      "start": 504,
+      "end": 519,
+      "normalized": {
+        "section": "25-6-86",
+        "subsection": null,
+        "full_reference": "25-6-86"
+      }
+    }
+  ]
+}

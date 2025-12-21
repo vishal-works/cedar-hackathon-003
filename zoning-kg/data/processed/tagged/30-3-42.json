@@ -1,0 +1,56 @@
+{
+  "section_id": "30-3-42",
+  "content": "Ord. 031211-42.\n\n(A)\n\nNot later than the 90th day after the certification under Section 30-3-42 (Notice Of Waiver Request), the county executive, or in a near-term annexation area\nthe city manager, shall determine whether the city or county, as applicable, is able\nto acquire the reserved right-of-way that is the subject of a waiver request.\n\n(B)\n\nIf the city or county is not able acquire the property single office shall:\n\n(1)\n\nrelease the application from the requirement to comply with the requirements of this\narticle; or\n\n(2)\n\nif no application has been filed, grant the waiver request for the period of time\nthat the city or county, as applicable, is unable to acquire the reserved right-of-way.\n\n(C)\n\nIf the city or county is able acquire the reserved right-of-way, the single office\nshall deny the waiver. The single office may not approve the development application\nfor a period not to exceed six months, pending acquisition of the property. If the\ncity or county has not acquired the property during the six month period, the single\noffice shall continue to process the application.\n\nSource: City Code Section 25-6-83; County Code Section 82.202(f)(4)(B); Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "Section 30-3-42",
+      "label": "SECTION_REF",
+      "start": 80,
+      "end": 95,
+      "normalized": {
+        "section": "30-3-42",
+        "subsection": null,
+        "full_reference": "30-3-42"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 411,
+      "end": 417,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 786,
+      "end": 792,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 827,
+      "end": 833,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1046,
+      "end": 1052,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-6-83",
+      "label": "SECTION_REF",
+      "start": 1115,
+      "end": 1130,
+      "normalized": {
+        "section": "25-6-83",
+        "subsection": null,
+        "full_reference": "25-6-83"
+      }
+    }
+  ]
+}

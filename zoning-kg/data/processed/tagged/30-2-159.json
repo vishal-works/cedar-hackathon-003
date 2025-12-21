@@ -1,0 +1,50 @@
+{
+  "section_id": "30-2-159",
+  "content": "(A)\n\nExcept as provided in Section 30-2-159 (Private Streets) and Subsection (B), each lot in a subdivision shall abut a dedicated public street.\n\n(B)\n\nThe platting board may approve a variance to the requirement of Subsection (A), including\napproval of a subdivision with private access easements, if development of the subdivision\nwith the variance places a minimal burden on the existing road infrastructure and\nall other requirements for a variance are met.\n\n(C)\n\nChapter 30-3, Article 3 (Access) governs access to a lot:\n\n(1)\n\non a roadway designated as a major arterial, freeway, parkway, expressway, or toll\nroad in the transportation plan; or\n\n(2)\n\non a hill country roadway.\n\nSource: City Code Section 25-4-171; County Code Section 82.202(d); Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "Section 30-2-159",
+      "label": "SECTION_REF",
+      "start": 27,
+      "end": 43,
+      "normalized": {
+        "section": "30-2-159",
+        "subsection": null,
+        "full_reference": "30-2-159"
+      }
+    },
+    {
+      "text": "Chapter 30-3",
+      "label": "SECTION_REF",
+      "start": 468,
+      "end": 480,
+      "normalized": {
+        "type": "chapter",
+        "number": "30-3",
+        "full_reference": "Chapter 30-3"
+      }
+    },
+    {
+      "text": "Article 3",
+      "label": "SECTION_REF",
+      "start": 482,
+      "end": 491,
+      "normalized": {
+        "type": "article",
+        "number": 3,
+        "full_reference": "Article 3"
+      }
+    },
+    {
+      "text": "Section 25-4-171",
+      "label": "SECTION_REF",
+      "start": 703,
+      "end": 719,
+      "normalized": {
+        "section": "25-4-171",
+        "subsection": null,
+        "full_reference": "25-4-171"
+      }
+    }
+  ]
+}

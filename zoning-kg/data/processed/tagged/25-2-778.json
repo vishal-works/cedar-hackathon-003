@@ -1,0 +1,147 @@
+{
+  "section_id": "25-2-778",
+  "content": "Ord. 20080618-093; Ord. No. 20150212-085, Pt. 2, 2-23-15; Ord. No. 20151015-071, Pt. 1, 10-26-15; Ord. No. 20240516-004, Pt. 2, 7-15-24.\n\n1.4.1.\n\nTo the extent of conflict, this Subchapter supersedes:\n\nA.\n\nSection 25-1-21 (Definitions);\n\nB.\n\nSection 25-2-492 (Site Development Regulations);\n\nC.\n\nSection 25-2-555 (Family Residence (SF-3) District Regulations);\n\nD.\n\nSection 25-2-773 (Duplex, Two-Unit and Three-Unit Residential Uses);\n\nE.\n\nSection 25-2-778 (Front Yard Setback for Certain Residential Uses);\n\nF.\n\nSection 25-2-779 (Small Lot Single-Family Residential Uses); and\n\nG.\n\nSection 25-4-232 (Small Lot Subdivisions).\n\n1.4.2.\n\nTo the extent of conflict, the following provisions supersede this Subchapter:\n\nA.\n\nSection 25-2-1424 (Urban Home Regulations);\n\nB.\n\nSection 25-2-1444 (Cottage Regulations);\n\nC.\n\nSection 25-2-1463 (Secondary Apartment Regulations); or\n\nD.\n\nThe provisions of an ordinance designating property as a:\n\n1.\n\nNeighborhood plan (NP) combining district;\n\n2.\n\nNeighborhood conservation (NC) combining district; or\n\n3.\n\nHistoric area (HD) combining district.\n\nSource: Ord. 20060216-043; Ord. 20060309-058; Ord. 20060622-022; Ord. 20060928-022;",
+  "entities": [
+    {
+      "text": "Section 25-1-21",
+      "label": "SECTION_REF",
+      "start": 206,
+      "end": 221,
+      "normalized": {
+        "section": "25-1-21",
+        "subsection": null,
+        "full_reference": "25-1-21"
+      }
+    },
+    {
+      "text": "Section 25-2-492",
+      "label": "SECTION_REF",
+      "start": 242,
+      "end": 258,
+      "normalized": {
+        "section": "25-2-492",
+        "subsection": null,
+        "full_reference": "25-2-492"
+      }
+    },
+    {
+      "text": "Section 25-2-555",
+      "label": "SECTION_REF",
+      "start": 296,
+      "end": 312,
+      "normalized": {
+        "section": "25-2-555",
+        "subsection": null,
+        "full_reference": "25-2-555"
+      }
+    },
+    {
+      "text": "SF-3",
+      "label": "ZONE",
+      "start": 332,
+      "end": 336,
+      "normalized": {
+        "code": "SF-3",
+        "original": "SF-3"
+      }
+    },
+    {
+      "text": "Section 25-2-773",
+      "label": "SECTION_REF",
+      "start": 366,
+      "end": 382,
+      "normalized": {
+        "section": "25-2-773",
+        "subsection": null,
+        "full_reference": "25-2-773"
+      }
+    },
+    {
+      "text": "Section 25-2-778",
+      "label": "SECTION_REF",
+      "start": 440,
+      "end": 456,
+      "normalized": {
+        "section": "25-2-778",
+        "subsection": null,
+        "full_reference": "25-2-778"
+      }
+    },
+    {
+      "text": "Front Yard",
+      "label": "METRIC",
+      "start": 458,
+      "end": 468,
+      "normalized": "front_yard_setback_min"
+    },
+    {
+      "text": "Setback",
+      "label": "METRIC",
+      "start": 469,
+      "end": 476,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "Section 25-2-779",
+      "label": "SECTION_REF",
+      "start": 513,
+      "end": 529,
+      "normalized": {
+        "section": "25-2-779",
+        "subsection": null,
+        "full_reference": "25-2-779"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 541,
+      "end": 554,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Section 25-4-232",
+      "label": "SECTION_REF",
+      "start": 583,
+      "end": 599,
+      "normalized": {
+        "section": "25-4-232",
+        "subsection": null,
+        "full_reference": "25-4-232"
+      }
+    },
+    {
+      "text": "Section 25-2-1424",
+      "label": "SECTION_REF",
+      "start": 719,
+      "end": 736,
+      "normalized": {
+        "section": "25-2-1424",
+        "subsection": null,
+        "full_reference": "25-2-1424"
+      }
+    },
+    {
+      "text": "Section 25-2-1444",
+      "label": "SECTION_REF",
+      "start": 768,
+      "end": 785,
+      "normalized": {
+        "section": "25-2-1444",
+        "subsection": null,
+        "full_reference": "25-2-1444"
+      }
+    },
+    {
+      "text": "Section 25-2-1463",
+      "label": "SECTION_REF",
+      "start": 814,
+      "end": 831,
+      "normalized": {
+        "section": "25-2-1463",
+        "subsection": null,
+        "full_reference": "25-2-1463"
+      }
+    }
+  ]
+}

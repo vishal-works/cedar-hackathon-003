@@ -1,0 +1,3906 @@
+{
+  "section_id": "chapter-25-2",
+  "content": "## CHAPTER 25-2. - ZONING.\n\n§ 25-1-1010 - RECOMMENDATION CRITERIA.\nCHAPTER 25-3. - TRADITIONAL NEIGHBORHOOD DISTRICT.\n\n* CHAPTER 25-2. - ZONING.\n* SUBCHAPTER A. - ZONING USES, DISTRICTS, AND MAP; DISTRICT DESIGNATIONS.\n* ARTICLE 1. - ZONING USES.\n* § 25-2-1 - USE CLASSIFICATIONS.\n* § 25-2-2 - DETERMINATION OF USE CLASSIFICATION.\n* § 25-2-3 - RESIDENTIAL USES DESCRIBED.\n* § 25-2-4 - COMMERCIAL USES DESCRIBED.\n* § 25-2-5 - INDUSTRIAL USES DESCRIBED.\n* § 25-2-6 - CIVIC USES DESCRIBED.\n* § 25-2-7 - AGRICULTURAL USES DESCRIBED.\n* ARTICLE 2. - ZONING DISTRICTS.\n* Division 1. - Districts Generally.\n* § 25-2-31 - PURPOSE OF DISTRICTS.\n* § 25-2-32 - ZONING DISTRICTS AND MAP CODES.\n* § 25-2-33 - HIERARCHY OF BASE DISTRICTS.\n* Division 2. - Residential Base Districts.\n* § 25-2-51 - PURPOSES OF RESIDENTIAL DISTRICTS.\n* § 25-2-52 - RESIDENTIAL DISTRICT DESIGNATIONS GENERALLY.\n* § 25-2-53 - LAKE AUSTIN RESIDENCE (LA) DISTRICT DESIGNATION.\n* § 25-2-54 - RURAL RESIDENCE (RR) DISTRICT DESIGNATION.\n* § 25-2-55 - SINGLE FAMILY RESIDENCE LARGE LOT (SF-1) DISTRICT DESIGNATION.\n* § 25-2-56 - SINGLE FAMILY RESIDENCE STANDARD LOT (SF-2) DISTRICT DESIGNATION.\n* § 25-2-57 - FAMILY RESIDENCE (SF-3) DISTRICT DESIGNATION.\n* § 25-2-58 - SINGLE FAMILY RESIDENCE SMALL LOT (SF-4A) DISTRICT DESIGNATION.\n* § 25-2-59 - SINGLE FAMILY RESIDENCE CONDOMINIUM SITE (SF-4B) DISTRICT DESIGNATION.\n* § 25-2-60 - URBAN FAMILY RESIDENCE (SF-5) DISTRICT DESIGNATION.\n* § 25-2-61 - TOWNHOUSE AND CONDOMINIUM RESIDENCE (SF-6) DISTRICT DESIGNATION.\n* § 25-2-62 - MULTIFAMILY RESIDENCE LIMITED DENSITY (MF-1) DISTRICT DESIGNATION.\n* § 25-2-63 - MULTIFAMILY RESIDENCE LOW DENSITY (MF-2) DISTRICT DESIGNATION.\n* § 25-2-64 - MULTIFAMILY RESIDENCE MEDIUM DENSITY (MF-3) DISTRICT DESIGNATION.\n* § 25-2-65 - MULTIFAMILY RESIDENCE MODERATE - HIGH DENSITY (MF-4) DISTRICT DESIGNATION.\n* § 25-2-66 - MULTIFAMILY RESIDENCE HIGH DENSITY (MF-5) DISTRICT DESIGNATION.\n* § 25-2-67 - MULTIFAMILY RESIDENCE HIGHEST DENSITY (MF-6) DISTRICT DESIGNATION.\n* § 25-2-68 - MOBILE HOME RESIDENCE (MH) DISTRICT DESIGNATION.\n* Division 3. - Commercial Base Districts.\n* § 25-2-91 - PURPOSES OF COMMERCIAL DISTRICTS DESIGNATIONS.\n* § 25-2-92 - COMMERCIAL DISTRICT DESIGNATIONS GENERALLY.\n* § 25-2-93 - NEIGHBORHOOD OFFICE (NO) DISTRICT DESIGNATION.\n* § 25-2-94 - LIMITED OFFICE (LO) DISTRICT DESIGNATION.\n* § 25-2-95 - GENERAL OFFICE (GO) DISTRICT DESIGNATION.\n* § 25-2-96 - COMMERCIAL RECREATION (CR) DISTRICT DESIGNATION.\n* § 25-2-97 - NEIGHBORHOOD COMMERCIAL (LR) DISTRICT DESIGNATION.\n* § 25-2-98 - COMMUNITY COMMERCIAL (GR) DISTRICT DESIGNATION.\n* § 25-2-99 - LAKE COMMERCIAL (L) DISTRICT DESIGNATION.\n* § 25-2-100 - CENTRAL BUSINESS DISTRICT (CBD) DESIGNATION.\n* § 25-2-101 - DOWNTOWN MIXED USE (DMU) DISTRICT DESIGNATION.\n* § 25-2-102 - WAREHOUSE/LIMITED OFFICE (W/LO) DISTRICT DESIGNATION.\n* § 25-2-103 - GENERAL COMMERCIAL SERVICES (CS) DISTRICT DESIGNATION.\n* § 25-2-104 - COMMERCIAL-LIQUOR SALES (CS-1) DISTRICT DESIGNATION.\n* § 25-2-105 - COMMERCIAL HIGHWAY SERVICES (CH) DISTRICT DESIGNATION.\n* Division 4. - Industrial Base Districts.\n* § 25-2-121 - PURPOSES OF INDUSTRIAL DISTRICT DESIGNATIONS.\n* § 25-2-122 - INDUSTRIAL DISTRICT DESIGNATIONS GENERALLY.\n* § 25-2-123 - INDUSTRIAL PARK (IP) DISTRICT DESIGNATION.\n* § 25-2-124 - MAJOR INDUSTRY (MI) DISTRICT DESIGNATION.\n* § 25-2-125 - LIMITED INDUSTRIAL SERVICE (LI) DISTRICT DESIGNATION.\n* § 25-2-126 - RESEARCH AND DEVELOPMENT (R&D) DISTRICT DESIGNATION.\n* Division 5. - Special Purpose Base Districts.\n* § 25-2-141 - AGRICULTURAL (AG) DISTRICT DESIGNATION.\n* § 25-2-142 - AVIATION SERVICES (AV) DISTRICT DESIGNATION.\n* § 25-2-143 - DEVELOPMENT RESERVE (DR) DISTRICT DESIGNATION.\n* § 25-2-144 - PLANNED UNIT DEVELOPMENT (PUD) DISTRICT DESIGNATION.\n* § 25-2-145 - PUBLIC (P) DISTRICT DESIGNATION.\n* § 25-2-146 - TRADITIONAL NEIGHBORHOOD (TN) DISTRICT.\n* § 25-2-147 - TRANSIT ORIENTED DEVELOPMENT (TOD) DISTRICT.\n* § 25-2-148 - NORTH BURNET/GATEWAY (NBG) DISTRICT.\n* § 25-2-149 - EAST RIVERSIDE CORRIDOR (ERC) DISTRICT.\n* Division 6. - Combining and Overlay Districts.\n* § 25-2-161 - CAPITOL DOMINANCE (CD) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-162 - CAPITOL VIEW CORRIDOR (CVC) OVERLAY DISTRICT PURPOSE.\n* § 25-2-163 - CENTRAL URBAN REDEVELOPMENT (CURE) COMBINING DISTRICT PURPOSE.\n* § 25-2-164 - CONDITIONAL OVERLAY (CO) COMBINING DISTRICT PURPOSE.\n* § 25-2-165 - CONGRESS AVENUE (CA) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-166 - CONVENTION CENTER (CC) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-167 - DOWNTOWN CREEKS (DC) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-168 - DOWNTOWN PARKS (DP) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-169 - EAST AUSTIN (EA) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-170 - EAST SIXTH/PECAN STREET (PS) OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-171 - HISTORIC LANDMARK (H) COMBINING DISTRICT AND HISTORIC AREA (HD) COMBINING DISTRICT PURPOSES.\n* § 25-2-172 - MIXED USE (MU) COMBINING DISTRICT AND VERTICAL MIXED USE (VMU) OVERLAY DISTRICT.\n* § 25-2-173 - NEIGHBORHOOD CONSERVATION (NC) COMBINING DISTRICT PURPOSE.\n* § 25-2-174 - PLANNED DEVELOPMENT AREA (PDA) COMBINING DISTRICT PURPOSE.\n* § 25-2-175 - WATERFRONT OVERLAY (WO) DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-176 - NEIGHBORHOOD PLAN (NP) COMBINING DISTRICT PURPOSE.\n* § 25-2-177 - CRIMINAL JUSTICE CENTER OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-178 - BARTON SPRINGS ZONE OVERLAY DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-179 - UNIVERSITY NEIGHBORHOOD OVERLAY (UNO) DISTRICT PURPOSE AND BOUNDARIES.\n* § 25-2-180 - LAKE AUSTIN (LA) OVERLAY DISTRICT.\n* § 25-2-181 - DENSITY BONUS COMBINING DISTRICTS.\n* § 25-2-182 - EQUITABLE TRANSIT-ORIENTED DEVELOPMENT (ETOD) COMBINING DISTRICT PURPOSE AND BOUNDARIES.\n* ARTICLE 3. - ZONING MAP.\n* § 25-2-191 - ZONING MAP.\n* § 25-2-192 - DETERMINATION OF DISTRICT BOUNDARIES.\n* SUBCHAPTER B. - ZONING PROCEDURES; SPECIAL REQUIREMENTS FOR CERTAIN DISTRICTS.\n* ARTICLE 1. - ZONING PROCEDURES GENERALLY.\n* Division 1. - District Designations.\n* § 25-2-221 - DISTRICT DESIGNATION REQUIREMENTS.\n* § 25-2-222 - DESIGNATION OF ANNEXED LAND.\n* Division 2. - Applications.\n* § 25-2-241 - DISTINCTION BETWEEN ZONING AND REZONING.\n* § 25-2-242 - INITIATION OF ZONING OR REZONING.\n* § 25-2-243 - PROPOSED DISTRICT BOUNDARIES MUST BE CONTIGUOUS.\n* § 25-2-244 - REZONING TO REPLACE A PUBLIC RESTRICTIVE COVENANT WITH A CONDITIONAL OVERLAY.\n* § 25-2-245 - CONCURRENT PROCESSING OF MULTIPLE APPLICATIONS.\n* § 25-2-246 - EXPIRATION OF APPLICATION.\n* § 25-2-247 - RESTRICTIONS ON NEW APPLICATIONS.\n* Division 3. - Notice of Filing; Director's Report.\n* § 25-2-261 - NOTICE OF APPLICATION FILING.\n* § 25-2-262 - DIRECTOR'S REPORT.\n* Division 4. - Public Hearing; Action.\n* § 25-2-281 - SCHEDULING OF PUBLIC HEARING.\n* § 25-2-282 - LAND USE COMMISSION PUBLIC HEARING AND RECOMMENDATION.\n* § 25-2-283 - CITY COUNCIL ZONING HEARING AND ACTION.\n* § 25-2-284 - REQUIREMENT FOR APPROVAL BY THREE-FOURTHS OF COUNCIL.\n* ARTICLE 2. - SPECIAL REQUIREMENTS FOR CERTAIN DISTRICTS.\n* Division 1. - Central Urban Redevelopment Combining Districts.\n* § 25-2-311 - CENTRAL URBAN REDEVELOPMENT (CURE) COMBINING DISTRICT APPLICABILITY.\n* § 25-2-312 - CURE COMBINING DISTRICT REGULATIONS.\n* Division 2. - Conditional Overlay Combining Districts.\n* § 25-2-331 - CONDITIONAL OVERLAY (CO) COMBINING DISTRICTS GENERALLY.\n* § 25-2-332 - CONDITIONAL OVERLAY (CO) COMBINING DISTRICT REGULATIONS.\n* § 25-2-333 - SPECIAL NOTICE FOR CONDITIONAL OVERLAY (CO) COMBINING DISTRICT.\n* Division 3. - Historic Landmarks And Historic Area Districts.\n* § 25-2-350 - DEFINITIONS.\n* § 25-2-351 - LIMITS ON APPLICATIONS FOR HISTORIC DESIGNATION.\n* § 25-2-352 - HISTORIC DESIGNATION CRITERIA.\n* § 25-2-353 - APPLICATION REQUIREMENTS.\n* § 25-2-354 - HISTORIC LANDMARK COMMISSION PUBLIC HEARING REQUIREMENT.\n* § 25-2-355 - HISTORIC LANDMARK COMMISSION REVIEW.\n* § 25-2-356 - HISTORIC AREA COMBINING DISTRICT ORDINANCE.\n* § 25-2-357 - DESIGNATION ON ZONING MAP.\n* § 25-2-358 - NOTICE OF DESIGNATION TO TAX APPRAISAL DISTRICT.\n* § 25-2-359 - MEDALLIONS.\n* Division 4. - Neighborhood Conservation Combining Districts.\n* § 25-2-371 - NEIGHBORHOOD CONSERVATION (NC) COMBINING DISTRICT REGULATIONS.\n* § 25-2-372 - REQUEST BY NEIGHBORHOOD ORGANIZATION.\n* § 25-2-373 - NEIGHBORHOOD PLANS.\n* § 25-2-374 - PUBLIC HEARINGS; NOTICE.\n* § 25-2-375 - REQUIREMENT FOR APPROVAL BY THREE-FOURTHS OF COUNCIL.\n* Division 5. - Planned Unit Developments.\n* Subpart A. - General Provisions.\n* § 1.1. - GENERAL INTENT.\n* § 1.2. - COUNCIL AUTHORITY.\n* § 1.3. - PRE-APPLICATION FILING REQUIREMENTS AND REVIEW CRITERIA.\n* § 1.4. - LAND USE PLAN.\n* § 1.5. - PLANNED UNIT DEVELOPMENTS APPROVED BEFORE DECEMBER 15, 1988.\n* § 1.6. - PLANNED UNIT DEVELOPMENTS IN THE EXTRATERRITORIAL JURISDICTION.\n* Subpart B. - Planned Unit Development Standards.\n* § 2.1. - COMPLIANCE REQUIRED.\n* § 2.2. - MODIFICATION BY COUNCIL.\n* § 2.3. - TIER ONE REQUIREMENTS.\n* § 2.4. - TIER TWO REQUIREMENTS.\n* § 2.5. - DEVELOPMENT BONUSES.\n* Subpart C. - Land Use Plan; Regulations; Variances.\n* § 3.1. - LAND USE PLAN EXPIRATION AND AMENDMENT.\n* § 3.2. - PLANNED UNIT DEVELOPMENT REGULATIONS.\n* Subpart D. - Development Applications.\n* § 4.1. - CONCURRENT CONSIDERATION OF DEVELOPMENT APPLICATIONS.\n* § 4.2 - RESERVED.\n* § 4.3. - REZONING IF DEVELOPMENT APPLICATIONS EXPIRE OR ARE NOT APPROVED.\n* Division 6. - Planned Development Areas.\n* § 25-2-441 - PLANNED DEVELOPMENT AREAS GENERALLY.\n* Division 7. - Density Bonus Creative Spaces Districts.\n* § 25-2-451 - DEFINITIONS.\n* § 25-2-452 - APPLICATIONS AND CRITERIA FOR DISTRICT DESIGNATION.\n* § 25-2-453 - LAND USE COMMISSION REVIEW.\n* § 25-2-454 - DISTRICT DESIGNATION ORDINANCE AND DESIGNATION ON ZONING MAP.\n* SUBCHAPTER C. - USE AND DEVELOPMENT REGULATIONS.\n* ARTICLE 1. - GENERAL PROVISIONS.\n* § 25-2-471 - INTERPRETATION GUIDELINES.\n* § 25-2-472 - BOARD OF ADJUSTMENT VARIANCE AUTHORITY.\n* § 25-2-473 - VARIANCE REQUIREMENTS.\n* § 25-2-474 - REQUIRED FINDINGS.\n* § 25-2-475 - APPEALS.\n* § 25-2-476 - SPECIAL EXCEPTIONS.\n* ARTICLE 2. - PRINCIPAL USE AND DEVELOPMENT REGULATIONS.\n* Division 1. - Regulation Tables.\n* § 25-2-491 - PERMITTED, CONDITIONAL, AND PROHIBITED USES.\n* § 25-2-492 - SITE DEVELOPMENT REGULATIONS.\n* Division 2. - Requirements for All Districts.\n* § 25-2-511 - RESERVED.\n* § 25-2-512 - LOT SIZE MINIMUM.\n* § 25-2-513 - OPENNESS OF REQUIRED YARDS.\n* § 25-2-514 - (RESERVED).\n* § 25-2-515 - REAR YARD OF THROUGH LOT.\n* § 25-2-516 - DEVELOPMENT NEAR A HAZARDOUS PIPELINE.\n* § 25-2-517 - REQUIREMENTS FOR AMPHITHEATERS.\n* § 25-2-518 - QUALIFYING DEVELOPMENT.\n* § 25-2-519 - RESERVED\n* Division 3. - Exceptions.\n* § 25-2-531 - HEIGHT LIMIT EXCEPTIONS.\n* § 25-2-532 - IMPERVIOUS COVER LIMIT EXCEPTIONS.\n* § 25-2-533 - STREET YARD EXCEPTIONS IN CERTAIN COMMERCIAL AREAS.\n* § 25-2-534 - QUALIFYING DEVELOPMENT EXCEPTIONS.\n* ARTICLE 3. - ADDITIONAL REQUIREMENTS FOR CERTAIN DISTRICTS.\n* Division 1. - Residential Districts.\n* § 25-2-551 - LAKE AUSTIN (LA) DISTRICT REGULATIONS.\n* § 25-2-552 - RURAL RESIDENCE (RR) DISTRICT REGULATIONS.\n* § 25-2-553 - SINGLE-FAMILY RESIDENCE LARGE LOT (SF-1) DISTRICT REGULATIONS.\n* § 25-2-554 - SINGLE-FAMILY RESIDENCE STANDARD LOT (SF-2) DISTRICT REGULATIONS.\n* § 25-2-555 - FAMILY RESIDENCE (SF-3) DISTRICT REGULATIONS.\n* § 25-2-556 - ADDITIONAL IMPERVIOUS COVER IN SINGLE-FAMILY STANDARD LOT (SF-2) AND FAMILY RESIDENCE (SF-3) DISTRICTS.\n* § 25-2-557 - RESERVED.\n* § 25-2-558 - SINGLE-FAMILY RESIDENCE CONDOMINIUM SITE (SF-4B) DISTRICT REGULATIONS.\n* § 25-2-559 - URBAN FAMILY RESIDENCE (SF-5) DISTRICT OR TOWNHOUSE AND CONDOMINIUM RESIDENCE (SF-6) DISTRICT RETIREMENT HOUSING USE.\n* § 25-2-560 - MULTIFAMILY RESIDENCE LIMITED DENSITY (MF-1) DISTRICT REGULATIONS.\n* § 25-2-561 - MULTIFAMILY RESIDENCE LOW DENSITY (MF-2) DISTRICT REGULATIONS.\n* § 25-2-562 - MULTIFAMILY RESIDENCE MEDIUM DENSITY (MF-3) DISTRICT REGULATIONS.\n* § 25-2-563 - MULTIFAMILY RESIDENCE MODERATE-HIGH DENSITY (MF-4) AND MULTIFAMILY RESIDENCE HIGH DENSITY (MF-5) DISTRICT REGULATIONS.\n* § 25-2-564 - (RESERVED).\n* § 25-2-565 - SPECIAL SETBACK REQUIREMENTS FOR CERTAIN RESIDENTIAL PROPERTY.\n* § 25-2-566 - SPECIAL REQUIREMENTS FOR AFFORDABLE HOUSING IN CERTAIN SINGLE FAMILY DISTRICTS.\n* § 25-2-567 - SPECIAL REQUIREMENTS FOR AFFORDABLE HOUSING IN CERTAIN MULTIFAMILY DISTRICTS.\n* Division 2. - Commercial Districts.\n* Subpart A. - General Requirements.\n* § 25-2-581 - CENTRAL BUSINESS DISTRICT (CBD) DISTRICT REGULATIONS.\n* § 25-2-582 - COMMERCIAL HIGHWAY (CH) DISTRICT REGULATIONS.\n* § 25-2-583 - COMMERCIAL RECREATION (CR) DISTRICT REGULATIONS.\n* § 25-2-584 - WAREHOUSE/LIMITED OFFICE (W/LO) DISTRICT REGULATIONS.\n* § 25-2-585 - SPECIAL REQUIREMENTS FOR BUILDINGS IN CERTAIN COMMERCIAL DISTRICTS.\n* § 25-2-586 - DOWNTOWN DENSITY BONUS PROGRAM.\n* § 25-2-587 - REQUIREMENTS FOR CERTAIN USES IN A NEIGHBORHOOD COMMERCIAL (LR) DISTRICT.\n* § 25-2-588 - REQUIREMENTS FOR CERTAIN USES IN A LIMITED OFFICE (LO) DISTRICT.\n* § 25-2-589 - OFF-STREET ACCESSORY PARKING IN DOWNTOWN MIXED USE (DMU).\n* Subpart B. - Downtown Design.\n* § 25-2-591 - APPLICABILITY.\n* § 25-2-592 - DRIVE-IN SERVICES.\n* § 25-2-593 - SITE PLAN AND CONSTRUCTION REQUIREMENTS.\n* § 25-2-594 - MAXIMUM SETBACK REQUIREMENT.\n* Division 3. - Industrial Districts.\n* § 25-2-601 - INDUSTRIAL PARK (IP), MAJOR INDUSTRY (MI), AND LIMITED INDUSTRIAL SERVICE (LI) DISTRICT REGULATIONS.\n* § 25-2-602 - RESEARCH AND DEVELOPMENT (R&D) DISTRICT USES.\n* § 25-2-603 - RESEARCH AND DEVELOPMENT (R&D) DISTRICT REGULATIONS.\n* Division 4. - Special Purpose Districts.\n* § 25-2-621 - AGRICULTURAL (AG) DISTRICT REGULATIONS.\n* § 25-2-622 - AVIATION SERVICES (AV) DISTRICT USES.\n* § 25-2-623 - AVIATION SERVICES (AV) DISTRICT REGULATIONS.\n* § 25-2-624 - PUBLIC (P) DISTRICT USES.\n* § 25-2-625 - PUBLIC (P) DISTRICT REGULATIONS.\n* Division 5. - Combining and Overlay Districts.\n* § 25-2-641 - CAPITOL DOMINANCE (CD) COMBINING DISTRICT REGULATIONS.\n* § 25-2-642 - CAPITOL VIEW CORRIDOR (CVC) OVERLAY DISTRICT REGULATIONS.\n* § 25-2-643 - CONGRESS AVENUE (CA), EAST SIXTH/PECAN STREET (PS), DOWNTOWN PARKS (DP), AND DOWNTOWN CREEKS (DC) COMBINING DISTRICT REGULATIONS.\n* § 25-2-644 - CONVENTION CENTER (CC) COMBINING DISTRICT REGULATIONS.\n* § 25-2-645 - EAST AUSTIN (EA) OVERLAY DISTRICT USE RESTRICTIONS.\n* § 25-2-646 - RESERVED.\n* § 25-2-647 - LAKE AUSTIN (LA) OVERLAY DISTRICT REGULATIONS.\n* § 25-2-648 - PLANNED DEVELOPMENT AREA (PDA) PERFORMANCE STANDARDS.\n* § 25-2-649 - PLANNED DEVELOPMENT AREA (PDA) APPROVED BEFORE JANUARY 1, 1985.\n* § 25-2-650 - CRIMINAL JUSTICE CENTER (CJC) OVERLAY DISTRICT REGULATIONS.\n\n§ 25-1-1010 - RECOMMENDATION CRITERIA.\nCHAPTER 25-3. - TRADITIONAL NEIGHBORHOOD DISTRICT.\n",
+  "entities": [
+    {
+      "text": "CHAPTER 25-2",
+      "label": "SECTION_REF",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "§ 25-1-1010",
+      "label": "SECTION_REF",
+      "start": 28,
+      "end": 39,
+      "normalized": {
+        "section": "25-1-1010",
+        "subsection": null,
+        "full_reference": "25-1-1010"
+      }
+    },
+    {
+      "text": "CHAPTER 25-3",
+      "label": "SECTION_REF",
+      "start": 67,
+      "end": 79,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-3",
+        "full_reference": "Chapter 25-3"
+      }
+    },
+    {
+      "text": "CHAPTER 25-2",
+      "label": "SECTION_REF",
+      "start": 121,
+      "end": 133,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "ARTICLE 1",
+      "label": "SECTION_REF",
+      "start": 221,
+      "end": 230,
+      "normalized": {
+        "type": "article",
+        "number": 1,
+        "full_reference": "Article 1"
+      }
+    },
+    {
+      "text": "§ 25-2-1",
+      "label": "SECTION_REF",
+      "start": 249,
+      "end": 257,
+      "normalized": {
+        "section": "25-2-1",
+        "subsection": null,
+        "full_reference": "25-2-1"
+      }
+    },
+    {
+      "text": "§ 25-2-2",
+      "label": "SECTION_REF",
+      "start": 283,
+      "end": 291,
+      "normalized": {
+        "section": "25-2-2",
+        "subsection": null,
+        "full_reference": "25-2-2"
+      }
+    },
+    {
+      "text": "§ 25-2-3",
+      "label": "SECTION_REF",
+      "start": 333,
+      "end": 341,
+      "normalized": {
+        "section": "25-2-3",
+        "subsection": null,
+        "full_reference": "25-2-3"
+      }
+    },
+    {
+      "text": "§ 25-2-4",
+      "label": "SECTION_REF",
+      "start": 374,
+      "end": 382,
+      "normalized": {
+        "section": "25-2-4",
+        "subsection": null,
+        "full_reference": "25-2-4"
+      }
+    },
+    {
+      "text": "§ 25-2-5",
+      "label": "SECTION_REF",
+      "start": 414,
+      "end": 422,
+      "normalized": {
+        "section": "25-2-5",
+        "subsection": null,
+        "full_reference": "25-2-5"
+      }
+    },
+    {
+      "text": "§ 25-2-6",
+      "label": "SECTION_REF",
+      "start": 454,
+      "end": 462,
+      "normalized": {
+        "section": "25-2-6",
+        "subsection": null,
+        "full_reference": "25-2-6"
+      }
+    },
+    {
+      "text": "§ 25-2-7",
+      "label": "SECTION_REF",
+      "start": 489,
+      "end": 497,
+      "normalized": {
+        "section": "25-2-7",
+        "subsection": null,
+        "full_reference": "25-2-7"
+      }
+    },
+    {
+      "text": "ARTICLE 2",
+      "label": "SECTION_REF",
+      "start": 531,
+      "end": 540,
+      "normalized": {
+        "type": "article",
+        "number": 2,
+        "full_reference": "Article 2"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 564,
+      "end": 574,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "§ 25-2-31",
+      "label": "SECTION_REF",
+      "start": 601,
+      "end": 610,
+      "normalized": {
+        "section": "25-2-31",
+        "subsection": null,
+        "full_reference": "25-2-31"
+      }
+    },
+    {
+      "text": "§ 25-2-32",
+      "label": "SECTION_REF",
+      "start": 637,
+      "end": 646,
+      "normalized": {
+        "section": "25-2-32",
+        "subsection": null,
+        "full_reference": "25-2-32"
+      }
+    },
+    {
+      "text": "§ 25-2-33",
+      "label": "SECTION_REF",
+      "start": 683,
+      "end": 692,
+      "normalized": {
+        "section": "25-2-33",
+        "subsection": null,
+        "full_reference": "25-2-33"
+      }
+    },
+    {
+      "text": "Division 2",
+      "label": "SECTION_REF",
+      "start": 726,
+      "end": 736,
+      "normalized": {
+        "type": "division",
+        "number": 2,
+        "full_reference": "Division 2"
+      }
+    },
+    {
+      "text": "§ 25-2-51",
+      "label": "SECTION_REF",
+      "start": 770,
+      "end": 779,
+      "normalized": {
+        "section": "25-2-51",
+        "subsection": null,
+        "full_reference": "25-2-51"
+      }
+    },
+    {
+      "text": "§ 25-2-52",
+      "label": "SECTION_REF",
+      "start": 819,
+      "end": 828,
+      "normalized": {
+        "section": "25-2-52",
+        "subsection": null,
+        "full_reference": "25-2-52"
+      }
+    },
+    {
+      "text": "§ 25-2-53",
+      "label": "SECTION_REF",
+      "start": 878,
+      "end": 887,
+      "normalized": {
+        "section": "25-2-53",
+        "subsection": null,
+        "full_reference": "25-2-53"
+      }
+    },
+    {
+      "text": "LAKE AUSTIN",
+      "label": "ZONE",
+      "start": 890,
+      "end": 901,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "LAKE AUSTIN"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 913,
+      "end": 915,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "§ 25-2-54",
+      "label": "SECTION_REF",
+      "start": 941,
+      "end": 950,
+      "normalized": {
+        "section": "25-2-54",
+        "subsection": null,
+        "full_reference": "25-2-54"
+      }
+    },
+    {
+      "text": "RURAL RESIDENCE",
+      "label": "ZONE",
+      "start": 953,
+      "end": 968,
+      "normalized": {
+        "code": "RR",
+        "name": "rural residence",
+        "original": "RURAL RESIDENCE"
+      }
+    },
+    {
+      "text": "RR",
+      "label": "ZONE",
+      "start": 970,
+      "end": 972,
+      "normalized": {
+        "code": "RR",
+        "original": "RR"
+      }
+    },
+    {
+      "text": "§ 25-2-55",
+      "label": "SECTION_REF",
+      "start": 998,
+      "end": 1007,
+      "normalized": {
+        "section": "25-2-55",
+        "subsection": null,
+        "full_reference": "25-2-55"
+      }
+    },
+    {
+      "text": "SINGLE FAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1010,
+      "end": 1033,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "SINGLE FAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 1040,
+      "end": 1043,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "SF-1",
+      "label": "ZONE",
+      "start": 1045,
+      "end": 1049,
+      "normalized": {
+        "code": "SF-1",
+        "original": "SF-1"
+      }
+    },
+    {
+      "text": "§ 25-2-56",
+      "label": "SECTION_REF",
+      "start": 1075,
+      "end": 1084,
+      "normalized": {
+        "section": "25-2-56",
+        "subsection": null,
+        "full_reference": "25-2-56"
+      }
+    },
+    {
+      "text": "SINGLE FAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1087,
+      "end": 1110,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "SINGLE FAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 1120,
+      "end": 1123,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "SF-2",
+      "label": "ZONE",
+      "start": 1125,
+      "end": 1129,
+      "normalized": {
+        "code": "SF-2",
+        "original": "SF-2"
+      }
+    },
+    {
+      "text": "§ 25-2-57",
+      "label": "SECTION_REF",
+      "start": 1155,
+      "end": 1164,
+      "normalized": {
+        "section": "25-2-57",
+        "subsection": null,
+        "full_reference": "25-2-57"
+      }
+    },
+    {
+      "text": "SF-3",
+      "label": "ZONE",
+      "start": 1185,
+      "end": 1189,
+      "normalized": {
+        "code": "SF-3",
+        "original": "SF-3"
+      }
+    },
+    {
+      "text": "§ 25-2-58",
+      "label": "SECTION_REF",
+      "start": 1215,
+      "end": 1224,
+      "normalized": {
+        "section": "25-2-58",
+        "subsection": null,
+        "full_reference": "25-2-58"
+      }
+    },
+    {
+      "text": "SINGLE FAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1227,
+      "end": 1250,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "SINGLE FAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 1257,
+      "end": 1260,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "SF-4A",
+      "label": "ZONE",
+      "start": 1262,
+      "end": 1267,
+      "normalized": {
+        "code": "SF-4A",
+        "original": "SF-4A"
+      }
+    },
+    {
+      "text": "§ 25-2-59",
+      "label": "SECTION_REF",
+      "start": 1293,
+      "end": 1302,
+      "normalized": {
+        "section": "25-2-59",
+        "subsection": null,
+        "full_reference": "25-2-59"
+      }
+    },
+    {
+      "text": "SINGLE FAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1305,
+      "end": 1328,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "SINGLE FAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "SF-4B",
+      "label": "ZONE",
+      "start": 1347,
+      "end": 1352,
+      "normalized": {
+        "code": "SF-4B",
+        "original": "SF-4B"
+      }
+    },
+    {
+      "text": "§ 25-2-60",
+      "label": "SECTION_REF",
+      "start": 1378,
+      "end": 1387,
+      "normalized": {
+        "section": "25-2-60",
+        "subsection": null,
+        "full_reference": "25-2-60"
+      }
+    },
+    {
+      "text": "URBAN FAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1390,
+      "end": 1412,
+      "normalized": {
+        "code": "SF-5",
+        "name": "urban family residence",
+        "original": "URBAN FAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 1414,
+      "end": 1418,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "§ 25-2-61",
+      "label": "SECTION_REF",
+      "start": 1444,
+      "end": 1453,
+      "normalized": {
+        "section": "25-2-61",
+        "subsection": null,
+        "full_reference": "25-2-61"
+      }
+    },
+    {
+      "text": "SF-6",
+      "label": "ZONE",
+      "start": 1493,
+      "end": 1497,
+      "normalized": {
+        "code": "SF-6",
+        "original": "SF-6"
+      }
+    },
+    {
+      "text": "§ 25-2-62",
+      "label": "SECTION_REF",
+      "start": 1523,
+      "end": 1532,
+      "normalized": {
+        "section": "25-2-62",
+        "subsection": null,
+        "full_reference": "25-2-62"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1535,
+      "end": 1556,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 1565,
+      "end": 1572,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-1",
+      "label": "ZONE",
+      "start": 1574,
+      "end": 1578,
+      "normalized": {
+        "code": "MF-1",
+        "original": "MF-1"
+      }
+    },
+    {
+      "text": "§ 25-2-63",
+      "label": "SECTION_REF",
+      "start": 1604,
+      "end": 1613,
+      "normalized": {
+        "section": "25-2-63",
+        "subsection": null,
+        "full_reference": "25-2-63"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1616,
+      "end": 1637,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "LOW",
+      "label": "ZONE",
+      "start": 1638,
+      "end": 1641,
+      "normalized": {
+        "code": "LOW",
+        "original": "LOW"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 1642,
+      "end": 1649,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-2",
+      "label": "ZONE",
+      "start": 1651,
+      "end": 1655,
+      "normalized": {
+        "code": "MF-2",
+        "original": "MF-2"
+      }
+    },
+    {
+      "text": "§ 25-2-64",
+      "label": "SECTION_REF",
+      "start": 1681,
+      "end": 1690,
+      "normalized": {
+        "section": "25-2-64",
+        "subsection": null,
+        "full_reference": "25-2-64"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1693,
+      "end": 1714,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 1722,
+      "end": 1729,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-3",
+      "label": "ZONE",
+      "start": 1731,
+      "end": 1735,
+      "normalized": {
+        "code": "MF-3",
+        "original": "MF-3"
+      }
+    },
+    {
+      "text": "§ 25-2-65",
+      "label": "SECTION_REF",
+      "start": 1761,
+      "end": 1770,
+      "normalized": {
+        "section": "25-2-65",
+        "subsection": null,
+        "full_reference": "25-2-65"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1773,
+      "end": 1794,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 1811,
+      "end": 1818,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-4",
+      "label": "ZONE",
+      "start": 1820,
+      "end": 1824,
+      "normalized": {
+        "code": "MF-4",
+        "original": "MF-4"
+      }
+    },
+    {
+      "text": "§ 25-2-66",
+      "label": "SECTION_REF",
+      "start": 1850,
+      "end": 1859,
+      "normalized": {
+        "section": "25-2-66",
+        "subsection": null,
+        "full_reference": "25-2-66"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1862,
+      "end": 1883,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 1889,
+      "end": 1896,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-5",
+      "label": "ZONE",
+      "start": 1898,
+      "end": 1902,
+      "normalized": {
+        "code": "MF-5",
+        "original": "MF-5"
+      }
+    },
+    {
+      "text": "§ 25-2-67",
+      "label": "SECTION_REF",
+      "start": 1928,
+      "end": 1937,
+      "normalized": {
+        "section": "25-2-67",
+        "subsection": null,
+        "full_reference": "25-2-67"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 1940,
+      "end": 1961,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 1970,
+      "end": 1977,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-6",
+      "label": "ZONE",
+      "start": 1979,
+      "end": 1983,
+      "normalized": {
+        "code": "MF-6",
+        "original": "MF-6"
+      }
+    },
+    {
+      "text": "§ 25-2-68",
+      "label": "SECTION_REF",
+      "start": 2009,
+      "end": 2018,
+      "normalized": {
+        "section": "25-2-68",
+        "subsection": null,
+        "full_reference": "25-2-68"
+      }
+    },
+    {
+      "text": "MOBILE HOME",
+      "label": "USE_TYPE",
+      "start": 2021,
+      "end": 2032,
+      "normalized": "mobile_home"
+    },
+    {
+      "text": "MH",
+      "label": "ZONE",
+      "start": 2044,
+      "end": 2046,
+      "normalized": {
+        "code": "MH",
+        "original": "MH"
+      }
+    },
+    {
+      "text": "Division 3",
+      "label": "SECTION_REF",
+      "start": 2072,
+      "end": 2082,
+      "normalized": {
+        "type": "division",
+        "number": 3,
+        "full_reference": "Division 3"
+      }
+    },
+    {
+      "text": "§ 25-2-91",
+      "label": "SECTION_REF",
+      "start": 2115,
+      "end": 2124,
+      "normalized": {
+        "section": "25-2-91",
+        "subsection": null,
+        "full_reference": "25-2-91"
+      }
+    },
+    {
+      "text": "§ 25-2-92",
+      "label": "SECTION_REF",
+      "start": 2176,
+      "end": 2185,
+      "normalized": {
+        "section": "25-2-92",
+        "subsection": null,
+        "full_reference": "25-2-92"
+      }
+    },
+    {
+      "text": "§ 25-2-93",
+      "label": "SECTION_REF",
+      "start": 2234,
+      "end": 2243,
+      "normalized": {
+        "section": "25-2-93",
+        "subsection": null,
+        "full_reference": "25-2-93"
+      }
+    },
+    {
+      "text": "NO",
+      "label": "ZONE",
+      "start": 2267,
+      "end": 2269,
+      "normalized": {
+        "code": "NO",
+        "original": "NO"
+      }
+    },
+    {
+      "text": "§ 25-2-94",
+      "label": "SECTION_REF",
+      "start": 2295,
+      "end": 2304,
+      "normalized": {
+        "section": "25-2-94",
+        "subsection": null,
+        "full_reference": "25-2-94"
+      }
+    },
+    {
+      "text": "LO",
+      "label": "ZONE",
+      "start": 2323,
+      "end": 2325,
+      "normalized": {
+        "code": "LO",
+        "original": "LO"
+      }
+    },
+    {
+      "text": "§ 25-2-95",
+      "label": "SECTION_REF",
+      "start": 2351,
+      "end": 2360,
+      "normalized": {
+        "section": "25-2-95",
+        "subsection": null,
+        "full_reference": "25-2-95"
+      }
+    },
+    {
+      "text": "GO",
+      "label": "ZONE",
+      "start": 2379,
+      "end": 2381,
+      "normalized": {
+        "code": "GO",
+        "original": "GO"
+      }
+    },
+    {
+      "text": "§ 25-2-96",
+      "label": "SECTION_REF",
+      "start": 2407,
+      "end": 2416,
+      "normalized": {
+        "section": "25-2-96",
+        "subsection": null,
+        "full_reference": "25-2-96"
+      }
+    },
+    {
+      "text": "CR",
+      "label": "ZONE",
+      "start": 2442,
+      "end": 2444,
+      "normalized": {
+        "code": "CR",
+        "original": "CR"
+      }
+    },
+    {
+      "text": "§ 25-2-97",
+      "label": "SECTION_REF",
+      "start": 2470,
+      "end": 2479,
+      "normalized": {
+        "section": "25-2-97",
+        "subsection": null,
+        "full_reference": "25-2-97"
+      }
+    },
+    {
+      "text": "LR",
+      "label": "ZONE",
+      "start": 2507,
+      "end": 2509,
+      "normalized": {
+        "code": "LR",
+        "original": "LR"
+      }
+    },
+    {
+      "text": "§ 25-2-98",
+      "label": "SECTION_REF",
+      "start": 2535,
+      "end": 2544,
+      "normalized": {
+        "section": "25-2-98",
+        "subsection": null,
+        "full_reference": "25-2-98"
+      }
+    },
+    {
+      "text": "GR",
+      "label": "ZONE",
+      "start": 2569,
+      "end": 2571,
+      "normalized": {
+        "code": "GR",
+        "original": "GR"
+      }
+    },
+    {
+      "text": "§ 25-2-99",
+      "label": "SECTION_REF",
+      "start": 2597,
+      "end": 2606,
+      "normalized": {
+        "section": "25-2-99",
+        "subsection": null,
+        "full_reference": "25-2-99"
+      }
+    },
+    {
+      "text": "L",
+      "label": "ZONE",
+      "start": 2626,
+      "end": 2627,
+      "normalized": {
+        "code": "L",
+        "original": "L"
+      }
+    },
+    {
+      "text": "§ 25-2-100",
+      "label": "SECTION_REF",
+      "start": 2653,
+      "end": 2663,
+      "normalized": {
+        "section": "25-2-100",
+        "subsection": null,
+        "full_reference": "25-2-100"
+      }
+    },
+    {
+      "text": "CENTRAL BUSINESS DISTRICT",
+      "label": "ZONE",
+      "start": 2666,
+      "end": 2691,
+      "normalized": {
+        "code": "CBD",
+        "name": "central business district",
+        "original": "CENTRAL BUSINESS DISTRICT"
+      }
+    },
+    {
+      "text": "CBD",
+      "label": "ZONE",
+      "start": 2693,
+      "end": 2696,
+      "normalized": {
+        "code": "CBD",
+        "original": "CBD"
+      }
+    },
+    {
+      "text": "§ 25-2-101",
+      "label": "SECTION_REF",
+      "start": 2713,
+      "end": 2723,
+      "normalized": {
+        "section": "25-2-101",
+        "subsection": null,
+        "full_reference": "25-2-101"
+      }
+    },
+    {
+      "text": "DOWNTOWN MIXED USE",
+      "label": "ZONE",
+      "start": 2726,
+      "end": 2744,
+      "normalized": {
+        "code": "DMU",
+        "name": "downtown mixed use",
+        "original": "DOWNTOWN MIXED USE"
+      }
+    },
+    {
+      "text": "DMU",
+      "label": "ZONE",
+      "start": 2746,
+      "end": 2749,
+      "normalized": {
+        "code": "DMU",
+        "original": "DMU"
+      }
+    },
+    {
+      "text": "§ 25-2-102",
+      "label": "SECTION_REF",
+      "start": 2775,
+      "end": 2785,
+      "normalized": {
+        "section": "25-2-102",
+        "subsection": null,
+        "full_reference": "25-2-102"
+      }
+    },
+    {
+      "text": "W/LO",
+      "label": "ZONE",
+      "start": 2814,
+      "end": 2818,
+      "normalized": {
+        "code": "W/LO",
+        "original": "W/LO"
+      }
+    },
+    {
+      "text": "§ 25-2-103",
+      "label": "SECTION_REF",
+      "start": 2844,
+      "end": 2854,
+      "normalized": {
+        "section": "25-2-103",
+        "subsection": null,
+        "full_reference": "25-2-103"
+      }
+    },
+    {
+      "text": "CS",
+      "label": "ZONE",
+      "start": 2886,
+      "end": 2888,
+      "normalized": {
+        "code": "CS",
+        "original": "CS"
+      }
+    },
+    {
+      "text": "§ 25-2-104",
+      "label": "SECTION_REF",
+      "start": 2914,
+      "end": 2924,
+      "normalized": {
+        "section": "25-2-104",
+        "subsection": null,
+        "full_reference": "25-2-104"
+      }
+    },
+    {
+      "text": "CS-1",
+      "label": "ZONE",
+      "start": 2952,
+      "end": 2956,
+      "normalized": {
+        "code": "CS-1",
+        "original": "CS-1"
+      }
+    },
+    {
+      "text": "§ 25-2-105",
+      "label": "SECTION_REF",
+      "start": 2982,
+      "end": 2992,
+      "normalized": {
+        "section": "25-2-105",
+        "subsection": null,
+        "full_reference": "25-2-105"
+      }
+    },
+    {
+      "text": "CH",
+      "label": "ZONE",
+      "start": 3024,
+      "end": 3026,
+      "normalized": {
+        "code": "CH",
+        "original": "CH"
+      }
+    },
+    {
+      "text": "Division 4",
+      "label": "SECTION_REF",
+      "start": 3052,
+      "end": 3062,
+      "normalized": {
+        "type": "division",
+        "number": 4,
+        "full_reference": "Division 4"
+      }
+    },
+    {
+      "text": "§ 25-2-121",
+      "label": "SECTION_REF",
+      "start": 3095,
+      "end": 3105,
+      "normalized": {
+        "section": "25-2-121",
+        "subsection": null,
+        "full_reference": "25-2-121"
+      }
+    },
+    {
+      "text": "§ 25-2-122",
+      "label": "SECTION_REF",
+      "start": 3156,
+      "end": 3166,
+      "normalized": {
+        "section": "25-2-122",
+        "subsection": null,
+        "full_reference": "25-2-122"
+      }
+    },
+    {
+      "text": "§ 25-2-123",
+      "label": "SECTION_REF",
+      "start": 3215,
+      "end": 3225,
+      "normalized": {
+        "section": "25-2-123",
+        "subsection": null,
+        "full_reference": "25-2-123"
+      }
+    },
+    {
+      "text": "IP",
+      "label": "ZONE",
+      "start": 3245,
+      "end": 3247,
+      "normalized": {
+        "code": "IP",
+        "original": "IP"
+      }
+    },
+    {
+      "text": "§ 25-2-124",
+      "label": "SECTION_REF",
+      "start": 3273,
+      "end": 3283,
+      "normalized": {
+        "section": "25-2-124",
+        "subsection": null,
+        "full_reference": "25-2-124"
+      }
+    },
+    {
+      "text": "MI",
+      "label": "ZONE",
+      "start": 3302,
+      "end": 3304,
+      "normalized": {
+        "code": "MI",
+        "original": "MI"
+      }
+    },
+    {
+      "text": "§ 25-2-125",
+      "label": "SECTION_REF",
+      "start": 3330,
+      "end": 3340,
+      "normalized": {
+        "section": "25-2-125",
+        "subsection": null,
+        "full_reference": "25-2-125"
+      }
+    },
+    {
+      "text": "LI",
+      "label": "ZONE",
+      "start": 3371,
+      "end": 3373,
+      "normalized": {
+        "code": "LI",
+        "original": "LI"
+      }
+    },
+    {
+      "text": "§ 25-2-126",
+      "label": "SECTION_REF",
+      "start": 3399,
+      "end": 3409,
+      "normalized": {
+        "section": "25-2-126",
+        "subsection": null,
+        "full_reference": "25-2-126"
+      }
+    },
+    {
+      "text": "R&D",
+      "label": "ZONE",
+      "start": 3438,
+      "end": 3441,
+      "normalized": {
+        "code": "R&D",
+        "original": "R&D"
+      }
+    },
+    {
+      "text": "Division 5",
+      "label": "SECTION_REF",
+      "start": 3467,
+      "end": 3477,
+      "normalized": {
+        "type": "division",
+        "number": 5,
+        "full_reference": "Division 5"
+      }
+    },
+    {
+      "text": "§ 25-2-141",
+      "label": "SECTION_REF",
+      "start": 3515,
+      "end": 3525,
+      "normalized": {
+        "section": "25-2-141",
+        "subsection": null,
+        "full_reference": "25-2-141"
+      }
+    },
+    {
+      "text": "AG",
+      "label": "ZONE",
+      "start": 3542,
+      "end": 3544,
+      "normalized": {
+        "code": "AG",
+        "original": "AG"
+      }
+    },
+    {
+      "text": "§ 25-2-142",
+      "label": "SECTION_REF",
+      "start": 3570,
+      "end": 3580,
+      "normalized": {
+        "section": "25-2-142",
+        "subsection": null,
+        "full_reference": "25-2-142"
+      }
+    },
+    {
+      "text": "AV",
+      "label": "ZONE",
+      "start": 3602,
+      "end": 3604,
+      "normalized": {
+        "code": "AV",
+        "original": "AV"
+      }
+    },
+    {
+      "text": "§ 25-2-143",
+      "label": "SECTION_REF",
+      "start": 3630,
+      "end": 3640,
+      "normalized": {
+        "section": "25-2-143",
+        "subsection": null,
+        "full_reference": "25-2-143"
+      }
+    },
+    {
+      "text": "DR",
+      "label": "ZONE",
+      "start": 3664,
+      "end": 3666,
+      "normalized": {
+        "code": "DR",
+        "original": "DR"
+      }
+    },
+    {
+      "text": "§ 25-2-144",
+      "label": "SECTION_REF",
+      "start": 3692,
+      "end": 3702,
+      "normalized": {
+        "section": "25-2-144",
+        "subsection": null,
+        "full_reference": "25-2-144"
+      }
+    },
+    {
+      "text": "PLANNED UNIT DEVELOPMENT",
+      "label": "ZONE",
+      "start": 3705,
+      "end": 3729,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "PLANNED UNIT DEVELOPMENT"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 3731,
+      "end": 3734,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "§ 25-2-145",
+      "label": "SECTION_REF",
+      "start": 3760,
+      "end": 3770,
+      "normalized": {
+        "section": "25-2-145",
+        "subsection": null,
+        "full_reference": "25-2-145"
+      }
+    },
+    {
+      "text": "P",
+      "label": "ZONE",
+      "start": 3781,
+      "end": 3782,
+      "normalized": {
+        "code": "P",
+        "original": "P"
+      }
+    },
+    {
+      "text": "§ 25-2-146",
+      "label": "SECTION_REF",
+      "start": 3808,
+      "end": 3818,
+      "normalized": {
+        "section": "25-2-146",
+        "subsection": null,
+        "full_reference": "25-2-146"
+      }
+    },
+    {
+      "text": "§ 25-2-147",
+      "label": "SECTION_REF",
+      "start": 3863,
+      "end": 3873,
+      "normalized": {
+        "section": "25-2-147",
+        "subsection": null,
+        "full_reference": "25-2-147"
+      }
+    },
+    {
+      "text": "§ 25-2-148",
+      "label": "SECTION_REF",
+      "start": 3923,
+      "end": 3933,
+      "normalized": {
+        "section": "25-2-148",
+        "subsection": null,
+        "full_reference": "25-2-148"
+      }
+    },
+    {
+      "text": "§ 25-2-149",
+      "label": "SECTION_REF",
+      "start": 3975,
+      "end": 3985,
+      "normalized": {
+        "section": "25-2-149",
+        "subsection": null,
+        "full_reference": "25-2-149"
+      }
+    },
+    {
+      "text": "Division 6",
+      "label": "SECTION_REF",
+      "start": 4030,
+      "end": 4040,
+      "normalized": {
+        "type": "division",
+        "number": 6,
+        "full_reference": "Division 6"
+      }
+    },
+    {
+      "text": "§ 25-2-161",
+      "label": "SECTION_REF",
+      "start": 4079,
+      "end": 4089,
+      "normalized": {
+        "section": "25-2-161",
+        "subsection": null,
+        "full_reference": "25-2-161"
+      }
+    },
+    {
+      "text": "§ 25-2-162",
+      "label": "SECTION_REF",
+      "start": 4158,
+      "end": 4168,
+      "normalized": {
+        "section": "25-2-162",
+        "subsection": null,
+        "full_reference": "25-2-162"
+      }
+    },
+    {
+      "text": "§ 25-2-163",
+      "label": "SECTION_REF",
+      "start": 4227,
+      "end": 4237,
+      "normalized": {
+        "section": "25-2-163",
+        "subsection": null,
+        "full_reference": "25-2-163"
+      }
+    },
+    {
+      "text": "§ 25-2-164",
+      "label": "SECTION_REF",
+      "start": 4305,
+      "end": 4315,
+      "normalized": {
+        "section": "25-2-164",
+        "subsection": null,
+        "full_reference": "25-2-164"
+      }
+    },
+    {
+      "text": "§ 25-2-165",
+      "label": "SECTION_REF",
+      "start": 4373,
+      "end": 4383,
+      "normalized": {
+        "section": "25-2-165",
+        "subsection": null,
+        "full_reference": "25-2-165"
+      }
+    },
+    {
+      "text": "§ 25-2-166",
+      "label": "SECTION_REF",
+      "start": 4450,
+      "end": 4460,
+      "normalized": {
+        "section": "25-2-166",
+        "subsection": null,
+        "full_reference": "25-2-166"
+      }
+    },
+    {
+      "text": "§ 25-2-167",
+      "label": "SECTION_REF",
+      "start": 4529,
+      "end": 4539,
+      "normalized": {
+        "section": "25-2-167",
+        "subsection": null,
+        "full_reference": "25-2-167"
+      }
+    },
+    {
+      "text": "§ 25-2-168",
+      "label": "SECTION_REF",
+      "start": 4606,
+      "end": 4616,
+      "normalized": {
+        "section": "25-2-168",
+        "subsection": null,
+        "full_reference": "25-2-168"
+      }
+    },
+    {
+      "text": "§ 25-2-169",
+      "label": "SECTION_REF",
+      "start": 4682,
+      "end": 4692,
+      "normalized": {
+        "section": "25-2-169",
+        "subsection": null,
+        "full_reference": "25-2-169"
+      }
+    },
+    {
+      "text": "§ 25-2-170",
+      "label": "SECTION_REF",
+      "start": 4755,
+      "end": 4765,
+      "normalized": {
+        "section": "25-2-170",
+        "subsection": null,
+        "full_reference": "25-2-170"
+      }
+    },
+    {
+      "text": "§ 25-2-171",
+      "label": "SECTION_REF",
+      "start": 4840,
+      "end": 4850,
+      "normalized": {
+        "section": "25-2-171",
+        "subsection": null,
+        "full_reference": "25-2-171"
+      }
+    },
+    {
+      "text": "§ 25-2-172",
+      "label": "SECTION_REF",
+      "start": 4948,
+      "end": 4958,
+      "normalized": {
+        "section": "25-2-172",
+        "subsection": null,
+        "full_reference": "25-2-172"
+      }
+    },
+    {
+      "text": "MIXED USE",
+      "label": "USE_TYPE",
+      "start": 4961,
+      "end": 4970,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "MIXED USE",
+      "label": "USE_TYPE",
+      "start": 5008,
+      "end": 5017,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "§ 25-2-173",
+      "label": "SECTION_REF",
+      "start": 5044,
+      "end": 5054,
+      "normalized": {
+        "section": "25-2-173",
+        "subsection": null,
+        "full_reference": "25-2-173"
+      }
+    },
+    {
+      "text": "§ 25-2-174",
+      "label": "SECTION_REF",
+      "start": 5118,
+      "end": 5128,
+      "normalized": {
+        "section": "25-2-174",
+        "subsection": null,
+        "full_reference": "25-2-174"
+      }
+    },
+    {
+      "text": "§ 25-2-175",
+      "label": "SECTION_REF",
+      "start": 5192,
+      "end": 5202,
+      "normalized": {
+        "section": "25-2-175",
+        "subsection": null,
+        "full_reference": "25-2-175"
+      }
+    },
+    {
+      "text": "§ 25-2-176",
+      "label": "SECTION_REF",
+      "start": 5264,
+      "end": 5274,
+      "normalized": {
+        "section": "25-2-176",
+        "subsection": null,
+        "full_reference": "25-2-176"
+      }
+    },
+    {
+      "text": "§ 25-2-177",
+      "label": "SECTION_REF",
+      "start": 5330,
+      "end": 5340,
+      "normalized": {
+        "section": "25-2-177",
+        "subsection": null,
+        "full_reference": "25-2-177"
+      }
+    },
+    {
+      "text": "§ 25-2-178",
+      "label": "SECTION_REF",
+      "start": 5410,
+      "end": 5420,
+      "normalized": {
+        "section": "25-2-178",
+        "subsection": null,
+        "full_reference": "25-2-178"
+      }
+    },
+    {
+      "text": "§ 25-2-179",
+      "label": "SECTION_REF",
+      "start": 5486,
+      "end": 5496,
+      "normalized": {
+        "section": "25-2-179",
+        "subsection": null,
+        "full_reference": "25-2-179"
+      }
+    },
+    {
+      "text": "§ 25-2-180",
+      "label": "SECTION_REF",
+      "start": 5572,
+      "end": 5582,
+      "normalized": {
+        "section": "25-2-180",
+        "subsection": null,
+        "full_reference": "25-2-180"
+      }
+    },
+    {
+      "text": "LAKE AUSTIN",
+      "label": "ZONE",
+      "start": 5585,
+      "end": 5596,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "LAKE AUSTIN"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 5598,
+      "end": 5600,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "§ 25-2-181",
+      "label": "SECTION_REF",
+      "start": 5622,
+      "end": 5632,
+      "normalized": {
+        "section": "25-2-181",
+        "subsection": null,
+        "full_reference": "25-2-181"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 5635,
+      "end": 5642,
+      "normalized": "density_max"
+    },
+    {
+      "text": "§ 25-2-182",
+      "label": "SECTION_REF",
+      "start": 5672,
+      "end": 5682,
+      "normalized": {
+        "section": "25-2-182",
+        "subsection": null,
+        "full_reference": "25-2-182"
+      }
+    },
+    {
+      "text": "ARTICLE 3",
+      "label": "SECTION_REF",
+      "start": 5776,
+      "end": 5785,
+      "normalized": {
+        "type": "article",
+        "number": 3,
+        "full_reference": "Article 3"
+      }
+    },
+    {
+      "text": "§ 25-2-191",
+      "label": "SECTION_REF",
+      "start": 5803,
+      "end": 5813,
+      "normalized": {
+        "section": "25-2-191",
+        "subsection": null,
+        "full_reference": "25-2-191"
+      }
+    },
+    {
+      "text": "§ 25-2-192",
+      "label": "SECTION_REF",
+      "start": 5830,
+      "end": 5840,
+      "normalized": {
+        "section": "25-2-192",
+        "subsection": null,
+        "full_reference": "25-2-192"
+      }
+    },
+    {
+      "text": "ARTICLE 1",
+      "label": "SECTION_REF",
+      "start": 5964,
+      "end": 5973,
+      "normalized": {
+        "type": "article",
+        "number": 1,
+        "full_reference": "Article 1"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 6008,
+      "end": 6018,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "§ 25-2-221",
+      "label": "SECTION_REF",
+      "start": 6047,
+      "end": 6057,
+      "normalized": {
+        "section": "25-2-221",
+        "subsection": null,
+        "full_reference": "25-2-221"
+      }
+    },
+    {
+      "text": "§ 25-2-222",
+      "label": "SECTION_REF",
+      "start": 6097,
+      "end": 6107,
+      "normalized": {
+        "section": "25-2-222",
+        "subsection": null,
+        "full_reference": "25-2-222"
+      }
+    },
+    {
+      "text": "Division 2",
+      "label": "SECTION_REF",
+      "start": 6141,
+      "end": 6151,
+      "normalized": {
+        "type": "division",
+        "number": 2,
+        "full_reference": "Division 2"
+      }
+    },
+    {
+      "text": "§ 25-2-241",
+      "label": "SECTION_REF",
+      "start": 6171,
+      "end": 6181,
+      "normalized": {
+        "section": "25-2-241",
+        "subsection": null,
+        "full_reference": "25-2-241"
+      }
+    },
+    {
+      "text": "§ 25-2-242",
+      "label": "SECTION_REF",
+      "start": 6227,
+      "end": 6237,
+      "normalized": {
+        "section": "25-2-242",
+        "subsection": null,
+        "full_reference": "25-2-242"
+      }
+    },
+    {
+      "text": "§ 25-2-243",
+      "label": "SECTION_REF",
+      "start": 6276,
+      "end": 6286,
+      "normalized": {
+        "section": "25-2-243",
+        "subsection": null,
+        "full_reference": "25-2-243"
+      }
+    },
+    {
+      "text": "§ 25-2-244",
+      "label": "SECTION_REF",
+      "start": 6340,
+      "end": 6350,
+      "normalized": {
+        "section": "25-2-244",
+        "subsection": null,
+        "full_reference": "25-2-244"
+      }
+    },
+    {
+      "text": "§ 25-2-245",
+      "label": "SECTION_REF",
+      "start": 6433,
+      "end": 6443,
+      "normalized": {
+        "section": "25-2-245",
+        "subsection": null,
+        "full_reference": "25-2-245"
+      }
+    },
+    {
+      "text": "§ 25-2-246",
+      "label": "SECTION_REF",
+      "start": 6496,
+      "end": 6506,
+      "normalized": {
+        "section": "25-2-246",
+        "subsection": null,
+        "full_reference": "25-2-246"
+      }
+    },
+    {
+      "text": "§ 25-2-247",
+      "label": "SECTION_REF",
+      "start": 6538,
+      "end": 6548,
+      "normalized": {
+        "section": "25-2-247",
+        "subsection": null,
+        "full_reference": "25-2-247"
+      }
+    },
+    {
+      "text": "Division 3",
+      "label": "SECTION_REF",
+      "start": 6587,
+      "end": 6597,
+      "normalized": {
+        "type": "division",
+        "number": 3,
+        "full_reference": "Division 3"
+      }
+    },
+    {
+      "text": "§ 25-2-261",
+      "label": "SECTION_REF",
+      "start": 6640,
+      "end": 6650,
+      "normalized": {
+        "section": "25-2-261",
+        "subsection": null,
+        "full_reference": "25-2-261"
+      }
+    },
+    {
+      "text": "§ 25-2-262",
+      "label": "SECTION_REF",
+      "start": 6685,
+      "end": 6695,
+      "normalized": {
+        "section": "25-2-262",
+        "subsection": null,
+        "full_reference": "25-2-262"
+      }
+    },
+    {
+      "text": "Division 4",
+      "label": "SECTION_REF",
+      "start": 6719,
+      "end": 6729,
+      "normalized": {
+        "type": "division",
+        "number": 4,
+        "full_reference": "Division 4"
+      }
+    },
+    {
+      "text": "§ 25-2-281",
+      "label": "SECTION_REF",
+      "start": 6759,
+      "end": 6769,
+      "normalized": {
+        "section": "25-2-281",
+        "subsection": null,
+        "full_reference": "25-2-281"
+      }
+    },
+    {
+      "text": "§ 25-2-282",
+      "label": "SECTION_REF",
+      "start": 6804,
+      "end": 6814,
+      "normalized": {
+        "section": "25-2-282",
+        "subsection": null,
+        "full_reference": "25-2-282"
+      }
+    },
+    {
+      "text": "§ 25-2-283",
+      "label": "SECTION_REF",
+      "start": 6874,
+      "end": 6884,
+      "normalized": {
+        "section": "25-2-283",
+        "subsection": null,
+        "full_reference": "25-2-283"
+      }
+    },
+    {
+      "text": "§ 25-2-284",
+      "label": "SECTION_REF",
+      "start": 6929,
+      "end": 6939,
+      "normalized": {
+        "section": "25-2-284",
+        "subsection": null,
+        "full_reference": "25-2-284"
+      }
+    },
+    {
+      "text": "ARTICLE 2",
+      "label": "SECTION_REF",
+      "start": 6998,
+      "end": 7007,
+      "normalized": {
+        "type": "article",
+        "number": 2,
+        "full_reference": "Article 2"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 7057,
+      "end": 7067,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "§ 25-2-311",
+      "label": "SECTION_REF",
+      "start": 7122,
+      "end": 7132,
+      "normalized": {
+        "section": "25-2-311",
+        "subsection": null,
+        "full_reference": "25-2-311"
+      }
+    },
+    {
+      "text": "§ 25-2-312",
+      "label": "SECTION_REF",
+      "start": 7206,
+      "end": 7216,
+      "normalized": {
+        "section": "25-2-312",
+        "subsection": null,
+        "full_reference": "25-2-312"
+      }
+    },
+    {
+      "text": "Division 2",
+      "label": "SECTION_REF",
+      "start": 7258,
+      "end": 7268,
+      "normalized": {
+        "type": "division",
+        "number": 2,
+        "full_reference": "Division 2"
+      }
+    },
+    {
+      "text": "§ 25-2-331",
+      "label": "SECTION_REF",
+      "start": 7315,
+      "end": 7325,
+      "normalized": {
+        "section": "25-2-331",
+        "subsection": null,
+        "full_reference": "25-2-331"
+      }
+    },
+    {
+      "text": "§ 25-2-332",
+      "label": "SECTION_REF",
+      "start": 7386,
+      "end": 7396,
+      "normalized": {
+        "section": "25-2-332",
+        "subsection": null,
+        "full_reference": "25-2-332"
+      }
+    },
+    {
+      "text": "§ 25-2-333",
+      "label": "SECTION_REF",
+      "start": 7458,
+      "end": 7468,
+      "normalized": {
+        "section": "25-2-333",
+        "subsection": null,
+        "full_reference": "25-2-333"
+      }
+    },
+    {
+      "text": "Division 3",
+      "label": "SECTION_REF",
+      "start": 7537,
+      "end": 7547,
+      "normalized": {
+        "type": "division",
+        "number": 3,
+        "full_reference": "Division 3"
+      }
+    },
+    {
+      "text": "§ 25-2-350",
+      "label": "SECTION_REF",
+      "start": 7601,
+      "end": 7611,
+      "normalized": {
+        "section": "25-2-350",
+        "subsection": null,
+        "full_reference": "25-2-350"
+      }
+    },
+    {
+      "text": "§ 25-2-351",
+      "label": "SECTION_REF",
+      "start": 7629,
+      "end": 7639,
+      "normalized": {
+        "section": "25-2-351",
+        "subsection": null,
+        "full_reference": "25-2-351"
+      }
+    },
+    {
+      "text": "§ 25-2-352",
+      "label": "SECTION_REF",
+      "start": 7693,
+      "end": 7703,
+      "normalized": {
+        "section": "25-2-352",
+        "subsection": null,
+        "full_reference": "25-2-352"
+      }
+    },
+    {
+      "text": "§ 25-2-353",
+      "label": "SECTION_REF",
+      "start": 7739,
+      "end": 7749,
+      "normalized": {
+        "section": "25-2-353",
+        "subsection": null,
+        "full_reference": "25-2-353"
+      }
+    },
+    {
+      "text": "§ 25-2-354",
+      "label": "SECTION_REF",
+      "start": 7780,
+      "end": 7790,
+      "normalized": {
+        "section": "25-2-354",
+        "subsection": null,
+        "full_reference": "25-2-354"
+      }
+    },
+    {
+      "text": "§ 25-2-355",
+      "label": "SECTION_REF",
+      "start": 7852,
+      "end": 7862,
+      "normalized": {
+        "section": "25-2-355",
+        "subsection": null,
+        "full_reference": "25-2-355"
+      }
+    },
+    {
+      "text": "§ 25-2-356",
+      "label": "SECTION_REF",
+      "start": 7904,
+      "end": 7914,
+      "normalized": {
+        "section": "25-2-356",
+        "subsection": null,
+        "full_reference": "25-2-356"
+      }
+    },
+    {
+      "text": "§ 25-2-357",
+      "label": "SECTION_REF",
+      "start": 7963,
+      "end": 7973,
+      "normalized": {
+        "section": "25-2-357",
+        "subsection": null,
+        "full_reference": "25-2-357"
+      }
+    },
+    {
+      "text": "§ 25-2-358",
+      "label": "SECTION_REF",
+      "start": 8005,
+      "end": 8015,
+      "normalized": {
+        "section": "25-2-358",
+        "subsection": null,
+        "full_reference": "25-2-358"
+      }
+    },
+    {
+      "text": "§ 25-2-359",
+      "label": "SECTION_REF",
+      "start": 8069,
+      "end": 8079,
+      "normalized": {
+        "section": "25-2-359",
+        "subsection": null,
+        "full_reference": "25-2-359"
+      }
+    },
+    {
+      "text": "Division 4",
+      "label": "SECTION_REF",
+      "start": 8096,
+      "end": 8106,
+      "normalized": {
+        "type": "division",
+        "number": 4,
+        "full_reference": "Division 4"
+      }
+    },
+    {
+      "text": "§ 25-2-371",
+      "label": "SECTION_REF",
+      "start": 8159,
+      "end": 8169,
+      "normalized": {
+        "section": "25-2-371",
+        "subsection": null,
+        "full_reference": "25-2-371"
+      }
+    },
+    {
+      "text": "§ 25-2-372",
+      "label": "SECTION_REF",
+      "start": 8237,
+      "end": 8247,
+      "normalized": {
+        "section": "25-2-372",
+        "subsection": null,
+        "full_reference": "25-2-372"
+      }
+    },
+    {
+      "text": "§ 25-2-373",
+      "label": "SECTION_REF",
+      "start": 8290,
+      "end": 8300,
+      "normalized": {
+        "section": "25-2-373",
+        "subsection": null,
+        "full_reference": "25-2-373"
+      }
+    },
+    {
+      "text": "§ 25-2-374",
+      "label": "SECTION_REF",
+      "start": 8325,
+      "end": 8335,
+      "normalized": {
+        "section": "25-2-374",
+        "subsection": null,
+        "full_reference": "25-2-374"
+      }
+    },
+    {
+      "text": "§ 25-2-375",
+      "label": "SECTION_REF",
+      "start": 8365,
+      "end": 8375,
+      "normalized": {
+        "section": "25-2-375",
+        "subsection": null,
+        "full_reference": "25-2-375"
+      }
+    },
+    {
+      "text": "Division 5",
+      "label": "SECTION_REF",
+      "start": 8434,
+      "end": 8444,
+      "normalized": {
+        "type": "division",
+        "number": 5,
+        "full_reference": "Division 5"
+      }
+    },
+    {
+      "text": "Planned Unit Development",
+      "label": "ZONE",
+      "start": 8823,
+      "end": 8847,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "Planned Unit Development"
+      }
+    },
+    {
+      "text": "PLANNED UNIT DEVELOPMENT",
+      "label": "ZONE",
+      "start": 9143,
+      "end": 9167,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "PLANNED UNIT DEVELOPMENT"
+      }
+    },
+    {
+      "text": "NOT",
+      "label": "ZONE",
+      "start": 9369,
+      "end": 9372,
+      "normalized": {
+        "code": "NOT",
+        "original": "NOT"
+      }
+    },
+    {
+      "text": "Division 6",
+      "label": "SECTION_REF",
+      "start": 9385,
+      "end": 9395,
+      "normalized": {
+        "type": "division",
+        "number": 6,
+        "full_reference": "Division 6"
+      }
+    },
+    {
+      "text": "§ 25-2-441",
+      "label": "SECTION_REF",
+      "start": 9428,
+      "end": 9438,
+      "normalized": {
+        "section": "25-2-441",
+        "subsection": null,
+        "full_reference": "25-2-441"
+      }
+    },
+    {
+      "text": "Division 7",
+      "label": "SECTION_REF",
+      "start": 9480,
+      "end": 9490,
+      "normalized": {
+        "type": "division",
+        "number": 7,
+        "full_reference": "Division 7"
+      }
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 9494,
+      "end": 9501,
+      "normalized": "density_max"
+    },
+    {
+      "text": "§ 25-2-451",
+      "label": "SECTION_REF",
+      "start": 9537,
+      "end": 9547,
+      "normalized": {
+        "section": "25-2-451",
+        "subsection": null,
+        "full_reference": "25-2-451"
+      }
+    },
+    {
+      "text": "§ 25-2-452",
+      "label": "SECTION_REF",
+      "start": 9565,
+      "end": 9575,
+      "normalized": {
+        "section": "25-2-452",
+        "subsection": null,
+        "full_reference": "25-2-452"
+      }
+    },
+    {
+      "text": "§ 25-2-453",
+      "label": "SECTION_REF",
+      "start": 9632,
+      "end": 9642,
+      "normalized": {
+        "section": "25-2-453",
+        "subsection": null,
+        "full_reference": "25-2-453"
+      }
+    },
+    {
+      "text": "§ 25-2-454",
+      "label": "SECTION_REF",
+      "start": 9675,
+      "end": 9685,
+      "normalized": {
+        "section": "25-2-454",
+        "subsection": null,
+        "full_reference": "25-2-454"
+      }
+    },
+    {
+      "text": "ARTICLE 1",
+      "label": "SECTION_REF",
+      "start": 9803,
+      "end": 9812,
+      "normalized": {
+        "type": "article",
+        "number": 1,
+        "full_reference": "Article 1"
+      }
+    },
+    {
+      "text": "§ 25-2-471",
+      "label": "SECTION_REF",
+      "start": 9838,
+      "end": 9848,
+      "normalized": {
+        "section": "25-2-471",
+        "subsection": null,
+        "full_reference": "25-2-471"
+      }
+    },
+    {
+      "text": "§ 25-2-472",
+      "label": "SECTION_REF",
+      "start": 9880,
+      "end": 9890,
+      "normalized": {
+        "section": "25-2-472",
+        "subsection": null,
+        "full_reference": "25-2-472"
+      }
+    },
+    {
+      "text": "§ 25-2-473",
+      "label": "SECTION_REF",
+      "start": 9935,
+      "end": 9945,
+      "normalized": {
+        "section": "25-2-473",
+        "subsection": null,
+        "full_reference": "25-2-473"
+      }
+    },
+    {
+      "text": "§ 25-2-474",
+      "label": "SECTION_REF",
+      "start": 9973,
+      "end": 9983,
+      "normalized": {
+        "section": "25-2-474",
+        "subsection": null,
+        "full_reference": "25-2-474"
+      }
+    },
+    {
+      "text": "§ 25-2-475",
+      "label": "SECTION_REF",
+      "start": 10007,
+      "end": 10017,
+      "normalized": {
+        "section": "25-2-475",
+        "subsection": null,
+        "full_reference": "25-2-475"
+      }
+    },
+    {
+      "text": "§ 25-2-476",
+      "label": "SECTION_REF",
+      "start": 10031,
+      "end": 10041,
+      "normalized": {
+        "section": "25-2-476",
+        "subsection": null,
+        "full_reference": "25-2-476"
+      }
+    },
+    {
+      "text": "ARTICLE 2",
+      "label": "SECTION_REF",
+      "start": 10066,
+      "end": 10075,
+      "normalized": {
+        "type": "article",
+        "number": 2,
+        "full_reference": "Article 2"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 10124,
+      "end": 10134,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "§ 25-2-491",
+      "label": "SECTION_REF",
+      "start": 10159,
+      "end": 10169,
+      "normalized": {
+        "section": "25-2-491",
+        "subsection": null,
+        "full_reference": "25-2-491"
+      }
+    },
+    {
+      "text": "§ 25-2-492",
+      "label": "SECTION_REF",
+      "start": 10219,
+      "end": 10229,
+      "normalized": {
+        "section": "25-2-492",
+        "subsection": null,
+        "full_reference": "25-2-492"
+      }
+    },
+    {
+      "text": "Division 2",
+      "label": "SECTION_REF",
+      "start": 10264,
+      "end": 10274,
+      "normalized": {
+        "type": "division",
+        "number": 2,
+        "full_reference": "Division 2"
+      }
+    },
+    {
+      "text": "§ 25-2-511",
+      "label": "SECTION_REF",
+      "start": 10312,
+      "end": 10322,
+      "normalized": {
+        "section": "25-2-511",
+        "subsection": null,
+        "full_reference": "25-2-511"
+      }
+    },
+    {
+      "text": "§ 25-2-512",
+      "label": "SECTION_REF",
+      "start": 10337,
+      "end": 10347,
+      "normalized": {
+        "section": "25-2-512",
+        "subsection": null,
+        "full_reference": "25-2-512"
+      }
+    },
+    {
+      "text": "LOT SIZE",
+      "label": "METRIC",
+      "start": 10350,
+      "end": 10358,
+      "normalized": "lot_size_min"
+    },
+    {
+      "text": "§ 25-2-513",
+      "label": "SECTION_REF",
+      "start": 10370,
+      "end": 10380,
+      "normalized": {
+        "section": "25-2-513",
+        "subsection": null,
+        "full_reference": "25-2-513"
+      }
+    },
+    {
+      "text": "§ 25-2-514",
+      "label": "SECTION_REF",
+      "start": 10413,
+      "end": 10423,
+      "normalized": {
+        "section": "25-2-514",
+        "subsection": null,
+        "full_reference": "25-2-514"
+      }
+    },
+    {
+      "text": "§ 25-2-515",
+      "label": "SECTION_REF",
+      "start": 10440,
+      "end": 10450,
+      "normalized": {
+        "section": "25-2-515",
+        "subsection": null,
+        "full_reference": "25-2-515"
+      }
+    },
+    {
+      "text": "REAR YARD",
+      "label": "METRIC",
+      "start": 10453,
+      "end": 10462,
+      "normalized": "rear_yard_setback_min"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 10474,
+      "end": 10477,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "§ 25-2-516",
+      "label": "SECTION_REF",
+      "start": 10481,
+      "end": 10491,
+      "normalized": {
+        "section": "25-2-516",
+        "subsection": null,
+        "full_reference": "25-2-516"
+      }
+    },
+    {
+      "text": "§ 25-2-517",
+      "label": "SECTION_REF",
+      "start": 10535,
+      "end": 10545,
+      "normalized": {
+        "section": "25-2-517",
+        "subsection": null,
+        "full_reference": "25-2-517"
+      }
+    },
+    {
+      "text": "§ 25-2-518",
+      "label": "SECTION_REF",
+      "start": 10582,
+      "end": 10592,
+      "normalized": {
+        "section": "25-2-518",
+        "subsection": null,
+        "full_reference": "25-2-518"
+      }
+    },
+    {
+      "text": "§ 25-2-519",
+      "label": "SECTION_REF",
+      "start": 10621,
+      "end": 10631,
+      "normalized": {
+        "section": "25-2-519",
+        "subsection": null,
+        "full_reference": "25-2-519"
+      }
+    },
+    {
+      "text": "Division 3",
+      "label": "SECTION_REF",
+      "start": 10645,
+      "end": 10655,
+      "normalized": {
+        "type": "division",
+        "number": 3,
+        "full_reference": "Division 3"
+      }
+    },
+    {
+      "text": "§ 25-2-531",
+      "label": "SECTION_REF",
+      "start": 10673,
+      "end": 10683,
+      "normalized": {
+        "section": "25-2-531",
+        "subsection": null,
+        "full_reference": "25-2-531"
+      }
+    },
+    {
+      "text": "HEIGHT",
+      "label": "METRIC",
+      "start": 10686,
+      "end": 10692,
+      "normalized": "height_max"
+    },
+    {
+      "text": "§ 25-2-532",
+      "label": "SECTION_REF",
+      "start": 10713,
+      "end": 10723,
+      "normalized": {
+        "section": "25-2-532",
+        "subsection": null,
+        "full_reference": "25-2-532"
+      }
+    },
+    {
+      "text": "IMPERVIOUS COVER",
+      "label": "METRIC",
+      "start": 10726,
+      "end": 10742,
+      "normalized": "impervious_cover_max"
+    },
+    {
+      "text": "§ 25-2-533",
+      "label": "SECTION_REF",
+      "start": 10763,
+      "end": 10773,
+      "normalized": {
+        "section": "25-2-533",
+        "subsection": null,
+        "full_reference": "25-2-533"
+      }
+    },
+    {
+      "text": "§ 25-2-534",
+      "label": "SECTION_REF",
+      "start": 10830,
+      "end": 10840,
+      "normalized": {
+        "section": "25-2-534",
+        "subsection": null,
+        "full_reference": "25-2-534"
+      }
+    },
+    {
+      "text": "ARTICLE 3",
+      "label": "SECTION_REF",
+      "start": 10880,
+      "end": 10889,
+      "normalized": {
+        "type": "article",
+        "number": 3,
+        "full_reference": "Article 3"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 10942,
+      "end": 10952,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "§ 25-2-551",
+      "label": "SECTION_REF",
+      "start": 10981,
+      "end": 10991,
+      "normalized": {
+        "section": "25-2-551",
+        "subsection": null,
+        "full_reference": "25-2-551"
+      }
+    },
+    {
+      "text": "LAKE AUSTIN",
+      "label": "ZONE",
+      "start": 10994,
+      "end": 11005,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "LAKE AUSTIN"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 11007,
+      "end": 11009,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "§ 25-2-552",
+      "label": "SECTION_REF",
+      "start": 11035,
+      "end": 11045,
+      "normalized": {
+        "section": "25-2-552",
+        "subsection": null,
+        "full_reference": "25-2-552"
+      }
+    },
+    {
+      "text": "RURAL RESIDENCE",
+      "label": "ZONE",
+      "start": 11048,
+      "end": 11063,
+      "normalized": {
+        "code": "RR",
+        "name": "rural residence",
+        "original": "RURAL RESIDENCE"
+      }
+    },
+    {
+      "text": "RR",
+      "label": "ZONE",
+      "start": 11065,
+      "end": 11067,
+      "normalized": {
+        "code": "RR",
+        "original": "RR"
+      }
+    },
+    {
+      "text": "§ 25-2-553",
+      "label": "SECTION_REF",
+      "start": 11093,
+      "end": 11103,
+      "normalized": {
+        "section": "25-2-553",
+        "subsection": null,
+        "full_reference": "25-2-553"
+      }
+    },
+    {
+      "text": "SINGLE-FAMILY",
+      "label": "USE_TYPE",
+      "start": 11106,
+      "end": 11119,
+      "normalized": "single_family"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 11136,
+      "end": 11139,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "SF-1",
+      "label": "ZONE",
+      "start": 11141,
+      "end": 11145,
+      "normalized": {
+        "code": "SF-1",
+        "original": "SF-1"
+      }
+    },
+    {
+      "text": "§ 25-2-554",
+      "label": "SECTION_REF",
+      "start": 11171,
+      "end": 11181,
+      "normalized": {
+        "section": "25-2-554",
+        "subsection": null,
+        "full_reference": "25-2-554"
+      }
+    },
+    {
+      "text": "SINGLE-FAMILY",
+      "label": "USE_TYPE",
+      "start": 11184,
+      "end": 11197,
+      "normalized": "single_family"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 11217,
+      "end": 11220,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "SF-2",
+      "label": "ZONE",
+      "start": 11222,
+      "end": 11226,
+      "normalized": {
+        "code": "SF-2",
+        "original": "SF-2"
+      }
+    },
+    {
+      "text": "§ 25-2-555",
+      "label": "SECTION_REF",
+      "start": 11252,
+      "end": 11262,
+      "normalized": {
+        "section": "25-2-555",
+        "subsection": null,
+        "full_reference": "25-2-555"
+      }
+    },
+    {
+      "text": "SF-3",
+      "label": "ZONE",
+      "start": 11283,
+      "end": 11287,
+      "normalized": {
+        "code": "SF-3",
+        "original": "SF-3"
+      }
+    },
+    {
+      "text": "§ 25-2-556",
+      "label": "SECTION_REF",
+      "start": 11313,
+      "end": 11323,
+      "normalized": {
+        "section": "25-2-556",
+        "subsection": null,
+        "full_reference": "25-2-556"
+      }
+    },
+    {
+      "text": "IMPERVIOUS COVER",
+      "label": "METRIC",
+      "start": 11337,
+      "end": 11353,
+      "normalized": "impervious_cover_max"
+    },
+    {
+      "text": "SINGLE-FAMILY",
+      "label": "USE_TYPE",
+      "start": 11357,
+      "end": 11370,
+      "normalized": "single_family"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 11380,
+      "end": 11383,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "SF-2",
+      "label": "ZONE",
+      "start": 11385,
+      "end": 11389,
+      "normalized": {
+        "code": "SF-2",
+        "original": "SF-2"
+      }
+    },
+    {
+      "text": "SF-3",
+      "label": "ZONE",
+      "start": 11413,
+      "end": 11417,
+      "normalized": {
+        "code": "SF-3",
+        "original": "SF-3"
+      }
+    },
+    {
+      "text": "§ 25-2-557",
+      "label": "SECTION_REF",
+      "start": 11432,
+      "end": 11442,
+      "normalized": {
+        "section": "25-2-557",
+        "subsection": null,
+        "full_reference": "25-2-557"
+      }
+    },
+    {
+      "text": "§ 25-2-558",
+      "label": "SECTION_REF",
+      "start": 11457,
+      "end": 11467,
+      "normalized": {
+        "section": "25-2-558",
+        "subsection": null,
+        "full_reference": "25-2-558"
+      }
+    },
+    {
+      "text": "SINGLE-FAMILY",
+      "label": "USE_TYPE",
+      "start": 11470,
+      "end": 11483,
+      "normalized": "single_family"
+    },
+    {
+      "text": "SF-4B",
+      "label": "ZONE",
+      "start": 11512,
+      "end": 11517,
+      "normalized": {
+        "code": "SF-4B",
+        "original": "SF-4B"
+      }
+    },
+    {
+      "text": "§ 25-2-559",
+      "label": "SECTION_REF",
+      "start": 11543,
+      "end": 11553,
+      "normalized": {
+        "section": "25-2-559",
+        "subsection": null,
+        "full_reference": "25-2-559"
+      }
+    },
+    {
+      "text": "URBAN FAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 11556,
+      "end": 11578,
+      "normalized": {
+        "code": "SF-5",
+        "name": "urban family residence",
+        "original": "URBAN FAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 11580,
+      "end": 11584,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "SF-6",
+      "label": "ZONE",
+      "start": 11635,
+      "end": 11639,
+      "normalized": {
+        "code": "SF-6",
+        "original": "SF-6"
+      }
+    },
+    {
+      "text": "RETIREMENT HOUSING",
+      "label": "USE_TYPE",
+      "start": 11650,
+      "end": 11668,
+      "normalized": "retirement_housing"
+    },
+    {
+      "text": "§ 25-2-560",
+      "label": "SECTION_REF",
+      "start": 11676,
+      "end": 11686,
+      "normalized": {
+        "section": "25-2-560",
+        "subsection": null,
+        "full_reference": "25-2-560"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 11689,
+      "end": 11710,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 11719,
+      "end": 11726,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-1",
+      "label": "ZONE",
+      "start": 11728,
+      "end": 11732,
+      "normalized": {
+        "code": "MF-1",
+        "original": "MF-1"
+      }
+    },
+    {
+      "text": "§ 25-2-561",
+      "label": "SECTION_REF",
+      "start": 11758,
+      "end": 11768,
+      "normalized": {
+        "section": "25-2-561",
+        "subsection": null,
+        "full_reference": "25-2-561"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 11771,
+      "end": 11792,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "LOW",
+      "label": "ZONE",
+      "start": 11793,
+      "end": 11796,
+      "normalized": {
+        "code": "LOW",
+        "original": "LOW"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 11797,
+      "end": 11804,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-2",
+      "label": "ZONE",
+      "start": 11806,
+      "end": 11810,
+      "normalized": {
+        "code": "MF-2",
+        "original": "MF-2"
+      }
+    },
+    {
+      "text": "§ 25-2-562",
+      "label": "SECTION_REF",
+      "start": 11836,
+      "end": 11846,
+      "normalized": {
+        "section": "25-2-562",
+        "subsection": null,
+        "full_reference": "25-2-562"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 11849,
+      "end": 11870,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 11878,
+      "end": 11885,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-3",
+      "label": "ZONE",
+      "start": 11887,
+      "end": 11891,
+      "normalized": {
+        "code": "MF-3",
+        "original": "MF-3"
+      }
+    },
+    {
+      "text": "§ 25-2-563",
+      "label": "SECTION_REF",
+      "start": 11917,
+      "end": 11927,
+      "normalized": {
+        "section": "25-2-563",
+        "subsection": null,
+        "full_reference": "25-2-563"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 11930,
+      "end": 11951,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 11966,
+      "end": 11973,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-4",
+      "label": "ZONE",
+      "start": 11975,
+      "end": 11979,
+      "normalized": {
+        "code": "MF-4",
+        "original": "MF-4"
+      }
+    },
+    {
+      "text": "MULTIFAMILY RESIDENCE",
+      "label": "ZONE",
+      "start": 11985,
+      "end": 12006,
+      "normalized": {
+        "code": "MULTIFAMILY RESIDENCE",
+        "original": "MULTIFAMILY RESIDENCE"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 12012,
+      "end": 12019,
+      "normalized": "density_max"
+    },
+    {
+      "text": "MF-5",
+      "label": "ZONE",
+      "start": 12021,
+      "end": 12025,
+      "normalized": {
+        "code": "MF-5",
+        "original": "MF-5"
+      }
+    },
+    {
+      "text": "§ 25-2-564",
+      "label": "SECTION_REF",
+      "start": 12051,
+      "end": 12061,
+      "normalized": {
+        "section": "25-2-564",
+        "subsection": null,
+        "full_reference": "25-2-564"
+      }
+    },
+    {
+      "text": "§ 25-2-565",
+      "label": "SECTION_REF",
+      "start": 12078,
+      "end": 12088,
+      "normalized": {
+        "section": "25-2-565",
+        "subsection": null,
+        "full_reference": "25-2-565"
+      }
+    },
+    {
+      "text": "SETBACK",
+      "label": "METRIC",
+      "start": 12099,
+      "end": 12106,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "§ 25-2-566",
+      "label": "SECTION_REF",
+      "start": 12156,
+      "end": 12166,
+      "normalized": {
+        "section": "25-2-566",
+        "subsection": null,
+        "full_reference": "25-2-566"
+      }
+    },
+    {
+      "text": "AFFORDABLE HOUSING",
+      "label": "USE_TYPE",
+      "start": 12194,
+      "end": 12212,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "SINGLE FAMILY",
+      "label": "USE_TYPE",
+      "start": 12224,
+      "end": 12237,
+      "normalized": "single_family"
+    },
+    {
+      "text": "§ 25-2-567",
+      "label": "SECTION_REF",
+      "start": 12251,
+      "end": 12261,
+      "normalized": {
+        "section": "25-2-567",
+        "subsection": null,
+        "full_reference": "25-2-567"
+      }
+    },
+    {
+      "text": "AFFORDABLE HOUSING",
+      "label": "USE_TYPE",
+      "start": 12289,
+      "end": 12307,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "MULTIFAMILY",
+      "label": "USE_TYPE",
+      "start": 12319,
+      "end": 12330,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Division 2",
+      "label": "SECTION_REF",
+      "start": 12344,
+      "end": 12354,
+      "normalized": {
+        "type": "division",
+        "number": 2,
+        "full_reference": "Division 2"
+      }
+    },
+    {
+      "text": "§ 25-2-581",
+      "label": "SECTION_REF",
+      "start": 12419,
+      "end": 12429,
+      "normalized": {
+        "section": "25-2-581",
+        "subsection": null,
+        "full_reference": "25-2-581"
+      }
+    },
+    {
+      "text": "CENTRAL BUSINESS DISTRICT",
+      "label": "ZONE",
+      "start": 12432,
+      "end": 12457,
+      "normalized": {
+        "code": "CBD",
+        "name": "central business district",
+        "original": "CENTRAL BUSINESS DISTRICT"
+      }
+    },
+    {
+      "text": "CBD",
+      "label": "ZONE",
+      "start": 12459,
+      "end": 12462,
+      "normalized": {
+        "code": "CBD",
+        "original": "CBD"
+      }
+    },
+    {
+      "text": "§ 25-2-582",
+      "label": "SECTION_REF",
+      "start": 12488,
+      "end": 12498,
+      "normalized": {
+        "section": "25-2-582",
+        "subsection": null,
+        "full_reference": "25-2-582"
+      }
+    },
+    {
+      "text": "CH",
+      "label": "ZONE",
+      "start": 12521,
+      "end": 12523,
+      "normalized": {
+        "code": "CH",
+        "original": "CH"
+      }
+    },
+    {
+      "text": "§ 25-2-583",
+      "label": "SECTION_REF",
+      "start": 12549,
+      "end": 12559,
+      "normalized": {
+        "section": "25-2-583",
+        "subsection": null,
+        "full_reference": "25-2-583"
+      }
+    },
+    {
+      "text": "CR",
+      "label": "ZONE",
+      "start": 12585,
+      "end": 12587,
+      "normalized": {
+        "code": "CR",
+        "original": "CR"
+      }
+    },
+    {
+      "text": "§ 25-2-584",
+      "label": "SECTION_REF",
+      "start": 12613,
+      "end": 12623,
+      "normalized": {
+        "section": "25-2-584",
+        "subsection": null,
+        "full_reference": "25-2-584"
+      }
+    },
+    {
+      "text": "W/LO",
+      "label": "ZONE",
+      "start": 12652,
+      "end": 12656,
+      "normalized": {
+        "code": "W/LO",
+        "original": "W/LO"
+      }
+    },
+    {
+      "text": "§ 25-2-585",
+      "label": "SECTION_REF",
+      "start": 12682,
+      "end": 12692,
+      "normalized": {
+        "section": "25-2-585",
+        "subsection": null,
+        "full_reference": "25-2-585"
+      }
+    },
+    {
+      "text": "§ 25-2-586",
+      "label": "SECTION_REF",
+      "start": 12765,
+      "end": 12775,
+      "normalized": {
+        "section": "25-2-586",
+        "subsection": null,
+        "full_reference": "25-2-586"
+      }
+    },
+    {
+      "text": "DENSITY",
+      "label": "METRIC",
+      "start": 12787,
+      "end": 12794,
+      "normalized": "density_max"
+    },
+    {
+      "text": "§ 25-2-587",
+      "label": "SECTION_REF",
+      "start": 12812,
+      "end": 12822,
+      "normalized": {
+        "section": "25-2-587",
+        "subsection": null,
+        "full_reference": "25-2-587"
+      }
+    },
+    {
+      "text": "LR",
+      "label": "ZONE",
+      "start": 12885,
+      "end": 12887,
+      "normalized": {
+        "code": "LR",
+        "original": "LR"
+      }
+    },
+    {
+      "text": "§ 25-2-588",
+      "label": "SECTION_REF",
+      "start": 12901,
+      "end": 12911,
+      "normalized": {
+        "section": "25-2-588",
+        "subsection": null,
+        "full_reference": "25-2-588"
+      }
+    },
+    {
+      "text": "LO",
+      "label": "ZONE",
+      "start": 12965,
+      "end": 12967,
+      "normalized": {
+        "code": "LO",
+        "original": "LO"
+      }
+    },
+    {
+      "text": "§ 25-2-589",
+      "label": "SECTION_REF",
+      "start": 12981,
+      "end": 12991,
+      "normalized": {
+        "section": "25-2-589",
+        "subsection": null,
+        "full_reference": "25-2-589"
+      }
+    },
+    {
+      "text": "DOWNTOWN MIXED USE",
+      "label": "ZONE",
+      "start": 13026,
+      "end": 13044,
+      "normalized": {
+        "code": "DMU",
+        "name": "downtown mixed use",
+        "original": "DOWNTOWN MIXED USE"
+      }
+    },
+    {
+      "text": "DMU",
+      "label": "ZONE",
+      "start": 13046,
+      "end": 13049,
+      "normalized": {
+        "code": "DMU",
+        "original": "DMU"
+      }
+    },
+    {
+      "text": "§ 25-2-591",
+      "label": "SECTION_REF",
+      "start": 13086,
+      "end": 13096,
+      "normalized": {
+        "section": "25-2-591",
+        "subsection": null,
+        "full_reference": "25-2-591"
+      }
+    },
+    {
+      "text": "§ 25-2-592",
+      "label": "SECTION_REF",
+      "start": 13116,
+      "end": 13126,
+      "normalized": {
+        "section": "25-2-592",
+        "subsection": null,
+        "full_reference": "25-2-592"
+      }
+    },
+    {
+      "text": "§ 25-2-593",
+      "label": "SECTION_REF",
+      "start": 13150,
+      "end": 13160,
+      "normalized": {
+        "section": "25-2-593",
+        "subsection": null,
+        "full_reference": "25-2-593"
+      }
+    },
+    {
+      "text": "§ 25-2-594",
+      "label": "SECTION_REF",
+      "start": 13206,
+      "end": 13216,
+      "normalized": {
+        "section": "25-2-594",
+        "subsection": null,
+        "full_reference": "25-2-594"
+      }
+    },
+    {
+      "text": "SETBACK",
+      "label": "METRIC",
+      "start": 13227,
+      "end": 13234,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "Division 3",
+      "label": "SECTION_REF",
+      "start": 13250,
+      "end": 13260,
+      "normalized": {
+        "type": "division",
+        "number": 3,
+        "full_reference": "Division 3"
+      }
+    },
+    {
+      "text": "§ 25-2-601",
+      "label": "SECTION_REF",
+      "start": 13288,
+      "end": 13298,
+      "normalized": {
+        "section": "25-2-601",
+        "subsection": null,
+        "full_reference": "25-2-601"
+      }
+    },
+    {
+      "text": "IP",
+      "label": "ZONE",
+      "start": 13318,
+      "end": 13320,
+      "normalized": {
+        "code": "IP",
+        "original": "IP"
+      }
+    },
+    {
+      "text": "MI",
+      "label": "ZONE",
+      "start": 13339,
+      "end": 13341,
+      "normalized": {
+        "code": "MI",
+        "original": "MI"
+      }
+    },
+    {
+      "text": "LI",
+      "label": "ZONE",
+      "start": 13376,
+      "end": 13378,
+      "normalized": {
+        "code": "LI",
+        "original": "LI"
+      }
+    },
+    {
+      "text": "§ 25-2-602",
+      "label": "SECTION_REF",
+      "start": 13404,
+      "end": 13414,
+      "normalized": {
+        "section": "25-2-602",
+        "subsection": null,
+        "full_reference": "25-2-602"
+      }
+    },
+    {
+      "text": "R&D",
+      "label": "ZONE",
+      "start": 13443,
+      "end": 13446,
+      "normalized": {
+        "code": "R&D",
+        "original": "R&D"
+      }
+    },
+    {
+      "text": "§ 25-2-603",
+      "label": "SECTION_REF",
+      "start": 13465,
+      "end": 13475,
+      "normalized": {
+        "section": "25-2-603",
+        "subsection": null,
+        "full_reference": "25-2-603"
+      }
+    },
+    {
+      "text": "R&D",
+      "label": "ZONE",
+      "start": 13504,
+      "end": 13507,
+      "normalized": {
+        "code": "R&D",
+        "original": "R&D"
+      }
+    },
+    {
+      "text": "Division 4",
+      "label": "SECTION_REF",
+      "start": 13533,
+      "end": 13543,
+      "normalized": {
+        "type": "division",
+        "number": 4,
+        "full_reference": "Division 4"
+      }
+    },
+    {
+      "text": "§ 25-2-621",
+      "label": "SECTION_REF",
+      "start": 13576,
+      "end": 13586,
+      "normalized": {
+        "section": "25-2-621",
+        "subsection": null,
+        "full_reference": "25-2-621"
+      }
+    },
+    {
+      "text": "AG",
+      "label": "ZONE",
+      "start": 13603,
+      "end": 13605,
+      "normalized": {
+        "code": "AG",
+        "original": "AG"
+      }
+    },
+    {
+      "text": "§ 25-2-622",
+      "label": "SECTION_REF",
+      "start": 13631,
+      "end": 13641,
+      "normalized": {
+        "section": "25-2-622",
+        "subsection": null,
+        "full_reference": "25-2-622"
+      }
+    },
+    {
+      "text": "AV",
+      "label": "ZONE",
+      "start": 13663,
+      "end": 13665,
+      "normalized": {
+        "code": "AV",
+        "original": "AV"
+      }
+    },
+    {
+      "text": "§ 25-2-623",
+      "label": "SECTION_REF",
+      "start": 13684,
+      "end": 13694,
+      "normalized": {
+        "section": "25-2-623",
+        "subsection": null,
+        "full_reference": "25-2-623"
+      }
+    },
+    {
+      "text": "AV",
+      "label": "ZONE",
+      "start": 13716,
+      "end": 13718,
+      "normalized": {
+        "code": "AV",
+        "original": "AV"
+      }
+    },
+    {
+      "text": "§ 25-2-624",
+      "label": "SECTION_REF",
+      "start": 13744,
+      "end": 13754,
+      "normalized": {
+        "section": "25-2-624",
+        "subsection": null,
+        "full_reference": "25-2-624"
+      }
+    },
+    {
+      "text": "P",
+      "label": "ZONE",
+      "start": 13765,
+      "end": 13766,
+      "normalized": {
+        "code": "P",
+        "original": "P"
+      }
+    },
+    {
+      "text": "§ 25-2-625",
+      "label": "SECTION_REF",
+      "start": 13785,
+      "end": 13795,
+      "normalized": {
+        "section": "25-2-625",
+        "subsection": null,
+        "full_reference": "25-2-625"
+      }
+    },
+    {
+      "text": "P",
+      "label": "ZONE",
+      "start": 13806,
+      "end": 13807,
+      "normalized": {
+        "code": "P",
+        "original": "P"
+      }
+    },
+    {
+      "text": "Division 5",
+      "label": "SECTION_REF",
+      "start": 13833,
+      "end": 13843,
+      "normalized": {
+        "type": "division",
+        "number": 5,
+        "full_reference": "Division 5"
+      }
+    },
+    {
+      "text": "§ 25-2-641",
+      "label": "SECTION_REF",
+      "start": 13882,
+      "end": 13892,
+      "normalized": {
+        "section": "25-2-641",
+        "subsection": null,
+        "full_reference": "25-2-641"
+      }
+    },
+    {
+      "text": "§ 25-2-642",
+      "label": "SECTION_REF",
+      "start": 13952,
+      "end": 13962,
+      "normalized": {
+        "section": "25-2-642",
+        "subsection": null,
+        "full_reference": "25-2-642"
+      }
+    },
+    {
+      "text": "§ 25-2-643",
+      "label": "SECTION_REF",
+      "start": 14025,
+      "end": 14035,
+      "normalized": {
+        "section": "25-2-643",
+        "subsection": null,
+        "full_reference": "25-2-643"
+      }
+    },
+    {
+      "text": "§ 25-2-644",
+      "label": "SECTION_REF",
+      "start": 14170,
+      "end": 14180,
+      "normalized": {
+        "section": "25-2-644",
+        "subsection": null,
+        "full_reference": "25-2-644"
+      }
+    },
+    {
+      "text": "§ 25-2-645",
+      "label": "SECTION_REF",
+      "start": 14240,
+      "end": 14250,
+      "normalized": {
+        "section": "25-2-645",
+        "subsection": null,
+        "full_reference": "25-2-645"
+      }
+    },
+    {
+      "text": "§ 25-2-646",
+      "label": "SECTION_REF",
+      "start": 14307,
+      "end": 14317,
+      "normalized": {
+        "section": "25-2-646",
+        "subsection": null,
+        "full_reference": "25-2-646"
+      }
+    },
+    {
+      "text": "§ 25-2-647",
+      "label": "SECTION_REF",
+      "start": 14332,
+      "end": 14342,
+      "normalized": {
+        "section": "25-2-647",
+        "subsection": null,
+        "full_reference": "25-2-647"
+      }
+    },
+    {
+      "text": "LAKE AUSTIN",
+      "label": "ZONE",
+      "start": 14345,
+      "end": 14356,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "LAKE AUSTIN"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 14358,
+      "end": 14360,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "§ 25-2-648",
+      "label": "SECTION_REF",
+      "start": 14394,
+      "end": 14404,
+      "normalized": {
+        "section": "25-2-648",
+        "subsection": null,
+        "full_reference": "25-2-648"
+      }
+    },
+    {
+      "text": "§ 25-2-649",
+      "label": "SECTION_REF",
+      "start": 14463,
+      "end": 14473,
+      "normalized": {
+        "section": "25-2-649",
+        "subsection": null,
+        "full_reference": "25-2-649"
+      }
+    },
+    {
+      "text": "§ 25-2-650",
+      "label": "SECTION_REF",
+      "start": 14542,
+      "end": 14552,
+      "normalized": {
+        "section": "25-2-650",
+        "subsection": null,
+        "full_reference": "25-2-650"
+      }
+    },
+    {
+      "text": "§ 25-1-1010",
+      "label": "SECTION_REF",
+      "start": 14616,
+      "end": 14627,
+      "normalized": {
+        "section": "25-1-1010",
+        "subsection": null,
+        "full_reference": "25-1-1010"
+      }
+    },
+    {
+      "text": "CHAPTER 25-3",
+      "label": "SECTION_REF",
+      "start": 14655,
+      "end": 14667,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-3",
+        "full_reference": "Chapter 25-3"
+      }
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "section_id": "25-1-365",
+  "content": "\nExcept as provided in Section 25-1-364 (Temporary Certificate Of Occupancy) and Section 25-1-365 (Exemption From Compliance) of this article, the building official shall issue a certificate of occupancy if:\n\n(1)\n\nthe development has passed required inspections;\n\n(2)\n\nthe owner satisfies fiscal security requirements;\n\n(3)\n\nthe development has been completed in accordance with the released site plan, construction\nplans, and other ordinance requirements, as applicable; and\n\n(4)\n\nthe accountable official has signed a final acceptance letter for subdivision infrastructure\nor the accountable official and the developer have executed a developer agreement,\nif applicable.\n\nSource: Section 13-1-904(a); Ord. 990225-70; Ord. 000309-39; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Section 25-1-364",
+      "label": "SECTION_REF",
+      "start": 23,
+      "end": 39,
+      "normalized": {
+        "section": "25-1-364",
+        "subsection": null,
+        "full_reference": "25-1-364"
+      }
+    },
+    {
+      "text": "Section 25-1-365",
+      "label": "SECTION_REF",
+      "start": 81,
+      "end": 97,
+      "normalized": {
+        "section": "25-1-365",
+        "subsection": null,
+        "full_reference": "25-1-365"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 241,
+      "end": 249,
+      "normalized": "required"
+    }
+  ]
+}

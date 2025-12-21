@@ -1,0 +1,473 @@
+{
+  "section_id": "25-2-835",
+  "content": "(A)\n\nExcept as provided in Section 25-2-835\n(School District Development Agreements), this section applies to development of a public primary or secondary educational\nfacility.\n\n(B)\n\nThis subsection specifies the minimum setback required from a public primary or secondary\neducational facility and an adjoining residential, intensive recreational, or activity\ncenter use.\n\n(1)\n\nWithin the boundaries of the Austin Independent School District, a public primary\nor secondary educational facility must be constructed within the setbacks required\nunder the applicable regulations of this chapter.\n\n(2)\n\nOutside the boundaries of the Austin Independent School District, a public primary\nor secondary educational facility may not be constructed closer than 25 feet from\nan adjoining residential use.\n\n(C)\n\nThis subsection specifies maximum height of a public primary or secondary educational\nfacility.\n\n(1)\n\nWithin the boundaries of the Austin Independent School District, the height of a public\nprimary or secondary educational facility may not exceed the lesser of:\n\n(a)\n\n60 feet;\n\n(b)\n\n30 feet, if the facility is located within 50 feet of a single-family residential\nbase district or a single-family use; or\n\n(c)\n\n40 feet, if the facility is located within 100 feet of a single-family residential\ndistrict or a single-family use.\n\n(2)\n\nOutside the boundaries of the Austin Independent School District, the height of a\npublic primary or secondary educational facility may not exceed the lesser of:\n\n(a)\n\ntwo stories or 30 feet, if the facility is located within 50 feet of a single-family\nresidential base district or single-family use; or\n\n(b)\n\nthree stories or 40 feet, if the facility is located within 100 feet of a single family\nresidential base district or single family use.\n\n(D)\n\nA public primary or secondary educational facility:\n\n(1)\n\nis exempt from requirements of this chapter limiting floor-to-area ratio;\n\n(2)\n\nis subject to Chapter 25-2, Subchapter C, Article 10 (Compatibility) within the boundaries of the Austin Independent School District, except that no\nopaque fencing or screening around any building or shielding for security lighting\nis required; and\n\n(3)\n\nis exempt from Chapter 25-2, Subchapter C, Article 10 (Compatibility) outside the boundaries of the Austin Independent School District, but must comply\nthe standards specified under this subsection.\n\n(a)\n\nAn intensive recreational use associated with a public primary or secondary educational\nfacility, excluding a multi-use trail and including a swimming pool, tennis court,\nball court, or playground, may not be constructed 50 feet or less from adjoining property:\n\n(i)\n\nin an SF-5 or more restrictive zoning district; or\n\n(ii)\n\non which a use permitted in an SF-5 or more restrictive zoning district is located.\n\n(b)\n\nExterior lighting must be hooded or shielded so that the light source is not directly\nvisible from adjacent property:\n\n(i)\n\nin an urban family residence (SF-5) or more restrictive zoning district; or\n\n(ii)\n\non which a use permitted in an SF-5 or more restrictive zoning district is located.\n\nSource: Ord. No. 20160623-090, Pt. 4, 7-4-16.",
+  "entities": [
+    {
+      "text": "Section 25-2-835",
+      "label": "SECTION_REF",
+      "start": 27,
+      "end": 43,
+      "normalized": {
+        "section": "25-2-835",
+        "subsection": null,
+        "full_reference": "25-2-835"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 213,
+      "end": 220,
+      "normalized": "min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 221,
+      "end": 228,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 229,
+      "end": 237,
+      "normalized": "required"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 311,
+      "end": 322,
+      "normalized": "residential"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 525,
+      "end": 533,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 534,
+      "end": 542,
+      "normalized": "required"
+    },
+    {
+      "text": "25 feet",
+      "label": "MEASUREMENT",
+      "start": 751,
+      "end": 758,
+      "normalized": {
+        "value": 25,
+        "unit": "ft",
+        "original": "25 feet"
+      }
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 777,
+      "end": 788,
+      "normalized": "residential"
+    },
+    {
+      "text": "maximum height",
+      "label": "METRIC",
+      "start": 826,
+      "end": 840,
+      "normalized": "height_max"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 971,
+      "end": 977,
+      "normalized": "height_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1036,
+      "end": 1046,
+      "normalized": "lte"
+    },
+    {
+      "text": "60 feet",
+      "label": "MEASUREMENT",
+      "start": 1068,
+      "end": 1075,
+      "normalized": {
+        "value": 60,
+        "unit": "ft",
+        "original": "60 feet"
+      }
+    },
+    {
+      "text": "30 feet",
+      "label": "MEASUREMENT",
+      "start": 1083,
+      "end": 1090,
+      "normalized": {
+        "value": 30,
+        "unit": "ft",
+        "original": "30 feet"
+      }
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 1126,
+      "end": 1133,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 1139,
+      "end": 1152,
+      "normalized": "single_family"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1153,
+      "end": 1164,
+      "normalized": "residential"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 1184,
+      "end": 1197,
+      "normalized": "single_family"
+    },
+    {
+      "text": "40 feet",
+      "label": "MEASUREMENT",
+      "start": 1212,
+      "end": 1219,
+      "normalized": {
+        "value": 40,
+        "unit": "ft",
+        "original": "40 feet"
+      }
+    },
+    {
+      "text": "100 feet",
+      "label": "MEASUREMENT",
+      "start": 1255,
+      "end": 1263,
+      "normalized": {
+        "value": 100,
+        "unit": "ft",
+        "original": "100 feet"
+      }
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 1269,
+      "end": 1282,
+      "normalized": "single_family"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1283,
+      "end": 1294,
+      "normalized": "residential"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 1309,
+      "end": 1322,
+      "normalized": "single_family"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1404,
+      "end": 1410,
+      "normalized": "height_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1469,
+      "end": 1479,
+      "normalized": "lte"
+    },
+    {
+      "text": "two stories",
+      "label": "MEASUREMENT",
+      "start": 1501,
+      "end": 1512,
+      "normalized": {
+        "value": "two stories",
+        "unit": null,
+        "original": "two stories"
+      }
+    },
+    {
+      "text": "30 feet",
+      "label": "MEASUREMENT",
+      "start": 1516,
+      "end": 1523,
+      "normalized": {
+        "value": 30,
+        "unit": "ft",
+        "original": "30 feet"
+      }
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 1559,
+      "end": 1566,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 1572,
+      "end": 1585,
+      "normalized": "single_family"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1586,
+      "end": 1597,
+      "normalized": "residential"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 1615,
+      "end": 1628,
+      "normalized": "single_family"
+    },
+    {
+      "text": "three stories",
+      "label": "MEASUREMENT",
+      "start": 1643,
+      "end": 1656,
+      "normalized": {
+        "value": "three stories",
+        "unit": null,
+        "original": "three stories"
+      }
+    },
+    {
+      "text": "40 feet",
+      "label": "MEASUREMENT",
+      "start": 1660,
+      "end": 1667,
+      "normalized": {
+        "value": 40,
+        "unit": "ft",
+        "original": "40 feet"
+      }
+    },
+    {
+      "text": "100 feet",
+      "label": "MEASUREMENT",
+      "start": 1703,
+      "end": 1711,
+      "normalized": {
+        "value": 100,
+        "unit": "ft",
+        "original": "100 feet"
+      }
+    },
+    {
+      "text": "single family",
+      "label": "USE_TYPE",
+      "start": 1717,
+      "end": 1730,
+      "normalized": "single_family"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1731,
+      "end": 1742,
+      "normalized": "residential"
+    },
+    {
+      "text": "single family",
+      "label": "USE_TYPE",
+      "start": 1760,
+      "end": 1773,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 1937,
+      "end": 1949,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Subchapter C",
+      "label": "SECTION_REF",
+      "start": 1951,
+      "end": 1963,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "C",
+        "full_reference": "Subchapter C"
+      }
+    },
+    {
+      "text": "Article 10",
+      "label": "SECTION_REF",
+      "start": 1965,
+      "end": 1975,
+      "normalized": {
+        "type": "article",
+        "number": 10,
+        "full_reference": "Article 10"
+      }
+    },
+    {
+      "text": "screening",
+      "label": "METRIC",
+      "start": 2090,
+      "end": 2099,
+      "normalized": "screening_required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2158,
+      "end": 2166,
+      "normalized": "required"
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 2193,
+      "end": 2205,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Subchapter C",
+      "label": "SECTION_REF",
+      "start": 2207,
+      "end": 2219,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "C",
+        "full_reference": "Subchapter C"
+      }
+    },
+    {
+      "text": "Article 10",
+      "label": "SECTION_REF",
+      "start": 2221,
+      "end": 2231,
+      "normalized": {
+        "type": "article",
+        "number": 10,
+        "full_reference": "Article 10"
+      }
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 2604,
+      "end": 2611,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 2657,
+      "end": 2661,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 2724,
+      "end": 2733,
+      "normalized": "permitted"
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 2740,
+      "end": 2744,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "urban family residence",
+      "label": "ZONE",
+      "start": 2929,
+      "end": 2951,
+      "normalized": {
+        "code": "SF-5",
+        "name": "urban family residence",
+        "original": "urban family residence"
+      }
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 2953,
+      "end": 2957,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 3021,
+      "end": 3030,
+      "normalized": "permitted"
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 3037,
+      "end": 3041,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    }
+  ]
+}

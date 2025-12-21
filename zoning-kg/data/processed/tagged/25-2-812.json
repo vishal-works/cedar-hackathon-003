@@ -1,0 +1,49 @@
+{
+  "section_id": "25-2-812",
+  "content": "\n(A)\n\nDefinitions. In this section:\n\n(1)\n\nMOBILE RETAIL ESTABLISHMENT means a retail establishment that sells non-food items\nand services to an end user consumer from a movable vehicle or trailer that routinely\nchanges locations.\n\n(2)\n\nOPERATOR means a person who operates a mobile retail establishment.\n\n(3)\n\nRIGHT-OF-WAY means a public roadway and property dedicated or reserved for public\npedestrian or vehicular travel.\n\n(4)\n\nSOUND EQUIPMENT has the meaning established in Section 9-2-1 (Definitions) of the City Code.\n\n(B)\n\nApplicability. This section does not apply to a mobile food establishment defined\nin Section 25-2-812 (Mobile Food Establishments) of the City Code or to a mobile retail establishment that is located on private",
+  "entities": [
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 78,
+      "end": 84,
+      "normalized": "retail"
+    },
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 282,
+      "end": 288,
+      "normalized": "retail"
+    },
+    {
+      "text": "Section 9-2-1",
+      "label": "SECTION_REF",
+      "start": 477,
+      "end": 490,
+      "normalized": {
+        "section": "9-2-1",
+        "subsection": null,
+        "full_reference": "9-2-1"
+      }
+    },
+    {
+      "text": "Section 25-2-812",
+      "label": "SECTION_REF",
+      "start": 614,
+      "end": 630,
+      "normalized": {
+        "section": "25-2-812",
+        "subsection": null,
+        "full_reference": "25-2-812"
+      }
+    },
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 692,
+      "end": 698,
+      "normalized": "retail"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "section_id": "25-2-923",
+  "content": "\n(A)\n\nA person may file an application to conduct a temporary use with the building official.\nThe person must file the application at least ten days before the requested date for\nbeginning the temporary use.\n\n(B)\n\nAn application must include a diagram and description of the use and all additional\ninformation required by the building official to make a determination under this division.\n\n(C)\n\nAfter making a determination under Section 25-2-923 (Determinations), the building official shall approve, conditionally approve under Section 25-2-924 (Conditions of Approval), or deny an application for a temporary use not later than the 10th day after the\ndate the application is filed.\n\n(D)\n\nIf the building official approves or conditionally approves a temporary use, the building\nofficial shall issue a building permit, certificate of occupancy, or temporary use\npermit.\n\n(E)\n\nExcept as provided in Subsection (F), the building official may renew or extend an\nauthorization for a temporary use if requested by the applicant.\n\n(F)\n\nUnless further limited by the requirements of this division, a temporary use may continue\nfor not more than one year. An applicant must file a new application to continue a\ntemporary use beyond that period.\n\nSource: Sections 13-2-324 and 13-2-325; Ord. 990225-70; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 131,
+      "end": 139,
+      "normalized": "gte"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 310,
+      "end": 318,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-2-923",
+      "label": "SECTION_REF",
+      "start": 430,
+      "end": 446,
+      "normalized": {
+        "section": "25-2-923",
+        "subsection": null,
+        "full_reference": "25-2-923"
+      }
+    },
+    {
+      "text": "Section 25-2-924",
+      "label": "SECTION_REF",
+      "start": 530,
+      "end": 546,
+      "normalized": {
+        "section": "25-2-924",
+        "subsection": null,
+        "full_reference": "25-2-924"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 1047,
+      "end": 1054,
+      "normalized": "limited"
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 1126,
+      "end": 1139,
+      "normalized": "lte"
+    }
+  ]
+}

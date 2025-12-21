@@ -1,0 +1,42 @@
+{
+  "section_id": "25-1-189",
+  "content": "\n(A)\n\nThe single office shall give notice under Section 30-1-153(A) (Notice of Public Hearing) of a public hearing on an appeal to a board or commission.\n\n(B)\n\nThe single office shall give notice under Section 30-1-153(B) (Notice of Public Hearing) of a public hearing on an appeal to the council.\n\nSource: City Code Section 25-1-189; Ord. 031211-11; Ord. 031211-42.\n\nThe appellant must establish that the decision being appealed is contrary to applicable\nlaw or regulations.\n\nSource: City Code Section 25-1-190; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 17,
+      "end": 23,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 171,
+      "end": 177,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-189",
+      "label": "SECTION_REF",
+      "start": 317,
+      "end": 333,
+      "normalized": {
+        "section": "25-1-189",
+        "subsection": null,
+        "full_reference": "25-1-189"
+      }
+    },
+    {
+      "text": "Section 25-1-190",
+      "label": "SECTION_REF",
+      "start": 495,
+      "end": 511,
+      "normalized": {
+        "section": "25-1-190",
+        "subsection": null,
+        "full_reference": "25-1-190"
+      }
+    }
+  ]
+}

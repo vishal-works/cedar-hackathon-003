@@ -1,0 +1,72 @@
+{
+  "section_id": "25-1-article-13",
+  "content": "### ARTICLE 13. - RESERVED.\n\nFootnotes:\n\n--- (**2**) ---\n\n**Editor's note—**\nOrd. No. 20140612-084, Pt. 3, effective June 23, 2014, amended article 13 in its entirety to read as herein set out in Article 12, § 25-1-554.\nFormer Article 13, §§ 25-1-551, 25-1-552, pertained to dormant project expiration,\nand derived from Ord. 20050512-035.\n",
+  "entities": [
+    {
+      "text": "ARTICLE 13",
+      "label": "SECTION_REF",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "type": "article",
+        "number": 13,
+        "full_reference": "Article 13"
+      }
+    },
+    {
+      "text": "article 13",
+      "label": "SECTION_REF",
+      "start": 140,
+      "end": 150,
+      "normalized": {
+        "type": "article",
+        "number": 13,
+        "full_reference": "Article 13"
+      }
+    },
+    {
+      "text": "Article 12",
+      "label": "SECTION_REF",
+      "start": 196,
+      "end": 206,
+      "normalized": {
+        "type": "article",
+        "number": 12,
+        "full_reference": "Article 12"
+      }
+    },
+    {
+      "text": "§ 25-1-554",
+      "label": "SECTION_REF",
+      "start": 208,
+      "end": 218,
+      "normalized": {
+        "section": "25-1-554",
+        "subsection": null,
+        "full_reference": "25-1-554"
+      }
+    },
+    {
+      "text": "Article 13",
+      "label": "SECTION_REF",
+      "start": 227,
+      "end": 237,
+      "normalized": {
+        "type": "article",
+        "number": 13,
+        "full_reference": "Article 13"
+      }
+    },
+    {
+      "text": "§ 25-1-551",
+      "label": "SECTION_REF",
+      "start": 240,
+      "end": 250,
+      "normalized": {
+        "section": "25-1-551",
+        "subsection": null,
+        "full_reference": "25-1-551"
+      }
+    }
+  ]
+}

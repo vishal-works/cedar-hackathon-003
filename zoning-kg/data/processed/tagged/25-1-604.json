@@ -1,0 +1,145 @@
+{
+  "section_id": "25-1-604",
+  "content": "\n(A)\n\nFor a development application proposing multi-family uses, the director shall determine\nhow the applicant will satisfy applicable parkland dedication requirements. The director\nmay require the applicant to:\n\n(1)\n\ndedicate land that meets the criteria in Section 25-1-604 (Standards for Dedicated Parkland) as parkland;\n\n(2)\n\npay a parkland dedication fee under Section 25-1-608 (Multi-Family Parkland Dedication Fee); or\n\n(3)\n\ndedicate land that meets the criteria in Section 25-1-604 (Standards for Dedicated Parkland) as parkland and pay a reduced parkland dedication fee calculated under Section 25-1-608 (Multi-Family Parkland Dedication Fee).\n\n(B)\n\nIn determining how an applicant will satisfy their parkland dedication requirements\nunder this article, the director shall consider whether the development:\n\n(1)\n\nis located within the Deficient Park Area Map;\n\n(2)\n\nis adjacent to existing parkland;\n\n(3)\n\nhas sufficient acreage to meet the standards for dedicated parkland under the Parkland\nDedication Operating Procedures;\n\n(4)\n\nis needed to address a critical need for parkland or to remedy a deficiency identified\nby the Deficient Park Area Map; or\n\n(5)\n\nwould provide increased connectivity with existing or planned parks or recreational\namenities.\n\n(C)\n\nSubject to Subsection (D), if the director is requiring an applicant to satisfy their\nparkland dedication requirements entirely through land dedication, the following formula\nwill apply to determine the amount of land required:\n\n[# of multifamily units × .005] + [# of hotel/motel rooms × .004] = Acres of parkland\n\n(D)\n\nThe amount of land required to be dedicated may not exceed 10% of gross site area\nof the development.\n\n(E)\n\nIf a development application proposes both multi-family and commercial uses, the amount\nof land dedication required is based on a prorated portion of the land proposed for\nthe multi-family use.\n\nSource: Ord. No. 20231130-087, Pt. 2, 1-1-24.",
+  "entities": [
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 46,
+      "end": 58,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Section 25-1-604",
+      "label": "SECTION_REF",
+      "start": 260,
+      "end": 276,
+      "normalized": {
+        "section": "25-1-604",
+        "subsection": null,
+        "full_reference": "25-1-604"
+      }
+    },
+    {
+      "text": "Section 25-1-608",
+      "label": "SECTION_REF",
+      "start": 367,
+      "end": 383,
+      "normalized": {
+        "section": "25-1-608",
+        "subsection": null,
+        "full_reference": "25-1-608"
+      }
+    },
+    {
+      "text": "Multi-Family",
+      "label": "USE_TYPE",
+      "start": 385,
+      "end": 397,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Section 25-1-604",
+      "label": "SECTION_REF",
+      "start": 474,
+      "end": 490,
+      "normalized": {
+        "section": "25-1-604",
+        "subsection": null,
+        "full_reference": "25-1-604"
+      }
+    },
+    {
+      "text": "Section 25-1-608",
+      "label": "SECTION_REF",
+      "start": 597,
+      "end": 613,
+      "normalized": {
+        "section": "25-1-608",
+        "subsection": null,
+        "full_reference": "25-1-608"
+      }
+    },
+    {
+      "text": "Multi-Family",
+      "label": "USE_TYPE",
+      "start": 615,
+      "end": 627,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1489,
+      "end": 1497,
+      "normalized": "required"
+    },
+    {
+      "text": "multifamily",
+      "label": "USE_TYPE",
+      "start": 1506,
+      "end": 1517,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1611,
+      "end": 1619,
+      "normalized": "required"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1640,
+      "end": 1650,
+      "normalized": "lte"
+    },
+    {
+      "text": "10%",
+      "label": "MEASUREMENT",
+      "start": 1651,
+      "end": 1654,
+      "normalized": {
+        "value": 10.0,
+        "unit": "%",
+        "original": "10%"
+      }
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 1664,
+      "end": 1673,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1743,
+      "end": 1755,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 1760,
+      "end": 1770,
+      "normalized": "commercial"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1807,
+      "end": 1815,
+      "normalized": "required"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1876,
+      "end": 1888,
+      "normalized": "multifamily"
+    }
+  ]
+}

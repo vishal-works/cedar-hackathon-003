@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-153",
+  "content": "\n(A)\n\nThe presiding officer of the body conducting a public hearing may change the location\nof a hearing for good cause.\n\n(B)\n\nThe presiding officer shall post a sign notifying the public of the change of location.\nThe sign must:\n\n(1)\n\nbe prominently displayed at the original location of the hearing on the date and at\nthe time of the original hearing;\n\n(2)\n\nidentify the hearing being relocated;\n\n(3)\n\nstate the time, date, and new location of the hearing; and\n\n(4)\n\nprovided an explanation for relocation.\n\n(C)\n\nThe hearing shall be postponed a sufficient period of time to provide a reasonable\nopportunity for interested parties to travel from the original location to the new\nlocation of the hearing.\n\nSource: City Code Section 25-1-153; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nThe body conducting a public hearing shall record each public hearing on audio tape\nor video tape.\n\n(B)\n\nThe official record of a public hearing includes:\n\n(1)\n\nthe audio tape or video tape recording of the public hearing;\n\n(2)\n\nwritten staff reports; and\n\n(3)\n\ndocumentary evidence submitted during a public hearing.\n\n(C)\n\nA person may review the official record of a public hearing.\n\n(D)\n\nThe custodian of the records of the body conducting the hearing may establish rules\nregarding the time and location for review of the record.\n\nSource: City Code Section 25-1-154; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "Section 25-1-153",
+      "label": "SECTION_REF",
+      "start": 725,
+      "end": 741,
+      "normalized": {
+        "section": "25-1-153",
+        "subsection": null,
+        "full_reference": "25-1-153"
+      }
+    },
+    {
+      "text": "Section 25-1-154",
+      "label": "SECTION_REF",
+      "start": 1333,
+      "end": 1349,
+      "normalized": {
+        "section": "25-1-154",
+        "subsection": null,
+        "full_reference": "25-1-154"
+      }
+    }
+  ]
+}

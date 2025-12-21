@@ -1,0 +1,42 @@
+{
+  "section_id": "25-1-152",
+  "content": "\n(A)\n\nThe body conducting a public hearing may:\n\n(1)\n\npostpone a public hearing by announcing the postponement on the date and at the time\nand location stated in the notice for the scheduled hearing; and\n\n(2)\n\ncontinue a public hearing to a later date by announcing the continuance after the\nhearing begins.\n\n(B)\n\nIf the body conducting a public hearing postpones or continues a hearing to a specific\ndate and time not later than 60 days after the date on which the postponement or continuance\nis announced, the announcement is adequate notice of the next hearing and additional\nnotice is not required.\n\n(C)\n\nWhen a body conducting a public hearing postpones or continues a hearing, the next\nhearing shall be held at the same location as the original hearing unless a change\nin location is announced at the time of the postponement or continuance.\n\n(D)\n\nIf a body does not specify a hearing date and time at the time that a postponement\nor continuance is announced, notice of the next hearing shall be provided in the manner\nrequired for the original hearing.\n\nSource: City Code Section 25-1-152; Ord. 031211-11; Ord. 031211-42; Ord. No. 20190822-117, Pt. 44, 9-1-19; Ord. No. 20230831-142, Pt. 10, 9-1-23.\n\n(A)\n\nThe presiding officer of the body conducting a public hearing may change the location\nof a hearing for good cause.\n\n(B)\n\nThe presiding officer shall post a sign notifying the public of the change of location.\nThe sign must:\n\n(1)\n\nbe prominently displayed at the original location of the hearing on the date and at\nthe time of the original hearing;\n\n(2)\n\nidentify the hearing being relocated;\n\n(3)\n\nstate the time, date, and new location of the hearing; and\n\n(4)\n\nprovided an explanation for relocation.\n\n(C)\n\nThe hearing shall be postponed a sufficient period of time to provide a reasonable\nopportunity for interested parties to travel from the original location to the new\nlocation of the hearing.\n\nSource: City Code Section 25-1-153; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 593,
+      "end": 601,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1025,
+      "end": 1033,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-152",
+      "label": "SECTION_REF",
+      "start": 1079,
+      "end": 1095,
+      "normalized": {
+        "section": "25-1-152",
+        "subsection": null,
+        "full_reference": "25-1-152"
+      }
+    },
+    {
+      "text": "Section 25-1-153",
+      "label": "SECTION_REF",
+      "start": 1932,
+      "end": 1948,
+      "normalized": {
+        "section": "25-1-153",
+        "subsection": null,
+        "full_reference": "25-1-153"
+      }
+    }
+  ]
+}

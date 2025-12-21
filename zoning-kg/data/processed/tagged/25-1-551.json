@@ -1,0 +1,61 @@
+{
+  "section_id": "25-1-551",
+  "content": "\n(A)\n\nThe project expiration period established by this section applies if the vesting date\napproved for a project under Section 25-1-541 (Vested Rights Determination) is based on a permit application that is submitted on or after June 23, 2014.\n\n(B)\n\nExcept as provided in Subsection (C) of this section or in Section 25-1-551 (Expirations Generally), a project expires nine years after the vesting date approved for the project under\nSection 25-1-541 (Vested Rights Determination).\n\n(C)\n\nIf the vesting date approved for a project under Section 25-1-541 (Vested Rights Determination) is based on a fair notice application (new project) submitted under Section 25-1-535 (Fair Notice Application):\n\n(1)\n\nthe project expires one year after the date the application was submitted; or\n\n(2)\n\nif a permit application is submitted before the fair notice application expires, the\nproject expires on the date applicable to the permit under this section, except that\nthe project expiration period shall be deemed to run from the date of the fair notice\napplication.\n\nSource: Ord. 20140612-084, Pt. 2, 6-23-14.",
+  "entities": [
+    {
+      "text": "Section 25-1-541",
+      "label": "SECTION_REF",
+      "start": 121,
+      "end": 137,
+      "normalized": {
+        "section": "25-1-541",
+        "subsection": null,
+        "full_reference": "25-1-541"
+      }
+    },
+    {
+      "text": "Section 25-1-551",
+      "label": "SECTION_REF",
+      "start": 311,
+      "end": 327,
+      "normalized": {
+        "section": "25-1-551",
+        "subsection": null,
+        "full_reference": "25-1-551"
+      }
+    },
+    {
+      "text": "Section 25-1-541",
+      "label": "SECTION_REF",
+      "start": 436,
+      "end": 452,
+      "normalized": {
+        "section": "25-1-541",
+        "subsection": null,
+        "full_reference": "25-1-541"
+      }
+    },
+    {
+      "text": "Section 25-1-541",
+      "label": "SECTION_REF",
+      "start": 539,
+      "end": 555,
+      "normalized": {
+        "section": "25-1-541",
+        "subsection": null,
+        "full_reference": "25-1-541"
+      }
+    },
+    {
+      "text": "Section 25-1-535",
+      "label": "SECTION_REF",
+      "start": 654,
+      "end": 670,
+      "normalized": {
+        "section": "25-1-535",
+        "subsection": null,
+        "full_reference": "25-1-535"
+      }
+    }
+  ]
+}

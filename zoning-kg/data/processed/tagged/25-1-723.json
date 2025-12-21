@@ -1,0 +1,399 @@
+{
+  "section_id": "25-1-723",
+  "content": "\nIn this division,\n\n(1)\n\nGOVERNMENT-OPERATED AFFORDABLE HOUSING PROGRAM means a program operated by a federal,\nstate, or local department that provides financial or other form of subsidy for the\npurpose of providing affordable housing.\n\n(2)\n\nHOUSING FOR OLDER PERSONS means housing for households with at least one individual\nwho is at least 62 years of age at the time of initial occupancy.\n\n(3)\n\nMFI means median family income for the Austin metropolitan statistical area.\n\n(4)\n\nQUALIFYING DEVELOPMENT means a development certified under Section 25-1-724 (Certification) and participating in the Affordability Unlocked Bonus Program.\n\n(5)\n\nSLEEPING UNIT means a bedroom in a structure that serves as a dwelling unit for seven\nor more unrelated individuals who share amenities, such as a kitchen, bathrooms, or\nliving areas.\n\n(6)\n\nSUPPORTIVE HOUSING means housing that includes non-time-limited affordable housing\nassistance with wrap-around supportive services for individuals experiencing homelessness,\nas well as other individuals with disabilities.\n\n(A)\n\nA proposed development qualifies as a Type I development and is eligible for this\nprogram if:\n\n(1)\n\nit includes:\n\n(a)\n\na minimum of three dwelling units,\n\n(b)\n\nonly affordable dwelling units; or\n\n(c)\n\none or more structures that serve as a dwelling unit for seven or more unrelated individuals\nwho share amenities, such as a kitchen, bathrooms, or living areas;\n\n(2)\n\nat least 25 percent of the affordable dwelling units include two or more bedrooms,\nsupportive housing, housing for older persons, or any combination of the three;\n\n(3)\n\nnot more than 25 percent of the proposed development's gross floor area is for commercial\nuses;\n\n(4)\n\nit is new construction, it is redevelopment of a site without existing multi-family\nstructures, or the existing development on the site complies with the requirements\nin Subsection (D); and\n\n(5)\n\nit meets the requirements set forth in Section 25-1-723 (Affordability Requirements).\n\n(B)\n\nExcept for a proposed development participating in a government-operated affordable\nhousing program with stricter requirements, the applicant for a proposed rental development:\n\n(1)\n\nshall incorporate lease provisions that are consistent with:\n\n(a)\n\nthe U.S. Department of Housing and Urban Development (HUD) Section 8 Tenant-Based\nAssistance Housing Choice Voucher (HCV) Program related to the termination of tenancy\nby owner;\n\n(b)\n\nany lease addendum required as a condition to receive city or Austin Housing Finance\nCorporation (AHFC) funds; and\n\n(c)\n\n24 C.F.R. § 245.100 related to a tenant's right to organize; and\n\n(2)\n\nmay not discriminate on the basis of an individual 's source of income as defined\nin Section 5-1-13 (Definitions).\n\n(C)\n\nA proposed development qualifies as a Type 2 development and is eligible for additional\nbonuses if it meets the standards imposed in Subsections (A) and (B) plus one or more\nof the following:\n\n(1)\n\nat least 50 percent of the affordable dwelling units include two or more bedrooms;\n\n(2)\n\nfor a rental development:\n\n(a)\n\nat least 75 percent of the total units or sleeping units serve households whose incomes\naverage 60 percent MFI or below, rounded up to the nearest unit or sleeping unit;\nor\n\n(b)\n\nat least 10 percent of the affordable units or sleeping units serve households with\nincomes of 30 percent MFI or below, rounded up to the nearest unit or sleeping unit;\nor\n\n(3)\n\nfor an owner-occupied development, at least 75 percent of the owner-occupied dwelling\nunits or sleeping units serve households whose incomes average 80 percent MFI or below;\nor\n\n(4)\n\nis located within ¼ mile of an activity corridor designated in the Imagine Austin\nComprehensive Plan and is served by a bus or transit line.\n\n(D)\n\nA proposed development that will require the applicant to redevelop or rebuild an\nexisting multi-family structure is eligible for this program if:\n\n(1)\n\nthe proposed development meets the standards imposed in Subsections (A) and (B);\n\n(2)\n\nthe existing multi-family structure requires extensive repairs and for which rehabilitation\ncosts will exceed 50 percent of the market value, as determined by the building official;\n\n(3)\n\nthe proposed development will replace all existing units that were affordable to a\nhousehold earning 80 percent MFI or below in the previous year and have at least as\nmany bedrooms;\n\n(4)\n\nthe applicant provides current tenants with:\n\n(a)\n\nnotice and information about the proposed development on a form approved by the director;\nand\n\n(b)\n\nrelocation benefits that are consistent with Federal Uniform Relocation Assistance\nand Real Property Acquisition Policies Act of 1970, 42 U.S.C.A. 4601, et seq.; and\n\n(5)\n\nthe applicant grants current tenants the option to lease a unit of comparable affordability\nand size following completion of redevelopment.\n\nSource: 20190509-027, Pt. 2, 5-20-19.",
+  "entities": [
+    {
+      "text": "AFFORDABLE HOUSING",
+      "label": "USE_TYPE",
+      "start": 45,
+      "end": 63,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "affordable housing",
+      "label": "USE_TYPE",
+      "start": 216,
+      "end": 234,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 302,
+      "end": 310,
+      "normalized": "gte"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 333,
+      "end": 341,
+      "normalized": "gte"
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 398,
+      "end": 401,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "Section 25-1-724",
+      "label": "SECTION_REF",
+      "start": 540,
+      "end": 556,
+      "normalized": {
+        "section": "25-1-724",
+        "subsection": null,
+        "full_reference": "25-1-724"
+      }
+    },
+    {
+      "text": "dwelling unit",
+      "label": "USE_TYPE",
+      "start": 704,
+      "end": 717,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 888,
+      "end": 895,
+      "normalized": "limited"
+    },
+    {
+      "text": "affordable housing",
+      "label": "USE_TYPE",
+      "start": 896,
+      "end": 914,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1181,
+      "end": 1188,
+      "normalized": "min"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 1198,
+      "end": 1212,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 1236,
+      "end": 1250,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "dwelling unit",
+      "label": "USE_TYPE",
+      "start": 1300,
+      "end": 1313,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1428,
+      "end": 1436,
+      "normalized": "gte"
+    },
+    {
+      "text": "25 percent",
+      "label": "MEASUREMENT",
+      "start": 1437,
+      "end": 1447,
+      "normalized": {
+        "value": 25.0,
+        "unit": "%",
+        "original": "25 percent"
+      }
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 1466,
+      "end": 1480,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 1597,
+      "end": 1610,
+      "normalized": "lte"
+    },
+    {
+      "text": "25 percent",
+      "label": "MEASUREMENT",
+      "start": 1611,
+      "end": 1621,
+      "normalized": {
+        "value": 25.0,
+        "unit": "%",
+        "original": "25 percent"
+      }
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 1676,
+      "end": 1686,
+      "normalized": "commercial"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1770,
+      "end": 1782,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Section 25-1-723",
+      "label": "SECTION_REF",
+      "start": 1934,
+      "end": 1950,
+      "normalized": {
+        "section": "25-1-723",
+        "subsection": null,
+        "full_reference": "25-1-723"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2440,
+      "end": 2448,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 5-1-13",
+      "label": "SECTION_REF",
+      "start": 2698,
+      "end": 2712,
+      "normalized": {
+        "section": "5-1-13",
+        "subsection": null,
+        "full_reference": "5-1-13"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 2932,
+      "end": 2940,
+      "normalized": "gte"
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 2941,
+      "end": 2951,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 2970,
+      "end": 2984,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 3053,
+      "end": 3061,
+      "normalized": "gte"
+    },
+    {
+      "text": "75 percent",
+      "label": "MEASUREMENT",
+      "start": 3062,
+      "end": 3072,
+      "normalized": {
+        "value": 75.0,
+        "unit": "%",
+        "original": "75 percent"
+      }
+    },
+    {
+      "text": "60 percent",
+      "label": "MEASUREMENT",
+      "start": 3149,
+      "end": 3159,
+      "normalized": {
+        "value": 60.0,
+        "unit": "%",
+        "original": "60 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 3160,
+      "end": 3163,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 3182,
+      "end": 3187,
+      "normalized": "lte"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 3232,
+      "end": 3240,
+      "normalized": "gte"
+    },
+    {
+      "text": "10 percent",
+      "label": "MEASUREMENT",
+      "start": 3241,
+      "end": 3251,
+      "normalized": {
+        "value": 10.0,
+        "unit": "%",
+        "original": "10 percent"
+      }
+    },
+    {
+      "text": "30 percent",
+      "label": "MEASUREMENT",
+      "start": 3327,
+      "end": 3337,
+      "normalized": {
+        "value": 30.0,
+        "unit": "%",
+        "original": "30 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 3338,
+      "end": 3341,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 3360,
+      "end": 3365,
+      "normalized": "lte"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 3445,
+      "end": 3453,
+      "normalized": "gte"
+    },
+    {
+      "text": "75 percent",
+      "label": "MEASUREMENT",
+      "start": 3454,
+      "end": 3464,
+      "normalized": {
+        "value": 75.0,
+        "unit": "%",
+        "original": "75 percent"
+      }
+    },
+    {
+      "text": "80 percent",
+      "label": "MEASUREMENT",
+      "start": 3559,
+      "end": 3569,
+      "normalized": {
+        "value": 80.0,
+        "unit": "%",
+        "original": "80 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 3570,
+      "end": 3573,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 3831,
+      "end": 3843,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 3993,
+      "end": 4005,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 4090,
+      "end": 4100,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "80 percent",
+      "label": "MEASUREMENT",
+      "start": 4269,
+      "end": 4279,
+      "normalized": {
+        "value": 80.0,
+        "unit": "%",
+        "original": "80 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 4280,
+      "end": 4283,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 4323,
+      "end": 4331,
+      "normalized": "gte"
+    }
+  ]
+}

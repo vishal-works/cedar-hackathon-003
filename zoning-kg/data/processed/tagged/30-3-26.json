@@ -1,0 +1,39 @@
+{
+  "section_id": "30-3-26",
+  "content": "Ord. 031211-42.\n\nExcept as provided in Section 30-3-26 (Agreement For Temporary Use Of Reserved Right-Of-Way) and Section 30-3-41 (Waiver Request), a person may not erect a structure or make an improvement in a\nreserved right-of-way.\n\nSource: City Code Section 25-6-52; County Code Section 82.202(f)(4); Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "Section 30-3-26",
+      "label": "SECTION_REF",
+      "start": 39,
+      "end": 54,
+      "normalized": {
+        "section": "30-3-26",
+        "subsection": null,
+        "full_reference": "30-3-26"
+      }
+    },
+    {
+      "text": "Section 30-3-41",
+      "label": "SECTION_REF",
+      "start": 114,
+      "end": 129,
+      "normalized": {
+        "section": "30-3-41",
+        "subsection": null,
+        "full_reference": "30-3-41"
+      }
+    },
+    {
+      "text": "Section 25-6-52",
+      "label": "SECTION_REF",
+      "start": 253,
+      "end": 268,
+      "normalized": {
+        "section": "25-6-52",
+        "subsection": null,
+        "full_reference": "25-6-52"
+      }
+    }
+  ]
+}

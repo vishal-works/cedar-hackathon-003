@@ -1,0 +1,35 @@
+{
+  "section_id": "25-2-356",
+  "content": "\nIn this division:\n\n(A)\n\nCONTRIBUTING STRUCTURE means a structure that contributes to the historic character\nof a historic area (HD) combining district, was built during the period of significance\nfor the district, and which retains its appearance from that time. An altered structure\nmay be considered a contributing structure if the alterations are minor and the structure\nretains its historic appearance and contributes to the overall visual and historic\nintegrity of the district. A structure is designated as a contributing structure by\nthe ordinance establishing the historic area (HD) combining district.\n\n(B)\n\nHISTORIC DESIGN STANDARDS means the design standards adopted by council and used by\nproperty owners, the historic preservation officer, and the commission to evaluate\nproposed projects in accordance with the requirements of Section 25-11-213 (Building, Demolition, and Relocation Permits and Certificates of Appropriateness Relating\nto Certain Buildings, Structures or Sites).\n\n(C)\n\nSUPPLEMENTAL STANDARDS means design standards for a historic area (HD) combining district\nadopted in accordance with the requirements of Section 25-2-356 (Historic Area Combining District Ordinance) and to be considered in addition to historic design standards adopted by council\nwhere required by Code.\n\nSource: Ord. 041202-16; Ord. 20100819-065; Ord. No. 20221115-049, Pt. 3, 11-28-22.",
+  "entities": [
+    {
+      "text": "Section 25-11-213",
+      "label": "SECTION_REF",
+      "start": 842,
+      "end": 859,
+      "normalized": {
+        "section": "25-11-213",
+        "subsection": null,
+        "full_reference": "25-11-213"
+      }
+    },
+    {
+      "text": "Section 25-2-356",
+      "label": "SECTION_REF",
+      "start": 1138,
+      "end": 1154,
+      "normalized": {
+        "section": "25-2-356",
+        "subsection": null,
+        "full_reference": "25-2-356"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1287,
+      "end": 1295,
+      "normalized": "required"
+    }
+  ]
+}

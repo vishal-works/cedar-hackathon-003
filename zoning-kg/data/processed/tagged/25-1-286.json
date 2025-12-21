@@ -1,0 +1,49 @@
+{
+  "section_id": "25-1-286",
+  "content": "\n(A)\n\nThe central dispatcher shall coordinate contact between a permittee and an inspector.\n\n(B)\n\nA permittee shall contact the central dispatcher to request an inspection.\n\n(C)\n\nThe single office may:\n\n(1)\n\nrequire that a request be made 48 hours before the date the inspection is desired;\nand\n\n(2)\n\nspecify the manner in which the request is made.\n\n(D)\n\nThe central dispatcher shall maintain inspection requests for the single office.\n\nSource: City Code Section 25-1-286; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nA permittee may not begin work under a permit until an inspection record card is posted\non the site.\n\n(B)\n\nThe permittee shall post the card in a readily accessible location.\n\n(C)\n\nAn inspector shall note each inspection on the record card.\n\n(D)\n\nThe permittee shall post the record card until a final report is issued indicating\ncompletion of the required work.\n\nSource: City Code Section 25-1-287; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 190,
+      "end": 196,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 429,
+      "end": 435,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-286",
+      "label": "SECTION_REF",
+      "start": 456,
+      "end": 472,
+      "normalized": {
+        "section": "25-1-286",
+        "subsection": null,
+        "full_reference": "25-1-286"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 860,
+      "end": 868,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-287",
+      "label": "SECTION_REF",
+      "start": 894,
+      "end": 910,
+      "normalized": {
+        "section": "25-1-287",
+        "subsection": null,
+        "full_reference": "25-1-287"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "section_id": "30-1-93",
+  "content": "Ord. 031211-42.\n\nThe single office has the duties and powers prescribed by this title relating to the\napproval of subdivisions, exercised in accordance with Section 30-1-93 (Single Office Structure And Function).\n\nSource: Based on City Code Chapter 25-1, Article 3 (Accountable Entities); Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 28,
+      "end": 34,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 30-1-93",
+      "label": "SECTION_REF",
+      "start": 157,
+      "end": 172,
+      "normalized": {
+        "section": "30-1-93",
+        "subsection": null,
+        "full_reference": "30-1-93"
+      }
+    },
+    {
+      "text": "Chapter 25-1",
+      "label": "SECTION_REF",
+      "start": 241,
+      "end": 253,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-1",
+        "full_reference": "Chapter 25-1"
+      }
+    },
+    {
+      "text": "Article 3",
+      "label": "SECTION_REF",
+      "start": 255,
+      "end": 264,
+      "normalized": {
+        "type": "article",
+        "number": 3,
+        "full_reference": "Article 3"
+      }
+    }
+  ]
+}

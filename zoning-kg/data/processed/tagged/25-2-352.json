@@ -1,0 +1,35 @@
+{
+  "section_id": "25-2-352",
+  "content": "(A)\n\nThe Historic Landmark Commission shall consider the criteria established in Section 25-2-352 (Historic Designation Criteria) when reviewing an application for a historic landmark (H) or historic area (HD)\ncombining district.\n\n(B)\n\nIf the Historic Landmark Commission recommends designation of a historic landmark\n(H) or historic area (HD) combining district, it shall send a recommendation to the\nLand Use Commission and the council that includes:\n\n(1)\n\na statement of the reasons for recommending designation of the district;\n\n(2)\n\na legal description of the boundary of the district;\n\n(3)\n\nmaps, photographs, and histories of the structures, sites, or areas located in the\ndistrict as required by administrative rule;\n\n(4)\n\nfindings that support the criteria for designating the district and that establish\nthe importance of the district; and\n\n(5)\n\nfor a historic area (HD) combining district, the materials described in Section 25-2-356 (Historic Area Combining District Ordinance).\n\nSource: Ord. 041202-16; Ord. 20060622-128; 20090806-068; Ord. No. 20170928-099, 10-9-17; Ord. No. 20221115-049, Pt. 5, 11-28-22.",
+  "entities": [
+    {
+      "text": "Section 25-2-352",
+      "label": "SECTION_REF",
+      "start": 81,
+      "end": 97,
+      "normalized": {
+        "section": "25-2-352",
+        "subsection": null,
+        "full_reference": "25-2-352"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 692,
+      "end": 700,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-2-356",
+      "label": "SECTION_REF",
+      "start": 928,
+      "end": 944,
+      "normalized": {
+        "section": "25-2-356",
+        "subsection": null,
+        "full_reference": "25-2-356"
+      }
+    }
+  ]
+}

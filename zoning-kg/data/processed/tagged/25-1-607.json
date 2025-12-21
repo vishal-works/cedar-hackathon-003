@@ -1,0 +1,195 @@
+{
+  "section_id": "25-1-607",
+  "content": "\n(A)\n\nThe director may allow up to a 100 percent credit toward fulfilling the requirements\nof:\n\n(1)\n\nSection 25-1-602 (Single-Family Dedication of Parkland) or Section 25-1-603 (Multi-Family Dedication of Parkland) for privately owned and maintained parkland that is available for use by the public\nand meets the standards of the Parkland Dedication Operating Procedures; and\n\n(2)\n\nSection 25-1-607 (Single-Family Parkland Development Fee) for recreational facilities that are located on privately owned and maintained parkland\nand available for use by the public if the development is proposing single-family\ndevelopment.\n\n(B)\n\nThe director may allow up to a 100 percent credit toward fulfilling the requirements\nof this article for private parkland in a subdivision or site plan located outside\nthe city limits if the director determines that the private parkland meets City parkland\nstandards.\n\n(C)\n\nFor an application proposing single-family development, if private parkland will include\nconstruction of recreational amenities, the applicant must post fiscal surety in an\namount equal to the fee in-lieu provided for under Section 25-1-606 (Single-Family Fee In Lieu of Parkland Dedication) and the development fee required under Section 25-1-607 (Single-Family Parkland Development Fee). The fiscal surety must be posted:\n\n(1)\n\nbefore final plat approval; or\n\n(2)\n\nbefore site plan release, for any portion of the subdivision that will require a site\nplan.\n\n(D)\n\nYards, setback areas, and private personal open spaces required by this title may\nnot be counted as private parkland under this section, except for a required setback\nor yard that includes a public trail.\n\n(E)\n\nIf private parkland is allowed, an access easement to the parkland must be recorded\nprior to site plan or subdivision approval.\n\nSource: Ord. No. 20231130-087, Pt. 2, 1-1-24.",
+  "entities": [
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 29,
+      "end": 34,
+      "normalized": "lte"
+    },
+    {
+      "text": "100 percent",
+      "label": "MEASUREMENT",
+      "start": 37,
+      "end": 48,
+      "normalized": {
+        "value": 100.0,
+        "unit": "%",
+        "original": "100 percent"
+      }
+    },
+    {
+      "text": "Section 25-1-602",
+      "label": "SECTION_REF",
+      "start": 101,
+      "end": 117,
+      "normalized": {
+        "section": "25-1-602",
+        "subsection": null,
+        "full_reference": "25-1-602"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 119,
+      "end": 132,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Section 25-1-603",
+      "label": "SECTION_REF",
+      "start": 160,
+      "end": 176,
+      "normalized": {
+        "section": "25-1-603",
+        "subsection": null,
+        "full_reference": "25-1-603"
+      }
+    },
+    {
+      "text": "Multi-Family",
+      "label": "USE_TYPE",
+      "start": 178,
+      "end": 190,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Section 25-1-607",
+      "label": "SECTION_REF",
+      "start": 382,
+      "end": 398,
+      "normalized": {
+        "section": "25-1-607",
+        "subsection": null,
+        "full_reference": "25-1-607"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 400,
+      "end": 413,
+      "normalized": "single_family"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 596,
+      "end": 609,
+      "normalized": "single_family"
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 652,
+      "end": 657,
+      "normalized": "lte"
+    },
+    {
+      "text": "100 percent",
+      "label": "MEASUREMENT",
+      "start": 660,
+      "end": 671,
+      "normalized": {
+        "value": 100.0,
+        "unit": "%",
+        "original": "100 percent"
+      }
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 932,
+      "end": 945,
+      "normalized": "single_family"
+    },
+    {
+      "text": "equal to",
+      "label": "OPERATOR",
+      "start": 1083,
+      "end": 1091,
+      "normalized": "eq"
+    },
+    {
+      "text": "Section 25-1-606",
+      "label": "SECTION_REF",
+      "start": 1127,
+      "end": 1143,
+      "normalized": {
+        "section": "25-1-606",
+        "subsection": null,
+        "full_reference": "25-1-606"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 1145,
+      "end": 1158,
+      "normalized": "single_family"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1219,
+      "end": 1227,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-607",
+      "label": "SECTION_REF",
+      "start": 1234,
+      "end": 1250,
+      "normalized": {
+        "section": "25-1-607",
+        "subsection": null,
+        "full_reference": "25-1-607"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 1252,
+      "end": 1265,
+      "normalized": "single_family"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 1475,
+      "end": 1482,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1523,
+      "end": 1531,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1618,
+      "end": 1626,
+      "normalized": "required"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 1627,
+      "end": 1634,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 1702,
+      "end": 1709,
+      "normalized": "permitted"
+    }
+  ]
+}

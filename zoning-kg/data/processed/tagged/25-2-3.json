@@ -1,0 +1,141 @@
+{
+  "section_id": "25-2-3",
+  "content": "\n(A)\n\nDefinitions. In this section:\n\n(1)\n\nBONUS AREA means the greater of:\n\n(a)\n\nThe gross floor area that exceeds the maximum allowable floor-to-area ratio allowed\nwith the site's primary entitlements; or\n\n(b)\n\nThe gross floor area contained within the portion of a structure that exceeds the\nmaximum height allowed under the site's primary entitlements.\n\n(2)\n\nCOMMUNITY BENEFIT is a public amenity that exceeds the Gatekeeper Requirements of\nthe Downtown Density Bonus Program as described in (C)(1) of this section and that\nis provided by an applicant in order to obtain bonus area.\n\n(3)\n\nCULTURAL USES are uses that are eligible to participate in the City of Austin Core\nCultural Funding Program.\n\n(4)\n\nDAY CARE SERVICES is the provision of one of the adult or child care services defined\nin Section 25-2-6 (Civic Uses Described) of the City Code.\n\n(5)\n\nDEVELOPMENT BONUS FEE means the dollar amount an applicant pays to the City per square\nfoot of bonus area.\n\n(6)\n\nDIRECTOR means director of the Planning and Development Review Department.\n\n(7)\n\nDWELLING UNIT means a single unit providing complete, independent living facilities\nfor one or more persons, including permanent provisions for living, sleeping, eating,\ncooking and sanitation.\n\n(8)\n\nFAMILY-FRIENDLY ELIGIBLE BEDROOM is any bedroom over one bedroom within a dwelling\nunit that provides on-site affordable housing that complies with all of the affordability\nrequirements of Subsection (G) of this section.\n\n(9)\n\nGREAT STREETS STREETSCAPE STANDARDS means design standards for streets within the\nboundaries of the Great Streets Master Plan.\n\n(10)\n\nLIVE MUSIC USE is the performance of live music at least four days a week in an indoor\npublic or private facility of at least 2,500 square feet that is open to the general\npublic and readily equipped with sound, staging, lighting and safety accoutrements\nto accommodate professional and semi-professional live music needs on a daily basis.\n\n(11)\n\nMIXED-USE PROJECT means a project that has 25 percent or more of its floor area in\na use different from a predominant use.\n\n(12)\n\nNON-RESIDENTIAL PROJECT means a project for which the predominant use is not listed\nin Section 25-2-3 (Residential Uses Described), and which has less than 25 percent of its floor area devoted to uses described",
+  "entities": [
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 119,
+      "end": 126,
+      "normalized": "max"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 157,
+      "end": 164,
+      "normalized": "permitted"
+    },
+    {
+      "text": "maximum height",
+      "label": "METRIC",
+      "start": 294,
+      "end": 308,
+      "normalized": "height_max"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 309,
+      "end": 316,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 457,
+      "end": 464,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Section 25-2-6",
+      "label": "SECTION_REF",
+      "start": 796,
+      "end": 810,
+      "normalized": {
+        "section": "25-2-6",
+        "subsection": null,
+        "full_reference": "25-2-6"
+      }
+    },
+    {
+      "text": "DWELLING UNIT",
+      "label": "USE_TYPE",
+      "start": 1052,
+      "end": 1065,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "affordable housing",
+      "label": "USE_TYPE",
+      "start": 1362,
+      "end": 1380,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1661,
+      "end": 1669,
+      "normalized": "gte"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1730,
+      "end": 1738,
+      "normalized": "gte"
+    },
+    {
+      "text": "2,500 square feet",
+      "label": "MEASUREMENT",
+      "start": 1739,
+      "end": 1756,
+      "normalized": {
+        "value": 2500,
+        "unit": "sqft",
+        "original": "2,500 square feet"
+      }
+    },
+    {
+      "text": "25 percent",
+      "label": "MEASUREMENT",
+      "start": 2003,
+      "end": 2013,
+      "normalized": {
+        "value": 25.0,
+        "unit": "%",
+        "original": "25 percent"
+      }
+    },
+    {
+      "text": "NON",
+      "label": "ZONE",
+      "start": 2090,
+      "end": 2093,
+      "normalized": {
+        "code": "NON",
+        "original": "NON"
+      }
+    },
+    {
+      "text": "Section 25-2-3",
+      "label": "SECTION_REF",
+      "start": 2177,
+      "end": 2191,
+      "normalized": {
+        "section": "25-2-3",
+        "subsection": null,
+        "full_reference": "25-2-3"
+      }
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 2236,
+      "end": 2245,
+      "normalized": "lt"
+    },
+    {
+      "text": "25 percent",
+      "label": "MEASUREMENT",
+      "start": 2246,
+      "end": 2256,
+      "normalized": {
+        "value": 25.0,
+        "unit": "%",
+        "original": "25 percent"
+      }
+    }
+  ]
+}

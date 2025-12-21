@@ -1,0 +1,35 @@
+{
+  "section_id": "30-3-43",
+  "content": "Ord. 031211-42.\n\nA setback line prescribed under this title is measured from the boundary of the reserved\nright-of-way adjacent to the property unless waived under Section 30-3-43 (Action On Waiver).\n\nSource: City Code Section 25-6-53; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 19,
+      "end": 26,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "Section 30-3-43",
+      "label": "SECTION_REF",
+      "start": 164,
+      "end": 179,
+      "normalized": {
+        "section": "30-3-43",
+        "subsection": null,
+        "full_reference": "30-3-43"
+      }
+    },
+    {
+      "text": "Section 25-6-53",
+      "label": "SECTION_REF",
+      "start": 219,
+      "end": 234,
+      "normalized": {
+        "section": "25-6-53",
+        "subsection": null,
+        "full_reference": "25-6-53"
+      }
+    }
+  ]
+}

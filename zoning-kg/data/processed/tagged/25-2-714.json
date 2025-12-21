@@ -1,0 +1,160 @@
+{
+  "section_id": "25-2-714",
+  "content": "\n(A)\n\nThis section applies in the Travis Heights subdistrict of the WO combining district.\n\n(B)\n\nThe primary setback lines are located:\n\n(1)\n\n100 feet landward from the Town Lake shoreline;\n\n(2)\n\n80 feet from the East Bouldin Creek centerline; and\n\n(3)\n\n80 feet from the Blunn Creek centerline.\n\n(C)\n\nSection 25-2-714 (Additional Floor Area) applies only to structures located between Bouldin and Blunn Creeks.\n\n(D)\n\nFor an area not included in a primary setback area or a secondary setback area, the\nmaximum impervious cover is 50 percent.\n\n(E)\n\nThe maximum height is:\n\n(1)\n\nfor structures located between the shoreline of Lady Bird Lake and Riverside Drive,\nthe lower of 45 feet or the maximum height allowed in the base zoning district; and\n\n(2)\n\nfor structures located elsewhere in the subdistrict, the lower of 60 feet or the maximum\nheight allowed in the base zoning district.\n\nSource: Section 13-2-702(j); Ord. 990225-70; Ord. 031211-11; Ord. 20090611-074.",
+  "entities": [
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 109,
+      "end": 116,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "100 feet",
+      "label": "MEASUREMENT",
+      "start": 142,
+      "end": 150,
+      "normalized": {
+        "value": 100,
+        "unit": "ft",
+        "original": "100 feet"
+      }
+    },
+    {
+      "text": "80 feet",
+      "label": "MEASUREMENT",
+      "start": 196,
+      "end": 203,
+      "normalized": {
+        "value": 80,
+        "unit": "ft",
+        "original": "80 feet"
+      }
+    },
+    {
+      "text": "80 feet",
+      "label": "MEASUREMENT",
+      "start": 254,
+      "end": 261,
+      "normalized": {
+        "value": 80,
+        "unit": "ft",
+        "original": "80 feet"
+      }
+    },
+    {
+      "text": "Section 25-2-714",
+      "label": "SECTION_REF",
+      "start": 301,
+      "end": 317,
+      "normalized": {
+        "section": "25-2-714",
+        "subsection": null,
+        "full_reference": "25-2-714"
+      }
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 455,
+      "end": 462,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 483,
+      "end": 490,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 501,
+      "end": 508,
+      "normalized": "max"
+    },
+    {
+      "text": "impervious cover",
+      "label": "METRIC",
+      "start": 509,
+      "end": 525,
+      "normalized": "impervious_cover_max"
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 529,
+      "end": 539,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "maximum height",
+      "label": "METRIC",
+      "start": 551,
+      "end": 565,
+      "normalized": "height_max"
+    },
+    {
+      "text": "45 feet",
+      "label": "MEASUREMENT",
+      "start": 673,
+      "end": 680,
+      "normalized": {
+        "value": 45,
+        "unit": "ft",
+        "original": "45 feet"
+      }
+    },
+    {
+      "text": "maximum height",
+      "label": "METRIC",
+      "start": 688,
+      "end": 702,
+      "normalized": "height_max"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 703,
+      "end": 710,
+      "normalized": "permitted"
+    },
+    {
+      "text": "60 feet",
+      "label": "MEASUREMENT",
+      "start": 816,
+      "end": 823,
+      "normalized": {
+        "value": 60,
+        "unit": "ft",
+        "original": "60 feet"
+      }
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 831,
+      "end": 838,
+      "normalized": "max"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 839,
+      "end": 845,
+      "normalized": "height_max"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 846,
+      "end": 853,
+      "normalized": "permitted"
+    }
+  ]
+}

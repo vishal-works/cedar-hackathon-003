@@ -1,0 +1,146 @@
+{
+  "section_id": "25-2-671",
+  "content": "(A)\n\nDevelopment of a natural area described in Section 25-2-671 (Town Lake Park Terms) is limited to:\n\n(1)\n\nnature trails with interpretive signs and facilities;\n\n(2)\n\nsurface parking with pervious material;\n\n(3)\n\nmaintenance and improvement of environmental quality, including fencing and wildlife\nand vegetation management; and\n\n(4)\n\ngeneral park support and maintenance.\n\n(B)\n\nDevelopment of a neighborhood park described in Section 25-2-671 (Town Lake Park Terms) is limited to:\n\n(1)\n\nwalking, exercise, and bicycle trails;\n\n(2)\n\nsurface parking and access roads;\n\n(3)\n\npicnic facilities;\n\n(4)\n\ngeneral neighborhood park uses, including playing fields, ball courts, swimming pools,\nand playscapes;\n\n(5)\n\nconcessions primarily serving an adjacent neighborhood, including food vending, bicycle\nrentals, and sports equipment rentals;\n\n(6)\n\ncultural facilities primarily serving an adjacent neighborhood;\n\n(7)\n\nmaintenance and improvement of environmental quality, including stream bank stabilization,\nfencing, and wildlife and vegetation management; and\n\n(8)\n\ngeneral park support and maintenance.\n\n(C)\n\nDevelopment of a community park described in Section 25-2-671 (Town Lake Park Terms) is limited to:\n\n(1)\n\ndevelopment permitted in a neighborhood park;\n\n(2)\n\nmunicipal swimming pools and associated facilities;\n\n(3)\n\nconcessions designed to attract individuals from throughout the city, including boat\nrentals, food vending, dining facilities, special sports facilities, and special recreational\nfacilities;\n\n(4)\n\nsurface parking and parking structures;\n\n(5)\n\nperformance and special events facilities;\n\n(6)\n\nspecialized facilities, including facilities that serve the handicapped, private nonprofit\nrecreational facilities that serve the general public, and private park enhancement\nfacilities;\n\n(7)\n\nan internal park road system, with grade-separated intersections if required;\n\n(8)\n\nathletic facilities, including multipurpose sports fields and exercise courses;\n\n(9)\n\nmaintenance and improvement of environmental quality, including stream bank stabilization,\nfencing, and wildlife and vegetation management; and\n\n(10)\n\ngeneral park support and maintenance.\n\n(D)\n\nDevelopment of a cultural park described in Section 25-2-671 (Town Lake Park Terms) is limited to:\n\n(1)\n\ncultural facilities and special event and performance areas;\n\n(2)\n\nparking structures and limited surface parking;\n\n(3)\n\nconcessions that are designed to attract people from throughout the city, that are\nmobile, temporary, or located in a building described in the Town Lake Park Plan,\nand that require a small amount of space, including pushcarts selling food or flowers,\ntemporary vending stands for special events, and museum gift shops;\n\n(4)\n\nwalking, exercise, and bicycle paths;\n\n(5)\n\nan internal park transportation system;\n\n(6)\n\nmaintenance and improvement of environmental quality, including stream bank stabilization,\nfencing, and wildlife and vegetation management; and\n\n(7)\n\ngeneral park support and maintenance.\n\n(E)\n\nDevelopment of an urban waterfront described in Section 25-2-671 (Town Lake Park Terms) is limited to:\n\n(1)\n\nplazas for performances and special events;\n\n(2)\n\nwide sidewalks for walking, exercising, and bicycle riding;\n\n(3)\n\nconcessions that are designed to attract people from throughout the city, are mobile,\ntemporary, or located in a building described in the Town Lake Park Plan, and require\na small amount of space, including pushcarts selling food or flowers, temporary vending\nstands for special events, and museum gift shops;\n\n(4)\n\nrowing facilities, boathouses, and similar water-related activities;\n\n(5)\n\nmaintenance and improvement of environmental quality, including stream bank stabilization,\nfencing, and wildlife and vegetation management; and\n\n(6)\n\ngeneral park support and maintenance.\n\n(F)\n\nDevelopment of an area of Town Lake Park not included in a natural area, neighborhood\npark, community park, cultural park, or urban waterfront described in Section 25-2-671 (Town Lake Park Terms) is limited to:\n\n(1)\n\nwalking, exercise, and bicycle trails;\n\n(2)\n\npicnic facilities;\n\n(3)\n\nsurface parking of pervious material and park access roads; and\n\n(4)\n\ngeneral park support and maintenance.\n\n(G)\n\nThis section does not apply to a community events use.\n\nSource: Section 13-2-228.1; Ord. 990225-70; Ord. 990902-57; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Section 25-2-671",
+      "label": "SECTION_REF",
+      "start": 48,
+      "end": 64,
+      "normalized": {
+        "section": "25-2-671",
+        "subsection": null,
+        "full_reference": "25-2-671"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 91,
+      "end": 98,
+      "normalized": "limited"
+    },
+    {
+      "text": "Section 25-2-671",
+      "label": "SECTION_REF",
+      "start": 429,
+      "end": 445,
+      "normalized": {
+        "section": "25-2-671",
+        "subsection": null,
+        "full_reference": "25-2-671"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 472,
+      "end": 479,
+      "normalized": "limited"
+    },
+    {
+      "text": "Section 25-2-671",
+      "label": "SECTION_REF",
+      "start": 1151,
+      "end": 1167,
+      "normalized": {
+        "section": "25-2-671",
+        "subsection": null,
+        "full_reference": "25-2-671"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 1194,
+      "end": 1201,
+      "normalized": "limited"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 1224,
+      "end": 1233,
+      "normalized": "permitted"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1875,
+      "end": 1883,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-2-671",
+      "label": "SECTION_REF",
+      "start": 2216,
+      "end": 2232,
+      "normalized": {
+        "section": "25-2-671",
+        "subsection": null,
+        "full_reference": "25-2-671"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 2259,
+      "end": 2266,
+      "normalized": "limited"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 2367,
+      "end": 2374,
+      "normalized": "limited"
+    },
+    {
+      "text": "Section 25-2-671",
+      "label": "SECTION_REF",
+      "start": 3056,
+      "end": 3072,
+      "normalized": {
+        "section": "25-2-671",
+        "subsection": null,
+        "full_reference": "25-2-671"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 3099,
+      "end": 3106,
+      "normalized": "limited"
+    },
+    {
+      "text": "Section 25-2-671",
+      "label": "SECTION_REF",
+      "start": 3974,
+      "end": 3990,
+      "normalized": {
+        "section": "25-2-671",
+        "subsection": null,
+        "full_reference": "25-2-671"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 4017,
+      "end": 4024,
+      "normalized": "limited"
+    },
+    {
+      "text": "Section 13-2-228.1",
+      "label": "SECTION_REF",
+      "start": 4283,
+      "end": 4301,
+      "normalized": {
+        "section": "13-2-228.1",
+        "subsection": null,
+        "full_reference": "13-2-228.1"
+      }
+    }
+  ]
+}

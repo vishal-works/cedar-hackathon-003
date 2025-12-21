@@ -1,0 +1,406 @@
+{
+  "section_id": "25-2-647",
+  "content": "\n(A)\n\nThe purpose of the Lake Austin (LA) overlay district is to protect the scenic, recreational,\nand environmental benefits of Lake Austin by restricting the scale and intensity of\ndevelopment near the lake.\n\n(B)\n\nThe boundaries of the Lake Austin (LA) overlay district include land that is located\nwithin 1,000 feet of the shoreline of Lake Austin, as defined under Section 25-2-551 (Lake Austin (LA) District Regulations) and is:\n\n(1)\n\nlocated within the Lake Austin (LA), Interim Lake Austin (I-LA), Development Reserve\n(DR), Planned Unit Development (PUD), Rural Residential (RR), or Interim Rural Residential\n(I-RR) base zoning district on or after June 24, 2014; or\n\n(2)\n\nlocated on a site of one acre or more that is:\n\n(i)\n\ncomprised of two or more lots aggregated on or after June 24, 2014; and\n\n(ii)\n\nzoned or rezoned single family residence large lot (SF-1), single family residence\nstandard lot (SF-2), family residence (SF-3), single family residence small lot (SF-4A),\nsingle family residence condominium site (SF-4A), urban family residence (SF-5), or\ntownhouse and condominium residence (SF-6) base zoning district.\n\n(C)\n\nIn the event of a conflict, the regulations applicable to a Planned Unit Development\n(PUD) zoning district control over the regulations prescribed in Section 25-2-647.\n\n(D)\n\nThe official map of the Lake Austin Overlay district is on file with the Planning\nand Development Review Department, which shall resolve any uncertainty regarding the\nboundary of the district.\n\nSource: Ord. No. 20140626-114, Pt. 1, 7-7-14.",
+  "entities": [
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 25,
+      "end": 36,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 38,
+      "end": 40,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 129,
+      "end": 140,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 238,
+      "end": 249,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 251,
+      "end": 253,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "1,000 feet",
+      "label": "MEASUREMENT",
+      "start": 308,
+      "end": 318,
+      "normalized": {
+        "value": 1000,
+        "unit": "ft",
+        "original": "1,000 feet"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 339,
+      "end": 350,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "Section 25-2-551",
+      "label": "SECTION_REF",
+      "start": 369,
+      "end": 385,
+      "normalized": {
+        "section": "25-2-551",
+        "subsection": null,
+        "full_reference": "25-2-551"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 387,
+      "end": 398,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 400,
+      "end": 402,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 459,
+      "end": 470,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 472,
+      "end": 474,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 485,
+      "end": 496,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 500,
+      "end": 502,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "DR",
+      "label": "ZONE",
+      "start": 526,
+      "end": 528,
+      "normalized": {
+        "code": "DR",
+        "original": "DR"
+      }
+    },
+    {
+      "text": "Planned Unit Development",
+      "label": "ZONE",
+      "start": 531,
+      "end": 555,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "Planned Unit Development"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 557,
+      "end": 560,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "RR",
+      "label": "ZONE",
+      "start": 582,
+      "end": 584,
+      "normalized": {
+        "code": "RR",
+        "original": "RR"
+      }
+    },
+    {
+      "text": "RR",
+      "label": "ZONE",
+      "start": 619,
+      "end": 621,
+      "normalized": {
+        "code": "RR",
+        "original": "RR"
+      }
+    },
+    {
+      "text": "one acre",
+      "label": "MEASUREMENT",
+      "start": 701,
+      "end": 709,
+      "normalized": {
+        "value": "one acre",
+        "unit": null,
+        "original": "one acre"
+      }
+    },
+    {
+      "text": "single family residence",
+      "label": "ZONE",
+      "start": 829,
+      "end": 852,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "single family residence"
+      }
+    },
+    {
+      "text": "SF-1",
+      "label": "ZONE",
+      "start": 864,
+      "end": 868,
+      "normalized": {
+        "code": "SF-1",
+        "original": "SF-1"
+      }
+    },
+    {
+      "text": "single family residence",
+      "label": "ZONE",
+      "start": 871,
+      "end": 894,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "single family residence"
+      }
+    },
+    {
+      "text": "SF-2",
+      "label": "ZONE",
+      "start": 909,
+      "end": 913,
+      "normalized": {
+        "code": "SF-2",
+        "original": "SF-2"
+      }
+    },
+    {
+      "text": "SF-3",
+      "label": "ZONE",
+      "start": 934,
+      "end": 938,
+      "normalized": {
+        "code": "SF-3",
+        "original": "SF-3"
+      }
+    },
+    {
+      "text": "single family residence",
+      "label": "ZONE",
+      "start": 941,
+      "end": 964,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "single family residence"
+      }
+    },
+    {
+      "text": "SF-4A",
+      "label": "ZONE",
+      "start": 976,
+      "end": 981,
+      "normalized": {
+        "code": "SF-4A",
+        "original": "SF-4A"
+      }
+    },
+    {
+      "text": "single family residence",
+      "label": "ZONE",
+      "start": 984,
+      "end": 1007,
+      "normalized": {
+        "code": "SF-3",
+        "name": "single family residence",
+        "original": "single family residence"
+      }
+    },
+    {
+      "text": "condominium",
+      "label": "USE_TYPE",
+      "start": 1008,
+      "end": 1019,
+      "normalized": "condominium"
+    },
+    {
+      "text": "SF-4A",
+      "label": "ZONE",
+      "start": 1026,
+      "end": 1031,
+      "normalized": {
+        "code": "SF-4A",
+        "original": "SF-4A"
+      }
+    },
+    {
+      "text": "urban family residence",
+      "label": "ZONE",
+      "start": 1034,
+      "end": 1056,
+      "normalized": {
+        "code": "SF-5",
+        "name": "urban family residence",
+        "original": "urban family residence"
+      }
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 1058,
+      "end": 1062,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "townhouse",
+      "label": "USE_TYPE",
+      "start": 1068,
+      "end": 1077,
+      "normalized": "townhouse"
+    },
+    {
+      "text": "condominium",
+      "label": "USE_TYPE",
+      "start": 1082,
+      "end": 1093,
+      "normalized": "condominium"
+    },
+    {
+      "text": "SF-6",
+      "label": "ZONE",
+      "start": 1105,
+      "end": 1109,
+      "normalized": {
+        "code": "SF-6",
+        "original": "SF-6"
+      }
+    },
+    {
+      "text": "Planned Unit Development",
+      "label": "ZONE",
+      "start": 1199,
+      "end": 1223,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "Planned Unit Development"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 1225,
+      "end": 1228,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "Section 25-2-647",
+      "label": "SECTION_REF",
+      "start": 1289,
+      "end": 1305,
+      "normalized": {
+        "section": "25-2-647",
+        "subsection": null,
+        "full_reference": "25-2-647"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 1337,
+      "end": 1348,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    }
+  ]
+}

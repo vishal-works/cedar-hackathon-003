@@ -1,0 +1,17 @@
+{
+  "section_id": "25-1-46",
+  "content": "as determined in accordance with Section 25-1-46 (Land Use Commission).",
+  "entities": [
+    {
+      "text": "Section 25-1-46",
+      "label": "SECTION_REF",
+      "start": 33,
+      "end": 48,
+      "normalized": {
+        "section": "25-1-46",
+        "subsection": null,
+        "full_reference": "25-1-46"
+      }
+    }
+  ]
+}

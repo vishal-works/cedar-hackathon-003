@@ -1,0 +1,121 @@
+{
+  "section_id": "25-1-552",
+  "content": "(A)\n\nThis section provides a voluntary mechanism to request longer project expiration periods\nthan those established under Section 25-1-552 (Expiration of Projects Begun On or After June 23, 2014) for large-scale projects or projects located within a planned development center.\n\n(B)\n\nTo be accepted for review, an application for a proposed managed growth agreement\nmust include all information required by the director, including a proposed expiration\ndate, and must meet the requirements of this subsection.\n\n(1)\n\nAn application for a managed growth agreement may be submitted concurrent with the\nfirst permit application, or before the review period expires, if the project associated\nwith the proposed agreement:\n\n(a)\n\nis filed for review under current regulations;\n\n(b)\n\ndoes not require a variance approved by the Land Use Commission or Board of Adjustment,\nunless the project is limited to residential uses that do not require a site plan\nunder Section 25-5-2 (Exemptions);\n\n(c)\n\nincludes only property located within the zoning jurisdiction, outside of the Barton\nSprings Zone; and\n\n(d)\n\nincludes at least 10 acres of land.\n\n(2)\n\nAn application for a managed growth agreement may be submitted after approval of the\nfirst permit application, but no later than one year before the project expires, if\nthe project associated with the proposed agreement:\n\n(a)\n\ncomplies with the regulations in effect on the date the application for a managed\ngrowth agreement was submitted or, in extraordinary circumstances, includes community\nbenefits or superior development features that mitigate noncompliance with current\nregulations;\n\n(b)\n\ndoes not require a variance approved by the Land Use Commission or Board of Adjustment,\nunless the project is limited to residential uses that do not require a site plan\nunder Section 25-5-2 (Exemptions);\n\n(c)\n\nincludes only property located within the zoning jurisdiction, outside of the Barton\nSprings Zone; and\n\n(d)\n\ndoes not impede or delay official City of Austin economic development or sustainability\ninitiatives.\n\n(C)\n\nIf an application meets the requirements in Subsection (B) of this section, the director\nshall:\n\n(1)\n\nschedule a public hearing on the proposed agreement and provide notice of the hearing\nunder Section 25-1-132(B) (Notice of Public Hearing); and\n\n(2)\n\nmake a recommendation to approve or deny the agreement based on whether the project:\n\n(a)\n\nrequires a longer period of time to construct than the timeframes established under\nSection 25-1-552 (Expiration of Projects Begun On or After June 23, 2014);\n\n(b)\n\nfurthers the goals and policies of the Imagine Austin Comprehensive Plan; and\n\n(c)\n\nis environmentally superior to the minimum standards applicable to the project under\nChapter 25-8 (Environment), as determined based on a recommendation from the environmental officer.\n\n(D)\n\nThe city council may approve or deny a proposed managed growth agreement based on\nthe criteria in Subsection (C) of this section and may establish whatever expiration\nperiod the council deems appropriate, but may not waive or modify current regulations\napplicable to the project.\n\n(E)\n\nIf a managed growth agreement is approved under this section, the director shall treat\nthe project as vested to the regulations in effect on the date of the first application\nuntil the date the agreement expires.\n\nSource: Ord. 20140612-084, Pt. 2, 6-23-14.",
+  "entities": [
+    {
+      "text": "Section 25-1-552",
+      "label": "SECTION_REF",
+      "start": 123,
+      "end": 139,
+      "normalized": {
+        "section": "25-1-552",
+        "subsection": null,
+        "full_reference": "25-1-552"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 396,
+      "end": 404,
+      "normalized": "required"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 887,
+      "end": 894,
+      "normalized": "limited"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 898,
+      "end": 909,
+      "normalized": "residential"
+    },
+    {
+      "text": "Section 25-5-2",
+      "label": "SECTION_REF",
+      "start": 953,
+      "end": 967,
+      "normalized": {
+        "section": "25-5-2",
+        "subsection": null,
+        "full_reference": "25-5-2"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1106,
+      "end": 1114,
+      "normalized": "gte"
+    },
+    {
+      "text": "10 acres",
+      "label": "MEASUREMENT",
+      "start": 1115,
+      "end": 1123,
+      "normalized": {
+        "value": 10,
+        "unit": "acre",
+        "original": "10 acres"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 1746,
+      "end": 1753,
+      "normalized": "limited"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1757,
+      "end": 1768,
+      "normalized": "residential"
+    },
+    {
+      "text": "Section 25-5-2",
+      "label": "SECTION_REF",
+      "start": 1812,
+      "end": 1826,
+      "normalized": {
+        "section": "25-5-2",
+        "subsection": null,
+        "full_reference": "25-5-2"
+      }
+    },
+    {
+      "text": "Section 25-1-552",
+      "label": "SECTION_REF",
+      "start": 2490,
+      "end": 2506,
+      "normalized": {
+        "section": "25-1-552",
+        "subsection": null,
+        "full_reference": "25-1-552"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 2690,
+      "end": 2697,
+      "normalized": "min"
+    },
+    {
+      "text": "Chapter 25-8",
+      "label": "SECTION_REF",
+      "start": 2740,
+      "end": 2752,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-8",
+        "full_reference": "Chapter 25-8"
+      }
+    }
+  ]
+}

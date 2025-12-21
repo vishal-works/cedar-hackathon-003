@@ -1,0 +1,17 @@
+{
+  "section_id": "25-1-461",
+  "content": "A registrant may appeal a suspension as set forth in Section 25-1-461 (Appeal).",
+  "entities": [
+    {
+      "text": "Section 25-1-461",
+      "label": "SECTION_REF",
+      "start": 53,
+      "end": 69,
+      "normalized": {
+        "section": "25-1-461",
+        "subsection": null,
+        "full_reference": "25-1-461"
+      }
+    }
+  ]
+}

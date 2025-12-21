@@ -1,0 +1,17 @@
+{
+  "section_id": "25-1-131",
+  "content": "INTERESTED PARTY means a person who meets the criteria established by Section 25-1-131 (Interested Parties).",
+  "entities": [
+    {
+      "text": "Section 25-1-131",
+      "label": "SECTION_REF",
+      "start": 70,
+      "end": 86,
+      "normalized": {
+        "section": "25-1-131",
+        "subsection": null,
+        "full_reference": "25-1-131"
+      }
+    }
+  ]
+}

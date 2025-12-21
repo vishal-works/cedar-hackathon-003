@@ -1,0 +1,64 @@
+{
+  "section_id": "25-1-553",
+  "content": "\n(A)\n\nThe director may adopt guidelines to assist in reviewing applications under Section 25-1-533 (Vested Rights Petition Required), Section 25-1-544 (Project Consent Agreements), and Section 25-1-553 (Managed Growth Agreements).\n\n(B)\n\nGuidelines adopted under this section for review of vested rights petitions may be\nused to help address common questions that arise in determining vested rights, including\nbut not limited to:\n\n(a)\n\nwhether a permit application is required to continue, complete, or initiate the project\nfor which vested rights are claimed;\n\n(b)\n\nwhether the project for which vested rights are claimed has been completed, changed,\nor expired; and\n\n(c)\n\nwhether progress towards completion of a project has been made under Section 25-1-554 (Dormant Projects).\n\n(C)\n\nGuidelines adopted under this section shall be posted on the department's website\nand made available to the public, but need not be adopted by administrative rule under\nSection 1-2 (Adoption of Rules).\n\nSource: Ord. 20140612-084, Pt. 2, 6-23-14.",
+  "entities": [
+    {
+      "text": "Section 25-1-533",
+      "label": "SECTION_REF",
+      "start": 82,
+      "end": 98,
+      "normalized": {
+        "section": "25-1-533",
+        "subsection": null,
+        "full_reference": "25-1-533"
+      }
+    },
+    {
+      "text": "Section 25-1-544",
+      "label": "SECTION_REF",
+      "start": 134,
+      "end": 150,
+      "normalized": {
+        "section": "25-1-544",
+        "subsection": null,
+        "full_reference": "25-1-544"
+      }
+    },
+    {
+      "text": "Section 25-1-553",
+      "label": "SECTION_REF",
+      "start": 185,
+      "end": 201,
+      "normalized": {
+        "section": "25-1-553",
+        "subsection": null,
+        "full_reference": "25-1-553"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 417,
+      "end": 424,
+      "normalized": "limited"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 467,
+      "end": 475,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-554",
+      "label": "SECTION_REF",
+      "start": 742,
+      "end": 758,
+      "normalized": {
+        "section": "25-1-554",
+        "subsection": null,
+        "full_reference": "25-1-554"
+      }
+    }
+  ]
+}

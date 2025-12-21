@@ -1,0 +1,20 @@
+{
+  "section_id": "25-2-921",
+  "content": "\n(A)\n\nA person may file an application with the building official for:\n\n(1)\n\na temporary certificate of occupancy before the building or structure is finished\nor\n\n(2)\n\na temporary certificate of retail occupancy in connection with a temporary retail\nuse permit approved under Section 25-2-921(F) (Temporary Uses Described).\n\n(B)\n\nThe building official may issue a temporary certificate of occupancy if the building\nofficial determines that the proposed use or occupancy is not a hazard to life, health,\nor the public safety.\n\nSource: Section 13-1-904(b); Ord. 990225-70; Ord. 031211-11; Ord. 20111110-075.",
+  "entities": [
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 195,
+      "end": 201,
+      "normalized": "retail"
+    },
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 243,
+      "end": 249,
+      "normalized": "retail"
+    }
+  ]
+}

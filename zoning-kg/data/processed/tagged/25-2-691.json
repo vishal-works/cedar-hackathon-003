@@ -1,0 +1,300 @@
+{
+  "section_id": "25-2-691",
+  "content": "\n2.3.1.\n  Minimum Requirements.\n\nAll PUDs must:\n\nA.\n\nmeet the objectives of the City Code;\n\nB.\n\nprovide for development standards that achieve equal or greater consistency with the\ngoals in Section 1.1 (General Intent) than development under the regulations in the Land Development Code;\n\nC.\n\nprovide a total amount of open space that equals or exceeds 10 percent of the residential\ntracts, 15 percent of the industrial tracts, and 20 percent of the nonresidential\ntracts within the PUD, except that:\n\n1.\n\na detention or filtration area is excluded from the calculation unless it is designed\nand maintained as an amenity; and\n\n2.\n\nthe required percentage of open space may be reduced for urban property with characteristics\nthat make open space infeasible if other community benefits are provided;\n\nD.\n\nprovide a two-star Austin Energy Green Building Rating;\n\nE.\n\nbe consistent with applicable neighborhood plans, neighborhood conservation combining\ndistrict regulations, historic area and landmark regulations, and compatible with\nadjacent property and land uses;\n\nF.\n\nprovide for environmental preservation and protection relating to air quality, water\nquality, trees, buffer zones and greenbelt areas, critical environmental features,\nsoils, waterways, topography, and the natural and traditional character of the land;\n\nG.\n\nprovide for public facilities and services that are adequate to support the proposed\ndevelopment including school, fire protection, emergency service, and police facilities;\n\nH.\n\nexceed the minimum landscaping requirements of the City Code;\n\nI.\n\nprovide for appropriate transportation and mass transit connections to areas adjacent\nto the PUD district and mitigation of adverse cumulative transportation impacts with\nsidewalks, trails, and roadways;\n\nJ.\n\nprohibit gated roadways;\n\nK.\n\nprotect, enhance and preserve areas that include structures or sites that are of architectural,\nhistorical, archaeological, or cultural significance; and\n\nL.\n\ninclude at least 10 acres of land, unless the property is characterized by special\ncircumstances, including unique topographic constraints.\n\n2.3.2.\n  Additional Requirements.\n\nIn addition to the requirements contained in Section 2.3.1 (Minimum Requirements), a PUD containing a retail, commercial, or mixed use development must:\n\nA.\n\ncomply with Chapter 25-2, Subchapter E (Design Standards and Mixed Use);\n\nB.\n\ninside the urban roadway boundary depicted in Figure 2, Subchapter E, Chapter 25-2 (Design Standards and Mixed Use), comply with the sidewalk standards in Section 2.2.2., Subchapter E, Chapter 25-2 (Core Transit Corridors: Sidewalks And Building Placement); and\n\nC.\n\npay the tenant relocation fee established under Section 25-1-715 (Tenant Relocation Assistance—Developer Funded), if approval of the PUD would allow multi-family redevelopment that may result in\ntenant displacement; and\n\nD.\n\ncontain pedestrian-oriented uses as defined in Section 25-2-691(C) (Waterfront Overlay District Uses) on the first floor of a multi-story commercial or mixed use building.\n\nSource: Ord. 20080618-098; Ord. No. 20160901-050, Pt. 5, 9-12-16; Ord. No. 20170615-102, Pt. 2, 6-15-17.",
+  "entities": [
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 319,
+      "end": 329,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "equals",
+      "label": "OPERATOR",
+      "start": 335,
+      "end": 341,
+      "normalized": "eq"
+    },
+    {
+      "text": "10 percent",
+      "label": "MEASUREMENT",
+      "start": 353,
+      "end": 363,
+      "normalized": {
+        "value": 10.0,
+        "unit": "%",
+        "original": "10 percent"
+      }
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 371,
+      "end": 382,
+      "normalized": "residential"
+    },
+    {
+      "text": "15 percent",
+      "label": "MEASUREMENT",
+      "start": 391,
+      "end": 401,
+      "normalized": {
+        "value": 15.0,
+        "unit": "%",
+        "original": "15 percent"
+      }
+    },
+    {
+      "text": "industrial",
+      "label": "USE_TYPE",
+      "start": 409,
+      "end": 419,
+      "normalized": "industrial"
+    },
+    {
+      "text": "20 percent",
+      "label": "MEASUREMENT",
+      "start": 432,
+      "end": 442,
+      "normalized": {
+        "value": 20.0,
+        "unit": "%",
+        "original": "20 percent"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 483,
+      "end": 486,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 635,
+      "end": 643,
+      "normalized": "required"
+    },
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 658,
+      "end": 668,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 734,
+      "end": 744,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "buffer",
+      "label": "METRIC",
+      "start": 1171,
+      "end": 1177,
+      "normalized": "buffer_min"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1518,
+      "end": 1525,
+      "normalized": "min"
+    },
+    {
+      "text": "landscaping",
+      "label": "METRIC",
+      "start": 1526,
+      "end": 1537,
+      "normalized": "landscaping_min"
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 1667,
+      "end": 1670,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1980,
+      "end": 1988,
+      "normalized": "gte"
+    },
+    {
+      "text": "10 acres",
+      "label": "MEASUREMENT",
+      "start": 1989,
+      "end": 1997,
+      "normalized": {
+        "value": 10,
+        "unit": "acre",
+        "original": "10 acres"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 2233,
+      "end": 2236,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 2250,
+      "end": 2256,
+      "normalized": "retail"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 2258,
+      "end": 2268,
+      "normalized": "commercial"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 2273,
+      "end": 2282,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 2318,
+      "end": 2330,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Subchapter E",
+      "label": "SECTION_REF",
+      "start": 2332,
+      "end": 2344,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "E",
+        "full_reference": "Subchapter E"
+      }
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 2367,
+      "end": 2376,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Subchapter E",
+      "label": "SECTION_REF",
+      "start": 2440,
+      "end": 2452,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "E",
+        "full_reference": "Subchapter E"
+      }
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 2454,
+      "end": 2466,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 2489,
+      "end": 2498,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Subchapter E",
+      "label": "SECTION_REF",
+      "start": 2555,
+      "end": 2567,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "E",
+        "full_reference": "Subchapter E"
+      }
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 2569,
+      "end": 2581,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Section 25-1-715",
+      "label": "SECTION_REF",
+      "start": 2699,
+      "end": 2715,
+      "normalized": {
+        "section": "25-1-715",
+        "subsection": null,
+        "full_reference": "25-1-715"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 2784,
+      "end": 2787,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 2800,
+      "end": 2812,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 3014,
+      "end": 3024,
+      "normalized": "commercial"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 3028,
+      "end": 3037,
+      "normalized": "mixed_use"
+    }
+  ]
+}

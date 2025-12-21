@@ -1,0 +1,96 @@
+{
+  "section_id": "25-1-article-11",
+  "content": "### ARTICLE 11. - AMENDMENT PROCEDURE.\n\n(A)\n\nOther than the city council, only the Planning Commission may initiate an amendment\nto the regulations in this title.\n\n(B)\n\nAn amendment to the zoning map may be initiated in accordance with the procedures\nin Chapter 25-2 (Zoning).\n\nSource: Sections 13-1-980 and 13-1-990; Ord. 990225-70; Ord. 031211-11.\n\n(A)\n\nThis section prescribes the procedure for amending the regulations in this title.\nThe procedure for amending the zoning map is prescribed by Chapter 25-2 (Zoning).\n\n(B)\n\nThe council may amend this title after a public hearing. The council must receive\na recommendation required by Subsection (C), (D), or (E) before opening a public hearing\nor acting on an amendment.\n\n(C)\n\nExcept as provided in Subsection (D), Planning Commission review of a proposed amendment\nof this title is required. The Planning Commission must hold a public hearing on the\nproposed amendment before forwarding its recommendation to the council.\n\n(D)\n\nFor a proposed amendment to or repeal of a technical code in Chapter 25-12 (Technical Codes), review by the appropriate technical board, if any, is required.\n\n(E)\n\nFor a proposed amendment that only affects historic zoning, Historic Landmark Commission\nreview is required. Historic Landmark Commission review must occur before the Planning\nCommission's review of the proposed amendment. The Historic Landmark Commission shall\nforward its recommendation to the Planning Commission and the council.\n\n(F)\n\nNotice of a public hearing required by this section shall be provided in accordance\nwith Section 25-1-132(C) (Notice Of Public Hearing).\n\nSource: Section 13-1-981; Ord. 990225-70; Ord. 031211-11.\n",
+  "entities": [
+    {
+      "text": "ARTICLE 11",
+      "label": "SECTION_REF",
+      "start": 4,
+      "end": 14,
+      "normalized": {
+        "type": "article",
+        "number": 11,
+        "full_reference": "Article 11"
+      }
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 254,
+      "end": 266,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 497,
+      "end": 509,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 625,
+      "end": 633,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 836,
+      "end": 844,
+      "normalized": "required"
+    },
+    {
+      "text": "Chapter 25-12",
+      "label": "SECTION_REF",
+      "start": 1043,
+      "end": 1056,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-12",
+        "full_reference": "Chapter 25-12"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1130,
+      "end": 1138,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1245,
+      "end": 1253,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1512,
+      "end": 1520,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 13-1-981",
+      "label": "SECTION_REF",
+      "start": 1631,
+      "end": 1647,
+      "normalized": {
+        "section": "13-1-981",
+        "subsection": null,
+        "full_reference": "13-1-981"
+      }
+    }
+  ]
+}

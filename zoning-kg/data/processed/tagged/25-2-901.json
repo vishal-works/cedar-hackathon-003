@@ -1,0 +1,87 @@
+{
+  "section_id": "25-2-901",
+  "content": "Ord. No. 20231207-001, Pt. 15, effective December 18, 2023, repealed § 25-2-901, which pertained to accessory\napartments and derived from Sections 13-2-1 and 13-2-251; Ord. 990225-70; Ord. 031120-44;\nOrd. 031211-11.\n\n(A)\n\nParticipation on an annual or semi-annual tour is allowed as an accessory residential\nuse subject to the requirements of this section and all other applicable regulations.\n\n(B)\n\nAs authorized by this section, a tour is an organized event in which multiple residential\nproperties are opened to members of the public for any lawful purpose, including:\n\n(1)\n\nthe appreciation and study of architecture; and\n\n(2)\n\nthe production and incidental sale of artwork by an individual responsible for making\nor producing the artwork.\n\n(C)\n\nTo qualify as an accessory use under this section, a residential tour that includes\nthe production or sale of art must comply with the requirements of this subsection.\n\n(1)\n\nA tour organizer must provide the dates of the tour and the address of all participating\nproperties to the City of Austin Cultural Arts Division.\n\n(2)\n\nA tour may not take place on more than six days per calendar year.\n\n(3)\n\nA residential property may not:\n\n(a)\n\nparticipate on a tour more than 12 days per calendar year;\n\n(b)\n\nparticipate in more than three tours per calendar year;\n\n(c)\n\nparticipate in a tour more than three days per week;\n\n(d)\n\ninclude more than six guest artists, in addition to the primary artist; or\n\n(e)\n\ninclude a garage sale.\n\nSource: Ord. 20110922-087; Ord. 20121018-024.",
+  "entities": [
+    {
+      "text": "§ 25-2-901",
+      "label": "SECTION_REF",
+      "start": 69,
+      "end": 79,
+      "normalized": {
+        "section": "25-2-901",
+        "subsection": null,
+        "full_reference": "25-2-901"
+      }
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 272,
+      "end": 279,
+      "normalized": "permitted"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 296,
+      "end": 307,
+      "normalized": "residential"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 478,
+      "end": 489,
+      "normalized": "residential"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 803,
+      "end": 814,
+      "normalized": "residential"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1105,
+      "end": 1114,
+      "normalized": "gt"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1151,
+      "end": 1162,
+      "normalized": "residential"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1209,
+      "end": 1218,
+      "normalized": "gt"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1267,
+      "end": 1276,
+      "normalized": "gt"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1336,
+      "end": 1345,
+      "normalized": "gt"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1381,
+      "end": 1390,
+      "normalized": "gt"
+    }
+  ]
+}

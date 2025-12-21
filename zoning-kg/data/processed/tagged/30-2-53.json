@@ -1,0 +1,60 @@
+{
+  "section_id": "30-2-53",
+  "content": "Ord. No. 20190822-117, § 51, effective September 1, 2019, repealed § 30-2-53, which pertained to concurrent\ncity applications and derived from City Code Section 25-4-53; Ord. 031211-11; Ord.\n031211-42.\n\n(A)\n\nApproval of a preliminary plan supersedes a previously approved preliminary plan for\nthe same land.\n\n(B)\n\nAn applicant may not include land from a previously approved preliminary plan in a\nsubsequent application for approval of a preliminary plan unless all the land, except\nland contained in an approved plat, is included in the application.\n\n(C)\n\nThe single office may waive the requirement of Subsection (B) if the single office\ndetermines that including only a portion of the previously approved preliminary plan\ndoes not substantially impair the orderly planning of roads, utilities, drainage,\nor other public facilities.\n\n(D)\n\nAn interested party may appeal the single office decision under Subsection (C) to\nthe land use commission.\n\nSource: City Code Section 25-4-54; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "§ 30-2-53",
+      "label": "SECTION_REF",
+      "start": 67,
+      "end": 76,
+      "normalized": {
+        "section": "30-2-53",
+        "subsection": null,
+        "full_reference": "30-2-53"
+      }
+    },
+    {
+      "text": "Section 25-4-53",
+      "label": "SECTION_REF",
+      "start": 153,
+      "end": 168,
+      "normalized": {
+        "section": "25-4-53",
+        "subsection": null,
+        "full_reference": "25-4-53"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 568,
+      "end": 574,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 633,
+      "end": 639,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 883,
+      "end": 889,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-4-54",
+      "label": "SECTION_REF",
+      "start": 967,
+      "end": 982,
+      "normalized": {
+        "section": "25-4-54",
+        "subsection": null,
+        "full_reference": "25-4-54"
+      }
+    }
+  ]
+}

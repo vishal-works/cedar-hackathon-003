@@ -1,0 +1,383 @@
+{
+  "section_id": "25-1-21",
+  "content": "In this Subchapter, GROSS FLOOR AREA has the meaning assigned by Section 25-1-21 (Definitions), with the following modifications:\n\n3.3.1.\n\nIn this Subchapter, GROSS FLOOR AREA means all enclosed space, regardless of its dimensions,\nthat is not exempted under subsections 3.3.2, 3.3.3, or 3.3.4.\n\n3.3.2.\n\nSubject to the limitations in paragraph C below, the following parking areas and structures\nare excluded from gross floor area for purposes of this Subchapter:\n\nA.\n\nUp to 450 square feet of:\n\n1.\n\nA detached rear parking area that is separated from the principal structure by not\nless than 10 feet;\n\n2.\n\nA rear parking area that is 10 feet or more from the principal structure, provided\nthat the parking area is either:\n\na.\n\ndetached from the principal structure; or\n\nb.\n\nattached by a covered breezeway that is completely open on all sides, with a walkway\nnot exceeding 6 feet in width and a roof not exceeding 8 feet in width; or\n\n3.\n\nA parking area that is open on two or more sides, if:\n\ni.\n\nit does not have habitable space above it; and\n\nii.\n\nthe open sides are clear and unobstructed for at least 80% of the area measured below\nthe top of the wall plate to the finished floor of the carport.\n\nB.\n\nUp to 200 square feet of:\n\n1.\n\nAn attached parking area if it is used to meet the minimum accessible spaces requirement;\nor\n\n2.\n\nA garage that is less than 10 feet from the rear of the principal structure, provided\nthat the garage is either:\n\na.\n\ndetached from the principal structure; or\n\nb.\n\nattached by a covered breezeway that is completely open on all sides, with a walkway\nnot exceeding 6 feet in width and a roof not exceeding 8 feet in width.\n\nC.\n\nAn applicant may receive only one 450-square foot exemption per site under paragraph\nA. An applicant who receives a 450-square foot exemption may receive an additional\n200-foot exemption for the same site under paragraph B, but only for an attached parking\narea used to meet the minimum accessible spaces requirement.\n\n3.3.3.\n\nPorches, basements, and attics that meet the following requirements shall be excluded\nfrom the calculation of gross floor area:\n\nA.\n\nA ground floor porch, including a screened porch, provided that:\n\n1.\n\nthe porch is not accessible by automobile and is not connected to a driveway; and\n\n2.\n\nthe exemption may not exceed 200 square feet if a porch has habitable space or a balcony\nabove it.\n\nB.\n\nA habitable portion of a building that is below grade if:\n\n1.\n\nThe habitable portion does not extend beyond the first-story footprint and is:\n\na.\n\nBelow natural or finished grade, whichever is lower; and\n\nb.\n\nSurrounded by natural grade for at least 50% of its perimeter wall area, if the habitable\nportion is required to be below natural grade under Paragraph 1.a.\n\n2.\n\nThe finished floor of the first story is not more than three feet above the average\nelevation at the intersections of the minimum front yard setback line and the side\nproperty lines.\n\nC.\n\nA habitable portion of an attic, if:\n\n1.\n\nThe roof above it is not a flat or mansard roof and has a slope of 3 to 12 or greater;\n\n2.\n\nIt is fully contained within the roof structure;\n\n3.\n\nIt has only one floor;\n\n4.\n\nIt does not extend beyond the footprint of the floors below;\n\n5.\n\nIt is the highest habitable portion of the building, or a section of the building,\nand adds no additional mass to the structure; and\n\n6.\n\nFifty percent or more of the area has a ceiling height of seven feet or less.\n\n3.3.4.\n\nAn enclosed area shall be excluded from the calculation of gross floor area if it\nis five feet or less in height. For purposes of this subsection:\n\nA.\n\nArea is measured on the outside surface of the exterior walls; and\n\nB.\n\nHeight is measured from the finished floor elevation, up to either:\n\n1.\n\nthe underside of the roof rafters; or\n\n2.\n\nthe bottom of the top chord of the roof truss, but not to collar ties, ceiling joists,\nor any type of furred-down ceiling.\n\n3.3.5.\n\nAn area with a ceiling height greater than 15 feet is counted twice.\n\nSource: Ord. 20060216-043; Ord. 20060309-058; Ord. 20060622-022; Ord. 20060928-022;",
+  "entities": [
+    {
+      "text": "Section 25-1-21",
+      "label": "SECTION_REF",
+      "start": 65,
+      "end": 80,
+      "normalized": {
+        "section": "25-1-21",
+        "subsection": null,
+        "full_reference": "25-1-21"
+      }
+    },
+    {
+      "text": "Up to",
+      "label": "OPERATOR",
+      "start": 469,
+      "end": 474,
+      "normalized": "lte"
+    },
+    {
+      "text": "450 square feet",
+      "label": "MEASUREMENT",
+      "start": 475,
+      "end": 490,
+      "normalized": {
+        "value": 450,
+        "unit": "sqft",
+        "original": "450 square feet"
+      }
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 583,
+      "end": 592,
+      "normalized": "lt"
+    },
+    {
+      "text": "10 feet",
+      "label": "MEASUREMENT",
+      "start": 593,
+      "end": 600,
+      "normalized": {
+        "value": 10,
+        "unit": "ft",
+        "original": "10 feet"
+      }
+    },
+    {
+      "text": "10 feet",
+      "label": "MEASUREMENT",
+      "start": 635,
+      "end": 642,
+      "normalized": {
+        "value": 10,
+        "unit": "ft",
+        "original": "10 feet"
+      }
+    },
+    {
+      "text": "not exceeding",
+      "label": "OPERATOR",
+      "start": 860,
+      "end": 873,
+      "normalized": "lte"
+    },
+    {
+      "text": "6 feet",
+      "label": "MEASUREMENT",
+      "start": 874,
+      "end": 880,
+      "normalized": {
+        "value": 6,
+        "unit": "ft",
+        "original": "6 feet"
+      }
+    },
+    {
+      "text": "not exceeding",
+      "label": "OPERATOR",
+      "start": 901,
+      "end": 914,
+      "normalized": "lte"
+    },
+    {
+      "text": "8 feet",
+      "label": "MEASUREMENT",
+      "start": 915,
+      "end": 921,
+      "normalized": {
+        "value": 8,
+        "unit": "ft",
+        "original": "8 feet"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1098,
+      "end": 1106,
+      "normalized": "gte"
+    },
+    {
+      "text": "80%",
+      "label": "MEASUREMENT",
+      "start": 1107,
+      "end": 1110,
+      "normalized": {
+        "value": 80.0,
+        "unit": "%",
+        "original": "80%"
+      }
+    },
+    {
+      "text": "Up to",
+      "label": "OPERATOR",
+      "start": 1207,
+      "end": 1212,
+      "normalized": "lte"
+    },
+    {
+      "text": "200 square feet",
+      "label": "MEASUREMENT",
+      "start": 1213,
+      "end": 1228,
+      "normalized": {
+        "value": 200,
+        "unit": "sqft",
+        "original": "200 square feet"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1289,
+      "end": 1296,
+      "normalized": "min"
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 1353,
+      "end": 1362,
+      "normalized": "lt"
+    },
+    {
+      "text": "10 feet",
+      "label": "MEASUREMENT",
+      "start": 1363,
+      "end": 1370,
+      "normalized": {
+        "value": 10,
+        "unit": "ft",
+        "original": "10 feet"
+      }
+    },
+    {
+      "text": "not exceeding",
+      "label": "OPERATOR",
+      "start": 1586,
+      "end": 1599,
+      "normalized": "lte"
+    },
+    {
+      "text": "6 feet",
+      "label": "MEASUREMENT",
+      "start": 1600,
+      "end": 1606,
+      "normalized": {
+        "value": 6,
+        "unit": "ft",
+        "original": "6 feet"
+      }
+    },
+    {
+      "text": "not exceeding",
+      "label": "OPERATOR",
+      "start": 1627,
+      "end": 1640,
+      "normalized": "lte"
+    },
+    {
+      "text": "8 feet",
+      "label": "MEASUREMENT",
+      "start": 1641,
+      "end": 1647,
+      "normalized": {
+        "value": 8,
+        "unit": "ft",
+        "original": "8 feet"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1942,
+      "end": 1949,
+      "normalized": "min"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 2298,
+      "end": 2308,
+      "normalized": "lte"
+    },
+    {
+      "text": "200 square feet",
+      "label": "MEASUREMENT",
+      "start": 2309,
+      "end": 2324,
+      "normalized": {
+        "value": 200,
+        "unit": "sqft",
+        "original": "200 square feet"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 2625,
+      "end": 2633,
+      "normalized": "gte"
+    },
+    {
+      "text": "50%",
+      "label": "MEASUREMENT",
+      "start": 2634,
+      "end": 2637,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50%"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2694,
+      "end": 2702,
+      "normalized": "required"
+    },
+    {
+      "text": "first story",
+      "label": "MEASUREMENT",
+      "start": 2781,
+      "end": 2792,
+      "normalized": {
+        "value": "first story",
+        "unit": null,
+        "original": "first story"
+      }
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 2796,
+      "end": 2809,
+      "normalized": "lte"
+    },
+    {
+      "text": "three feet",
+      "label": "MEASUREMENT",
+      "start": 2810,
+      "end": 2820,
+      "normalized": {
+        "value": "three feet",
+        "unit": null,
+        "original": "three feet"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 2877,
+      "end": 2884,
+      "normalized": "min"
+    },
+    {
+      "text": "front yard",
+      "label": "METRIC",
+      "start": 2885,
+      "end": 2895,
+      "normalized": "front_yard_setback_min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 2896,
+      "end": 2903,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "Fifty percent",
+      "label": "MEASUREMENT",
+      "start": 3363,
+      "end": 3376,
+      "normalized": {
+        "value": "Fifty percent",
+        "unit": null,
+        "original": "Fifty percent"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 3411,
+      "end": 3417,
+      "normalized": "height_max"
+    },
+    {
+      "text": "seven feet",
+      "label": "MEASUREMENT",
+      "start": 3421,
+      "end": 3431,
+      "normalized": {
+        "value": "seven feet",
+        "unit": null,
+        "original": "seven feet"
+      }
+    },
+    {
+      "text": "five feet",
+      "label": "MEASUREMENT",
+      "start": 3535,
+      "end": 3544,
+      "normalized": {
+        "value": "five feet",
+        "unit": null,
+        "original": "five feet"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 3556,
+      "end": 3562,
+      "normalized": "height_max"
+    },
+    {
+      "text": "Height",
+      "label": "METRIC",
+      "start": 3674,
+      "end": 3680,
+      "normalized": "height_max"
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 3728,
+      "end": 3733,
+      "normalized": "lte"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 3945,
+      "end": 3951,
+      "normalized": "height_max"
+    },
+    {
+      "text": "greater than",
+      "label": "OPERATOR",
+      "start": 3952,
+      "end": 3964,
+      "normalized": "gt"
+    },
+    {
+      "text": "15 feet",
+      "label": "MEASUREMENT",
+      "start": 3965,
+      "end": 3972,
+      "normalized": {
+        "value": 15,
+        "unit": "ft",
+        "original": "15 feet"
+      }
+    }
+  ]
+}

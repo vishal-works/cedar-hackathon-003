@@ -1,0 +1,57 @@
+{
+  "section_id": "25-1-541",
+  "content": "(A)\n\nDuring the timeframes established under this division, a vested rights determination\nfor a project approved under Section 25-1-541 (Vested Rights Determination) applies to any permit application required to initiate, continue, or complete the\nproject.\n\n(B)\n\nIf the vesting date approved for a project under Section 25-1-541 (Vested Rights Determination) is based on a permit application that is submitted on or after June 23, 2014, the\nproject is subject to the expiration periods specified in Section 25-1-552 (Expiration of Projects Begun On or After June 23, 2014).\n\n(C)\n\nIf all permits for a project expire, the project expires.\n\n(D)\n\nA permit application submitted after a project expires constitutes a new project and\nis subject to the current regulations of this title, except that:\n\n(1)\n\nif a site plan associated with a project remains active at the time the project expires,\nthe vested rights determination for the project applies to any application for a building\npermit necessary to complete construction of the site plan for as long as the site\nplan remains active; and\n\n(2)\n\nan application to extend a site plan associated with a project may be approved in\naccordance with Section 25-5-62 (Extensions of Released Site Plan by Director).\n\n(E)\n\nThe expiration of a project associated with a preliminary plan or a final plat does\nnot affect the validity of a platted lot under this title.\n\nSource: Ord. 20140612-084, Pt. 2, 6-23-14.",
+  "entities": [
+    {
+      "text": "Section 25-1-541",
+      "label": "SECTION_REF",
+      "start": 119,
+      "end": 135,
+      "normalized": {
+        "section": "25-1-541",
+        "subsection": null,
+        "full_reference": "25-1-541"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 200,
+      "end": 208,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-541",
+      "label": "SECTION_REF",
+      "start": 312,
+      "end": 328,
+      "normalized": {
+        "section": "25-1-541",
+        "subsection": null,
+        "full_reference": "25-1-541"
+      }
+    },
+    {
+      "text": "Section 25-1-552",
+      "label": "SECTION_REF",
+      "start": 499,
+      "end": 515,
+      "normalized": {
+        "section": "25-1-552",
+        "subsection": null,
+        "full_reference": "25-1-552"
+      }
+    },
+    {
+      "text": "Section 25-5-62",
+      "label": "SECTION_REF",
+      "start": 1192,
+      "end": 1207,
+      "normalized": {
+        "section": "25-5-62",
+        "subsection": null,
+        "full_reference": "25-5-62"
+      }
+    }
+  ]
+}

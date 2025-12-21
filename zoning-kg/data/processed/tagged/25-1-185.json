@@ -1,0 +1,24 @@
+{
+  "section_id": "25-1-185",
+  "content": "On receipt of a notice of appeal or an amendment of a notice, the single office shall\npromptly notify the presiding officer of the body to which the appeal is made and,\nif the applicant is not the appellant, the applicant.\n\nSource: City Code Section 25-1-185; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 73,
+      "end": 79,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-185",
+      "label": "SECTION_REF",
+      "start": 242,
+      "end": 258,
+      "normalized": {
+        "section": "25-1-185",
+        "subsection": null,
+        "full_reference": "25-1-185"
+      }
+    }
+  ]
+}

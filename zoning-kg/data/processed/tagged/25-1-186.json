@@ -1,0 +1,42 @@
+{
+  "section_id": "25-1-186",
+  "content": "\nIf requested by an interested party, the single office shall schedule a meeting to\ndiscuss and attempt to resolve the issues raised by an appeal of an administrative\ndecision. The single office shall notify all interested parties of a meeting scheduled\nunder this section. All interested parties may attend the meeting.\n\nSource: City Code Section 25-1-186; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nAn approved plan or permit is suspended on the timely filing of an appeal of the plan\nor permit.\n\n(B)\n\nDevelopment affected by an appeal may not occur pending the final disposition of the\nappeal.\n\nSource: City Code Section 25-1-187; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 49,
+      "end": 55,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 188,
+      "end": 194,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-186",
+      "label": "SECTION_REF",
+      "start": 340,
+      "end": 356,
+      "normalized": {
+        "section": "25-1-186",
+        "subsection": null,
+        "full_reference": "25-1-186"
+      }
+    },
+    {
+      "text": "Section 25-1-187",
+      "label": "SECTION_REF",
+      "start": 611,
+      "end": 627,
+      "normalized": {
+        "section": "25-1-187",
+        "subsection": null,
+        "full_reference": "25-1-187"
+      }
+    }
+  ]
+}

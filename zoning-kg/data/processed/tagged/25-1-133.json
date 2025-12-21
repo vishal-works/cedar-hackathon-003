@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-133",
+  "content": "(A)\n\nThe director shall give notice of the filing of an application for a proposed neighborhood\nplan amendment under Section 25-1-133 (Notice of Applications and Administrative Decisions).\n\n(B)\n\nThe director shall conduct a community meeting on a proposed neighborhood plan amendment\nprior to the date on which the Planning Commission is scheduled to consider the amendment.\nThe director shall give notice of the meeting under Section 25-1-132(A) (Notice of Public Hearing).\n\n(C)\n\nThe Planning Commission and the council shall each hold a public hearing on a proposed\nneighborhood plan amendment.\n\n(D)\n\nThis subsection prescribes notice for a public hearing on a proposed neighborhood\nplan amendment regarding an individual property.\n\n(1)\n\nFor a hearing before the Planning Commission, the director shall give notice under\nSection 25-1-132(A) (Notice of Public Hearing).\n\n(2)\n\nFor a hearing before council, the director shall give notice under Section 25-1-132(B)(2) (Notice of Public Hearing).\n\n(3)\n\nThe applicant is responsible for the cost of notice, unless the applicant is a neighborhood\nplan contact team. In that event, the City is responsible for the cost of notice.\n\n(E)\n\nThis subsection prescribes notice for a public hearing on a proposed neighborhood\nplan amendment regarding an area-wide or subdistrict-wide recommendation.\n\n(1)\n\nThe director shall give notice of a public hearing before the Planning Commission\nor council to:\n\n(a)\n\neach notice owner of property located within the proposed amendment boundaries;\n\n(b)\n\neach City of Austin utility account address within the proposed amendment boundaries;\nand\n\n(c)\n\neach neighborhood plan contact team and registered neighborhood organization within\nthe proposed amendment boundaries and within 500 feet of the proposed amendment boundaries.\n\n(2)\n\nThe City is responsible for the cost of notice.\n\nSource: Ord. 20080306-073; 20091217-053.",
+  "entities": [
+    {
+      "text": "Section 25-1-133",
+      "label": "SECTION_REF",
+      "start": 117,
+      "end": 133,
+      "normalized": {
+        "section": "25-1-133",
+        "subsection": null,
+        "full_reference": "25-1-133"
+      }
+    },
+    {
+      "text": "500 feet",
+      "label": "MEASUREMENT",
+      "start": 1757,
+      "end": 1765,
+      "normalized": {
+        "value": 500,
+        "unit": "ft",
+        "original": "500 feet"
+      }
+    }
+  ]
+}

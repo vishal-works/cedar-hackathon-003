@@ -1,0 +1,57 @@
+{
+  "section_id": "25-1-282",
+  "content": "\n(A)\n\nA fast track permit is an authorization to begin site development while an application\nfor site plan approval is being reviewed by the City.\n\n(B)\n\nThe director may approve a fast track permit if the director determines that:\n\n(1)\n\nthe applicant or a person employed by the applicant has fast track certification under\nSection 25-5-24 (Fast Track Certification) and is responsible for the fast track development;\n\n(2)\n\nthe site plan is located within the boundaries of an urban watershed or a suburban\nwatershed;\n\n(3)\n\nthe site plan requires a certificate of occupancy from the City;\n\n(4)\n\nthe site plan does not require a variance;\n\n(5)\n\nthe proposed fast track permit complies with the requirements of this title;\n\n(6)\n\nthe fast track permit includes conditions of approval that will protect the environment\nand the public health, safety, and welfare;\n\n(7)\n\nthe requirement for a pre-construction conference under Section 25-1-282 (Preconstruction Conference Required) is noted on the fast track permit;\n\n(8)\n\nthe applicant has posted cash fiscal surety for erosion and sedimentation controls\nand revegetation for the fast track development;\n\n(9)\n\nthe applicant has authorized the City to draw on the cash fiscal surety, enter the\nsite, and restore the site to its original condition if the fast track permit expires\nor is revoked; and\n\n(10)\n\nif required, other governmental entities have approved the fast track development.\n\n(C)\n\nAn approved fast track permit expires if the director determines that the site plan\nis denied under Section 25-5-113 (Updates). An applicant may appeal the director's determination under this subsection to the\nLand Use Commission.\n\n(D)\n\nIf the director determines that development of a site does not comply with the requirements\nof an approved fast track permit, the director may revoke the fast track permit.\n\n(E)\n\nApproval of a site plan supersedes an approved fast track permit.\n\nSource: Section 13-1-618; Ord. 990225-70; Ord. 010607-8; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Section 25-5-24",
+      "label": "SECTION_REF",
+      "start": 324,
+      "end": 339,
+      "normalized": {
+        "section": "25-5-24",
+        "subsection": null,
+        "full_reference": "25-5-24"
+      }
+    },
+    {
+      "text": "Section 25-1-282",
+      "label": "SECTION_REF",
+      "start": 921,
+      "end": 937,
+      "normalized": {
+        "section": "25-1-282",
+        "subsection": null,
+        "full_reference": "25-1-282"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1353,
+      "end": 1361,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-5-113",
+      "label": "SECTION_REF",
+      "start": 1539,
+      "end": 1555,
+      "normalized": {
+        "section": "25-5-113",
+        "subsection": null,
+        "full_reference": "25-5-113"
+      }
+    },
+    {
+      "text": "Section 13-1-618",
+      "label": "SECTION_REF",
+      "start": 1930,
+      "end": 1946,
+      "normalized": {
+        "section": "13-1-618",
+        "subsection": null,
+        "full_reference": "13-1-618"
+      }
+    }
+  ]
+}

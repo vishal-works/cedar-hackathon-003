@@ -1,0 +1,66 @@
+{
+  "section_id": "25-1-134",
+  "content": "\n(A)\n\nThis section applies to notice\n\n(B)\n\nPublished notice is effective on the date a notice is published in a newspaper of\ngeneral circulation in the city.\n\n(C)\n\nMailed notice is effective on the date a letter is deposited in a depository of the\nU.S. Post Office, postage paid, and addressed:\n\n(1)\n\nto an applicant, by mailing notice to the property owner or agent at the address shown\non the application or on a written change of address form filed with the single office;\n\n(2)\n\nto a notice owner of real property, by mailing notice to the owner shown on the records\nof the county tax appraisal district;\n\n(3)\n\nto a record owner of real property, by mailing notice to the owner at the street address\nof the property or, if the property does not have a street address, to the return\naddress shown on the deed; and\n\n(4)\n\nto a neighborhood organization, by mailing notice to the agent or officer of the organization\nat the mailing address specified in the city registration information.\n\n(D)\n\nNotice by certified mail, return receipt requested, is only required if prescribed\nin this title.\n\n(E)\n\nNotice by hand delivery may be substituted for notice by mail if the addressee provides\na receipt of delivery.\n\n(F)\n\nWhen mailed notice to a notice owner is required:\n\n(1)\n\nexcept as provided in Subsection (E)(2), the single office shall prepare the list\nof notice owners; or\n\n(2)\n\nif the county tax appraisal district maintains ownership records on an automated data\nbase that is not accessible by the single office, the applicant shall provide a complete\nlist of notice owners from information obtained from the tax appraisal district and\nshall certify its accuracy on a form provided by the single office.\n\n(G)\n\nThe single office shall notify a neighborhood organization of:\n\n(1)\n\nan application concerning property located completely or partially within the boundaries\nof the neighborhood organization; and\n\n(2)\n\na proposed amendment to the text of this title.\n\nSource: City Code Section 25-1-134; Ord. 031211-11; Ord. 031211-42.\n\nThis division applies to a public hearing before a city board or commission or the\ncity council.\n\nSource: City/County subdivision agreement; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 468,
+      "end": 474,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1053,
+      "end": 1061,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1254,
+      "end": 1262,
+      "normalized": "required"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1322,
+      "end": 1328,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1507,
+      "end": 1513,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1698,
+      "end": 1704,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1723,
+      "end": 1729,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-134",
+      "label": "SECTION_REF",
+      "start": 1981,
+      "end": 1997,
+      "normalized": {
+        "section": "25-1-134",
+        "subsection": null,
+        "full_reference": "25-1-134"
+      }
+    }
+  ]
+}

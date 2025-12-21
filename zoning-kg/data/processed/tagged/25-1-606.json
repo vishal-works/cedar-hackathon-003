@@ -1,0 +1,389 @@
+{
+  "section_id": "25-1-606",
+  "content": "(A)\n\nFor a development proposing single-family uses, parkland dedication will be satisfied\nby the dedication of suitable land for park and recreational purposes in accordance\nwith this section or by payment of a fee in-lieu of dedication under Section 25-1-606 (Single-Family Fee In Lieu of Parkland Dedication).\n\n(B)\n\nThe following formula will apply to determine the amount of parkland dedication required:\n\n![](https://mcclibrary.blob.core.usgovcloudapi.net/codecontent/15303/477741/25-1-602.png)\n\n(C)\n\nIn calculating the amount of parkland to be dedicated, the number of residents per\nunit is based on density as follows:\n\n| Density Classification | Residents Per Unit |\n| --- | --- |\n| Low Density: Not more than 6 units per acre | 2.8 |\n| Medium Density: More than 6 and not more than 12 units per acre | 2.2 |\n| High Density: More than 12 units per acre | 1.7 |\n\n(D)\n\nIf the density of a single-family development is not known:\n\n(1)\n\nthe density is assumed to be the highest permitted in the zoning district, or if the\nproperty is not zoned, 24 dwelling units per acre; or\n\n(2)\n\nfor a residential subdivision within the extraterritorial jurisdiction, the applicant\nmay reduce the assumed density by agreeing, in a manner that is enforceable by the\nCity and approved by the city attorney, that any subsequent increases in density may\nrequire additional dedication of parkland under this section or payment of a fee in\nlieu of dedication under Section 25-1-606 (Single-Family Fee In Lieu of Parkland Dedication).\n\n(E)\n\nThe amount of parkland required to be dedicated within the Parkland Dedication Urban\nCore may not exceed 15% of gross site area for the development required to provide\nthe dedication except upon consent of the applicant or as authorized under this subsection.\n\n(1)\n\nThe director may request that the Land Use Commission approve dedication greater than\n15% off the gross site area, up to the amount required under Subsection (B) of this\nsection, if doing so is necessary to:\n\n(a)\n\naddress a critical shortage of parkland for an area identified in the Deficient Parkland\nArea Map; or\n\n(b)\n\nprovide connectivity with existing or planned parks or recreational amenities.\n\n(2)\n\nBefore the Land Use Commission considers a request under this subsection for approval,\nthe director shall present the request to the Parks Board for a recommendation.\n\n(3)\n\nIn considering a request from the director under this subsection, the Land Use Commission\nmay:\n\n(a)\n\ndeny the director's request and limit the required dedication to no more than 15%\nof gross site area; or\n\n(b)\n\nrequire additional parkland dedication greater than the 15% if gross site area, up\nto the lesser of:\n\n(i)\n\nthe amount required under Subsection (B) of this section; or\n\n(ii)\n\nthe minimum amount the Land Use Commission finds to be necessary based on the criteria\nin Paragraph (l)(a)-(b) of this subsection and the Parkland Dedication Operating Procedures.\n\n(4)\n\nIf an applicant dedicates less than the amount of land required for dedication under\nSubsection (B) due to the cap imposed by this subsection, the director shall require\npayment of a fee in-lieu of dedication under Section 25-1-606 (Single-Family Fee in Lieu of Parkland Dedication) for the remaining undedicated land.\n\nSource: Ord. No. 20231130-087, Pt. 2, 1-1-24.",
+  "entities": [
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 33,
+      "end": 46,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Section 25-1-606",
+      "label": "SECTION_REF",
+      "start": 244,
+      "end": 260,
+      "normalized": {
+        "section": "25-1-606",
+        "subsection": null,
+        "full_reference": "25-1-606"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 262,
+      "end": 275,
+      "normalized": "single_family"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 399,
+      "end": 407,
+      "normalized": "required"
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 606,
+      "end": 613,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 629,
+      "end": 636,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 695,
+      "end": 702,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Not more than",
+      "label": "OPERATOR",
+      "start": 704,
+      "end": 717,
+      "normalized": "lte"
+    },
+    {
+      "text": "6 units per acre",
+      "label": "MEASUREMENT",
+      "start": 718,
+      "end": 734,
+      "normalized": {
+        "value": 6.0,
+        "unit": "units/acre",
+        "original": "6 units per acre"
+      }
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 752,
+      "end": 759,
+      "normalized": "density_max"
+    },
+    {
+      "text": "More than",
+      "label": "OPERATOR",
+      "start": 761,
+      "end": 770,
+      "normalized": "gt"
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 777,
+      "end": 790,
+      "normalized": "lte"
+    },
+    {
+      "text": "12 units per acre",
+      "label": "MEASUREMENT",
+      "start": 791,
+      "end": 808,
+      "normalized": {
+        "value": 12.0,
+        "unit": "units/acre",
+        "original": "12 units per acre"
+      }
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 824,
+      "end": 831,
+      "normalized": "density_max"
+    },
+    {
+      "text": "More than",
+      "label": "OPERATOR",
+      "start": 833,
+      "end": 842,
+      "normalized": "gt"
+    },
+    {
+      "text": "12 units per acre",
+      "label": "MEASUREMENT",
+      "start": 843,
+      "end": 860,
+      "normalized": {
+        "value": 12.0,
+        "unit": "units/acre",
+        "original": "12 units per acre"
+      }
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 882,
+      "end": 889,
+      "normalized": "density_max"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 895,
+      "end": 908,
+      "normalized": "single_family"
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 945,
+      "end": 952,
+      "normalized": "density_max"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 982,
+      "end": 991,
+      "normalized": "permitted"
+    },
+    {
+      "text": "dwelling units per acre",
+      "label": "METRIC",
+      "start": 1052,
+      "end": 1075,
+      "normalized": "dwelling_units_per_acre_max"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1092,
+      "end": 1103,
+      "normalized": "residential"
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 1195,
+      "end": 1202,
+      "normalized": "density_max"
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 1328,
+      "end": 1335,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Section 25-1-606",
+      "label": "SECTION_REF",
+      "start": 1449,
+      "end": 1465,
+      "normalized": {
+        "section": "25-1-606",
+        "subsection": null,
+        "full_reference": "25-1-606"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 1467,
+      "end": 1480,
+      "normalized": "single_family"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1547,
+      "end": 1555,
+      "normalized": "required"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1618,
+      "end": 1628,
+      "normalized": "lte"
+    },
+    {
+      "text": "15%",
+      "label": "MEASUREMENT",
+      "start": 1629,
+      "end": 1632,
+      "normalized": {
+        "value": 15.0,
+        "unit": "%",
+        "original": "15%"
+      }
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 1642,
+      "end": 1651,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1672,
+      "end": 1680,
+      "normalized": "required"
+    },
+    {
+      "text": "greater than",
+      "label": "OPERATOR",
+      "start": 1863,
+      "end": 1875,
+      "normalized": "gt"
+    },
+    {
+      "text": "15%",
+      "label": "MEASUREMENT",
+      "start": 1876,
+      "end": 1879,
+      "normalized": {
+        "value": 15.0,
+        "unit": "%",
+        "original": "15%"
+      }
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 1894,
+      "end": 1903,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 1905,
+      "end": 1910,
+      "normalized": "lte"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1922,
+      "end": 1930,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2513,
+      "end": 2521,
+      "normalized": "required"
+    },
+    {
+      "text": "no more than",
+      "label": "OPERATOR",
+      "start": 2536,
+      "end": 2548,
+      "normalized": "lte"
+    },
+    {
+      "text": "15%",
+      "label": "MEASUREMENT",
+      "start": 2549,
+      "end": 2552,
+      "normalized": {
+        "value": 15.0,
+        "unit": "%",
+        "original": "15%"
+      }
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 2562,
+      "end": 2571,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "greater than",
+      "label": "OPERATOR",
+      "start": 2621,
+      "end": 2633,
+      "normalized": "gt"
+    },
+    {
+      "text": "15%",
+      "label": "MEASUREMENT",
+      "start": 2638,
+      "end": 2641,
+      "normalized": {
+        "value": 15.0,
+        "unit": "%",
+        "original": "15%"
+      }
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 2651,
+      "end": 2660,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2700,
+      "end": 2708,
+      "normalized": "required"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 2761,
+      "end": 2768,
+      "normalized": "min"
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 2969,
+      "end": 2978,
+      "normalized": "lt"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2998,
+      "end": 3006,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-606",
+      "label": "SECTION_REF",
+      "start": 3158,
+      "end": 3174,
+      "normalized": {
+        "section": "25-1-606",
+        "subsection": null,
+        "full_reference": "25-1-606"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 3176,
+      "end": 3189,
+      "normalized": "single_family"
+    }
+  ]
+}

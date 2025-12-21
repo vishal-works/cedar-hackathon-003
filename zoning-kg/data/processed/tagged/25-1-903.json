@@ -1,0 +1,31 @@
+{
+  "section_id": "25-1-903",
+  "content": "\n(A)\n\nThe council shall hold a public hearing on a proposed interlocal development agreement\nnot later than the 40th day after the date of the Land Use Commission recommendation.\n\n(B)\n\nThe director shall give notice of a public hearing required under Subsection (A) consistent\nwith the following requirements:\n\n(1)\n\nIf a proposed interlocal development agreement establishes or modifies use, development,\nor construction regulations applicable to a particular site or structure, the director\nshall provide notice by:\n\n(a)\n\npublishing notice not later than the 16th day before the date of the public hearing\nas provided under Subsection 25-1-132(B)(1) (Notice of Public Hearing); and\n\n(b)\n\nmailing notice not later than the 16th day before the date of the hearing as provided\nunder Subsection 25-1-904(A) (Notice Requirements for Proposed Interlocal Development Agreements).\n\n(2)\n\nIf a proposed interlocal development agreement establishes or modifies general use,\nconstruction, or development regulations contained in a master plan or agreement applicable\nto a governmental entity, municipal corporation, or political subdivision, rather\nthan a particular site or structure, the director shall provide notice as required\nunder Subsection 25-1-132(C) (Notice of Public Hearing).\n\n(C)\n\nAfter a public hearing on a proposed interlocal development agreement, the council\nmay authorize the city manager to:\n\n(1)\n\nexecute the agreement as proposed;\n\n(2)\n\nexecute a modified agreement, which may include different use, development, or construction\nregulations or other conditions not contained in the proposed agreement;\n\n(3)\n\nnegotiate a new agreement, which shall be subject to review by the Land Use Commission\nunder Section 25-1-903 (Review and Recommendation of the Land Use Commission); or\n\n(4)\n\nreject the proposed agreement and discontinue negotiations.\n\nSource: Ord. 20091105-068.",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 236,
+      "end": 244,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1212,
+      "end": 1220,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-903",
+      "label": "SECTION_REF",
+      "start": 1713,
+      "end": 1729,
+      "normalized": {
+        "section": "25-1-903",
+        "subsection": null,
+        "full_reference": "25-1-903"
+      }
+    }
+  ]
+}

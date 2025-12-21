@@ -1,0 +1,314 @@
+{
+  "section_id": "25-2-7",
+  "content": "031120-44; Ord. 031211-11; Ord. 20130523-104; Ord. No. 20231102-028, Pt. 43, 11-13-23.\n\n(A)\n\nOff-street parking facilities for bicycles must be provided for each use on a site.\n\n(B)\n\nAny addition or enlargement of an existing building or use or any change of occupancy\nor operation shall require a proportional increase in bicycle parking adhering to\nthe requirements of this section for the new use or expanded use or change in occupancy.\n\n(C)\n\nThe number of bicycle parking spaces shall be determined based on the requirements\nin this subsection.\n\n(1)\n\nFor Commercial Uses as described in Section 25-2-4 (Commercial Uses Described), a minimum of two bicycle parking spaces or 10 percent of the proposed motor vehicle\nparking spaces, whichever is greater.\n\n(2)\n\nFor Multifamily Residential Use as described in Section 25-2-3(7), a minimum of five bicycle parking spaces or 10 percent of the proposed motor\nvehicle parking spaces, whichever is greater.\n\n(3)\n\nFor Single-Family Use as described in Section 25-2-3(12) or Two-Family Residential Use as described in Section 25-2-3(15), no requirements.\n\n(4)\n\nFor uses as described in Section 25-2-5 (Industrial uses Described), Section 25-2-6 (Civic Uses Described), and Section 25-2-7 (Agricultural Uses Described), a minimum of one bicycle parking space or 10 percent of the proposed motor vehicle\nparking spaces, whichever is greater.\n\n(D)\n\nA required bicycle space must comply with the requirements of the Transportation Criteria\nManual.\n\n(E)\n\nThe location of an off-street bicycle parking facility shall comply with the following\nrequirements:\n\n(1)\n\nA minimum of 50 percent of all required bicycle parking shall be located within 50\nfeet of the principal building entrance which shall not be obscured from public view;\nand\n\n(2)\n\nThe remaining required bicycle parking may be located as follows:\n\na.\n\nin a secure location within 50 feet of other building entryways other than the principal\nbuilding entrance;\n\nb.\n\nat employee only entrances;\n\nc.\n\nwithin a building; or\n\nd.\n\nin a covered motor vehicle parking facility within 50 feet of a street level entrance.\n\n(3)\n\nThe closest bicycle parking facility must be no farther than the closest motor vehicle\nparking space, excluding accessible parking spaces.\n\n(F)\n\nA provision of this article that is applicable to off-street motor vehicle parking\nalso applies to bicycle parking, unless the provision conflicts with this section.\n\n(G)\n\nThe city manager may waive a requirement relating to the number or type of bicycle\nspaces or approve an alternate method of compliance after considering the characteristics\nof the use, the site, and the surrounding area. A waiver may not reduce the number\nof required bicycle spaces to less than two.\n\n(H)\n\nA site or development subject to Subsection 2.3.1.B.2. of Article 2 (Site Development Standards) of Subchapter E of City Code Chapter 25-2 that chooses to provide shower and changing facilities as an option under Table B\n(Additional Measures to Improve Connectivity) shall provide facilities as follows:\n\n(1)\n\nFor buildings with less than 100,000 square feet of gross floor area, a minimum of\ntwo single-user shower-and-changing facilities.\n\n(2)\n\nFor buildings with 100,000 or more square feet of gross floor area, a minimum of four\nsingle-user shower-and-changing facilities.\n\nSource: Ord. 031120-44; Ord. 031211-11; Ord. 20060504-039; Ord. 20130523-104; Ord. No. 20231102-028, Pt. 44, 11-13-23; Ord. No. 20240201-035, Pt. 3, 2-12-24.",
+  "entities": [
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 468,
+      "end": 482,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "Section 25-2-4",
+      "label": "SECTION_REF",
+      "start": 591,
+      "end": 605,
+      "normalized": {
+        "section": "25-2-4",
+        "subsection": null,
+        "full_reference": "25-2-4"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 637,
+      "end": 644,
+      "normalized": "min"
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 660,
+      "end": 674,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "10 percent",
+      "label": "MEASUREMENT",
+      "start": 678,
+      "end": 688,
+      "normalized": {
+        "value": 10.0,
+        "unit": "%",
+        "original": "10 percent"
+      }
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 719,
+      "end": 733,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "Multifamily",
+      "label": "USE_TYPE",
+      "start": 767,
+      "end": 778,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 832,
+      "end": 839,
+      "normalized": "min"
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 856,
+      "end": 870,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "10 percent",
+      "label": "MEASUREMENT",
+      "start": 874,
+      "end": 884,
+      "normalized": {
+        "value": 10.0,
+        "unit": "%",
+        "original": "10 percent"
+      }
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 915,
+      "end": 929,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 963,
+      "end": 976,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Two-Family",
+      "label": "USE_TYPE",
+      "start": 1019,
+      "end": 1029,
+      "normalized": "two_family"
+    },
+    {
+      "text": "Section 25-2-5",
+      "label": "SECTION_REF",
+      "start": 1130,
+      "end": 1144,
+      "normalized": {
+        "section": "25-2-5",
+        "subsection": null,
+        "full_reference": "25-2-5"
+      }
+    },
+    {
+      "text": "Section 25-2-6",
+      "label": "SECTION_REF",
+      "start": 1174,
+      "end": 1188,
+      "normalized": {
+        "section": "25-2-6",
+        "subsection": null,
+        "full_reference": "25-2-6"
+      }
+    },
+    {
+      "text": "Section 25-2-7",
+      "label": "SECTION_REF",
+      "start": 1217,
+      "end": 1231,
+      "normalized": {
+        "section": "25-2-7",
+        "subsection": null,
+        "full_reference": "25-2-7"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1265,
+      "end": 1272,
+      "normalized": "min"
+    },
+    {
+      "text": "10 percent",
+      "label": "MEASUREMENT",
+      "start": 1305,
+      "end": 1315,
+      "normalized": {
+        "value": 10.0,
+        "unit": "%",
+        "original": "10 percent"
+      }
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 1346,
+      "end": 1360,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1392,
+      "end": 1400,
+      "normalized": "required"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1603,
+      "end": 1610,
+      "normalized": "min"
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 1614,
+      "end": 1624,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1632,
+      "end": 1640,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1794,
+      "end": 1802,
+      "normalized": "required"
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 1879,
+      "end": 1886,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 2075,
+      "end": 2082,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 2240,
+      "end": 2254,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2693,
+      "end": 2701,
+      "normalized": "required"
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 2720,
+      "end": 2729,
+      "normalized": "lt"
+    },
+    {
+      "text": "Article 2",
+      "label": "SECTION_REF",
+      "start": 2799,
+      "end": 2808,
+      "normalized": {
+        "type": "article",
+        "number": 2,
+        "full_reference": "Article 2"
+      }
+    },
+    {
+      "text": "Subchapter E",
+      "label": "SECTION_REF",
+      "start": 2841,
+      "end": 2853,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "E",
+        "full_reference": "Subchapter E"
+      }
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 2867,
+      "end": 2879,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 3070,
+      "end": 3079,
+      "normalized": "lt"
+    },
+    {
+      "text": "100,000 square feet",
+      "label": "MEASUREMENT",
+      "start": 3080,
+      "end": 3099,
+      "normalized": {
+        "value": 100000,
+        "unit": "sqft",
+        "original": "100,000 square feet"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 3123,
+      "end": 3130,
+      "normalized": "min"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 3258,
+      "end": 3265,
+      "normalized": "min"
+    }
+  ]
+}

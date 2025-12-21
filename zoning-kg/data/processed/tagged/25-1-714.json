@@ -1,0 +1,66 @@
+{
+  "section_id": "25-1-714",
+  "content": "a description of any tenant relocation assistance that may be available under Section 25-1-714 (Tenant Relocation Program), including income eligibility requirements and forms for requesting assistance;\n\n(e)\n\ninformation regarding applicable school district policies relating to district residency\nrequirements;\n\n(f)\n\ninformation regarding the requirements of state law for return of security deposits;\n\n(g)\n\ninformation regarding the availability of fee waivers from Austin Energy for obtaining\nutility service at a new residence where relocation is required due to displacement;\n\n(h)\n\nother information as may be required by the director, including programs and services\nto assistant displaced tenants; and\n\n(3)\n\nbe on a form provided by the director, which shall be uniform for all applicants except\nthat the director may require an additional language as provided under Paragraph (2).\n\n(D)\n\nIf an applicant requests an extension of a permit for which notification under this\nsection is required, the applicant must provide renotification to tenants consistent\nwith the requirements for a new application.\n\n(E)\n\nA landowner or landowner's agent must provide notification that complies with Subsection\n(C) prior to unpermitted redevelopment. In this subsection, prior to unpermitted redevelopment\nmeans:\n\n(1)\n\nfor a multi-family property, at least 120 days before unpermitted redevelopment begins;\nand\n\n(2)\n\nfor a mobile home park, at least 270 days before unpermitted redevelopment begins.\n\nSource: 20160901-050, Pt. 4, 9-12-16; Ord. No. 20220421-058, Pt. 2, 4-21-22; Ord. No. 20230831-103, Pt. 3, 9-11-23.",
+  "entities": [
+    {
+      "text": "Section 25-1-714",
+      "label": "SECTION_REF",
+      "start": 78,
+      "end": 94,
+      "normalized": {
+        "section": "25-1-714",
+        "subsection": null,
+        "full_reference": "25-1-714"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 551,
+      "end": 559,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 615,
+      "end": 623,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 990,
+      "end": 998,
+      "normalized": "required"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1318,
+      "end": 1330,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1341,
+      "end": 1349,
+      "normalized": "gte"
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 1416,
+      "end": 1432,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1434,
+      "end": 1442,
+      "normalized": "gte"
+    }
+  ]
+}

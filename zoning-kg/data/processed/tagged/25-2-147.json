@@ -1,0 +1,397 @@
+{
+  "section_id": "25-2-147",
+  "content": "\nThis Article 4 is intended to provide for and encourage development and redevelopment\nthat contains a compatible mix of residential, commercial, and institutional uses\nwithin close proximity to each other, rather than separating uses. The mixed use provisions\ndefine the uses of land and the siting and character of the improvements and structures\nallowed on the land in a manner that encourages a balanced and sustainable mix of\nuses. They promote an efficient pedestrian-access network that connects the nonresidential\nand residential uses and transit facilities. Redevelopment of underutilized parcels\nand infill development of vacant parcels should foster pedestrian-oriented residential\nand mixed use development. (See Figure 45.)\n\n(See Figure 45 set forth in Exhibit A attached to Ord. 20130606-088; Examples of vertical mixed\nuse)\n\n|  |\n| --- |\n| COMMENTARY: MIXED USE DEVELOPMENT IN AUSTIN GENERALLY |\n| The City of Austin allows and encourages the development of mixed use projects. Mixed use development integrates two or more land uses, such as residential and commercial, with a strong pedestrian orientation. Requirements and standards for mixed use development appear in various places throughout the Austin City Code. |\n| Zoning Districts in which Mixed Use is Allowed and Encouraged |\n| The following districts are intended primarily for mixed use development and are described more fully in Section 4.2 below: |\n| • Mixed Use Combining District (Section 4.2.1.). |\n| • Vertical Mixed Use Overlay District (Section 4.2.2.). |\n| Mixed use development also is allowed in other Austin zoning districts. Some of these districts are listed below and are described more fully in the referenced sections of the Austin Code. This list is not exhaustive, but rather is intended to illustrate the range of districts in which mixed use development is allowed. |\n| • Central Business (CBD) (Section 25-2-100); |\n| • Central Urban Redevelopment (CURE) (Section 25-2-163); |\n| • Downtown Mixed Use (DMU) (Section 25-2-101); |\n| • Planned Development Area (PDA) (Section 25-2-174); |\n| • Planned Unit Development (Section 25-2-144); |\n| • Traditional Neighborhood Development (Section 25-2-146); |\n| • Transit Oriented Development (Section 25-2-147); |\n| • Waterfront Overlay (WO) (Section 25-2-175); and |\n| • University Neighborhood Overlay (UNO) (Section 25-2-178). |\n| Types of Mixed Use Development |\n| Within the districts that allow mixed use development, uses may be combined either vertically in the same building, or horizontally in multiple buildings, or through a combination of the two, depending on the standards of the district. |\n| Vertical mixed use is allowed in two building types: the Vertical Mixed Use (VMU) Building and the Neighborhood Mixed Use (NMU) Building. Standards for VMU buildings are in Section 4.3. below, and standards for NMU buildings are in Subchapter D, Article 6. |\n| Horizontal mixed use is the mixing of uses in a development project, though not necessarily in the same building. Horizontal mixed use is allowed and encouraged in Austin so long as each of the proposed uses is allowed within the applicable zoning district and the development meets all applicable requirements of the Austin Code. |\n\nSource: Ord. 20060831-068; Ord. 20130606-088.",
+  "entities": [
+    {
+      "text": "Article 4",
+      "label": "SECTION_REF",
+      "start": 6,
+      "end": 15,
+      "normalized": {
+        "type": "article",
+        "number": 4,
+        "full_reference": "Article 4"
+      }
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 121,
+      "end": 132,
+      "normalized": "residential"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 134,
+      "end": 144,
+      "normalized": "commercial"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 240,
+      "end": 249,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 349,
+      "end": 356,
+      "normalized": "permitted"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 526,
+      "end": 537,
+      "normalized": "residential"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 681,
+      "end": 692,
+      "normalized": "residential"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 697,
+      "end": 706,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "MIXED USE",
+      "label": "USE_TYPE",
+      "start": 867,
+      "end": 876,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 973,
+      "end": 982,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Mixed use",
+      "label": "USE_TYPE",
+      "start": 993,
+      "end": 1002,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1057,
+      "end": 1068,
+      "normalized": "residential"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 1073,
+      "end": 1083,
+      "normalized": "commercial"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 1154,
+      "end": 1163,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 1264,
+      "end": 1273,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 1355,
+      "end": 1364,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 1434,
+      "end": 1443,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 1496,
+      "end": 1505,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Mixed use",
+      "label": "USE_TYPE",
+      "start": 1545,
+      "end": 1554,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 1575,
+      "end": 1582,
+      "normalized": "permitted"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 1832,
+      "end": 1841,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 1857,
+      "end": 1864,
+      "normalized": "permitted"
+    },
+    {
+      "text": "CBD",
+      "label": "ZONE",
+      "start": 1890,
+      "end": 1893,
+      "normalized": {
+        "code": "CBD",
+        "original": "CBD"
+      }
+    },
+    {
+      "text": "Section 25-2-100",
+      "label": "SECTION_REF",
+      "start": 1896,
+      "end": 1912,
+      "normalized": {
+        "section": "25-2-100",
+        "subsection": null,
+        "full_reference": "25-2-100"
+      }
+    },
+    {
+      "text": "Section 25-2-163",
+      "label": "SECTION_REF",
+      "start": 1957,
+      "end": 1973,
+      "normalized": {
+        "section": "25-2-163",
+        "subsection": null,
+        "full_reference": "25-2-163"
+      }
+    },
+    {
+      "text": "Downtown Mixed Use",
+      "label": "ZONE",
+      "start": 1982,
+      "end": 2000,
+      "normalized": {
+        "code": "DMU",
+        "name": "downtown mixed use",
+        "original": "Downtown Mixed Use"
+      }
+    },
+    {
+      "text": "DMU",
+      "label": "ZONE",
+      "start": 2002,
+      "end": 2005,
+      "normalized": {
+        "code": "DMU",
+        "original": "DMU"
+      }
+    },
+    {
+      "text": "Section 25-2-101",
+      "label": "SECTION_REF",
+      "start": 2008,
+      "end": 2024,
+      "normalized": {
+        "section": "25-2-101",
+        "subsection": null,
+        "full_reference": "25-2-101"
+      }
+    },
+    {
+      "text": "Section 25-2-174",
+      "label": "SECTION_REF",
+      "start": 2065,
+      "end": 2081,
+      "normalized": {
+        "section": "25-2-174",
+        "subsection": null,
+        "full_reference": "25-2-174"
+      }
+    },
+    {
+      "text": "Planned Unit Development",
+      "label": "ZONE",
+      "start": 2090,
+      "end": 2114,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "Planned Unit Development"
+      }
+    },
+    {
+      "text": "Section 25-2-144",
+      "label": "SECTION_REF",
+      "start": 2116,
+      "end": 2132,
+      "normalized": {
+        "section": "25-2-144",
+        "subsection": null,
+        "full_reference": "25-2-144"
+      }
+    },
+    {
+      "text": "Section 25-2-146",
+      "label": "SECTION_REF",
+      "start": 2179,
+      "end": 2195,
+      "normalized": {
+        "section": "25-2-146",
+        "subsection": null,
+        "full_reference": "25-2-146"
+      }
+    },
+    {
+      "text": "Section 25-2-147",
+      "label": "SECTION_REF",
+      "start": 2234,
+      "end": 2250,
+      "normalized": {
+        "section": "25-2-147",
+        "subsection": null,
+        "full_reference": "25-2-147"
+      }
+    },
+    {
+      "text": "Section 25-2-175",
+      "label": "SECTION_REF",
+      "start": 2284,
+      "end": 2300,
+      "normalized": {
+        "section": "25-2-175",
+        "subsection": null,
+        "full_reference": "25-2-175"
+      }
+    },
+    {
+      "text": "Section 25-2-178",
+      "label": "SECTION_REF",
+      "start": 2352,
+      "end": 2368,
+      "normalized": {
+        "section": "25-2-178",
+        "subsection": null,
+        "full_reference": "25-2-178"
+      }
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 2384,
+      "end": 2393,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 2442,
+      "end": 2451,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 2659,
+      "end": 2668,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 2672,
+      "end": 2679,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 2716,
+      "end": 2725,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Mixed Use",
+      "label": "USE_TYPE",
+      "start": 2762,
+      "end": 2771,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "Subchapter D",
+      "label": "SECTION_REF",
+      "start": 2882,
+      "end": 2894,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "D",
+        "full_reference": "Subchapter D"
+      }
+    },
+    {
+      "text": "Article 6",
+      "label": "SECTION_REF",
+      "start": 2896,
+      "end": 2905,
+      "normalized": {
+        "type": "article",
+        "number": 6,
+        "full_reference": "Article 6"
+      }
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 2922,
+      "end": 2931,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "mixed use",
+      "label": "USE_TYPE",
+      "start": 3036,
+      "end": 3045,
+      "normalized": "mixed_use"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 3049,
+      "end": 3056,
+      "normalized": "permitted"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 3122,
+      "end": 3129,
+      "normalized": "permitted"
+    }
+  ]
+}

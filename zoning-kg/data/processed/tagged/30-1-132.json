@@ -1,0 +1,42 @@
+{
+  "section_id": "30-1-132",
+  "content": "Ord. 031211-42.\n\n(A)\n\nBefore the single office may approve a plat, the subdivider shall:\n\n(1)\n\nobtain final approval of subdivision construction plans; post fiscal security as required\nby the county executive for restoration of disturbed areas, boundary streets, and\nsidewalks; and construct the streets, utilities, and drainage facilities in compliance\nwith the requirements of this title; or\n\n(2)\n\nfile an application for approval of subdivision construction plans and provide fiscal\nsecurity under Section 30-1-132 (Fiscal Security) for subdivision improvements.\n\n(B)\n\nFiscal security provided under this section may be used by the city or county, as\nappropriate, to construct the subdivision improvements.\n\nSource: City Code Section 25-4-37; County Code Section 82.401; Ord. 031211-11; Ord.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 40,
+      "end": 46,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 176,
+      "end": 184,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 30-1-132",
+      "label": "SECTION_REF",
+      "start": 501,
+      "end": 517,
+      "normalized": {
+        "section": "30-1-132",
+        "subsection": null,
+        "full_reference": "30-1-132"
+      }
+    },
+    {
+      "text": "Section 25-4-37",
+      "label": "SECTION_REF",
+      "start": 729,
+      "end": 744,
+      "normalized": {
+        "section": "25-4-37",
+        "subsection": null,
+        "full_reference": "25-4-37"
+      }
+    }
+  ]
+}

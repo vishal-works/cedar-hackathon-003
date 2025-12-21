@@ -1,0 +1,297 @@
+{
+  "section_id": "30-1-22",
+  "content": "is determined in accordance with Section 30-1-22 (Measurements).\n\n(62)\n\nREAR YARD means a yard extending the full width of a lot between the rear lot line\nand the rear setback line, excluding any area located within the street side yard\nof a corner lot.\n\n(63)\n\nRECORD OWNER means the owner of real property as shown by the deed records of the\ncounty in which the property is located.\n\n(64)\n\nRELEASE means the written certification that a plat or subdivision construction plan\nhas been approved, that the plat or construction plan complies with this title, and\nthat the conditions of approval for the plat or construction plan have been satisfied.\n\n(65)\n\nREVISION means a change in an approved or released plan that is initiated by an applicant.\n\n(66)\n\nRIGHT-OF-WAY means land dedicated or reserved for streets, utilities, or other public\nfacilities.\n\n(67)\n\nROADWAY means the portion of a street right-of-way used for vehicular travel.\n\n(68)\n\nSETBACK LINE means a line within a lot parallel to and measured from a corresponding\nlot line, forming the boundary of a yard and governing the placement of structures\nand uses on the lot.\n\n(69)\n\nSIDE LOT LINE means a lot line intersecting the front lot line and extending a minimum\ndistance of 75 feet.\n\n(70)\n\nSIDEWALK means the paved portion of a pedestrian way.\n\n(71)\n\nSIDE YARD means a yard extending the depth of a lot from the front yard to the rear\nlot line between the side lot line and the side setback line. For a corner lot, a\nstreet side yard is a yard that extends from the front yard to the rear lot line.\n\n(72)\n\nSINGLE OFFICE means the City of Austin - Travis County Single Subdivision Office.\n\n(73)\n\nSITE means a contiguous area intended for development, or the area on which a building\nhas been proposed to be built or has been built. A site may not cross a public street\nor right-of-way.\n\n(74)\n\nSMALL LOT means a lot with an area of less than 5,750 square feet.\n\n(75)\n\nSTAFF means a city or county employee, as applicable.\n\n(76)\n\nSTREET YARD means a yard adjacent to a street and determined on the basis of a street\nlot line.\n\n(77)\n\nSTRUCTURE means a building of any kind, or a piece of work artificially built-up or\ncomposed of parts joined together in a definite manner.\n\n(78)\n\nSUBDIVIDE means:\n\n(a)\n\nto divide land into two or more lots or sites for the purpose of sale or development;\n\n(b)\n\nto resubdivide an existing lot; or\n\n(c)\n\nto combine two or more lots into the same number or fewer lots with different boundaries.\n\n(79)\n\nSUBORDINATE SIDE YARD, when used in reference to a small lot, means the side yard\nhaving the smaller width.\n\n(80)\n\nTHROUGH LOT means a lot, other than a corner lot, abutting more than one street.\n\n(81)\n\nTOWNHOUSE means a dwelling unit having a common wall with or abutting one or more\nadjoining dwelling units in a townhouse group.\n\n(82)\n\nTOWNHOUSE LOT means the portion of a townhouse development that is intended for separate\nownership as the location of a single townhouse and associated private yard area.\n\n(83)\n\nTRANSPORTATION PLAN means the Capital Area Metropolitan Planning Organization long\nrange transportation plan.\n\n(84)\n\nUPDATE means additional information, a preliminary plan, a final plat, or a subdivision\nconstruction plan submitted by an applicant in response to comments by a review entity.\n\n(85)\n\nUSE EASEMENT, when used in reference to a small lot, means an easement granted by\nthe owner of a small lot with the subordinate side yard to the owner of a small lot\nwith a dominant side yard along the common lot line, and which allows the occupant\nof the dwelling unit on the lot having the dominant side yard the use, enjoyment,\nand privacy of the dominant side yard.\n\n(86)\n\nVARIANCE means a waiver of a provision of this title under Article 9, Division 3 (Variances).\n\n(87)\n\nWORKING DAY excludes a Saturday, Sunday, or an official city or county holiday.\n\n(88)\n\nYARD means an open space on a lot adjoining a lot line.\n\n(89)\n\nZERO LOT LINE means a common lot line on which a wall of a structure may be constructed.\n\nSource: City Code Section 25-1-25; Ord. 031211-11; Ord. 031211-42; Ord. 20120524-130;",
+  "entities": [
+    {
+      "text": "Section 30-1-22",
+      "label": "SECTION_REF",
+      "start": 33,
+      "end": 48,
+      "normalized": {
+        "section": "30-1-22",
+        "subsection": null,
+        "full_reference": "30-1-22"
+      }
+    },
+    {
+      "text": "REAR YARD",
+      "label": "METRIC",
+      "start": 72,
+      "end": 81,
+      "normalized": "rear_yard_setback_min"
+    },
+    {
+      "text": "rear setback",
+      "label": "METRIC",
+      "start": 163,
+      "end": 175,
+      "normalized": "rear_setback_min"
+    },
+    {
+      "text": "street side yard",
+      "label": "METRIC",
+      "start": 220,
+      "end": 236,
+      "normalized": "street_side_yard_min"
+    },
+    {
+      "text": "SETBACK",
+      "label": "METRIC",
+      "start": 942,
+      "end": 949,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 1143,
+      "end": 1146,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1217,
+      "end": 1224,
+      "normalized": "min"
+    },
+    {
+      "text": "75 feet",
+      "label": "MEASUREMENT",
+      "start": 1237,
+      "end": 1244,
+      "normalized": {
+        "value": 75,
+        "unit": "ft",
+        "original": "75 feet"
+      }
+    },
+    {
+      "text": "SIDE YARD",
+      "label": "METRIC",
+      "start": 1314,
+      "end": 1323,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "front yard",
+      "label": "METRIC",
+      "start": 1375,
+      "end": 1385,
+      "normalized": "front_yard_setback_min"
+    },
+    {
+      "text": "side setback",
+      "label": "METRIC",
+      "start": 1441,
+      "end": 1453,
+      "normalized": "side_setback_min"
+    },
+    {
+      "text": "street side yard",
+      "label": "METRIC",
+      "start": 1480,
+      "end": 1496,
+      "normalized": "street_side_yard_min"
+    },
+    {
+      "text": "front yard",
+      "label": "METRIC",
+      "start": 1529,
+      "end": 1539,
+      "normalized": "front_yard_setback_min"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 1861,
+      "end": 1864,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 1893,
+      "end": 1902,
+      "normalized": "lt"
+    },
+    {
+      "text": "5,750 square feet",
+      "label": "MEASUREMENT",
+      "start": 1903,
+      "end": 1920,
+      "normalized": {
+        "value": 5750,
+        "unit": "sqft",
+        "original": "5,750 square feet"
+      }
+    },
+    {
+      "text": "SIDE YARD",
+      "label": "METRIC",
+      "start": 2505,
+      "end": 2514,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "side yard",
+      "label": "METRIC",
+      "start": 2565,
+      "end": 2574,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 2616,
+      "end": 2619,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 2667,
+      "end": 2676,
+      "normalized": "gt"
+    },
+    {
+      "text": "dwelling unit",
+      "label": "USE_TYPE",
+      "start": 2714,
+      "end": 2727,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 2788,
+      "end": 2802,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "townhouse",
+      "label": "USE_TYPE",
+      "start": 2808,
+      "end": 2817,
+      "normalized": "townhouse"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 2842,
+      "end": 2845,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "townhouse",
+      "label": "USE_TYPE",
+      "start": 2869,
+      "end": 2878,
+      "normalized": "townhouse"
+    },
+    {
+      "text": "townhouse",
+      "label": "USE_TYPE",
+      "start": 2959,
+      "end": 2968,
+      "normalized": "townhouse"
+    },
+    {
+      "text": "side yard",
+      "label": "METRIC",
+      "start": 3438,
+      "end": 3447,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "side yard",
+      "label": "METRIC",
+      "start": 3492,
+      "end": 3501,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "dwelling unit",
+      "label": "USE_TYPE",
+      "start": 3566,
+      "end": 3579,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "side yard",
+      "label": "METRIC",
+      "start": 3611,
+      "end": 3620,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "side yard",
+      "label": "METRIC",
+      "start": 3669,
+      "end": 3678,
+      "normalized": "side_yard_setback_min"
+    },
+    {
+      "text": "Article 9",
+      "label": "SECTION_REF",
+      "start": 3746,
+      "end": 3755,
+      "normalized": {
+        "type": "article",
+        "number": 9,
+        "full_reference": "Article 9"
+      }
+    },
+    {
+      "text": "Division 3",
+      "label": "SECTION_REF",
+      "start": 3757,
+      "end": 3767,
+      "normalized": {
+        "type": "division",
+        "number": 3,
+        "full_reference": "Division 3"
+      }
+    },
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 3889,
+      "end": 3899,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "LOT",
+      "label": "ZONE",
+      "start": 3943,
+      "end": 3946,
+      "normalized": {
+        "code": "LOT",
+        "original": "LOT"
+      }
+    },
+    {
+      "text": "Section 25-1-25",
+      "label": "SECTION_REF",
+      "start": 4046,
+      "end": 4061,
+      "normalized": {
+        "section": "25-1-25",
+        "subsection": null,
+        "full_reference": "25-1-25"
+      }
+    }
+  ]
+}

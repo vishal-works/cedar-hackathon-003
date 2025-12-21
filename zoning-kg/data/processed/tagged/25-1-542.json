@@ -1,0 +1,53 @@
+{
+  "section_id": "25-1-542",
+  "content": "(A)\n\nNot later than 10 working days after acceptance of a complete vested rights petition,\nthe director shall review the petition under Section 25-1-542 (Criteria for Approval) and render a determination consistent with the requirements of this section.\n\n(B)\n\nIn acting on a petition, the director may:\n\n(1)\n\napprove the petition and require the development applications necessary to initiate,\ncontinue, or complete the project to be reviewed in accordance with regulations in\neffect on the vesting date, except for those regulations exempt from vesting under\nstate law;\n\n(2)\n\ndeny the petition and require the development application associated with the project\nto be reviewed under current regulations of this title; or\n\n(3)\n\napprove the petition in part, as authorized by Subsection (C) of this section.\n\n(C)\n\nThe director may approve a petition in part if a project is legally entitled to some,\nbut not all, of the rights asserted in the petition, or if a change in the scale or\nintensity of development is necessary to maintain conformity with the original project.\nA vested rights determination may not waive or modify applicable regulations or provide\nrelief not required by Chapter 245 or Section 43.002 of the Local Government Code.\n\n(D)\n\nThe director shall provide a written determination to the applicant, which must state:\n\n(1)\n\nWhether the petition is approved or denied, in whole or in part, and the basis for\nthe decision;\n\n(2)\n\nFindings of fact in support of the decision and information sufficient to identify\nthe permit or fair notice application on which the petition is based; and\n\n(3)\n\nIf the petition is approved:\n\n(a)\n\na description of the project for which vested rights are recognized; and\n\n(b)\n\na vesting date.\n\n(E)\n\nAn applicant may request that the director reconsider a vested rights determination\nat any time before the application expires under Section 25-1-82 (Application Requirements and Expiration). The director's decision on a reconsideration request is final and not subject to\nfurther reconsideration.\n\n(F)\n\nA vested rights determination under this section does not affect the availability\nof a variance or other administrative remedy authorized by this title, but requesting\na variance is not required to exhaust administrative remedies for purposes of challenging\na determination by the director that a project is not entitled to vested rights.\n\n(G)\n\nThe director shall make vested rights petitions submitted under Section 25-1-533 (Vested Rights Petition Required) and vested rights determinations issued under this section available on the City\nof Austin's website.\n\nSource: Ord. 20140612-084, Pt. 2, 6-23-14.",
+  "entities": [
+    {
+      "text": "Section 25-1-542",
+      "label": "SECTION_REF",
+      "start": 136,
+      "end": 152,
+      "normalized": {
+        "section": "25-1-542",
+        "subsection": null,
+        "full_reference": "25-1-542"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1170,
+      "end": 1178,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-82",
+      "label": "SECTION_REF",
+      "start": 1876,
+      "end": 1891,
+      "normalized": {
+        "section": "25-1-82",
+        "subsection": null,
+        "full_reference": "25-1-82"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2233,
+      "end": 2241,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-533",
+      "label": "SECTION_REF",
+      "start": 2456,
+      "end": 2472,
+      "normalized": {
+        "section": "25-1-533",
+        "subsection": null,
+        "full_reference": "25-1-533"
+      }
+    }
+  ]
+}

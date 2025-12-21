@@ -1,0 +1,42 @@
+{
+  "section_id": "25-1-283",
+  "content": "\n(A)\n\nThe single office shall provide notice of the conference to the following persons\nor entities not later than the second day before the conference:\n\n(1)\n\nowner representative;\n\n(2)\n\nconsulting engineer;\n\n(3)\n\ncontractors;\n\n(4)\n\naffected utilities; and\n\n(5)\n\nappropriate staff.\n\n(B)\n\nBefore convening a preconstruction conference, the single office shall distribute\napproved plans for the development to the persons and entities receiving notice of\nthe conference.\n\nSource: City Code Section 25-1-283; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nThe conference participants shall exchange telephone numbers and addresses at the\nconference.\n\n(B)\n\nThe participants shall discuss:\n\n(1)\n\nthe sequence of construction;\n\n(2)\n\nstart dates and schedule of events;\n\n(3)\n\nerosion and sedimentation controls;\n\n(4)\n\ntraffic control barricades;\n\n(5)\n\nsite supervision;\n\n(6)\n\nemergency response;\n\n(7)\n\nspecial conditions or provisions of plans or specifications;\n\n(8)\n\nfinal acceptance guidelines; and\n\n(9)\n\npublishing and distribution of minutes of the conference.\n\nSource: City Code Section 25-1-284; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 17,
+      "end": 23,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 346,
+      "end": 352,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-283",
+      "label": "SECTION_REF",
+      "start": 488,
+      "end": 504,
+      "normalized": {
+        "section": "25-1-283",
+        "subsection": null,
+        "full_reference": "25-1-283"
+      }
+    },
+    {
+      "text": "Section 25-1-284",
+      "label": "SECTION_REF",
+      "start": 1069,
+      "end": 1085,
+      "normalized": {
+        "section": "25-1-284",
+        "subsection": null,
+        "full_reference": "25-1-284"
+      }
+    }
+  ]
+}

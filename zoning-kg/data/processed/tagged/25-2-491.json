@@ -1,0 +1,316 @@
+{
+  "section_id": "25-2-491",
+  "content": "\n(A)\n\nIn this section, a qualifying development is a development certified under Section 25-1-724 (Certification) and participating in the Affordability Unlocked Bonus Program.\n\n(B)\n\nNotwithstanding any ordinance or City Code provision to contrary, a qualifying development\nis a permitted use under Section 25-2-491 (Permitted, Conditional, and Prohibited Uses) in:\n\n(1)\n\na residential base zoning district;\n\n(2)\n\na commercial base zoning district;\n\n(3)\n\na special purpose base zoning district, except on a site designated:\n\n(a)\n\nagricultural (AG),\n\n(b)\n\naviation (AV); or\n\n(4)\n\na combining and overlay district.\n\n(C)\n\nNo more than 25 percent of the gross floor area of the qualifying development may\nbe comprised of commercial uses. The permitted commercial uses are determined using\nthe base zoning district.\n\n(D)\n\nA qualifying development is not required to comply with:\n\n(1)\n\nthe height and setback requirements of Article 10 (Compatibility Standards) except to maintain side setbacks as required by the base zoning district;\n\n(2)\n\nthe maximum floor-to-area ratio for the applicable base zoning district under Section 25-2-492 (Site Development Regulations);\n\n(3)\n\nSubchapter F (Residential Design and Compatibility Standards) except to maintain side setbacks as required by the base zoning district;\n\n(4)\n\nSection 25-2-773 (Duplex, Two-Unit and Three-Unit Residential Uses); or\n\n(5)\n\nminimum site area requirements.\n\n(E)\n\nThis subsection applies to a qualifying development located in urban residence (SF-5)\nor more restrictive zoning district and the height of the development exceeds 35 feet\nor three stories.\n\n(1)\n\nA qualifying development must comply with:\n\n(a)\n\nSection 25-2-1066 (Screening Requirements); and\n\n(b)\n\nSubsections (A) and (B) in Section 25-2-1067 (Design Regulations).\n\n(2)\n\nA person must enclose a refuse receptacle, including a dumpster.\n\n(3)\n\nThe location of and access to a refuse receptacle is subject to review and approval\nby the accountable official.\n\n(4)\n\nA person may not collect or allow another to collect refuse receptacles between 10:00\np.m. and 7:00 a.m.\n\nSource: Ord. No. 20190509-027, Pt. 3, 5-20-19; Ord. No. 20231207-001, Pt. 18, 12-18-23.",
+  "entities": [
+    {
+      "text": "Section 25-1-724",
+      "label": "SECTION_REF",
+      "start": 81,
+      "end": 97,
+      "normalized": {
+        "section": "25-1-724",
+        "subsection": null,
+        "full_reference": "25-1-724"
+      }
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 279,
+      "end": 288,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Section 25-2-491",
+      "label": "SECTION_REF",
+      "start": 299,
+      "end": 315,
+      "normalized": {
+        "section": "25-2-491",
+        "subsection": null,
+        "full_reference": "25-2-491"
+      }
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 374,
+      "end": 385,
+      "normalized": "residential"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 416,
+      "end": 426,
+      "normalized": "commercial"
+    },
+    {
+      "text": "AG",
+      "label": "ZONE",
+      "start": 544,
+      "end": 546,
+      "normalized": {
+        "code": "AG",
+        "original": "AG"
+      }
+    },
+    {
+      "text": "AV",
+      "label": "ZONE",
+      "start": 565,
+      "end": 567,
+      "normalized": {
+        "code": "AV",
+        "original": "AV"
+      }
+    },
+    {
+      "text": "No more than",
+      "label": "OPERATOR",
+      "start": 619,
+      "end": 631,
+      "normalized": "lte"
+    },
+    {
+      "text": "25 percent",
+      "label": "MEASUREMENT",
+      "start": 632,
+      "end": 642,
+      "normalized": {
+        "value": 25.0,
+        "unit": "%",
+        "original": "25 percent"
+      }
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 717,
+      "end": 727,
+      "normalized": "commercial"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 738,
+      "end": 747,
+      "normalized": "permitted"
+    },
+    {
+      "text": "commercial",
+      "label": "USE_TYPE",
+      "start": 748,
+      "end": 758,
+      "normalized": "commercial"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 849,
+      "end": 857,
+      "normalized": "required"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 884,
+      "end": 890,
+      "normalized": "height_max"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 895,
+      "end": 902,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "Article 10",
+      "label": "SECTION_REF",
+      "start": 919,
+      "end": 929,
+      "normalized": {
+        "type": "article",
+        "number": 10,
+        "full_reference": "Article 10"
+      }
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 980,
+      "end": 988,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 992,
+      "end": 1000,
+      "normalized": "required"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 1040,
+      "end": 1047,
+      "normalized": "max"
+    },
+    {
+      "text": "Section 25-2-492",
+      "label": "SECTION_REF",
+      "start": 1114,
+      "end": 1130,
+      "normalized": {
+        "section": "25-2-492",
+        "subsection": null,
+        "full_reference": "25-2-492"
+      }
+    },
+    {
+      "text": "Subchapter F",
+      "label": "SECTION_REF",
+      "start": 1169,
+      "end": 1181,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "F",
+        "full_reference": "Subchapter F"
+      }
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 1255,
+      "end": 1263,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1267,
+      "end": 1275,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-2-773",
+      "label": "SECTION_REF",
+      "start": 1311,
+      "end": 1327,
+      "normalized": {
+        "section": "25-2-773",
+        "subsection": null,
+        "full_reference": "25-2-773"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1389,
+      "end": 1396,
+      "normalized": "min"
+    },
+    {
+      "text": "site area",
+      "label": "METRIC",
+      "start": 1397,
+      "end": 1406,
+      "normalized": "site_area_min"
+    },
+    {
+      "text": "SF-5",
+      "label": "ZONE",
+      "start": 1507,
+      "end": 1511,
+      "normalized": {
+        "code": "SF-5",
+        "original": "SF-5"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1557,
+      "end": 1563,
+      "normalized": "height_max"
+    },
+    {
+      "text": "35 feet",
+      "label": "MEASUREMENT",
+      "start": 1591,
+      "end": 1598,
+      "normalized": {
+        "value": 35,
+        "unit": "ft",
+        "original": "35 feet"
+      }
+    },
+    {
+      "text": "three stories",
+      "label": "MEASUREMENT",
+      "start": 1602,
+      "end": 1615,
+      "normalized": {
+        "value": "three stories",
+        "unit": null,
+        "original": "three stories"
+      }
+    },
+    {
+      "text": "Section 25-2-1066",
+      "label": "SECTION_REF",
+      "start": 1672,
+      "end": 1689,
+      "normalized": {
+        "section": "25-2-1066",
+        "subsection": null,
+        "full_reference": "25-2-1066"
+      }
+    },
+    {
+      "text": "Screening",
+      "label": "METRIC",
+      "start": 1691,
+      "end": 1700,
+      "normalized": "screening_required"
+    },
+    {
+      "text": "Section 25-2-1067",
+      "label": "SECTION_REF",
+      "start": 1753,
+      "end": 1770,
+      "normalized": {
+        "section": "25-2-1067",
+        "subsection": null,
+        "full_reference": "25-2-1067"
+      }
+    },
+    {
+      "text": "10:00",
+      "label": "MEASUREMENT",
+      "start": 2069,
+      "end": 2074,
+      "normalized": {
+        "value": "10:00",
+        "unit": "ratio",
+        "numerator": 10,
+        "denominator": 0,
+        "original": "10:00"
+      }
+    },
+    {
+      "text": "7:00",
+      "label": "MEASUREMENT",
+      "start": 2084,
+      "end": 2088,
+      "normalized": {
+        "value": "7:00",
+        "unit": "ratio",
+        "numerator": 7,
+        "denominator": 0,
+        "original": "7:00"
+      }
+    }
+  ]
+}

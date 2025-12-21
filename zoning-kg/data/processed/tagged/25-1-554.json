@@ -1,0 +1,72 @@
+{
+  "section_id": "25-1-554",
+  "content": "Ord. No. 20140612-084, Pt. 3, effective June 23, 2014, amended article 13 in its entirety to read as herein set out in Article 12, § 25-1-554.\nFormer Article 13, §§ 25-1-551, 25-1-552, pertained to dormant project expiration,\nand derived from Ord. 20050512-035.\n\n### ARTICLE 14. - PARKLAND DEDICATION\n\n\n\nFootnotes:\n\n--- (**3**) ---\n",
+  "entities": [
+    {
+      "text": "article 13",
+      "label": "SECTION_REF",
+      "start": 63,
+      "end": 73,
+      "normalized": {
+        "type": "article",
+        "number": 13,
+        "full_reference": "Article 13"
+      }
+    },
+    {
+      "text": "Article 12",
+      "label": "SECTION_REF",
+      "start": 119,
+      "end": 129,
+      "normalized": {
+        "type": "article",
+        "number": 12,
+        "full_reference": "Article 12"
+      }
+    },
+    {
+      "text": "§ 25-1-554",
+      "label": "SECTION_REF",
+      "start": 131,
+      "end": 141,
+      "normalized": {
+        "section": "25-1-554",
+        "subsection": null,
+        "full_reference": "25-1-554"
+      }
+    },
+    {
+      "text": "Article 13",
+      "label": "SECTION_REF",
+      "start": 150,
+      "end": 160,
+      "normalized": {
+        "type": "article",
+        "number": 13,
+        "full_reference": "Article 13"
+      }
+    },
+    {
+      "text": "§ 25-1-551",
+      "label": "SECTION_REF",
+      "start": 163,
+      "end": 173,
+      "normalized": {
+        "section": "25-1-551",
+        "subsection": null,
+        "full_reference": "25-1-551"
+      }
+    },
+    {
+      "text": "ARTICLE 14",
+      "label": "SECTION_REF",
+      "start": 267,
+      "end": 277,
+      "normalized": {
+        "type": "article",
+        "number": 14,
+        "full_reference": "Article 14"
+      }
+    }
+  ]
+}

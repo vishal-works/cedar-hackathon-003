@@ -1,0 +1,98 @@
+{
+  "section_id": "25-1-182",
+  "content": "\n(A)\n\nThe director may approve an administrative site plan as a replacement for a zoning\nsite plan described in Section 25-5-82(D)(3) (Expiration Of A Site Plan Approved Before January 1, 1988) if the director\ndetermines that:\n\n(1)\n\nexcept as otherwise provided in this section, the replacement site plan complies with\ncurrent regulations;\n\n(2)\n\nif a traffic impact analysis was submitted with the application for the zoning site\nplan approval:\n\n(a)\n\nthe assumptions and conclusions of the traffic impact analysis are valid; or\n\n(b)\n\nif the assumptions and conclusions are not valid, the applicant has submitted an addendum\nto the traffic impact analysis that demonstrates that traffic impacts will be adequately\nmitigated;\n\n(3)\n\nif a traffic impact analysis was not submitted with the application for the zoning\nsite plan approval, the applicant demonstrates that traffic impacts will be adequately\nmitigated;\n\n(4)\n\nthe amount of impervious cover on the replacement site plan does not exceed that approved\non the zoning site plan;\n\n(5)\n\nthe amount of building coverage on the replacement site plan does not exceed that\napproved on the zoning site plan;\n\n(6)\n\nbuilding height on the replacement site plan does not exceed that approved on the\nzoning site plan by more than six feet;\n\n(7)\n\nthe total caliper inches of trees on the replacement site plan is not less than that\napproved on the zoning site plan, unless a decrease is approved by the city arborist;\n\n(8)\n\na restrictive covenant for the site, if any, complies with the requirements of this\nsection;\n\n(9)\n\nthe replacement site plan does not have a use that is more intense than permitted\nin the zoning site plan; and\n\n(10)\n\nthe replacement site plan does not change a condition of approval of the zoning site\nplan.\n\n(B)\n\nAn interested party may appeal to the Land Use Commission the director's determination\nunder Subsection (A)(10) of this section of whether a replacement site plan changes\na condition of approval of the zoning site plan.\n\n(C)\n\nA party to an appeal under Subsection (B) of this section may appeal the Land Use\nCommission's decision on the appeal to the council.\n\n(D)\n\nAn appellant's statement of specific reasons for appeal that is required by Section 25-1-182 (Initiating An Appeal) may only include information directly related to the director's\ndetermination under Subsection (A)(10) of this section of whether a replacement site\nplan changes a condition of approval of the zoning site plan.\n\nSource: Sections 13-1-617 and 13-1-644(a); Ord. 990225-70; Ord. 010607-8; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "impervious cover",
+      "label": "METRIC",
+      "start": 931,
+      "end": 947,
+      "normalized": "impervious_cover_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 982,
+      "end": 992,
+      "normalized": "lte"
+    },
+    {
+      "text": "building coverage",
+      "label": "METRIC",
+      "start": 1052,
+      "end": 1069,
+      "normalized": "building_coverage_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1104,
+      "end": 1114,
+      "normalized": "lte"
+    },
+    {
+      "text": "building height",
+      "label": "METRIC",
+      "start": 1160,
+      "end": 1175,
+      "normalized": "height_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1210,
+      "end": 1220,
+      "normalized": "lte"
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 1262,
+      "end": 1271,
+      "normalized": "gt"
+    },
+    {
+      "text": "six feet",
+      "label": "MEASUREMENT",
+      "start": 1272,
+      "end": 1280,
+      "normalized": {
+        "value": "six feet",
+        "unit": null,
+        "original": "six feet"
+      }
+    },
+    {
+      "text": "not less than",
+      "label": "OPERATOR",
+      "start": 1354,
+      "end": 1367,
+      "normalized": "gte"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 1636,
+      "end": 1645,
+      "normalized": "permitted"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2209,
+      "end": 2217,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-182",
+      "label": "SECTION_REF",
+      "start": 2221,
+      "end": 2237,
+      "normalized": {
+        "section": "25-1-182",
+        "subsection": null,
+        "full_reference": "25-1-182"
+      }
+    }
+  ]
+}

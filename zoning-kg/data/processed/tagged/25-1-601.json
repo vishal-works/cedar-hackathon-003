@@ -1,0 +1,297 @@
+{
+  "section_id": "25-1-601",
+  "content": "Ord. No. 20231130-087, Pt. 2, effective January 1, 2024, repealed the former Art. 14, §§ 25-1-601—25-1-609,\nand enacted a new Art. 14 as set out herein. The former Art. 14 pertained to similar\nsubject matter and derived from Ord. No. 20160128-086, Pt. 2, 2-8-16; Ord. No. 20190822-117, Pt. 16, 9-1-19; Ord. No. 20220915-053, Pt. 2, 9-26-22; Ord. No. 20220915-066, Pts. 2—7, 1-1-23.\n\n(A)\n\nThe City of Austin has determined that recreational areas in the form of public parks\nare necessary for the well-being of residents. The City has further determined that\nthe approval of new residential development is reasonably related to the need for\nadditional parkland and park amenities to serve new development. This article establishes\nthe method for determining the amount of parkland dedication to be required as a condition\nto the approval of new development.\n\n(B)\n\nBefore receiving approval for a development application, an applicant shall provide\nfor the parkland needs of the new residents.\n\n(C)\n\nExcept as otherwise provided in this section, the parkland dedication requirements\nof this article apply to:\n\n(1)\n\na subdivision that includes residential units or a hotel-motel use within the planning\njurisdiction;\n\n(2)\n\na site plan within the zoning jurisdiction that includes residential units or a hotel-motel\nuse; and\n\n(3)\n\na building permit for development that:\n\n(a)\n\nat the time of subdivision or site plan approval, was deemed exempt from parkland\ndedication based on the assumption that development within the subdivision would be\nlimited to non-residential uses; or\n\n(b)\n\nis proposing additional residential units that exceed the number of units for which\nparkland dedication was previously provided for.\n\n(D)\n\nThe following are exempt from the requirements of this article:\n\n(1)\n\na subdivision or site plan for which parkland was previously dedicated or payment\nmade under this title, except for the dwelling units that exceed the number for which\ndedication or payment was made;\n\n(2)\n\ndevelopment within the City's extraterritorial jurisdiction that is within Travis\nCounty and governed by Title 30 (Austin/Travis County Subdivision Regulations);\n\n(3)\n\ndwelling units that are certified under the S.M.A.R.T. Housing Policy approved by\nthe city council; or\n\n(4)\n\ndwelling units that are income-restricted under a municipal, county, state, or federal\nprogram.\n\n(E)\n\nThe following definitions apply throughout this article:\n\n(1)\n\nCONSUMER PRICE INDEX means the Consumer Price Index for all Urban Consumers (CPI-U),\nU.S. City Average, published by the Bureau of Labor Statistics of the United States\nDepartment of Labor or its successor in function.\n\n(2)\n\nDEFICIENT PARK AREA MAP means a map depicting areas that the director has determined\nlack sufficient parkland based on locational criteria established by the Parkland\nDedication Operating Procedures and the parkland policies of the Imagine Austin Comprehensive\nPlan.\n\n(3)\n\nDIRECTOR means the director of the Parks and Recreation Department.\n\n(4)\n\nDISTRICT PARK means a park of 31 to 199 acres with a two-mile service area.\n\n(5)\n\nGEOGRAPHIC AREA means the City's designation of land within its municipal boundaries\nas a suburban area, urban area, or central business district area for determining\nthe amount of multi-family parkland dedication fee required.\n\n(6)\n\nGOLF COURSE means a city-operated golf course open for public use including 9 or 18\nholes.\n\n(7)\n\nGREENWAYS means a multi-functional linear park that:\n\n(a)\n\nlinks two or more separate parks;\n\n(b)\n\nserves as a wildlife corridor;\n\n(c)\n\nprovides flood control; or\n\n(d)\n\ncontains routes for non-motorized vehicles.\n\n(8)\n\nLAND VALUE means the market value of land per acre, not including an improvement to\nthe land.\n\n(9)\n\nMETRO PARK means a park of 200 or more acres that serves the entire city.\n\n(10)\n\nMEDIAN FAMILY INCOME means the United States Census Bureau's most recent American\nCommunity Survey five-year estimate of median family income for all families within\nthe applicable municipality.\n\n(11)\n\nMULTI-FAMILY means a residential use other than a detached single-family or two-family\ndwelling. This use also includes hotel and motel rooms ordinarily used for sleeping.\n\n(12)\n\nNEIGHBORHOOD PARK means a park of two to thirty acres with a one-mile service area.\n\n(13)\n\nPARKLAND DEDICATION URBAN CORE means an area bound by Highway 71/Ben White Boulevard\nto the south; Highway 183 to the east and north; Loop 1 (MOPAC) on the west to FM\n2222; FM 2222 on the north to Loop 360; Loop 360 on the west to Lake Austin; Lake\nAustin on the west to Loop 1 (MOPAC); and Loop 1 (MOPAC) on the west to Highway 71\n(Ben White).\n\n(14)\n\nPOCKET PARK means a park of no more than two acres with a one- quarter mile service\narea.\n\n(15)\n\nSINGLE-FAMILY means a residential use consisting of detached single-family or two\nunits.\n\n(F)\n\nDevelopment within a Planned Unit Development (PUD) zoning district may, if required\nby the ordinance adopting the PUD, be subject to additional parkland requirements\nand may be entitled to count dedicated parkland towards meeting open space requirements\nunder Chapter 25-2, Article 2, Subchapter B, Division 5 (Planned Unit Developments).\n\nSource: Ord. No. 20231130-087, Pt. 2, 1-1-24.",
+  "entities": [
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 578,
+      "end": 589,
+      "normalized": "residential"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 797,
+      "end": 805,
+      "normalized": "required"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1141,
+      "end": 1152,
+      "normalized": "residential"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1277,
+      "end": 1288,
+      "normalized": "residential"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 1539,
+      "end": 1546,
+      "normalized": "limited"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1554,
+      "end": 1565,
+      "normalized": "residential"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1605,
+      "end": 1616,
+      "normalized": "residential"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 1910,
+      "end": 1924,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 2164,
+      "end": 2178,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 2273,
+      "end": 2287,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "restricted",
+      "label": "OPERATOR",
+      "start": 2304,
+      "end": 2314,
+      "normalized": "restricted"
+    },
+    {
+      "text": "199 acres",
+      "label": "MEASUREMENT",
+      "start": 3046,
+      "end": 3055,
+      "normalized": {
+        "value": 199,
+        "unit": "acre",
+        "original": "199 acres"
+      }
+    },
+    {
+      "text": "central business district",
+      "label": "ZONE",
+      "start": 3212,
+      "end": 3237,
+      "normalized": {
+        "code": "CBD",
+        "name": "central business district",
+        "original": "central business district"
+      }
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 3273,
+      "end": 3285,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 3310,
+      "end": 3318,
+      "normalized": "required"
+    },
+    {
+      "text": "MULTI-FAMILY",
+      "label": "USE_TYPE",
+      "start": 4025,
+      "end": 4037,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 4046,
+      "end": 4057,
+      "normalized": "residential"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 4084,
+      "end": 4097,
+      "normalized": "single_family"
+    },
+    {
+      "text": "two-family",
+      "label": "USE_TYPE",
+      "start": 4101,
+      "end": 4111,
+      "normalized": "two_family"
+    },
+    {
+      "text": "thirty acres",
+      "label": "MEASUREMENT",
+      "start": 4245,
+      "end": 4257,
+      "normalized": {
+        "value": "thirty acres",
+        "unit": null,
+        "original": "thirty acres"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 4526,
+      "end": 4537,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "no more than",
+      "label": "OPERATOR",
+      "start": 4675,
+      "end": 4687,
+      "normalized": "lte"
+    },
+    {
+      "text": "two acres",
+      "label": "MEASUREMENT",
+      "start": 4688,
+      "end": 4697,
+      "normalized": {
+        "value": "two acres",
+        "unit": null,
+        "original": "two acres"
+      }
+    },
+    {
+      "text": "SINGLE-FAMILY",
+      "label": "USE_TYPE",
+      "start": 4744,
+      "end": 4757,
+      "normalized": "single_family"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 4766,
+      "end": 4777,
+      "normalized": "residential"
+    },
+    {
+      "text": "single-family",
+      "label": "USE_TYPE",
+      "start": 4805,
+      "end": 4818,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Planned Unit Development",
+      "label": "ZONE",
+      "start": 4860,
+      "end": 4884,
+      "normalized": {
+        "code": "PUD",
+        "name": "planned unit development",
+        "original": "Planned Unit Development"
+      }
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 4886,
+      "end": 4889,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 4915,
+      "end": 4923,
+      "normalized": "required"
+    },
+    {
+      "text": "PUD",
+      "label": "ZONE",
+      "start": 4954,
+      "end": 4957,
+      "normalized": {
+        "code": "PUD",
+        "original": "PUD"
+      }
+    },
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 5070,
+      "end": 5080,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 5100,
+      "end": 5112,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Article 2",
+      "label": "SECTION_REF",
+      "start": 5114,
+      "end": 5123,
+      "normalized": {
+        "type": "article",
+        "number": 2,
+        "full_reference": "Article 2"
+      }
+    },
+    {
+      "text": "Subchapter B",
+      "label": "SECTION_REF",
+      "start": 5125,
+      "end": 5137,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "B",
+        "full_reference": "Subchapter B"
+      }
+    },
+    {
+      "text": "Division 5",
+      "label": "SECTION_REF",
+      "start": 5139,
+      "end": 5149,
+      "normalized": {
+        "type": "division",
+        "number": 5,
+        "full_reference": "Division 5"
+      }
+    }
+  ]
+}

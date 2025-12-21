@@ -1,0 +1,57 @@
+{
+  "section_id": "30-2-84",
+  "content": "\n(A)\n\nIn accordance with Local Government Code Chapters 212 and 232, a preliminary plan\nor final plat must receive final approval from both the city and the county, unless\nan approval by the city or county is not required under Chapter 30-2, Article 1 (Subdivision Compliance).\n\n(B)\n\nThe city's final approval authority is exercised by the director, land use commission,\nor the council in accordance with Section 30-2-84 (Plat Approval Authority and Criteria).\n\n(C)\n\nThe county's final approval authority is exercised by the county executive or commissioners\ncourt in accordance with Section 30-2-84 (Plat Approval Authority and Criteria).\n\nSource: Local Government Code, City Code, County Code, City/County subdivision agreement;",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 213,
+      "end": 221,
+      "normalized": "required"
+    },
+    {
+      "text": "Chapter 30-2",
+      "label": "SECTION_REF",
+      "start": 228,
+      "end": 240,
+      "normalized": {
+        "type": "chapter",
+        "number": "30-2",
+        "full_reference": "Chapter 30-2"
+      }
+    },
+    {
+      "text": "Article 1",
+      "label": "SECTION_REF",
+      "start": 242,
+      "end": 251,
+      "normalized": {
+        "type": "article",
+        "number": 1,
+        "full_reference": "Article 1"
+      }
+    },
+    {
+      "text": "Section 30-2-84",
+      "label": "SECTION_REF",
+      "start": 405,
+      "end": 420,
+      "normalized": {
+        "section": "30-2-84",
+        "subsection": null,
+        "full_reference": "30-2-84"
+      }
+    },
+    {
+      "text": "Section 30-2-84",
+      "label": "SECTION_REF",
+      "start": 584,
+      "end": 599,
+      "normalized": {
+        "section": "30-2-84",
+        "subsection": null,
+        "full_reference": "30-2-84"
+      }
+    }
+  ]
+}

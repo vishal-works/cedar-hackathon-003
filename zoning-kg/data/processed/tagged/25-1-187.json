@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-187",
+  "content": "\n(A)\n\nAn approved plan or permit is suspended on the timely filing of an appeal of the plan\nor permit.\n\n(B)\n\nDevelopment affected by an appeal may not occur pending the final disposition of the\nappeal.\n\nSource: City Code Section 25-1-187; Ord. 031211-11; Ord. 031211-42.\n\nA public hearing on an appeal shall be scheduled for the first available meeting for\nwhich notice of the hearing can be timely provided.\n\nSource: City Code Section 25-1-188; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "Section 25-1-187",
+      "label": "SECTION_REF",
+      "start": 221,
+      "end": 237,
+      "normalized": {
+        "section": "25-1-187",
+        "subsection": null,
+        "full_reference": "25-1-187"
+      }
+    },
+    {
+      "text": "Section 25-1-188",
+      "label": "SECTION_REF",
+      "start": 428,
+      "end": 444,
+      "normalized": {
+        "section": "25-1-188",
+        "subsection": null,
+        "full_reference": "25-1-188"
+      }
+    }
+  ]
+}

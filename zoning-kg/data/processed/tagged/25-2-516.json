@@ -1,0 +1,39 @@
+{
+  "section_id": "25-2-516",
+  "content": "Ord. No. 20231102-028, Pt. 21, 11-13-23.\n\n(A)\n\nThis section applies to a use that is nonconforming because of its proximity to a\nhazardous pipeline under Section 25-2-516(B) (Development Near a Hazardous Pipeline).\n\n(B)\n\nProximity to a hazardous pipeline does not cause a structure or area to be noncomplying\nunder Article 8 (Noncomplying Structures).\n\n(C)\n\nExcept as provided by Subsection (C), the use is governed by Group \"D\" regulations\nprescribed by Section 25-2-947 (Nonconforming Use Regulation Groups).\n\n(D)\n\nIf there is a conflict between the regulations prescribed by this section and the\nregulations as determined by Section 25-2-946 (Determination of Nonconforming Use Regulation Group), the more restrictive regulations apply.\n\nSource: Ord. 030410-12; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Article 8",
+      "label": "SECTION_REF",
+      "start": 315,
+      "end": 324,
+      "normalized": {
+        "type": "article",
+        "number": 8,
+        "full_reference": "Article 8"
+      }
+    },
+    {
+      "text": "Section 25-2-947",
+      "label": "SECTION_REF",
+      "start": 455,
+      "end": 471,
+      "normalized": {
+        "section": "25-2-947",
+        "subsection": null,
+        "full_reference": "25-2-947"
+      }
+    },
+    {
+      "text": "Section 25-2-946",
+      "label": "SECTION_REF",
+      "start": 628,
+      "end": 644,
+      "normalized": {
+        "section": "25-2-946",
+        "subsection": null,
+        "full_reference": "25-2-946"
+      }
+    }
+  ]
+}

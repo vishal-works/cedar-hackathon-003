@@ -1,0 +1,250 @@
+{
+  "section_id": "25-1-713",
+  "content": "\n(A)\n\nThe director shall adopt a tenant relocation program by administrative rule for the\npurpose of mitigating the impacts of tenant displacement resulting from multifamily\nredevelopment within the City of Austin.\n\n(B)\n\nThe tenant relocation program must, at a minimum, include each of the elements described\nin this subsection.\n\n(1)\n\nTenant Relocation Fee. The program must include a methodology to be used by the director\nin recommending to the city council the amount of the fee required under Section 25-1-715 (Tenant Relocation Assistance—Developer Funded). The methodology shall include a nexus study that accounts for the impacts of displacement\nto tenant communities directly affected by multifamily redevelopment and to the community\nas a whole. The fee shall be consistently calculated and uniformly applied, but may\nvary based on number of units, bedrooms, and other objective criteria identified by\nthe nexus study.\n\n(2)\n\nEligibility for Tenant Relocation Assistance. The program shall establish eligibility\nrequirements that a tenant must meet in order to receive tenant relocation assistance\nunder Section 25-1-715 (Tenant Relocation Assistance—Developer Funded) or Section 25-1-716 (Tenant Relocation Assistance—City Funded). At a minimum, the eligibility requirements must:\n\n(a)\n\nrequire that a tenant:\n\n(i)\n\nhave a household income at or below 70% of median family income or, for residents\nof a mobile home park, 80% of median family income; and\n\n(ii)\n\nsubmit a claim form documenting income eligibility no later than the deadline established\nby the director; and\n\n(b)\n\nallow a tenant who resided at a property where multi-family redevelopment occurred\nif the tenant resided at the property:\n\n(i)\n\nfor a multi-family property, 120 days before multi-family redevelopment begins; or\n\n(ii)\n\nfor a mobile home park, 270 days before multi-family redevelopment begins; and\n\n(c)\n\nprohibit participation by tenants of multi-family redevelopment that is exempt from\nthis division under Section 25-1-711 (Purpose, Applicability, Exemptions, and Definitions), except that the director may allow use of funds under Section 25-1-716 (Tenant Relocation Assistance—City Funded) to provide relocation assistance for tenant displacement resulting from fire, civil\ncommotion, malicious mischief, vandalism, natural disaster, or other destruction beyond\nthe control of the owner or tenant.\n\n(3)\n\nUse of Tenant Relocation Assistance. The program must specify the types of expenses\nfor which tenant relocation assistance may be provided. Eligible expenses paid using\nfunds collected under Section 25-1-715 (Tenant Relocation Assistance—Developer Funded) must be reasonably attributable to tenant displacement based on the nexus study\nrequired under Paragraph (C)(1).\n\n(4)\n\nRefund Procedures. The program shall establish procedures by which an applicant who\npaid a tenant relocation fee under Section 25-1-715 (Tenant Relocation Assistance—Developer Funded) may request a refund of any fees not spent for an authorized purpose within ten\nyears after approval of an application for which notification is required under Section 25-1-712 (Tenant Notification Required).\n\n(C)\n\nThe director may include additional elements in the tenant relocation program, including\nbut not limited to notification forms and other documents required under Section 25-1-712 (Tenant Notification Required) and Section 25-1-713 (Additional Notice Requirements).\n\nSource: 20160901-050, Pt. 4, 9-12-16; Ord. No. 20230831-103, Pt. 3, 9-11-23.",
+  "entities": [
+    {
+      "text": "multifamily",
+      "label": "USE_TYPE",
+      "start": 162,
+      "end": 173,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 262,
+      "end": 269,
+      "normalized": "min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 483,
+      "end": 491,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-715",
+      "label": "SECTION_REF",
+      "start": 498,
+      "end": 514,
+      "normalized": {
+        "section": "25-1-715",
+        "subsection": null,
+        "full_reference": "25-1-715"
+      }
+    },
+    {
+      "text": "multifamily",
+      "label": "USE_TYPE",
+      "start": 697,
+      "end": 708,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Section 25-1-715",
+      "label": "SECTION_REF",
+      "start": 1113,
+      "end": 1129,
+      "normalized": {
+        "section": "25-1-715",
+        "subsection": null,
+        "full_reference": "25-1-715"
+      }
+    },
+    {
+      "text": "Section 25-1-716",
+      "label": "SECTION_REF",
+      "start": 1181,
+      "end": 1197,
+      "normalized": {
+        "section": "25-1-716",
+        "subsection": null,
+        "full_reference": "25-1-716"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1247,
+      "end": 1254,
+      "normalized": "min"
+    },
+    {
+      "text": "70%",
+      "label": "MEASUREMENT",
+      "start": 1362,
+      "end": 1365,
+      "normalized": {
+        "value": 70.0,
+        "unit": "%",
+        "original": "70%"
+      }
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 1413,
+      "end": 1429,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "80%",
+      "label": "MEASUREMENT",
+      "start": 1431,
+      "end": 1434,
+      "normalized": {
+        "value": 80.0,
+        "unit": "%",
+        "original": "80%"
+      }
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1635,
+      "end": 1647,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1722,
+      "end": 1734,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1761,
+      "end": 1773,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 1812,
+      "end": 1828,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1846,
+      "end": 1858,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 1928,
+      "end": 1940,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "Section 25-1-711",
+      "label": "SECTION_REF",
+      "start": 1995,
+      "end": 2011,
+      "normalized": {
+        "section": "25-1-711",
+        "subsection": null,
+        "full_reference": "25-1-711"
+      }
+    },
+    {
+      "text": "Section 25-1-716",
+      "label": "SECTION_REF",
+      "start": 2121,
+      "end": 2137,
+      "normalized": {
+        "section": "25-1-716",
+        "subsection": null,
+        "full_reference": "25-1-716"
+      }
+    },
+    {
+      "text": "Section 25-1-715",
+      "label": "SECTION_REF",
+      "start": 2586,
+      "end": 2602,
+      "normalized": {
+        "section": "25-1-715",
+        "subsection": null,
+        "full_reference": "25-1-715"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2731,
+      "end": 2739,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-715",
+      "label": "SECTION_REF",
+      "start": 2889,
+      "end": 2905,
+      "normalized": {
+        "section": "25-1-715",
+        "subsection": null,
+        "full_reference": "25-1-715"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 3099,
+      "end": 3107,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-712",
+      "label": "SECTION_REF",
+      "start": 3114,
+      "end": 3130,
+      "normalized": {
+        "section": "25-1-712",
+        "subsection": null,
+        "full_reference": "25-1-712"
+      }
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 3266,
+      "end": 3273,
+      "normalized": "limited"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 3316,
+      "end": 3324,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-712",
+      "label": "SECTION_REF",
+      "start": 3331,
+      "end": 3347,
+      "normalized": {
+        "section": "25-1-712",
+        "subsection": null,
+        "full_reference": "25-1-712"
+      }
+    },
+    {
+      "text": "Section 25-1-713",
+      "label": "SECTION_REF",
+      "start": 3383,
+      "end": 3399,
+      "normalized": {
+        "section": "25-1-713",
+        "subsection": null,
+        "full_reference": "25-1-713"
+      }
+    }
+  ]
+}

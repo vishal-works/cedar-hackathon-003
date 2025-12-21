@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-215",
+  "content": "\n(A)\n\nExcept as otherwise provided in this chapter, the land use commission shall act on\nan application for a variance not later than the next meeting after the public hearing\nis closed.\n\n(B)\n\nThe platting board may:\n\n(1)\n\napprove an application for a variance;\n\n(2)\n\napprove an application for a variance with modifications; or\n\n(3)\n\ndeny an application for a variance.\n\n(C)\n\nThe platting board may require that a variance be:\n\n(1)\n\nrevocable;\n\n(2)\n\neffective for a specified time period; or\n\n(3)\n\nsubject to one or more conditions.\n\nSource: City Code Section 25-1-215; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nExcept as provided in Subsection (B), a decision on a variance is effective immediately.\n\n(B)\n\nIf a variance is appealable, a decision on the variance is effective either:\n\n(1)\n\nat the expiration of the time period during which an appeal may be filed; or\n\n(2)\n\nif a notice of appeal is filed, when a final decision on the appeal is made.\n\nSource: City Code Section 25-1-216; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "Section 25-1-215",
+      "label": "SECTION_REF",
+      "start": 553,
+      "end": 569,
+      "normalized": {
+        "section": "25-1-215",
+        "subsection": null,
+        "full_reference": "25-1-215"
+      }
+    },
+    {
+      "text": "Section 25-1-216",
+      "label": "SECTION_REF",
+      "start": 966,
+      "end": 982,
+      "normalized": {
+        "section": "25-1-216",
+        "subsection": null,
+        "full_reference": "25-1-216"
+      }
+    }
+  ]
+}

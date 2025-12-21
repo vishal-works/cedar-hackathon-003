@@ -1,0 +1,84 @@
+{
+  "section_id": "25-1-441",
+  "content": "\n(A)\n\nIf the single office determines that a person required to obtain a subdivision construction\nplan has not complied with a requirement of this title, the single office may order\nthe person to stop the development of or transportation of construction material to\nthe site until the person complies with the requirements of this title.\n\n(B)\n\nWhile a stop work order is in effect:\n\n(1)\n\na city or county inspection may not be performed, and work requiring an inspection\nmay not be approved; and\n\n(2)\n\na person may not connect a utility at the site.\n\n(C)\n\nIf a stop work order is based on a failed inspection, a person may not further develop\nthe site until the development passes a reinspection.\n\n(D)\n\nIf a stop work order is based on a health or safety hazard, a person may not further\ndevelop the site until the director determines that the development complies with\nthe requirements of this title.\n\n(E)\n\nA city or county employee shall post a stop work order on the site and mail a copy\nof the order to the record owner.\n\nSource: City Code Section 25-1-441; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nA person may appeal a stop work order, revocation, or suspension issued under this\narticle by giving written notice to the single office not later than the third day\nafter:\n\n(1)\n\nthe stop work order is posted; or\n\n(2)\n\nthe person receives notice of the revocation or suspension.\n\n(B)\n\nThe notice of appeal must contain:\n\n(1)\n\nthe name and address of the appellant;\n\n(2)\n\na statement of facts;\n\n(3)\n\nthe decision being appealed; and\n\n(4)\n\nthe reasons the decision should be set aside.\n\n(C)\n\nThe single office shall hear the appeal not later than the third working day after\nthe appeal is filed. The appellant, the appellant's expert, and the department may\noffer testimony to the single office.\n\n(D)\n\nThe single office shall affirm or reverse the decision not later than the second working\nday after the hearing. The single office shall give written notice of the decision\nand a statement of the reasons for the decision to the appellant.\n\n(E)\n\nA stop work order, suspension, or revocation remains in effect during the pendency\nof an appeal under this section.\n\nSource: City Code Section 25-1-461; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 20,
+      "end": 26,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 52,
+      "end": 60,
+      "normalized": "required"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 165,
+      "end": 171,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-441",
+      "label": "SECTION_REF",
+      "start": 1044,
+      "end": 1060,
+      "normalized": {
+        "section": "25-1-441",
+        "subsection": null,
+        "full_reference": "25-1-441"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1230,
+      "end": 1236,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1601,
+      "end": 1607,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1786,
+      "end": 1792,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1811,
+      "end": 1817,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1923,
+      "end": 1929,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-461",
+      "label": "SECTION_REF",
+      "start": 2179,
+      "end": 2195,
+      "normalized": {
+        "section": "25-1-461",
+        "subsection": null,
+        "full_reference": "25-1-461"
+      }
+    }
+  ]
+}

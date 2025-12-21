@@ -1,0 +1,339 @@
+{
+  "section_id": "25-2-763",
+  "content": "\n(A)\n\nThere are no minimum front yard or street side yard setbacks, except the minimum setbacks\nare 10 feet along Martin Luther King, Jr. Blvd. between Rio Grande Street and San\nGabriel Street.\n\n(B)\n\nThe maximum front yard setback and the maximum street side yard setback are 10 feet,\nexcept:\n\n(1)\n\nthe maximum setbacks are 15 feet along 24th Street or along Martin Luther King, Jr.\nBlvd. between Rio Grande Street and San Gabriel Street;\n\n(2)\n\nthe maximum setbacks are 45 feet for a public plaza or private common open space;\n\n(3)\n\nthere are no maximum setbacks for a pedestrian entry court or an outdoor café;\n\n(4)\n\nthe director of the Watershed Protection and Development Review Department may modify\na maximum setback if the director determines that the modification is required to\nprotect a historic structure or a tree designated as significant by the city arborist;\nand\n\n(5)\n\nas otherwise provided in Subsection (E).\n\n(C)\n\nThere is no minimum or maximum interior side yard setback.\n\n(D)\n\nThere is no minimum or maximum rear yard setback.\n\n(E)\n\nA building must be at least 12 feet from the front face of the curb of the adjacent\nstreet and at least 30 feet from the centerline of the adjacent street.\n\n(F)\n\nThis subsection applies to the portion of a site that is subject to compatibility\nstandards, as described in Section 25-2-763(A)(1) (Certain Regulations Inapplicable or Superseded) and Article 10 (Compatibility Standards). A building or a solid masonry wall that is at least six feet high is required between\na public or common open space and the property that triggers the compatibility standards.\n\nSource: Ord. 040902-58; Ord. 20080925-039.",
+  "entities": [
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 19,
+      "end": 26,
+      "normalized": "min"
+    },
+    {
+      "text": "front yard",
+      "label": "METRIC",
+      "start": 27,
+      "end": 37,
+      "normalized": "front_yard_setback_min"
+    },
+    {
+      "text": "street side yard",
+      "label": "METRIC",
+      "start": 41,
+      "end": 57,
+      "normalized": "street_side_yard_min"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 58,
+      "end": 66,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 79,
+      "end": 86,
+      "normalized": "min"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 87,
+      "end": 95,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "10 feet",
+      "label": "MEASUREMENT",
+      "start": 100,
+      "end": 107,
+      "normalized": {
+        "value": 10,
+        "unit": "ft",
+        "original": "10 feet"
+      }
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 204,
+      "end": 211,
+      "normalized": "max"
+    },
+    {
+      "text": "front yard",
+      "label": "METRIC",
+      "start": 212,
+      "end": 222,
+      "normalized": "front_yard_setback_min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 223,
+      "end": 230,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 239,
+      "end": 246,
+      "normalized": "max"
+    },
+    {
+      "text": "street side yard",
+      "label": "METRIC",
+      "start": 247,
+      "end": 263,
+      "normalized": "street_side_yard_min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 264,
+      "end": 271,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "10 feet",
+      "label": "MEASUREMENT",
+      "start": 276,
+      "end": 283,
+      "normalized": {
+        "value": 10,
+        "unit": "ft",
+        "original": "10 feet"
+      }
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 303,
+      "end": 310,
+      "normalized": "max"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 311,
+      "end": 319,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "15 feet",
+      "label": "MEASUREMENT",
+      "start": 324,
+      "end": 331,
+      "normalized": {
+        "value": 15,
+        "unit": "ft",
+        "original": "15 feet"
+      }
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 449,
+      "end": 456,
+      "normalized": "max"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 457,
+      "end": 465,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "45 feet",
+      "label": "MEASUREMENT",
+      "start": 470,
+      "end": 477,
+      "normalized": {
+        "value": 45,
+        "unit": "ft",
+        "original": "45 feet"
+      }
+    },
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 515,
+      "end": 525,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 546,
+      "end": 553,
+      "normalized": "max"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 554,
+      "end": 562,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 706,
+      "end": 713,
+      "normalized": "max"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 714,
+      "end": 721,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 774,
+      "end": 782,
+      "normalized": "required"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 942,
+      "end": 949,
+      "normalized": "min"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 953,
+      "end": 960,
+      "normalized": "max"
+    },
+    {
+      "text": "interior side yard",
+      "label": "METRIC",
+      "start": 961,
+      "end": 979,
+      "normalized": "interior_side_yard_min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 980,
+      "end": 987,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1007,
+      "end": 1014,
+      "normalized": "min"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 1018,
+      "end": 1025,
+      "normalized": "max"
+    },
+    {
+      "text": "rear yard",
+      "label": "METRIC",
+      "start": 1026,
+      "end": 1035,
+      "normalized": "rear_yard_setback_min"
+    },
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 1036,
+      "end": 1043,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1070,
+      "end": 1078,
+      "normalized": "gte"
+    },
+    {
+      "text": "12 feet",
+      "label": "MEASUREMENT",
+      "start": 1079,
+      "end": 1086,
+      "normalized": {
+        "value": 12,
+        "unit": "ft",
+        "original": "12 feet"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1146,
+      "end": 1154,
+      "normalized": "gte"
+    },
+    {
+      "text": "30 feet",
+      "label": "MEASUREMENT",
+      "start": 1155,
+      "end": 1162,
+      "normalized": {
+        "value": 30,
+        "unit": "ft",
+        "original": "30 feet"
+      }
+    },
+    {
+      "text": "Article 10",
+      "label": "SECTION_REF",
+      "start": 1398,
+      "end": 1408,
+      "normalized": {
+        "type": "article",
+        "number": 10,
+        "full_reference": "Article 10"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 1479,
+      "end": 1487,
+      "normalized": "gte"
+    },
+    {
+      "text": "six feet",
+      "label": "MEASUREMENT",
+      "start": 1488,
+      "end": 1496,
+      "normalized": {
+        "value": "six feet",
+        "unit": null,
+        "original": "six feet"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1505,
+      "end": 1513,
+      "normalized": "required"
+    },
+    {
+      "text": "open space",
+      "label": "METRIC",
+      "start": 1541,
+      "end": 1551,
+      "normalized": "open_space_min"
+    }
+  ]
+}

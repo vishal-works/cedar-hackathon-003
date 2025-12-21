@@ -1,0 +1,13 @@
+{
+  "section_id": "30-1-91",
+  "content": "\n(A)\n\nAn applicant may appeal the director's disapproval of a preliminary plan application\nto the land use commission or council.\n\n(B)\n\nAn applicant may appeal the county executive's disapproval of a plat application to\nthe commissioners court.\n\n(C)\n\nThe single office shall give notice under Section 30-1-153(A) (Notice of Public Hearing) of the land use commission's, council's, or commissioners court's consideration\nof an appeal.\n\n(D)\n\nAn applicant must receive approval from both the city and county in accordance with\nSection 30-1-91(A) (Final Approval).\n\nSource: Ord. No. 20230831-142, Pt. 23, 9-1-23; Ord. No. 20240718-103, Pt. 7, 7-29-24.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 262,
+      "end": 268,
+      "normalized": "office"
+    }
+  ]
+}

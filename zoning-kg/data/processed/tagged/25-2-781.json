@@ -1,0 +1,17 @@
+{
+  "section_id": "25-2-781",
+  "content": "of bed and breakfast structures refer to Section 25-2-781",
+  "entities": [
+    {
+      "text": "Section 25-2-781",
+      "label": "SECTION_REF",
+      "start": 41,
+      "end": 57,
+      "normalized": {
+        "section": "25-2-781",
+        "subsection": null,
+        "full_reference": "25-2-781"
+      }
+    }
+  ]
+}

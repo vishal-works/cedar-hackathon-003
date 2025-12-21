@@ -1,0 +1,38 @@
+{
+  "section_id": "30-1-352",
+  "content": "031211-42.\n\nUnless a different definition is expressly provided, in this title:\n\n(1)\n\nAGRICULTURAL OPERATIONS means:\n\n(a)\n\nproducing crops for human food, animal feed, planting seed, or fiber;\n\n(b)\n\nfloriculture, viticulture, horticulture, or silviculture;\n\n(c)\n\nraising or keeping livestock or poultry;\n\n(d)\n\nwildlife management; and\n\n(e)\n\nplanting cover crops or leaving land idle for the purpose of participating in any\ngovernmental program or normal crop or livestock rotation procedure.\n\n(2)\n\nAPPROVAL means:\n\n(a)\n\na final decision granting or approving an application; or\n\n(b)\n\nan approval granted subject to modifications or conditions.\n\n(3)\n\nATTACHED, when used with reference to two or more buildings, means having one or more\ncommon walls or being joined by a covered porch, loggia, or passageway.\n\n(4)\n\nBLOCK means one or more lots, tracts, or parcels of land bounded by streets, railroads,\nor subdivision boundary lines.\n\n(5)\n\nBUILDING COVERAGE means the area of a lot covered by buildings or roofed areas, but\nexcludes ground level paving, landscaping, open recreational facilities, incidental\nprojecting eaves, balconies, and similar features.\n\n(6)\n\nBUILDING LINE means a line beyond which a building must be set back from the street\nline.\n\n(7)\n\nCENTRAL DISPATCHER means a person designated by the single office to perform the tasks\nprovided in Section 30-1-352 (Inspection Requests).",
+  "entities": [
+    {
+      "text": "BUILDING COVERAGE",
+      "label": "METRIC",
+      "start": 939,
+      "end": 956,
+      "normalized": "building_coverage_max"
+    },
+    {
+      "text": "landscaping",
+      "label": "METRIC",
+      "start": 1053,
+      "end": 1064,
+      "normalized": "landscaping_min"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1319,
+      "end": 1325,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 30-1-352",
+      "label": "SECTION_REF",
+      "start": 1359,
+      "end": 1375,
+      "normalized": {
+        "section": "30-1-352",
+        "subsection": null,
+        "full_reference": "30-1-352"
+      }
+    }
+  ]
+}

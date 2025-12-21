@@ -1,0 +1,24 @@
+{
+  "section_id": "25-1-362",
+  "content": "The single office shall issue a certificate of compliance if the development has been\ncompleted in accordance with the construction plans and other ordinance requirements\nfor subdivision infrastructure.\n\nSource: City Code Section 25-1-362; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 11,
+      "end": 17,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-362",
+      "label": "SECTION_REF",
+      "start": 222,
+      "end": 238,
+      "normalized": {
+        "section": "25-1-362",
+        "subsection": null,
+        "full_reference": "25-1-362"
+      }
+    }
+  ]
+}

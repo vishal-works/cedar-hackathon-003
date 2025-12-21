@@ -1,0 +1,122 @@
+{
+  "section_id": "25-2-765",
+  "content": "housing under Section 25-2-765 (Affordable Housing), with each square foot of net rentable floor area counted towards the fee provided\nfor under Subsection (B) of that section.\n\n(K)\n\nA hotel/motel use may associated condominium residential, multifamily residential,\nretirement housing (small site), or retirement housing (large site) uses.\n\n(L)\n\nExisting structures constructed under the provisions of this division may convert\nnon-accessible parking spaces to:\n\n(1)\n\na multi-family residential use;\n\n(2)\n\na group residential use;\n\n(3)\n\nlocal uses located above or adjacent to the street wall area;\n\n(4)\n\nan art gallery use and an art workshop use are limited to 1,500 square feet of floor\narea; and\n\n(5)\n\nan indoor crop production use or convenience storage use not located in or above a\nstreet wall area.\n\nSource: Ord. 040902-58; Ord. 20050519-Z001; Ord. 20080925-039; Ord. 20121108-090; Ord. No. 20191114-067, Pts. 1, 2, 11-25-19.",
+  "entities": [
+    {
+      "text": "Section 25-2-765",
+      "label": "SECTION_REF",
+      "start": 14,
+      "end": 30,
+      "normalized": {
+        "section": "25-2-765",
+        "subsection": null,
+        "full_reference": "25-2-765"
+      }
+    },
+    {
+      "text": "Affordable Housing",
+      "label": "USE_TYPE",
+      "start": 32,
+      "end": 50,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "condominium",
+      "label": "USE_TYPE",
+      "start": 216,
+      "end": 227,
+      "normalized": "condominium"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 228,
+      "end": 239,
+      "normalized": "residential"
+    },
+    {
+      "text": "multifamily",
+      "label": "USE_TYPE",
+      "start": 241,
+      "end": 252,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 253,
+      "end": 264,
+      "normalized": "residential"
+    },
+    {
+      "text": "retirement housing",
+      "label": "USE_TYPE",
+      "start": 266,
+      "end": 284,
+      "normalized": "retirement_housing"
+    },
+    {
+      "text": "retirement housing",
+      "label": "USE_TYPE",
+      "start": 302,
+      "end": 320,
+      "normalized": "retirement_housing"
+    },
+    {
+      "text": "L",
+      "label": "ZONE",
+      "start": 342,
+      "end": 343,
+      "normalized": {
+        "code": "L",
+        "original": "L"
+      }
+    },
+    {
+      "text": "parking spaces",
+      "label": "METRIC",
+      "start": 443,
+      "end": 457,
+      "normalized": "parking_spaces_min"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 470,
+      "end": 482,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 483,
+      "end": 494,
+      "normalized": "residential"
+    },
+    {
+      "text": "group residential",
+      "label": "USE_TYPE",
+      "start": 508,
+      "end": 525,
+      "normalized": "group_residential"
+    },
+    {
+      "text": "limited",
+      "label": "OPERATOR",
+      "start": 652,
+      "end": 659,
+      "normalized": "limited"
+    },
+    {
+      "text": "1,500 square feet",
+      "label": "MEASUREMENT",
+      "start": 663,
+      "end": 680,
+      "normalized": {
+        "value": 1500,
+        "unit": "sqft",
+        "original": "1,500 square feet"
+      }
+    }
+  ]
+}

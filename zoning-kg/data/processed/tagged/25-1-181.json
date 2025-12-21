@@ -1,0 +1,35 @@
+{
+  "section_id": "25-1-181",
+  "content": "\n(A)\n\nA person has standing to appeal a decision if:\n\n(1)\n\nthe person is an interested party; and\n\n(2)\n\na provision of this title identifies the decision as one that may be appealed by that\nperson.\n\n(B)\n\nA body holding a public hearing on an appeal shall determine whether a person has\nstanding to appeal the decision.\n\nSource: City Code Section 25-1-181; Ord. 031211-11; Ord. 031211-42.\n\nA person with standing to appeal may initiate an appeal by filing a notice of appeal\nwith the single office not later than:\n\n(1)\n\nthe 14th day after the date of the decision of a board or commission, including the\nland use commission;\n\n(2)\n\nthe 20th day after an administrative decision; or\n\n(3)\n\nfor an appeal authorized by State law, the date specified by State law.\n\nSource: City Code Section 25-1-182; Ord. 031211-11; Ord. 031211-42; Ord. No. 20230831-142, Pt. 11, 9-1-23; Ord. No. 20240718-103, Pt. 3, 7-29-24.",
+  "entities": [
+    {
+      "text": "Section 25-1-181",
+      "label": "SECTION_REF",
+      "start": 338,
+      "end": 354,
+      "normalized": {
+        "section": "25-1-181",
+        "subsection": null,
+        "full_reference": "25-1-181"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 490,
+      "end": 496,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-182",
+      "label": "SECTION_REF",
+      "start": 777,
+      "end": 793,
+      "normalized": {
+        "section": "25-1-182",
+        "subsection": null,
+        "full_reference": "25-1-182"
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "section_id": "25-2-833",
+  "content": "Ord. No. 20160623-090, Pt. 4, effective July 4, 2016, repealed the former § 25-2-833,\nand enacted a new § 25-2-833 as set out herein. The former § 25-2-833 pertained to\npublic school facility standards. See References to Ordinances and Code Comparative\nTable for complete history.\n\nFees associated with review of a site plan or building permit application required\nfor a public primary or secondary educational facility are waived.\n\nSource: Ord. No. 20160623-090, Pt. 4, 7-4-16.",
+  "entities": [
+    {
+      "text": "§ 25-2-833",
+      "label": "SECTION_REF",
+      "start": 74,
+      "end": 84,
+      "normalized": {
+        "section": "25-2-833",
+        "subsection": null,
+        "full_reference": "25-2-833"
+      }
+    },
+    {
+      "text": "§ 25-2-833",
+      "label": "SECTION_REF",
+      "start": 104,
+      "end": 114,
+      "normalized": {
+        "section": "25-2-833",
+        "subsection": null,
+        "full_reference": "25-2-833"
+      }
+    },
+    {
+      "text": "§ 25-2-833",
+      "label": "SECTION_REF",
+      "start": 145,
+      "end": 155,
+      "normalized": {
+        "section": "25-2-833",
+        "subsection": null,
+        "full_reference": "25-2-833"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 356,
+      "end": 364,
+      "normalized": "required"
+    }
+  ]
+}

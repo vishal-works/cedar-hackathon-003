@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-811",
+  "content": "Ord. No. 20230831-104, Pt. 2, effective September 11, 2023, repealed § 25-1-811, which pertained to map;\nfiling dates and derived from Ord. No. 20080306-073; Ord. No. 20091217-053.\n\n### ARTICLE 17. - INTERLOCAL DEVELOPMENT AGREEMENTS.\n\nIn this article:\n\n(1)\n\nDIRECTOR means the Director of the Planning and Development Review Department.\n\n(2)\n\nINTERLOCAL DEVELOPMENT AGREEMENT means an agreement between the City and any governmental\nentity, municipal corporation or political subdivision that establishes or modifies\nregulations for the use, development, or construction of property containing one or\nmore existing or proposed structures. The term includes new agreements and amendments\nto existing agreements, but does not include agreements or amendments related to roads\nor road facilities or the provision of utility services.\n\nSource: Ord. 20091105-068.",
+  "entities": [
+    {
+      "text": "§ 25-1-811",
+      "label": "SECTION_REF",
+      "start": 69,
+      "end": 79,
+      "normalized": {
+        "section": "25-1-811",
+        "subsection": null,
+        "full_reference": "25-1-811"
+      }
+    },
+    {
+      "text": "ARTICLE 17",
+      "label": "SECTION_REF",
+      "start": 186,
+      "end": 196,
+      "normalized": {
+        "type": "article",
+        "number": 17,
+        "full_reference": "Article 17"
+      }
+    }
+  ]
+}

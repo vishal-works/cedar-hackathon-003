@@ -1,0 +1,136 @@
+{
+  "section_id": "25-1-251",
+  "content": "\n(A)\n\nAn application for an adjustment under Chapter 30-5, Subchapter A (Water Quality) may be considered only in connection with the review\nof:\n\n(1)\n\na site plan;\n\n(2)\n\na subdivision; or\n\n(3)\n\nother specific development project or proposal.\n\n(B)\n\nAn applicant may file an application for an adjustment with the director.\n\n(C)\n\nAn application for an adjustment must be on a form prescribed by the director and\nmust include:\n\n(1)\n\nthe names and addresses of the applicant and the owner;\n\n(2)\n\nthe address and legal description of the property;\n\n(3)\n\nproof that the applicant is either the record owner or the record owner's agent;\n\n(4)\n\nidentification of the section of Chapter 30-5, Subchapter A (Water Quality) that, as applied to the development project or proposal,\nthe applicant claims violates the United States Constitution, the Texas Constitution,\nor federal or state statute, and the provisions violated;\n\n(5)\n\na statement of the factual basis for applicant's claims;\n\n(6)\n\na legal brief supporting applicant's claims; and\n\n(7)\n\na description of the adjustment requested, and an explanation of how the adjustment\nis the minimum required to comply with the conflicting law and provides maximum protection\nof water quality.\n\nSource: City Code Section 25-1-251; Ord. 031211-11; Ord. 031211-42; Ord. 20131017-046.\n\nThis section prescribes the order of process for an application for adjustment.\n\n(1)\n\nThe city law department shall review an application for adjustment and advise the\ncity manager.\n\n(2)\n\nThe city manager shall present the application and the city manager's recommendation\nto the council.\n\n(3)\n\nThe council shall determine whether application of Chapter 30-5, Subchapter A (Water Quality) to the applicant's development project or proposal\nviolates the United States Constitution, the Texas Constitution, or federal or state\nstatute. An affirmative determination requires a three-quarters vote of the city council.\nIf the council does not make an affirmative determination, the application is denied.\n\n(4)\n\nThis subsection applies if the council makes an affirmative determination under Subsection\n(3).\n\n(a)\n\nThe Watershed Protection Department shall review the application and advise the city\nmanager.\n\n(b)\n\nThe city manager shall present the application and the city manager's recommendation\nto the council at a public hearing.\n\n(c)\n\nAfter a public hearing, the city council shall:\n\n(i)\n\ndetermine the minimum adjustment required to comply with the conflicting law and provide\nmaximum protection of water quality; and\n\n(ii)\n\ngrant the adjustment.\n\nSource: City Code Section 25-1-252; Ord. 031211-11; Ord. 031211-42; Ord. 20131017-046.",
+  "entities": [
+    {
+      "text": "Chapter 30-5",
+      "label": "SECTION_REF",
+      "start": 45,
+      "end": 57,
+      "normalized": {
+        "type": "chapter",
+        "number": "30-5",
+        "full_reference": "Chapter 30-5"
+      }
+    },
+    {
+      "text": "Subchapter A",
+      "label": "SECTION_REF",
+      "start": 59,
+      "end": 71,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "A",
+        "full_reference": "Subchapter A"
+      }
+    },
+    {
+      "text": "Chapter 30-5",
+      "label": "SECTION_REF",
+      "start": 669,
+      "end": 681,
+      "normalized": {
+        "type": "chapter",
+        "number": "30-5",
+        "full_reference": "Chapter 30-5"
+      }
+    },
+    {
+      "text": "Subchapter A",
+      "label": "SECTION_REF",
+      "start": 683,
+      "end": 695,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "A",
+        "full_reference": "Subchapter A"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1128,
+      "end": 1135,
+      "normalized": "min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1136,
+      "end": 1144,
+      "normalized": "required"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 1193,
+      "end": 1200,
+      "normalized": "max"
+    },
+    {
+      "text": "Section 25-1-251",
+      "label": "SECTION_REF",
+      "start": 1249,
+      "end": 1265,
+      "normalized": {
+        "section": "25-1-251",
+        "subsection": null,
+        "full_reference": "25-1-251"
+      }
+    },
+    {
+      "text": "Chapter 30-5",
+      "label": "SECTION_REF",
+      "start": 1665,
+      "end": 1677,
+      "normalized": {
+        "type": "chapter",
+        "number": "30-5",
+        "full_reference": "Chapter 30-5"
+      }
+    },
+    {
+      "text": "Subchapter A",
+      "label": "SECTION_REF",
+      "start": 1679,
+      "end": 1691,
+      "normalized": {
+        "type": "subchapter",
+        "letter": "A",
+        "full_reference": "Subchapter A"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 2423,
+      "end": 2430,
+      "normalized": "min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 2442,
+      "end": 2450,
+      "normalized": "required"
+    },
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 2498,
+      "end": 2505,
+      "normalized": "max"
+    },
+    {
+      "text": "Section 25-1-252",
+      "label": "SECTION_REF",
+      "start": 2587,
+      "end": 2603,
+      "normalized": {
+        "section": "25-1-252",
+        "subsection": null,
+        "full_reference": "25-1-252"
+      }
+    }
+  ]
+}

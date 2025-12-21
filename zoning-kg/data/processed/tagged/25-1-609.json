@@ -1,0 +1,96 @@
+{
+  "section_id": "25-1-609",
+  "content": "\n(A)\n\nThe director is authorized to adopt administrative rules and take other actions that\nare necessary to implement this article.\n\n(B)\n\nThe director shall, at a minimum, adopt the following by administrative rule under\nChapter 1-2 (Adoption of Rules).\n\n(1)\n\na Deficient Park Area Map illustrating shortages in parkland; and\n\n(2)\n\nParkland Dedication Operating Procedures establishing:\n\n(a)\n\nboundaries for service areas required by Section 25-1-609 (Fee Payment and Expenditure) for use of a fee in lieu of parkland dedication, parkland development fee, and parkland\ndedication fees;\n\n(b)\n\ngeneral standards for dedicated parkland under Section 25-1-604 (Standards for Dedicated Parkland);\n\n(c)\n\nmethodology for determining:\n\n(i)\n\nparkland cost factor and park level-of-service under Section 25-1-606 (Single-Family Fee In Lieu of Parkland Dedication); and\n\n(ii)\n\npark development cost factor and facilities level-of-service under Section 25-1-606 (Single-Family Fee In Lieu of Parkland Dedication); and\n\n(d)\n\nother provisions deemed necessary for implementing this article.\n\n(C)\n\nBefore initiating the administrative rules process, as required by Subsection (B)\nof this section, the director shall present a proposed Deficient Park Area Map and\nParkland Dedication Operating Procedures to the Parks Board for a recommendation.\n\nSource: Ord. No. 20231130-087, Pt. 2, 1-1-24.",
+  "entities": [
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 163,
+      "end": 170,
+      "normalized": "min"
+    },
+    {
+      "text": "Chapter 1-2",
+      "label": "SECTION_REF",
+      "start": 221,
+      "end": 232,
+      "normalized": {
+        "type": "chapter",
+        "number": "1-2",
+        "full_reference": "Chapter 1-2"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 422,
+      "end": 430,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-609",
+      "label": "SECTION_REF",
+      "start": 434,
+      "end": 450,
+      "normalized": {
+        "section": "25-1-609",
+        "subsection": null,
+        "full_reference": "25-1-609"
+      }
+    },
+    {
+      "text": "Section 25-1-604",
+      "label": "SECTION_REF",
+      "start": 639,
+      "end": 655,
+      "normalized": {
+        "section": "25-1-604",
+        "subsection": null,
+        "full_reference": "25-1-604"
+      }
+    },
+    {
+      "text": "Section 25-1-606",
+      "label": "SECTION_REF",
+      "start": 786,
+      "end": 802,
+      "normalized": {
+        "section": "25-1-606",
+        "subsection": null,
+        "full_reference": "25-1-606"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 804,
+      "end": 817,
+      "normalized": "single_family"
+    },
+    {
+      "text": "Section 25-1-606",
+      "label": "SECTION_REF",
+      "start": 933,
+      "end": 949,
+      "normalized": {
+        "section": "25-1-606",
+        "subsection": null,
+        "full_reference": "25-1-606"
+      }
+    },
+    {
+      "text": "Single-Family",
+      "label": "USE_TYPE",
+      "start": 951,
+      "end": 964,
+      "normalized": "single_family"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1138,
+      "end": 1146,
+      "normalized": "required"
+    }
+  ]
+}

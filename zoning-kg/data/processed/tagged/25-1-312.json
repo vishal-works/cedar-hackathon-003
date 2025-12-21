@@ -1,0 +1,63 @@
+{
+  "section_id": "25-1-312",
+  "content": "\n(A)\n\nApproximately 10 days before work under the subdivision construction plans is finished,\nthe owner shall notify the single office in writing that the work is substantially\ncomplete and shall request a report listing the work to be completed.\n\n(B)\n\nOn the day that the owner provides notice under Subsection (A), the consulting engineer\nshall submit a construction summary report to the single office.\n\nSource: City Code Section 25-1-312; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nNot later than the fourth day after the owner gives written notice that work under\na subdivision construction plan is substantially complete, the single office shall:\n\n(1)\n\nreview the work; and\n\n(2)\n\nprepare a report identifying work that does not comply with the construction plans\nand work that must be performed before the accountable official issues a final acceptance\nletter.\n\n(B)\n\nWhen the owner finishes the work listed in the report issued under Subsection (A),\nthe single office shall modify the report to reflect completion of the required work.\n\nSource: City Code Section 25-1-313; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 128,
+      "end": 134,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 398,
+      "end": 404,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-312",
+      "label": "SECTION_REF",
+      "start": 425,
+      "end": 441,
+      "normalized": {
+        "section": "25-1-312",
+        "subsection": null,
+        "full_reference": "25-1-312"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 634,
+      "end": 640,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 962,
+      "end": 968,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1022,
+      "end": 1030,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-313",
+      "label": "SECTION_REF",
+      "start": 1056,
+      "end": 1072,
+      "normalized": {
+        "section": "25-1-313",
+        "subsection": null,
+        "full_reference": "25-1-313"
+      }
+    }
+  ]
+}

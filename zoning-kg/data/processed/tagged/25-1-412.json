@@ -1,0 +1,81 @@
+{
+  "section_id": "25-1-412",
+  "content": "\n(A)\n\nThe single office may suspend an approved subdivision construction plan if the single\noffice determines that:\n\n(1)\n\nthe subdivision construction plan was approved in error; or\n\n(2)\n\nthe development does not comply with this title.\n\n(B)\n\nA suspension is effective until the single office determines that the applicant has\ncomplied with the requirements of this title.\n\nSource: City Code Section 25-1-412; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nIf the single office determines that a person is not in compliance with a requirement\nof a variance or special exception, the single office may suspend the variance or\nspecial exception pending compliance.\n\n(B)\n\nThe body granting the variance or special exception shall hold a public hearing and\ndetermine whether the person is in compliance with the requirements of the variance\nor special exception.\n\n(C)\n\nThe land use commission shall hold the public hearing not later than the 45th day\nafter notification of the suspension under Section 30-1-435 (Notice Of Suspension Or Revocation). The single office shall give notice under Section 30-1-153(A) (Notice Of Public Hearing) of the public hearing.\n\n(D)\n\nIf the body determines that the person is not in compliance with a requirement of\nthe variance or special exception, the body may revoke the variance or special exception\nor take other action to obtain compliance.\n\n(E)\n\nThe body's decision to revoke a variance or special exception is effective immediately.\n\nSource: City Code Section 25-1-415; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 17,
+      "end": 23,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 92,
+      "end": 98,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 286,
+      "end": 292,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-412",
+      "label": "SECTION_REF",
+      "start": 392,
+      "end": 408,
+      "normalized": {
+        "section": "25-1-412",
+        "subsection": null,
+        "full_reference": "25-1-412"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 462,
+      "end": 468,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 581,
+      "end": 587,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 30-1-435",
+      "label": "SECTION_REF",
+      "start": 981,
+      "end": 997,
+      "normalized": {
+        "section": "30-1-435",
+        "subsection": null,
+        "full_reference": "30-1-435"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 1047,
+      "end": 1053,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-415",
+      "label": "SECTION_REF",
+      "start": 1481,
+      "end": 1497,
+      "normalized": {
+        "section": "25-1-415",
+        "subsection": null,
+        "full_reference": "25-1-415"
+      }
+    }
+  ]
+}

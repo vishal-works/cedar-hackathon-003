@@ -1,0 +1,63 @@
+{
+  "section_id": "25-1-416",
+  "content": "\nThe single office may immediately revoke a person's approved subdivision construction\nplan that has been suspended if the single office determines that the person:\n\n(1)\n\ndid not comply in a reasonable time with the requirements of this title for which\nthe suspension was ordered; or\n\n(2)\n\nduring the suspension, did not comply with other requirements of this title.\n\nSource: City Code Section 25-1-416; Ord. 031211-11; Ord. 031211-42.\n\n(A)\n\nThe single office may give notice to the person affected of the single office's intent\nto suspend or revoke an approved subdivision construction plan under this division.\n\n(B)\n\nThe notice may specify a reasonable time for compliance with this title. If a time\nfor compliance is specified, the single office may not suspend or revoke before the\ntime for compliance has expired.\n\nSource: City Code Section 25-1-417; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 12,
+      "end": 18,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 130,
+      "end": 136,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-416",
+      "label": "SECTION_REF",
+      "start": 386,
+      "end": 402,
+      "normalized": {
+        "section": "25-1-416",
+        "subsection": null,
+        "full_reference": "25-1-416"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 453,
+      "end": 459,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 513,
+      "end": 519,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 742,
+      "end": 748,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-417",
+      "label": "SECTION_REF",
+      "start": 838,
+      "end": 854,
+      "normalized": {
+        "section": "25-1-417",
+        "subsection": null,
+        "full_reference": "25-1-417"
+      }
+    }
+  ]
+}

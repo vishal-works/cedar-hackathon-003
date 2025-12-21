@@ -1,0 +1,139 @@
+{
+  "section_id": "25-2-900",
+  "content": "(A)\n\nA home occupation that is allowed under Section 25-2-900 (Home Occupations) may display one on-premise sign if the following requirements are met:\n\n(1)\n\nThe home occupation sign and the principal structure associated with the home occupation\nmust both directly front a Core Transit Corridor or Future Core Transit Corridor.\n\n(2)\n\nThe home occupation sign may not exceed:\n\n(a)\n\nfor a sign that is placed on or attached directly to the ground, six square feet in\narea and three feet in height, as measured from the lower of natural or finished grade\nadjacent to the principal structure; or\n\n(b)\n\nfor a sign attached to a monopole of four feet in height and up to 12 inches in diameter,\nthree square feet in area and four feet in height, with the height of both the pole\nand the sign measured from the lower of natural or finished grade adjacent to the\nprincipal structure.\n\n(3)\n\nIf an electric home occupation sign is used, the sign must be:\n\n(a)\n\nnon-illuminated or externally illuminated;\n\n(b)\n\nenergy efficient, as determined by Austin Energy; and\n\n(c)\n\ncompliant with International Dark Sky standards for pollution reduction.\n\n(B)\n\nA home occupation sign permitted under this section must be removed if the home occupation\nceases to be used or fails to comply with the requirements of this section or Section 25-2-900 (Home Occupations).\n\nSource: 20090827-032; Ord. No. 20170817-072, Pt. 18, 8-28-17.",
+  "entities": [
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 31,
+      "end": 38,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Section 25-2-900",
+      "label": "SECTION_REF",
+      "start": 45,
+      "end": 61,
+      "normalized": {
+        "section": "25-2-900",
+        "subsection": null,
+        "full_reference": "25-2-900"
+      }
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 364,
+      "end": 374,
+      "normalized": "lte"
+    },
+    {
+      "text": "six square feet",
+      "label": "MEASUREMENT",
+      "start": 447,
+      "end": 462,
+      "normalized": {
+        "value": "six square feet",
+        "unit": null,
+        "original": "six square feet"
+      }
+    },
+    {
+      "text": "three feet",
+      "label": "MEASUREMENT",
+      "start": 475,
+      "end": 485,
+      "normalized": {
+        "value": "three feet",
+        "unit": null,
+        "original": "three feet"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 489,
+      "end": 495,
+      "normalized": "height_max"
+    },
+    {
+      "text": "four feet",
+      "label": "MEASUREMENT",
+      "start": 636,
+      "end": 645,
+      "normalized": {
+        "value": "four feet",
+        "unit": null,
+        "original": "four feet"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 649,
+      "end": 655,
+      "normalized": "height_max"
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 660,
+      "end": 665,
+      "normalized": "lte"
+    },
+    {
+      "text": "three square feet",
+      "label": "MEASUREMENT",
+      "start": 689,
+      "end": 706,
+      "normalized": {
+        "value": "three square feet",
+        "unit": null,
+        "original": "three square feet"
+      }
+    },
+    {
+      "text": "four feet",
+      "label": "MEASUREMENT",
+      "start": 719,
+      "end": 728,
+      "normalized": {
+        "value": "four feet",
+        "unit": null,
+        "original": "four feet"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 732,
+      "end": 738,
+      "normalized": "height_max"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 749,
+      "end": 755,
+      "normalized": "height_max"
+    },
+    {
+      "text": "permitted",
+      "label": "OPERATOR",
+      "start": 1162,
+      "end": 1171,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Section 25-2-900",
+      "label": "SECTION_REF",
+      "start": 1308,
+      "end": 1324,
+      "normalized": {
+        "section": "25-2-900",
+        "subsection": null,
+        "full_reference": "25-2-900"
+      }
+    }
+  ]
+}

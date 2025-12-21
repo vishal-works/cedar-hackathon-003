@@ -1,0 +1,24 @@
+{
+  "section_id": "25-2-162",
+  "content": "A property described in the downtown district boundary (Figure 1) and subject to Section 25-2-162 (Capitol View Corridor Overlay District) is eligible for density bonuses shown on the Eligibility, Floor-to-Area Ratio and",
+  "entities": [
+    {
+      "text": "Section 25-2-162",
+      "label": "SECTION_REF",
+      "start": 81,
+      "end": 97,
+      "normalized": {
+        "section": "25-2-162",
+        "subsection": null,
+        "full_reference": "25-2-162"
+      }
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 155,
+      "end": 162,
+      "normalized": "density_max"
+    }
+  ]
+}

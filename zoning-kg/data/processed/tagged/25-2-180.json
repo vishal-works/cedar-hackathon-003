@@ -1,0 +1,95 @@
+{
+  "section_id": "25-2-180",
+  "content": "Within the shoreline setback area defined by Section 25-2-551 (Lake Austin (LA) District Regulations) and within the overlay established by Section 25-2-180 (Lake Austin (LA) Overlay District), no more than 30 percent of the total number of shade trees of 8 inches or greater,",
+  "entities": [
+    {
+      "text": "setback",
+      "label": "METRIC",
+      "start": 21,
+      "end": 28,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "Section 25-2-551",
+      "label": "SECTION_REF",
+      "start": 45,
+      "end": 61,
+      "normalized": {
+        "section": "25-2-551",
+        "subsection": null,
+        "full_reference": "25-2-551"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 63,
+      "end": 74,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 76,
+      "end": 78,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "Section 25-2-180",
+      "label": "SECTION_REF",
+      "start": 140,
+      "end": 156,
+      "normalized": {
+        "section": "25-2-180",
+        "subsection": null,
+        "full_reference": "25-2-180"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 158,
+      "end": 169,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 171,
+      "end": 173,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "no more than",
+      "label": "OPERATOR",
+      "start": 194,
+      "end": 206,
+      "normalized": "lte"
+    },
+    {
+      "text": "30 percent",
+      "label": "MEASUREMENT",
+      "start": 207,
+      "end": 217,
+      "normalized": {
+        "value": 30.0,
+        "unit": "%",
+        "original": "30 percent"
+      }
+    }
+  ]
+}

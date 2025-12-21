@@ -1,0 +1,39 @@
+{
+  "section_id": "25-1-132",
+  "content": "(A)\n\nThe responsible director shall give notice under Section 25-1-132(B) (Notice of Public Hearing) of a public hearing on an appeal to the council.\n\n(B)\n\nExcept as provided in Subsection (C), the responsible director shall give notice under\nSection 25-1-132(A) (Notice of Public Hearing) of a public hearing on an appeal to a board or commission.\n\n(C)\n\nThe responsible director shall give notice under Chapter 25-12 (Technical Codes) and applicable state law of a public hearing on an appeal to a board or commission\ncreated by Chapter 25-12 (Technical Codes) or having jurisdiction over regulations contained in Chapter 25-12 (Technical Codes).\n\nSource: Section 13-1-253(b); Ord. 990225-70; Ord. 010329-18; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Chapter 25-12",
+      "label": "SECTION_REF",
+      "start": 404,
+      "end": 417,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-12",
+        "full_reference": "Chapter 25-12"
+      }
+    },
+    {
+      "text": "Chapter 25-12",
+      "label": "SECTION_REF",
+      "start": 530,
+      "end": 543,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-12",
+        "full_reference": "Chapter 25-12"
+      }
+    },
+    {
+      "text": "Chapter 25-12",
+      "label": "SECTION_REF",
+      "start": 615,
+      "end": 628,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-12",
+        "full_reference": "Chapter 25-12"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "section_id": "25-2-161",
+  "content": "A property described in the downtown district boundary (Figure 1) and subject to Section 25-2-161 (Capitol Dominance Overlay District) is elibile for density bonuses shown on the Eligibility, Floor-to-Area Ratio and",
+  "entities": [
+    {
+      "text": "Section 25-2-161",
+      "label": "SECTION_REF",
+      "start": 81,
+      "end": 97,
+      "normalized": {
+        "section": "25-2-161",
+        "subsection": null,
+        "full_reference": "25-2-161"
+      }
+    },
+    {
+      "text": "density",
+      "label": "METRIC",
+      "start": 150,
+      "end": 157,
+      "normalized": "density_max"
+    }
+  ]
+}

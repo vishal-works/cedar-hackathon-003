@@ -1,0 +1,39 @@
+{
+  "section_id": "25-1-1010",
+  "content": "## CHAPTER 25-2. - ZONING.\n\n§ 25-1-1010 - RECOMMENDATION CRITERIA.\nCHAPTER 25-3. - TRADITIONAL NEIGHBORHOOD DISTRICT.\n",
+  "entities": [
+    {
+      "text": "CHAPTER 25-2",
+      "label": "SECTION_REF",
+      "start": 3,
+      "end": 15,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "§ 25-1-1010",
+      "label": "SECTION_REF",
+      "start": 28,
+      "end": 39,
+      "normalized": {
+        "section": "25-1-1010",
+        "subsection": null,
+        "full_reference": "25-1-1010"
+      }
+    },
+    {
+      "text": "CHAPTER 25-3",
+      "label": "SECTION_REF",
+      "start": 67,
+      "end": 79,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-3",
+        "full_reference": "Chapter 25-3"
+      }
+    }
+  ]
+}

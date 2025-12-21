@@ -1,0 +1,20 @@
+{
+  "section_id": "25-2-839",
+  "content": "Ord. 031211-11; Ord. 041202-16.\n\n(A)\n\nAn application to construct a telecommunication tower described in Section 25-2-839(F) or (G) (Telecommunication Towers) must be accompanied by an affidavit that includes:\n\n(1)\n\na description of the search area for the tower location;\n\n(2)\n\nthe elevation required for the antenna array; and\n\n(3)\n\nthe reasons that the antenna array cannot be located on an existing tower or other\nstructure.\n\n(B)\n\nAn applicant who prepares an affidavit required by Subsection (A) shall record the\nname and address of each person the applicant contacts in attempting to locate the\nantenna array on an existing tower or other structure. If requested by the city manager,\nthe applicant shall disclose to the city manager the recorded information.\n\n(C)\n\nThis subsection applies if a telecommunication tower described in Section 25-2-839(F) or (G) (Telecommunication Towers) ceases to be used for wireless communications.\n\n(1)\n\nThe tower owner and the property owner shall notify the director that the tower is\nnot being used for wireless communications within 30 days of the cessation of use.\n\n(2)\n\nIf the tower is not used for wireless communications for a continuous one year period,\nthe tower owner and the property owner shall remove the tower. The tower owner and\nthe property owner shall finish the tower removal within 18 months of the date that\nwireless communications cease.\n\n(D)\n\nThe director shall maintain a map of all telecommunication towers located within the\nplanning jurisdiction.\n\nSource: Ord. 000302-36; Ord. 031204-53; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 293,
+      "end": 301,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 474,
+      "end": 482,
+      "normalized": "required"
+    }
+  ]
+}

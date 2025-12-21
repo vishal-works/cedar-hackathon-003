@@ -1,0 +1,39 @@
+{
+  "section_id": "30-2-58",
+  "content": "Ord. No. 20190822-117, § 55, effective September 1, 2019, repealed § 30-2-58, which pertained to council\naction on preliminary plan and derived from City Code Section 25-4-58; Ord. 031211-11;\nOrd. 031211-42.\n\nApproval of a preliminary plan establishes a mutual commitment on behalf of the city\nor county and the applicant to:\n\n(1)\n\nthe subdivision layout for plat approval, including the location and width of proposed\nstreets, lots, blocks, and easements shown on the preliminary plan; and\n\n(2)\n\nthe availability of utilities to serve the subdivided land to the extent shown on\nthe preliminary plan.\n\nSource: City Code Section 25-4-59; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "§ 30-2-58",
+      "label": "SECTION_REF",
+      "start": 67,
+      "end": 76,
+      "normalized": {
+        "section": "30-2-58",
+        "subsection": null,
+        "full_reference": "30-2-58"
+      }
+    },
+    {
+      "text": "Section 25-4-58",
+      "label": "SECTION_REF",
+      "start": 159,
+      "end": 174,
+      "normalized": {
+        "section": "25-4-58",
+        "subsection": null,
+        "full_reference": "25-4-58"
+      }
+    },
+    {
+      "text": "Section 25-4-59",
+      "label": "SECTION_REF",
+      "start": 620,
+      "end": 635,
+      "normalized": {
+        "section": "25-4-59",
+        "subsection": null,
+        "full_reference": "25-4-59"
+      }
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "section_id": "25-2-775",
+  "content": "\nFor property used or developed as a special use described in Section 25-2-1403, (Special Uses):\n\n(1)\n\nthe regulations prescribed by this subchapter supersede the other provisions of Title 25 (Land Development) to the extent of conflict; and\n\n(2)\n\nthe following regulations do not apply:\n\n(a)\n\nSection 25-2-514 (Open Space Standards);\n\n(b)\n\nSection 25-2-775 (Townhouses); and\n\n(c)\n\nSection 25-2-776 (Condominium Residential Use).\n\nSource: Ord. 000406-81; Ord. 031211-11.",
+  "entities": [
+    {
+      "text": "Section 25-2-1403",
+      "label": "SECTION_REF",
+      "start": 62,
+      "end": 79,
+      "normalized": {
+        "section": "25-2-1403",
+        "subsection": null,
+        "full_reference": "25-2-1403"
+      }
+    },
+    {
+      "text": "Section 25-2-514",
+      "label": "SECTION_REF",
+      "start": 294,
+      "end": 310,
+      "normalized": {
+        "section": "25-2-514",
+        "subsection": null,
+        "full_reference": "25-2-514"
+      }
+    },
+    {
+      "text": "Open Space",
+      "label": "METRIC",
+      "start": 312,
+      "end": 322,
+      "normalized": "open_space_min"
+    },
+    {
+      "text": "Section 25-2-775",
+      "label": "SECTION_REF",
+      "start": 341,
+      "end": 357,
+      "normalized": {
+        "section": "25-2-775",
+        "subsection": null,
+        "full_reference": "25-2-775"
+      }
+    },
+    {
+      "text": "Section 25-2-776",
+      "label": "SECTION_REF",
+      "start": 382,
+      "end": 398,
+      "normalized": {
+        "section": "25-2-776",
+        "subsection": null,
+        "full_reference": "25-2-776"
+      }
+    }
+  ]
+}

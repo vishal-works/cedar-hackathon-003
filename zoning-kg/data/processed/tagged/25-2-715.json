@@ -1,0 +1,49 @@
+{
+  "section_id": "25-2-715",
+  "content": "\n(A)\n\nThe Land Use Commission shall hold a public hearing on a zoning or rezoning application\nnot later than the 60th day after the date the application is filed. The director\nof the Neighborhood Planning and Zoning Department shall give notice under Section 25-1-132(A) (Notice Of Public Hearing) of the public hearing. If the application includes property located within the Waterfront\nOverlay (WO) combining district, the director shall request a recommendation from\nthe Small Area Planning Joint Committee of the Planning Commission and the Zoning\nand Platting Commission to be considered by the Land Use Commission at the public\nhearing. If the Board fails to make a recommendation as required under Section 25-2-715 (Review and Recommendation of the Small Area Planning Joint Committee of the Planning\nCommission and the Zoning and Platting Commission), the Land Use Commission or accountable official may act on the application without\na recommendation from the Board.\n\n(B)\n\nThe Land Use Commission shall make a recommendation to the council on a zoning or\nrezoning application not later than the 14th day after the Land Use Commission closes\nthe public hearing on the application.\n\n(C)\n\nThe Land Use Commission may recommend that the council:\n\n(1)\n\napprove the application as proposed;\n\n(2)\n\napprove a more restrictive zoning classification than requested;\n\n(3)\n\napprove the proposed classification or a more restrictive classification subject to\nconditions; or\n\n(4)\n\ndeny the application.\n\n(D)\n\nIf the Land Use Commission does not adopt a recommendation on an application, the\ndirector of the Neighborhood Planning and Zoning Department shall forward the application\nto council without a Land Use Commission recommendation.\n\n(E)\n\nIf the Land Use Commission does not hold a public hearing in accordance with Subsection\n(A), the applicant may file a written request for a hearing with the director of the\nNeighborhood Planning and Zoning Department or Land Use Commission.\n\n(1)\n\nIf requested, the director of the Neighborhood Planning and Zoning Department shall\nschedule a public hearing before the Land Use Commission on the first Land Use Commission\nmeeting after the date the request is received for which the director of the Neighborhood\nPlanning and Zoning Department can provide notice under Section 25-1-132(A) (Notice Of Public Hearing) of this title.\n\n(2)\n\nThe following procedures apply to a public hearing scheduled under this subsection:\n\n(a)\n\nthe Land Use Commission shall conduct the public hearing before other business scheduled\nfor the same meeting is considered;\n\n(b)\n\nif more than one public hearing scheduled under this subsection is on an agenda, the\nLand Use Commission shall conduct the public hearings in the order in which the written\nrequests for the public hearings were received; and\n\n(c)\n\nif a public hearing is not completed on the date it is scheduled, the Land Use Commission\nshall continue the public hearing to the next and successive meetings of the Land\nUse Commission until completed.\n\n(3)\n\nThe Land Use Commission shall make a recommendation on an application considered under\nthis subsection at the same meeting that the Land Use Commission closes the public\nhearing on the application, except that, the Land Use Commission may postpone its\ndecision on the application for not more than 14 days with the consent of the applicant.\n\n(F)\n\nThe director of the Neighborhood Planning and Zoning Department shall report the Land\nUse Commission's recommendation on each zoning or rezoning application to the council.\n\nSource: Section 13-1-405; Ord. 990225-70; Ord. 010329-18; Ord. 010607-8; Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 690,
+      "end": 698,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-2-715",
+      "label": "SECTION_REF",
+      "start": 705,
+      "end": 721,
+      "normalized": {
+        "section": "25-2-715",
+        "subsection": null,
+        "full_reference": "25-2-715"
+      }
+    },
+    {
+      "text": "more than",
+      "label": "OPERATOR",
+      "start": 2598,
+      "end": 2607,
+      "normalized": "gt"
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 3320,
+      "end": 3333,
+      "normalized": "lte"
+    },
+    {
+      "text": "Section 13-1-405",
+      "label": "SECTION_REF",
+      "start": 3565,
+      "end": 3581,
+      "normalized": {
+        "section": "13-1-405",
+        "subsection": null,
+        "full_reference": "13-1-405"
+      }
+    }
+  ]
+}

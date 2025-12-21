@@ -1,0 +1,38 @@
+{
+  "section_id": "30-2-33",
+  "content": "(A)\n\nThe single office may extend a review period of a preliminary plan or plat for an\nadditional 30 days if the applicant submits a written request for an extension before\nthe time limitations described in Section 30-2-33 (Single Office Action within 30 Days). The review period can only be extended one time.\n\n(B)\n\nIf the single office approves an extension request under Subsection (A), the single\noffice shall approve, approve with conditions, or disapprove no later than the expiration\nof the extended review period.\n\nSource: Ord. No. 20230831-142, Pt. 8, 9-1-23; Ord. No. 20240718-103, Pt. 2, 7-29-24.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 16,
+      "end": 22,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 30-2-33",
+      "label": "SECTION_REF",
+      "start": 207,
+      "end": 222,
+      "normalized": {
+        "section": "30-2-33",
+        "subsection": null,
+        "full_reference": "30-2-33"
+      }
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 331,
+      "end": 337,
+      "normalized": "office"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 401,
+      "end": 407,
+      "normalized": "office"
+    }
+  ]
+}

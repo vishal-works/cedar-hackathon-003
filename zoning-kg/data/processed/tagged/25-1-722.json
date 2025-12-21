@@ -1,0 +1,221 @@
+{
+  "section_id": "25-1-722",
+  "content": "\n(A)\n\nAn applicant complies with the requirements in this section if the applicant participates\nin a government-operated affordable housing program that imposes, at a minimum, the\nsame affordability requirements.\n\n(B)\n\nA rental development must comply with at least the following:\n\n(1)\n\nat least 50 percent of the total units or sleeping units serve households whose incomes\naverage 60 percent MFI or below; and\n\n(2)\n\nat least 20 percent of the total units or sleeping units serve households with incomes\nof 50 percent MFI or below.\n\n(C)\n\nExcept for a Type 2 owner-occupied development that complies with the requirements\nin Section 25-1-722(C)(3), at least 50 percent of the owner-occupied dwelling units or sleeping units\nmust serve households whose incomes average 80 percent MFI or below.\n\n(D)\n\nIf the number of units required in this section include less than a whole unit, the\nunit number is rounded up to the nearest whole unit.\n\n(E)\n\nThe minimum affordability period for a rental development is the greater of the affordability\nperiod required for development receiving city or Austin Housing Finance Corporation\n(AHFC) funds or 40 years following the issuance of the last certificate of occupancy\nrequired for the qualifying development.\n\n(F)\n\nThe minimum affordability period for an owner-occupied dwelling unit is 99 years following\nthe issuance of a certificate of occupancy for the owner-occupied dwelling unit.\n\n(G)\n\nIn a multi-phased qualifying development, the director may begin the minimum affordability\nperiod upon the issuance of the last certificate of occupancy for each phase.\n\nSource: 20190509-027, Pt. 2, 5-20-19.",
+  "entities": [
+    {
+      "text": "affordable housing",
+      "label": "USE_TYPE",
+      "start": 121,
+      "end": 139,
+      "normalized": "affordable_housing"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 167,
+      "end": 174,
+      "normalized": "min"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 257,
+      "end": 265,
+      "normalized": "gte"
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 287,
+      "end": 295,
+      "normalized": "gte"
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 296,
+      "end": 306,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "60 percent",
+      "label": "MEASUREMENT",
+      "start": 383,
+      "end": 393,
+      "normalized": {
+        "value": 60.0,
+        "unit": "%",
+        "original": "60 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 394,
+      "end": 397,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 418,
+      "end": 426,
+      "normalized": "gte"
+    },
+    {
+      "text": "20 percent",
+      "label": "MEASUREMENT",
+      "start": 427,
+      "end": 437,
+      "normalized": {
+        "value": 20.0,
+        "unit": "%",
+        "original": "20 percent"
+      }
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 508,
+      "end": 518,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 519,
+      "end": 522,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 649,
+      "end": 657,
+      "normalized": "gte"
+    },
+    {
+      "text": "50 percent",
+      "label": "MEASUREMENT",
+      "start": 658,
+      "end": 668,
+      "normalized": {
+        "value": 50.0,
+        "unit": "%",
+        "original": "50 percent"
+      }
+    },
+    {
+      "text": "dwelling units",
+      "label": "USE_TYPE",
+      "start": 691,
+      "end": 705,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "80 percent",
+      "label": "MEASUREMENT",
+      "start": 768,
+      "end": 778,
+      "normalized": {
+        "value": 80.0,
+        "unit": "%",
+        "original": "80 percent"
+      }
+    },
+    {
+      "text": "MFI",
+      "label": "ZONE",
+      "start": 779,
+      "end": 782,
+      "normalized": {
+        "code": "MFI",
+        "original": "MFI"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 822,
+      "end": 830,
+      "normalized": "required"
+    },
+    {
+      "text": "less than",
+      "label": "OPERATOR",
+      "start": 855,
+      "end": 864,
+      "normalized": "lt"
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 906,
+      "end": 911,
+      "normalized": "lte"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 946,
+      "end": 953,
+      "normalized": "min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1043,
+      "end": 1051,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1206,
+      "end": 1214,
+      "normalized": "required"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1257,
+      "end": 1264,
+      "normalized": "min"
+    },
+    {
+      "text": "dwelling unit",
+      "label": "USE_TYPE",
+      "start": 1308,
+      "end": 1321,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "dwelling unit",
+      "label": "USE_TYPE",
+      "start": 1410,
+      "end": 1423,
+      "normalized": "dwelling_unit"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 1500,
+      "end": 1507,
+      "normalized": "min"
+    }
+  ]
+}

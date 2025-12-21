@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-82",
+  "content": "(A)\n\nA vested rights petition and associated permit or Fair Notice (New Project) application\nare treated as a single application for purposes of completeness review and expiration\nunder Section 25-1-82 (Non-Subdivision Application Requirements and Expiration). This subsection does not apply to a permit for a preliminary plan, plat, or subdivision\nconstruction plan.\n\n(B)\n\nA vested rights petition and permit for a preliminary plan, plat, or subdivision construction\nplan, are not treated as a single application for the purposes of completeness review\nand expiration under Section 25-1-83 (Subdivision Application Requirements and Expiration).\n\nSource: Ord. 20140612-084, Pt. 2, 6-23-14; Ord. No. 20190822-117, Pt. 15, 9-1-19.",
+  "entities": [
+    {
+      "text": "Section 25-1-82",
+      "label": "SECTION_REF",
+      "start": 186,
+      "end": 201,
+      "normalized": {
+        "section": "25-1-82",
+        "subsection": null,
+        "full_reference": "25-1-82"
+      }
+    },
+    {
+      "text": "Section 25-1-83",
+      "label": "SECTION_REF",
+      "start": 575,
+      "end": 590,
+      "normalized": {
+        "section": "25-1-83",
+        "subsection": null,
+        "full_reference": "25-1-83"
+      }
+    }
+  ]
+}

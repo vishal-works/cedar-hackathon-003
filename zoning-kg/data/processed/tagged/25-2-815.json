@@ -1,0 +1,89 @@
+{
+  "section_id": "25-2-815",
+  "content": "\n(A)\n\nThe Land Use Commission shall hold a public hearing on each site plan application\nit considers.\n\n(B)\n\nThe director shall give notice under Section 25-1-132(A) (Notice of Public Hearing) of a public hearing under this section.\n\n(C)\n\nThis subsection applies to an application for approval of a large retail use described\nin Section 25-2-815 (Large Retail Uses).\n\n(1)\n\nIn addition to the notice required by Subsection (B), the director shall give notice\nto all:\n\n(a)\n\nregistered neighborhood associations with boundaries located within one mile of the\nsite; and\n\n(b)\n\nutility service addresses located within 500 feet of the site, as shown in the City\nutility records as of the date of the filing of the application.\n\n(2)\n\nThe applicant shall post a sign on the site in a location that is within 25 feet of\nand visible from the public right-of-way. The sign must be at least four feet by eight\nfeet in size with lettering at least four inches high. The sign must include the following\ninformation:\n\n(a)\n\na statement that an application for approval of a conditional use site plan has been\nfiled;\n\n(b)\n\nthe city file number;\n\n(c)\n\nthe name, address, and telephone number of the applicant or agent; and\n\n(d)\n\na description of the proposed development, including the size and use of the building.\n\n(D)\n\nThe director shall schedule a site plan application for public hearing by the Land\nUse Commission on the first available meeting for which notice of the public hearing\ncan be timely provided after:\n\n(1)\n\nthe applicant responds to staff review comments and makes necessary changes, if any;\n\n(2)\n\nthe applicant delivers to the director a written request to schedule the site plan\nfor public hearing; or\n\n(3)\n\nthe 180th day from the date the application for site plan approval was filed.\n\n(E)\n\nThe director shall extend the 180 day period described in Subsection (D)(3) of this\nsection for an additional 180 days if the applicant delivers to the director a written\nrequest for an extension before the expiration of the initial 180 day period.\n\nSource: Section 13-1-661; Ord. 990225-70; Ord. 010607-8; Ord. 031211-11; Ord. 20070215-072;",
+  "entities": [
+    {
+      "text": "retail",
+      "label": "USE_TYPE",
+      "start": 304,
+      "end": 310,
+      "normalized": "retail"
+    },
+    {
+      "text": "Section 25-2-815",
+      "label": "SECTION_REF",
+      "start": 328,
+      "end": 344,
+      "normalized": {
+        "section": "25-2-815",
+        "subsection": null,
+        "full_reference": "25-2-815"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 398,
+      "end": 406,
+      "normalized": "required"
+    },
+    {
+      "text": "500 feet",
+      "label": "MEASUREMENT",
+      "start": 612,
+      "end": 620,
+      "normalized": {
+        "value": 500,
+        "unit": "ft",
+        "original": "500 feet"
+      }
+    },
+    {
+      "text": "25 feet",
+      "label": "MEASUREMENT",
+      "start": 799,
+      "end": 806,
+      "normalized": {
+        "value": 25,
+        "unit": "ft",
+        "original": "25 feet"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 869,
+      "end": 877,
+      "normalized": "gte"
+    },
+    {
+      "text": "four feet",
+      "label": "MEASUREMENT",
+      "start": 878,
+      "end": 887,
+      "normalized": {
+        "value": "four feet",
+        "unit": null,
+        "original": "four feet"
+      }
+    },
+    {
+      "text": "at least",
+      "label": "OPERATOR",
+      "start": 925,
+      "end": 933,
+      "normalized": "gte"
+    },
+    {
+      "text": "Section 13-1-661",
+      "label": "SECTION_REF",
+      "start": 2052,
+      "end": 2068,
+      "normalized": {
+        "section": "13-1-661",
+        "subsection": null,
+        "full_reference": "13-1-661"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "section_id": "25-2-6",
+  "content": "\n(A)\n\nDefinitions. In this section:\n\n(1)\n\nBONUS AREA means the greater of:\n\n(a)\n\nThe gross floor area that exceeds the maximum allowable floor-to-area ratio allowed\nwith the site's primary entitlements; or\n\n(b)\n\nThe gross floor area contained within the portion of a structure that exceeds the\nmaximum height allowed under the site's primary entitlements.\n\n(2)\n\nCOMMUNITY BENEFIT is a public amenity that exceeds the Gatekeeper Requirements of\nthe Downtown Density Bonus Program as described in (C)(1) of this section and that\nis provided by an applicant in order to obtain bonus area.\n\n(3)\n\nCULTURAL USES are uses that are eligible to participate in the City of Austin Core\nCultural Funding Program.\n\n(4)\n\nDAY CARE SERVICES is the provision of one of the adult or child care services defined\nin Section 25-2-6 (Civic Uses Described) of the City Code.",
+  "entities": [
+    {
+      "text": "maximum",
+      "label": "OPERATOR",
+      "start": 119,
+      "end": 126,
+      "normalized": "max"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 157,
+      "end": 164,
+      "normalized": "permitted"
+    },
+    {
+      "text": "maximum height",
+      "label": "METRIC",
+      "start": 294,
+      "end": 308,
+      "normalized": "height_max"
+    },
+    {
+      "text": "allowed",
+      "label": "OPERATOR",
+      "start": 309,
+      "end": 316,
+      "normalized": "permitted"
+    },
+    {
+      "text": "Density",
+      "label": "METRIC",
+      "start": 457,
+      "end": 464,
+      "normalized": "density_max"
+    },
+    {
+      "text": "Section 25-2-6",
+      "label": "SECTION_REF",
+      "start": 796,
+      "end": 810,
+      "normalized": {
+        "section": "25-2-6",
+        "subsection": null,
+        "full_reference": "25-2-6"
+      }
+    }
+  ]
+}

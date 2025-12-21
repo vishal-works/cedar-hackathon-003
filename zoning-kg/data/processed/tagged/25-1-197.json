@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-197",
+  "content": "\n(A)\n\nThe director of the Planning and Development Review Department shall determine the\nappropriate use classification for an existing or proposed use or activity.\n\n(B)\n\nIf a particular use is not classified within a zoning category or land use definition,\nthe director shall determine the appropriate use classification based on the characteristics\nof the proposed use and the similarities, if any, of the use to other classified uses.\n\n(C)\n\nIf a use requires a determination under Subsection (B) of this section, a person may\nrequest that the director issue a formal use determination stating how the use is\nclassified under existing use regulations. A use determination may be appealed to\nthe Board of Adjustment under Section 25-1-197 (Use Determinations).\n\n(D)\n\nThe director shall notify the Planning Commission and the Zoning and Platting Commission\nof the filing of an appeal within 30 days of the filing, and of the disposition of\nthe appeal within 30 days of disposition.\n\n(E)\n\nThe director shall maintain a list of determinations made under this section.\n\nSource: Section 13-2-7; Ord. 990225-70; Ord. 010329-18; Ord. 010607-8; Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "Section 25-1-197",
+      "label": "SECTION_REF",
+      "start": 723,
+      "end": 739,
+      "normalized": {
+        "section": "25-1-197",
+        "subsection": null,
+        "full_reference": "25-1-197"
+      }
+    },
+    {
+      "text": "Section 13-2-7",
+      "label": "SECTION_REF",
+      "start": 1075,
+      "end": 1089,
+      "normalized": {
+        "section": "13-2-7",
+        "subsection": null,
+        "full_reference": "13-2-7"
+      }
+    }
+  ]
+}

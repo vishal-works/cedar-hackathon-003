@@ -1,0 +1,28 @@
+{
+  "section_id": "25-1-284",
+  "content": "\n(A)\n\nThe conference participants shall exchange telephone numbers and addresses at the\nconference.\n\n(B)\n\nThe participants shall discuss:\n\n(1)\n\nthe sequence of construction;\n\n(2)\n\nstart dates and schedule of events;\n\n(3)\n\nerosion and sedimentation controls;\n\n(4)\n\ntraffic control barricades;\n\n(5)\n\nsite supervision;\n\n(6)\n\nemergency response;\n\n(7)\n\nspecial conditions or provisions of plans or specifications;\n\n(8)\n\nfinal acceptance guidelines; and\n\n(9)\n\npublishing and distribution of minutes of the conference.\n\nSource: City Code Section 25-1-284; Ord. 031211-11; Ord. 031211-42.\n\nBefore construction begins, the owner's consulting engineer shall prepare and distribute\nminutes of the preconstruction conference. Conference participants may file exceptions\nto the minutes. The engineer shall distribute copies of exceptions to the conference\nparticipants and shall include the exceptions in the inspection file.\n\nSource: City Code Section 25-1-285; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "Section 25-1-284",
+      "label": "SECTION_REF",
+      "start": 531,
+      "end": 547,
+      "normalized": {
+        "section": "25-1-284",
+        "subsection": null,
+        "full_reference": "25-1-284"
+      }
+    },
+    {
+      "text": "Section 25-1-285",
+      "label": "SECTION_REF",
+      "start": 932,
+      "end": 948,
+      "normalized": {
+        "section": "25-1-285",
+        "subsection": null,
+        "full_reference": "25-1-285"
+      }
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "section_id": "25-1-212",
+  "content": "For an application for a variance requiring consideration by the platting board, the\nsingle office shall prepare and file a report with the platting board not later than\nthe 11th day before the public hearing.\n\nSource: City Code Section 25-1-212; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 92,
+      "end": 98,
+      "normalized": "office"
+    },
+    {
+      "text": "Section 25-1-212",
+      "label": "SECTION_REF",
+      "start": 229,
+      "end": 245,
+      "normalized": {
+        "section": "25-1-212",
+        "subsection": null,
+        "full_reference": "25-1-212"
+      }
+    }
+  ]
+}

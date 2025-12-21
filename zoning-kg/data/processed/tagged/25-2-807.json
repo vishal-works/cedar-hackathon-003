@@ -1,0 +1,28 @@
+{
+  "section_id": "25-2-807",
+  "content": "SPECIAL USE HISTORIC is a use that complies with the requirements of Section 25-2-807 (Special Use In Historic Districts).\n\n(70)\n\nSTABLE use is the use of a site for boarding, breeding or raising of horses not owned\nby the occupants of the premises, or the rental of horses for riding. This use includes\nboarding stables or public stables.\n\n(71)\n\nTHEATER use is the use of a site for presentation of plays, motion pictures, or other\nperformances within a building. This use also includes live music performances.\n\n(72)\n\nVEHICLE STORAGE use is the use of a site for long term storage for vehicles. This\nuse includes storage of vehicles towed from private parking areas and impound yards,\nbut excludes dismantling or salvage.\n\n(73)\n\nVETERINARY SERVICES use is the use of a site for provision of veterinary services\nand hospitals for animals. This use includes pet clinics, dog and cat hospitals, and\nveterinary hospitals for livestock and large animals.\n\nSource: Section 13-2-3; Ord. 000309-39; Ord. 010426-48; Ord. 020627-Z34; Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "Section 25-2-807",
+      "label": "SECTION_REF",
+      "start": 69,
+      "end": 85,
+      "normalized": {
+        "section": "25-2-807",
+        "subsection": null,
+        "full_reference": "25-2-807"
+      }
+    },
+    {
+      "text": "Section 13-2-3",
+      "label": "SECTION_REF",
+      "start": 961,
+      "end": 975,
+      "normalized": {
+        "section": "13-2-3",
+        "subsection": null,
+        "full_reference": "13-2-3"
+      }
+    }
+  ]
+}

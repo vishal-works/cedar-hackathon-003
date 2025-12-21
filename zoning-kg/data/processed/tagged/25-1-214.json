@@ -1,0 +1,24 @@
+{
+  "section_id": "25-1-214",
+  "content": "20190822-117, Pts. 20, 23, 9-1-19; Ord. No. 20230831-141, Pt. 21, 9-11-23.\n\n(A)\n\nIf an application for a preliminary plan, plat requires a variance from a subdivision\nrequirement, an applicant is required to obtain approval for the variance before associated\napplication for a preliminary plan, plat or subdivision construction plan can be approved\nby the director.\n\n(B)\n\nThe requirement of Section 25-1-214 (Public Hearing and Notice) that the Land Use Commission hold a public hearing not later than 45 days after\nthe date an application for a variance is filed does not apply to an application for\na variance from a subdivision requirement.\n\nSource: Sections 13-1-481(f) and 13-1-484(c); Ord. 990225-70; Ord. 010607-8; Ord.",
+  "entities": [
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 196,
+      "end": 204,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-214",
+      "label": "SECTION_REF",
+      "start": 391,
+      "end": 407,
+      "normalized": {
+        "section": "25-1-214",
+        "subsection": null,
+        "full_reference": "25-1-214"
+      }
+    }
+  ]
+}

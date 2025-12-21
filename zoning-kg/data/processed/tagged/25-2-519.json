@@ -1,0 +1,261 @@
+{
+  "section_id": "25-2-519",
+  "content": "Ord. No. 20240229-070, Pt. 1, adopted March 11, 2024, repealed § 25-2-519, which pertained to Commercial-Residential\nDevelopment and derived from Ord. No. 20221201-055, Pt. 2, 12-12-22; Ord. No. 20231102-028, Pt. 9, 11-13-23.\n\n(A)\n\nThis section provides exceptions to zoning district height limits.\n\n(B)\n\nSubsection (C) applies to:\n\n(1)\n\nparapet walls, chimneys, vents, and mechanical or safety features including fire towers,\nstairways, elevator penthouses, heating or cooling equipment, solar installations,\nand protective covers; and\n\n(2)\n\nornamental towers, cupolas, domes, and spires that are not designed for occupancy.\n\n(C)\n\nA structure described in Subsection (B) may exceed a zoning district height limit\nby the greater of:\n\n(1)\n\n15 percent;\n\n(2)\n\nthe amount necessary to comply with a federal or state regulation;\n\n(3)\n\nfor a stack or vent, the amount necessary to comply with generally accepted engineering\nstandards; or\n\n(4)\n\nfor a spire, 30 percent.\n\n(D)\n\nThe height of a home radio or television receiving antenna or a flagpole may not exceed\nthe lesser of:\n\n(1)\n\na 50 feet; or\n\n(2)\n\nif attached to a building, 25 feet above the building; or\n\n(3)\n\nif located on the ground, 125 percent of the zoning district height limit.\n\n(E)\n\nA radio tower operated by a licensed amateur radio operator may not exceed a height\nof 60 feet plus 15 feet for antennae. The Land Use Commission may approve a greater\nheight as a conditional use.\n\n(F)\n\nAn antenna located on a building in a non-residential zoning district may exceed the\nzoning district height limit by not more than 20 feet.\n\n(G)\n\nA fly tower that is constructed within a performing arts theater that seats 300 or\nmore people may be up to 80 feet in height, regardless of the zoning district height\nlimit, unless a lower height limit is required by City Code Chapter 25-2, Article 10 (Compatibility Standards). The fly tower must be:\n\n(1)\n\nlocated on land owned by the City of Austin; and\n\n(2)\n\ndesigned and used for moving set pieces, lights, microphones, and other equipment\non and off stage.\n\nSource: Section 13-2-608; Ord. 990225-70; Ord. 010607-8; Ord. 031211-11; Ord. 040826-67;",
+  "entities": [
+    {
+      "text": "§ 25-2-519",
+      "label": "SECTION_REF",
+      "start": 63,
+      "end": 73,
+      "normalized": {
+        "section": "25-2-519",
+        "subsection": null,
+        "full_reference": "25-2-519"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 284,
+      "end": 290,
+      "normalized": "height_max"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 701,
+      "end": 707,
+      "normalized": "height_max"
+    },
+    {
+      "text": "15 percent",
+      "label": "MEASUREMENT",
+      "start": 739,
+      "end": 749,
+      "normalized": {
+        "value": 15.0,
+        "unit": "%",
+        "original": "15 percent"
+      }
+    },
+    {
+      "text": "30 percent",
+      "label": "MEASUREMENT",
+      "start": 951,
+      "end": 961,
+      "normalized": {
+        "value": 30.0,
+        "unit": "%",
+        "original": "30 percent"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 973,
+      "end": 979,
+      "normalized": "height_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1046,
+      "end": 1056,
+      "normalized": "lte"
+    },
+    {
+      "text": "50 feet",
+      "label": "MEASUREMENT",
+      "start": 1080,
+      "end": 1087,
+      "normalized": {
+        "value": 50,
+        "unit": "ft",
+        "original": "50 feet"
+      }
+    },
+    {
+      "text": "25 feet",
+      "label": "MEASUREMENT",
+      "start": 1125,
+      "end": 1132,
+      "normalized": {
+        "value": 25,
+        "unit": "ft",
+        "original": "25 feet"
+      }
+    },
+    {
+      "text": "125 percent",
+      "label": "MEASUREMENT",
+      "start": 1188,
+      "end": 1199,
+      "normalized": {
+        "value": 125.0,
+        "unit": "%",
+        "original": "125 percent"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1223,
+      "end": 1229,
+      "normalized": "height_max"
+    },
+    {
+      "text": "not exceed",
+      "label": "OPERATOR",
+      "start": 1307,
+      "end": 1317,
+      "normalized": "lte"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1320,
+      "end": 1326,
+      "normalized": "height_max"
+    },
+    {
+      "text": "60 feet",
+      "label": "MEASUREMENT",
+      "start": 1330,
+      "end": 1337,
+      "normalized": {
+        "value": 60,
+        "unit": "ft",
+        "original": "60 feet"
+      }
+    },
+    {
+      "text": "15 feet",
+      "label": "MEASUREMENT",
+      "start": 1343,
+      "end": 1350,
+      "normalized": {
+        "value": 15,
+        "unit": "ft",
+        "original": "15 feet"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1411,
+      "end": 1417,
+      "normalized": "height_max"
+    },
+    {
+      "text": "residential",
+      "label": "USE_TYPE",
+      "start": 1488,
+      "end": 1499,
+      "normalized": "residential"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1547,
+      "end": 1553,
+      "normalized": "height_max"
+    },
+    {
+      "text": "not more than",
+      "label": "OPERATOR",
+      "start": 1563,
+      "end": 1576,
+      "normalized": "lte"
+    },
+    {
+      "text": "20 feet",
+      "label": "MEASUREMENT",
+      "start": 1577,
+      "end": 1584,
+      "normalized": {
+        "value": 20,
+        "unit": "ft",
+        "original": "20 feet"
+      }
+    },
+    {
+      "text": "up to",
+      "label": "OPERATOR",
+      "start": 1694,
+      "end": 1699,
+      "normalized": "lte"
+    },
+    {
+      "text": "80 feet",
+      "label": "MEASUREMENT",
+      "start": 1700,
+      "end": 1707,
+      "normalized": {
+        "value": 80,
+        "unit": "ft",
+        "original": "80 feet"
+      }
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1711,
+      "end": 1717,
+      "normalized": "height_max"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1753,
+      "end": 1759,
+      "normalized": "height_max"
+    },
+    {
+      "text": "height",
+      "label": "METRIC",
+      "start": 1782,
+      "end": 1788,
+      "normalized": "height_max"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1798,
+      "end": 1806,
+      "normalized": "required"
+    },
+    {
+      "text": "Chapter 25-2",
+      "label": "SECTION_REF",
+      "start": 1820,
+      "end": 1832,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-2",
+        "full_reference": "Chapter 25-2"
+      }
+    },
+    {
+      "text": "Article 10",
+      "label": "SECTION_REF",
+      "start": 1834,
+      "end": 1844,
+      "normalized": {
+        "type": "article",
+        "number": 10,
+        "full_reference": "Article 10"
+      }
+    },
+    {
+      "text": "Section 13-2-608",
+      "label": "SECTION_REF",
+      "start": 2065,
+      "end": 2081,
+      "normalized": {
+        "section": "13-2-608",
+        "subsection": null,
+        "full_reference": "13-2-608"
+      }
+    }
+  ]
+}

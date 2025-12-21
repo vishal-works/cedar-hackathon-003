@@ -1,0 +1,123 @@
+{
+  "section_id": "25-1-712",
+  "content": "(A)\n\nAt the time that notification is provided under Section 25-1-712 (Tenant Notification Required), the owner or operator of a multi-family property or mobile home park must post\none or more signs in accordance with this section.\n\n(B)\n\nThe sign must be on a form approved by the director and must:\n\n(1)\n\ndescribe the application for which notification is required under Section 25-1-712 (Tenant Notification) and state that any new or existing tenants may be required to relocate from the\nproperty as a result of proposed demolition or redevelopment; and\n\n(2)\n\nto the greatest extent feasible:\n\n(a)\n\nfor a mobile home park, be posted at the main entrance in a location visible to the\npublic from the adjacent public right-of-way or private drive; or\n\n(b)\n\nfor a multi-family property, be posted at the front of the leasing office or other\nprimary building entrance as determined by the director.\n\n(C)\n\nA sign required to be posted under this section must remain on the property until:\n\n(1)\n\nfor a multi-family property, the date that demolition, alteration, or repair activity\nbegins; and\n\n(2)\n\nfor a mobile home park, the earlier of:\n\n(a)\n\nthe date that the property ceases to be used as a mobile home park; or\n\n(b)\n\nif applicable, the date that the site plan approval or change of use permit expires;\nand\n\n(3)\n\nthe date that unpermitted redevelopment ends.\n\n(D)\n\nIf a landowner or a landowner's agent rents a unit to a new tenant following application\nfor a permit requiring notice under Section 25-1-712 (Tenant Notification Required), the landowner or landowner's agent must provide the tenant with notification that\nincludes the information required under Section 25-1-712(C) (Tenant Notification Required).\n\nSource: 20160901-050, Pt. 4, 9-12-16; Ord. No. 20230831-103, Pt. 3, 9-11-23.",
+  "entities": [
+    {
+      "text": "Section 25-1-712",
+      "label": "SECTION_REF",
+      "start": 53,
+      "end": 69,
+      "normalized": {
+        "section": "25-1-712",
+        "subsection": null,
+        "full_reference": "25-1-712"
+      }
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 129,
+      "end": 141,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 154,
+      "end": 170,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 357,
+      "end": 365,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-712",
+      "label": "SECTION_REF",
+      "start": 372,
+      "end": 388,
+      "normalized": {
+        "section": "25-1-712",
+        "subsection": null,
+        "full_reference": "25-1-712"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 461,
+      "end": 469,
+      "normalized": "required"
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 608,
+      "end": 624,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 764,
+      "end": 776,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "office",
+      "label": "USE_TYPE",
+      "start": 825,
+      "end": 831,
+      "normalized": "office"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 911,
+      "end": 919,
+      "normalized": "required"
+    },
+    {
+      "text": "multi-family",
+      "label": "USE_TYPE",
+      "start": 999,
+      "end": 1011,
+      "normalized": "multifamily"
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 1103,
+      "end": 1119,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "mobile home park",
+      "label": "USE_TYPE",
+      "start": 1193,
+      "end": 1209,
+      "normalized": "mobile_home_park"
+    },
+    {
+      "text": "Section 25-1-712",
+      "label": "SECTION_REF",
+      "start": 1492,
+      "end": 1508,
+      "normalized": {
+        "section": "25-1-712",
+        "subsection": null,
+        "full_reference": "25-1-712"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 1648,
+      "end": 1656,
+      "normalized": "required"
+    }
+  ]
+}

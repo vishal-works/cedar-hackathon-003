@@ -1,0 +1,49 @@
+{
+  "section_id": "30-1-483",
+  "content": "\n(A)\n\nThis section prescribes the city's procedure for amending the regulations in this\ntitle.\n\n(B)\n\nExcept as provided in Section 30-1-483 (Joint Action Required), the council may amend this title after a public hearing.\nThe council must receive a recommendation required by Subsection (C) before opening\na public hearing or acting on an amendment.\n\n(C)\n\nPlanning commission review of a proposed amendment of this title is required. The\nplanning commission must hold a public hearing on the proposed amendment before forwarding\nits recommendation to the council.\n\n(D)\n\nNotice of a public hearing required by this section shall be provided in accordance\nwith Section 30-1-153(C) (Notice Of Public Hearing).\n\nSource: City Code Section 25-1-502; Ord. 031211-11; Ord. 031211-42.",
+  "entities": [
+    {
+      "text": "Section 30-1-483",
+      "label": "SECTION_REF",
+      "start": 123,
+      "end": 139,
+      "normalized": {
+        "section": "30-1-483",
+        "subsection": null,
+        "full_reference": "30-1-483"
+      }
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 264,
+      "end": 272,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 424,
+      "end": 432,
+      "normalized": "required"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 597,
+      "end": 605,
+      "normalized": "required"
+    },
+    {
+      "text": "Section 25-1-502",
+      "label": "SECTION_REF",
+      "start": 726,
+      "end": 742,
+      "normalized": {
+        "section": "25-1-502",
+        "subsection": null,
+        "full_reference": "25-1-502"
+      }
+    }
+  ]
+}

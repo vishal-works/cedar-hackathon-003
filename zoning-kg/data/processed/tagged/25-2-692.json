@@ -1,0 +1,126 @@
+{
+  "section_id": "25-2-692",
+  "content": "\n(A)\n\nAn applicant may submit a request for a variance from the following requirements to\nthe Small Area Planning Joint Committee of the Planning Commission and the Zoning\nand Platting Commission for review:\n\n(1)\n\nSection 25-2-692 (Waterfront Overlay (WO) Subdistrict Uses);\n\n(2)\n\nSection 25-2-721 (Waterfront Overlay (WO) Combining District Regulations); or\n\n(3)\n\nSubpart C (Subdistrict Regulations), except that no variance may be granted from restrictions on maximum height.\n\n(B)\n\nThe board may recommend approval of the variance after determining that:\n\n(1)\n\nthe proposed project and variance are consistent with the goals and policies of the\nTown Lake Corridor Study, including environmental protection, aesthetic enhancement,\nand traffic; and\n\n(2)\n\nthe variance is the minimum required by the peculiarities of the tract.\n\n(C)\n\nThe following requirements apply if the board recommends approval of a variance under\nSubsection (B) of this section:\n\n(1)\n\nThe director shall forward the board's recommendation to the Land Use Commission,\nwhich shall consider the recommendation and the variance application at the next regularly\nscheduled meeting for which notice can be timely provided.\n\n(2)\n\nThe Land Use Commission shall grant or deny the variance based on the criteria in\nSubsection (B) of this section.\n\n(3)\n\nAn interested party may appeal the Land Use Commission's grant or denial of a variance\nto the council under the requirements of Chapter 25-1, Article 7, Division 1 (Appeals).\n\n(D)\n\nThe following requirements apply if the Board recommends denial of a variance under\nSubsection (B) of this section:\n\n(1)\n\nThe applicant may appeal the Board's recommendation to the city council under the\nrequirements of Chapter 25-1, Article 7, Division 1 (Appeals). The council shall consider the Board's recommendation and the variance application\nat the next regularly scheduled meeting for which notice can be timely provided.\n\n(2)\n\nThe council shall grant or deny the variance based on the criteria in Subsection (B)\nof this section.\n\nSource: Section 13-2-704; Ord. 990225-70; Ord. 990715-115; Ord. 010607-8; Ord. 031211-11;",
+  "entities": [
+    {
+      "text": "Section 25-2-692",
+      "label": "SECTION_REF",
+      "start": 214,
+      "end": 230,
+      "normalized": {
+        "section": "25-2-692",
+        "subsection": null,
+        "full_reference": "25-2-692"
+      }
+    },
+    {
+      "text": "Section 25-2-721",
+      "label": "SECTION_REF",
+      "start": 281,
+      "end": 297,
+      "normalized": {
+        "section": "25-2-721",
+        "subsection": null,
+        "full_reference": "25-2-721"
+      }
+    },
+    {
+      "text": "maximum height",
+      "label": "METRIC",
+      "start": 462,
+      "end": 476,
+      "normalized": "height_max"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 775,
+      "end": 782,
+      "normalized": "min"
+    },
+    {
+      "text": "required",
+      "label": "OPERATOR",
+      "start": 783,
+      "end": 791,
+      "normalized": "required"
+    },
+    {
+      "text": "Chapter 25-1",
+      "label": "SECTION_REF",
+      "start": 1443,
+      "end": 1455,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-1",
+        "full_reference": "Chapter 25-1"
+      }
+    },
+    {
+      "text": "Article 7",
+      "label": "SECTION_REF",
+      "start": 1457,
+      "end": 1466,
+      "normalized": {
+        "type": "article",
+        "number": 7,
+        "full_reference": "Article 7"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 1468,
+      "end": 1478,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "Chapter 25-1",
+      "label": "SECTION_REF",
+      "start": 1716,
+      "end": 1728,
+      "normalized": {
+        "type": "chapter",
+        "number": "25-1",
+        "full_reference": "Chapter 25-1"
+      }
+    },
+    {
+      "text": "Article 7",
+      "label": "SECTION_REF",
+      "start": 1730,
+      "end": 1739,
+      "normalized": {
+        "type": "article",
+        "number": 7,
+        "full_reference": "Article 7"
+      }
+    },
+    {
+      "text": "Division 1",
+      "label": "SECTION_REF",
+      "start": 1741,
+      "end": 1751,
+      "normalized": {
+        "type": "division",
+        "number": 1,
+        "full_reference": "Division 1"
+      }
+    },
+    {
+      "text": "Section 13-2-704",
+      "label": "SECTION_REF",
+      "start": 2044,
+      "end": 2060,
+      "normalized": {
+        "section": "13-2-704",
+        "subsection": null,
+        "full_reference": "13-2-704"
+      }
+    }
+  ]
+}

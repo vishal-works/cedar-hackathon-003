@@ -1,0 +1,125 @@
+{
+  "section_id": "25-2-551",
+  "content": "Development within the Lake Austin (LA) overlay district must comply with the regulations\napplicable to the LA zoning district under Section 25-2-551 (Lake Austin (LA) District Regulations) and the minimum lot size, minimum lot width, and setbacks applicable to the LA zoning\ndistrict under section 25-2-491 (Site Development Regulations).\n\nSource: Ord. No. 20140626-114, Pt. 2, 7-7-14.",
+  "entities": [
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 23,
+      "end": 34,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 36,
+      "end": 38,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 108,
+      "end": 110,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "Section 25-2-551",
+      "label": "SECTION_REF",
+      "start": 133,
+      "end": 149,
+      "normalized": {
+        "section": "25-2-551",
+        "subsection": null,
+        "full_reference": "25-2-551"
+      }
+    },
+    {
+      "text": "Lake Austin",
+      "label": "ZONE",
+      "start": 151,
+      "end": 162,
+      "normalized": {
+        "code": "LA",
+        "name": "lake austin",
+        "original": "Lake Austin"
+      }
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 164,
+      "end": 166,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 198,
+      "end": 205,
+      "normalized": "min"
+    },
+    {
+      "text": "lot size",
+      "label": "METRIC",
+      "start": 206,
+      "end": 214,
+      "normalized": "lot_size_min"
+    },
+    {
+      "text": "minimum",
+      "label": "OPERATOR",
+      "start": 216,
+      "end": 223,
+      "normalized": "min"
+    },
+    {
+      "text": "lot width",
+      "label": "METRIC",
+      "start": 224,
+      "end": 233,
+      "normalized": "lot_width_min"
+    },
+    {
+      "text": "setbacks",
+      "label": "METRIC",
+      "start": 239,
+      "end": 247,
+      "normalized": "setback_min"
+    },
+    {
+      "text": "LA",
+      "label": "ZONE",
+      "start": 266,
+      "end": 268,
+      "normalized": {
+        "code": "LA",
+        "original": "LA"
+      }
+    },
+    {
+      "text": "section 25-2-491",
+      "label": "SECTION_REF",
+      "start": 291,
+      "end": 307,
+      "normalized": {
+        "section": "25-2-491",
+        "subsection": null,
+        "full_reference": "25-2-491"
+      }
+    }
+  ]
+}
