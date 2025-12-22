@@ -236,6 +236,7 @@ zoning-kg/
 │   ├── analyze_graph.py            # Graph quality analysis
 │   ├── clean_graph.py              # Graph cleanup (normalize edges)
 │   ├── merge_duplicates.py         # Merge duplicate entities
+│   ├── export_graph.py             # Export graph documentation
 │   ├── setup_zep_ontology.py       # Set up Zep Cloud ontology
 │   └── ingest_all_to_zep.py        # Ingest to Zep Cloud
 ├── data/
@@ -251,7 +252,8 @@ zoning-kg/
 │   └── test_ontology.py            # Ontology tests
 ├── docker-compose.yml              # Neo4j container
 ├── .env.example                    # Environment template
-└── requirements.txt
+├── requirements.txt
+└── zoning_kg.md                    # Complete graph documentation for LLMs
 ```
 
 ---
@@ -446,6 +448,30 @@ python scripts/ingest_all_to_zep.py
 **Note**: Zep Cloud free tier has rate limits (5 req/min). Full ingestion takes ~75 minutes for 301 items.
 
 View your graph: https://app.getzep.com/
+
+---
+
+## Graph Documentation
+
+### Complete LLM Context File
+
+The `zoning_kg.md` file provides comprehensive documentation of the entire knowledge graph, designed to be used as context for LLMs:
+
+```bash
+# Generate/update the graph documentation
+python scripts/export_graph.py
+```
+
+The documentation includes:
+- **Complete statistics**: Node counts, relationship counts, episode counts
+- **Entity schemas**: All properties and sample values for each entity type
+- **Relationship patterns**: Common patterns and edge type distributions
+- **Query examples**: Ready-to-use Cypher queries
+- **Ontology summary**: Visual hierarchy and relationship map
+
+**File**: [`zoning_kg.md`](zoning_kg.md) (~22KB)
+
+Use this file to provide an LLM with complete understanding of the graph structure and contents.
 
 ---
 
