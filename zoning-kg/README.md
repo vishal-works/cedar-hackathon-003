@@ -8,6 +8,148 @@ A complete pipeline for building a knowledge graph from the Austin Land Developm
 2. **Extracts** zoning entities using spaCy NER
 3. **Ingests** into a Graphiti/Neo4j knowledge graph
 4. **Applies** Texas state bill overrides for regulatory hierarchy
+5. **Queries** via an intelligent multi-agent pipeline with Text-to-Cypher
+
+---
+
+## 🚀 Quick Start: Query the Knowledge Graph
+
+```bash
+cd zoning-kg
+source venv/bin/activate
+export $(grep -v '^#' .env | xargs)
+
+# Query with beautiful verbose output
+python scripts/query_zoning.py "Can I build townhouses in SF-5?" --verbose
+
+# Simple JSON output
+python scripts/query_zoning.py "What zones allow duplexes?"
+```
+
+---
+
+## 🤖 Agent Pipeline Architecture
+
+The pipeline uses a multi-agent workflow to convert natural language questions into grounded zoning answers:
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         ORGAnIZM AGENT PIPELINE                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  ┌─────────────────┐                                                         ║
+║  │  User Question  │  "Can I build townhouses in SF-5?"                      ║
+║  └────────┬────────┘                                                         ║
+║           │                                                                  ║
+║           ▼                                                                  ║
+║  ┌─────────────────────────────────────────────────────────────────┐        ║
+║  │                    TEXT-TO-CYPHER AGENT                          │        ║
+║  │  • Uses LLM (GPT-4o) + graph schema                             │        ║
+║  │  • Generates Cypher query from natural language                 │        ║
+║  │  • Retry logic: refines query if no results (up to 3 attempts)  │        ║
+║  └────────┬────────────────────────────────────────────────────────┘        ║
+║           │                                                                  ║
+║           ▼                                                                  ║
+║  ┌─────────────────────────────────────────────────────────────────┐        ║
+║  │                      NEO4J EXECUTION                             │        ║
+║  │  • Executes generated Cypher via Bolt driver                    │        ║
+║  │  • Same database as MCP server                                  │        ║
+║  │  • Returns real graph data (nodes, relationships, properties)   │        ║
+║  └────────┬────────────────────────────────────────────────────────┘        ║
+║           │                                                                  ║
+║           ▼                                                                  ║
+║  ┌─────────────────────────────────────────────────────────────────┐        ║
+║  │                    ANALYST AGENT (GPT-4o)                        │        ║
+║  │  • Receives: schema + query results + domain expertise          │        ║
+║  │  • Analyzes: permissibility, constraints, overrides, conditions │        ║
+║  │  • Outputs: detailed natural language analysis                  │        ║
+║  └────────┬────────────────────────────────────────────────────────┘        ║
+║           │                                                                  ║
+║           ▼                                                                  ║
+║  ┌─────────────────────────────────────────────────────────────────┐        ║
+║  │                   FORMATTER AGENT (GPT-4o)                       │        ║
+║  │  • Converts analysis to structured JSON                         │        ║
+║  │  • Validates against Pydantic schema (ZoningResponse)           │        ║
+║  │  • Ensures consistent output format                             │        ║
+║  └────────┬────────────────────────────────────────────────────────┘        ║
+║           │                                                                  ║
+║           ▼                                                                  ║
+║  ┌─────────────────┐                                                         ║
+║  │  JSON Response  │  { permitted: true, constraints: [...], ... }          ║
+║  └─────────────────┘                                                         ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+### Key Features
+
+| Feature | Description |
+|---------|-------------|
+| **Text-to-Cypher** | LLM converts natural language to Cypher queries |
+| **Retry Logic** | Automatically refines queries if no results (up to 3 attempts) |
+| **Grounded Answers** | Analyst uses real graph data, not hallucinations |
+| **Schema-Aware** | Agents have full knowledge of the graph schema |
+| **Structured Output** | Validated JSON with Pydantic schemas |
+| **Beautiful CLI** | ASCII art progress display in verbose mode |
+
+### Response Schema
+
+```json
+{
+  "query": {
+    "original": "Can I build townhouses in SF-5?",
+    "interpreted": {
+      "use_type": "Townhouse",
+      "zone": "SF-5",
+      "jurisdiction": "austin_tx"
+    }
+  },
+  "permitted": true,
+  "summary": "Townhouses are permitted by right in SF-5 zone.",
+  "constraints": [
+    {
+      "metric": "lot_width_min",
+      "display_name": "Minimum Lot Width",
+      "value": 50,
+      "unit": "ft",
+      "scope": "lot",
+      "source": "LDC §25-2-775(B)"
+    }
+  ],
+  "overrides": [],
+  "conditions": [],
+  "sources": [...],
+  "confidence": "high",
+  "caveats": []
+}
+```
+
+### CLI Usage
+
+```bash
+# Basic query (JSON output)
+python scripts/query_zoning.py "What zones allow townhouses?"
+
+# Verbose mode (shows all pipeline steps with ASCII art)
+python scripts/query_zoning.py "Can I build townhouses in SF-5?" --verbose
+
+# Raw mode (skip validation, useful for debugging)
+python scripts/query_zoning.py "What are setback requirements?" --raw
+```
+
+### Agent Files
+
+```
+src/agents/
+├── __init__.py           # Package exports
+├── config.py             # Agent configs, system prompts, schema context
+├── schemas.py            # Pydantic response models (ZoningResponse, etc.)
+├── text_to_cypher.py     # NL → Cypher conversion with retry logic
+├── mcp_client.py         # Neo4j Bolt client for query execution
+├── analyst.py            # Domain expert agent with retry orchestration
+├── formatter.py          # JSON formatting agent
+└── orchestrator.py       # Pipeline coordinator with ASCII output
+```
 
 ---
 
@@ -18,7 +160,7 @@ A complete pipeline for building a knowledge graph from the Austin Land Developm
 │   ldc.md        │────▶│ Section Splitter │────▶│ sections/*.json │
 │ (103K lines)    │     │ (01_split)       │     │ (298 files)     │
 └─────────────────┘     └──────────────────┘     └────────┬────────┘
-                                                          │
+                                                         │
                         ┌──────────────────┐              │
                         │   NER Pipeline   │◀─────────────┘
                         │ (02_run_ner)     │
@@ -174,6 +316,18 @@ python scripts/04_ingest_episodes.py --verbose
 python scripts/05_add_overrides.py --verbose
 ```
 
+### Query the Knowledge Graph
+
+```bash
+# Load environment and query
+export $(grep -v '^#' .env | xargs)
+
+# Ask zoning questions
+python scripts/query_zoning.py "Can I build townhouses in SF-5?" --verbose
+python scripts/query_zoning.py "What zones allow duplexes?"
+python scripts/query_zoning.py "What are the height limits in MF-4?"
+```
+
 ### Testing Individual Sections
 
 ```bash
@@ -198,6 +352,9 @@ python -m pytest tests/test_ontology.py -v
 
 # Preprocessing tests only
 python -m pytest tests/test_preprocessing.py -v
+
+# Agent tests
+python -m pytest tests/test_agents.py -v
 ```
 
 ---
@@ -223,16 +380,26 @@ zoning-kg/
 │   │   ├── type_config.py          # Entity/edge type maps
 │   │   ├── ingestion.py            # Episode ingestion logic
 │   │   └── zep_client.py           # Zep Cloud integration
-│   └── graph/                      # Graph builders
-│       ├── base_graph.py           # Jurisdictions, zones, uses
-│       ├── episode_loader.py       # Load tagged sections
-│       └── override_layer.py       # State bill overrides
+│   ├── graph/                      # Graph builders
+│   │   ├── base_graph.py           # Jurisdictions, zones, uses
+│   │   ├── episode_loader.py       # Load tagged sections
+│   │   └── override_layer.py       # State bill overrides
+│   └── agents/                     # 🆕 Agent Pipeline
+│       ├── __init__.py             # Package exports
+│       ├── config.py               # Agent configs & system prompts
+│       ├── schemas.py              # Pydantic response models
+│       ├── text_to_cypher.py       # NL → Cypher with retry
+│       ├── mcp_client.py           # Neo4j query client
+│       ├── analyst.py              # Zoning analyst agent
+│       ├── formatter.py            # JSON formatter agent
+│       └── orchestrator.py         # Pipeline coordinator
 ├── scripts/
 │   ├── 01_split_sections.py        # Split LDC document
 │   ├── 02_run_ner.py               # Run NER pipeline
 │   ├── 03_build_base_graph.py      # Create base graph
 │   ├── 04_ingest_episodes.py       # Ingest episodes to Graphiti
 │   ├── 05_add_overrides.py         # Add overrides
+│   ├── query_zoning.py             # 🆕 CLI for agent queries
 │   ├── analyze_graph.py            # Graph quality analysis
 │   ├── clean_graph.py              # Graph cleanup (normalize edges)
 │   ├── merge_duplicates.py         # Merge duplicate entities
@@ -249,7 +416,8 @@ zoning-kg/
 │       └── sb2835.json             # SB-2835 conditions
 ├── tests/
 │   ├── test_preprocessing.py       # NLP tests (35 tests)
-│   └── test_ontology.py            # Ontology tests
+│   ├── test_ontology.py            # Ontology tests
+│   └── test_agents.py              # 🆕 Agent pipeline tests
 ├── docker-compose.yml              # Neo4j container
 ├── .env.example                    # Environment template
 ├── requirements.txt
@@ -401,7 +569,7 @@ python -m pytest tests/ -v --tb=short
 - spaCy 3.7+
 - graphiti-core 0.5+
 - pydantic 2.0+
-- OpenAI API key (for Graphiti LLM extraction)
+- OpenAI API key (for Graphiti LLM extraction and Agent pipeline)
 - Neo4j 5.0+ (via Docker)
 
 ---
