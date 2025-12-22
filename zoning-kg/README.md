@@ -451,6 +451,25 @@ View your graph: https://app.getzep.com/
 
 ---
 
+## MCP Server Integration
+
+Query your knowledge graph using natural language through the Model Context Protocol (MCP):
+
+```bash
+# Automated setup
+chmod +x scripts/setup_mcp_neo4j.sh
+./scripts/setup_mcp_neo4j.sh
+```
+
+Once configured, you can query through Claude Desktop or Cursor:
+- "Show me all zones that allow townhouses"
+- "What are the SB-840 overrides?"
+- "Find orphan nodes in the graph"
+
+**Full setup guide**: See [`MCP_SETUP.md`](MCP_SETUP.md)
+
+---
+
 ## Graph Documentation
 
 ### Complete LLM Context File
