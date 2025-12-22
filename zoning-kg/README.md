@@ -81,14 +81,36 @@ A complete pipeline for building a knowledge graph from the Austin Land Developm
 | `ZONE` | 3,640 | Zone district codes (SF-5, MF-4) |
 | `METRIC` | 3,090 | Metric names (lot width, setback) |
 
-### Stage 2: Knowledge Graph
+### Stage 2: Knowledge Graph (Graphiti + Neo4j)
 
 | Metric | Value |
 |--------|-------|
-| **Jurisdictions** | 2 (Austin, Texas) |
-| **Zone Districts** | 31 |
-| **Use Types** | 7 |
-| **State Overrides** | 10 (SB-840 + SB-2835) |
+| **Total Nodes** | 1,211 |
+| **Total Relationships** | 9,772 |
+| **Episodes Ingested** | 306 |
+| **Jurisdictions** | 65 |
+| **Zone Districts** | 135 |
+| **Use Types** | 112 |
+| **Rules** | 159 |
+| **Constraints** | 64 |
+| **Conditions** | 9 |
+| **State Overrides** | 15 (SB-840, SB-2835) |
+| **Document Sources** | 154 |
+
+### Top Relationship Types
+
+| Edge Type | Count | Description |
+|-----------|-------|-------------|
+| `APPLIES_IN` | 587 | Rules/Constraints apply in zones |
+| `CONTAINS` | 363 | Jurisdiction contains zones |
+| `SOURCED_FROM` | 294 | Traceability to source documents |
+| `GOVERNED_BY` | 242 | Use types governed by rules |
+| `ALLOWS_USE` | 231 | Zones allow specific uses |
+| `HAS_CONSTRAINT` | 194 | Rules contain constraints |
+| `REQUIRES` | 77 | Conditional requirements |
+| `APPLIES_TO` | 68 | Scope relationships |
+| `DEFINES` | 65 | Definitional relationships |
+| `INCLUDES` | 51 | Inclusion relationships |
 
 ---
 
@@ -199,7 +221,8 @@ zoning-kg/
 │   ├── graphiti/                   # Graphiti integration
 │   │   ├── client.py               # Neo4j/Graphiti client
 │   │   ├── type_config.py          # Entity/edge type maps
-│   │   └── ingestion.py            # Episode ingestion logic
+│   │   ├── ingestion.py            # Episode ingestion logic
+│   │   └── zep_client.py           # Zep Cloud integration
 │   └── graph/                      # Graph builders
 │       ├── base_graph.py           # Jurisdictions, zones, uses
 │       ├── episode_loader.py       # Load tagged sections
@@ -208,13 +231,18 @@ zoning-kg/
 │   ├── 01_split_sections.py        # Split LDC document
 │   ├── 02_run_ner.py               # Run NER pipeline
 │   ├── 03_build_base_graph.py      # Create base graph
-│   ├── 04_ingest_episodes.py       # Ingest episodes
-│   └── 05_add_overrides.py         # Add overrides
+│   ├── 04_ingest_episodes.py       # Ingest episodes to Graphiti
+│   ├── 05_add_overrides.py         # Add overrides
+│   ├── analyze_graph.py            # Graph quality analysis
+│   ├── clean_graph.py              # Graph cleanup (normalize edges)
+│   ├── merge_duplicates.py         # Merge duplicate entities
+│   ├── setup_zep_ontology.py       # Set up Zep Cloud ontology
+│   └── ingest_all_to_zep.py        # Ingest to Zep Cloud
 ├── data/
 │   ├── raw/                        # Source documents
 │   ├── processed/
 │   │   ├── sections/               # Split sections (298 JSON)
-│   │   └── tagged/                 # NER-tagged sections (298 JSON)
+│   │   └── tagged/                 # NER-tagged sections (299 JSON)
 │   └── state_bills/                # Override definitions
 │       ├── sb840.json              # SB-840 overrides
 │       └── sb2835.json             # SB-2835 conditions
@@ -222,7 +250,7 @@ zoning-kg/
 │   ├── test_preprocessing.py       # NLP tests (35 tests)
 │   └── test_ontology.py            # Ontology tests
 ├── docker-compose.yml              # Neo4j container
-├── env.example                     # Environment template
+├── .env.example                    # Environment template
 └── requirements.txt
 ```
 
@@ -366,12 +394,58 @@ python -m pytest tests/ -v --tb=short
 
 ## Requirements
 
-- Python 3.9+
+- Python 3.11+ (Graphiti requires 3.10+)
 - Docker (for Neo4j)
 - spaCy 3.7+
 - graphiti-core 0.5+
 - pydantic 2.0+
 - OpenAI API key (for Graphiti LLM extraction)
+- Neo4j 5.0+ (via Docker)
+
+---
+
+## Graph Cleanup & Maintenance
+
+The pipeline includes post-processing utilities for graph quality:
+
+### Analysis
+```bash
+# Analyze graph for duplicates, orphans, inconsistencies
+python scripts/analyze_graph.py
+```
+
+### Cleanup
+```bash
+# Normalize edge types, tag issues (non-destructive)
+python scripts/clean_graph.py
+
+# Merge duplicate entities
+python scripts/merge_duplicates.py
+```
+
+### Common Issues Addressed
+- **Edge type normalization**: 1,206 LLM-generated variants → 10 canonical types
+- **Duplicate merging**: 24 duplicate entity groups consolidated
+- **Label cleanup**: Removed base `Entity` label from 721 typed nodes
+- **Orphan tagging**: Flagged 15 unconnected nodes for review
+
+---
+
+## Zep Cloud Integration
+
+The project supports syncing to Zep Cloud for visualization:
+
+```bash
+# Set up custom ontology in Zep Cloud
+python scripts/setup_zep_ontology.py
+
+# Ingest all content to Zep
+python scripts/ingest_all_to_zep.py
+```
+
+**Note**: Zep Cloud free tier has rate limits (5 req/min). Full ingestion takes ~75 minutes for 301 items.
+
+View your graph: https://app.getzep.com/
 
 ---
 
