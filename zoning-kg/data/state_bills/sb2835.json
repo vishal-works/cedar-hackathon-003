@@ -1,0 +1,68 @@
+{
+  "bill_id": "SB-2835",
+  "title": "Housing Development Adjacent to Transit Stations",
+  "legislature": "89th Texas Legislature",
+  "effective_date": "2025-09-01",
+  "jurisdiction": "texas",
+  "summary": "Enhanced development allowances for housing near transit stations",
+  "source_pdf": "../TX/source_documents/Texas-2025-SB2835.pdf",
+  "overrides": [
+    {
+      "id": "texas:SB-2835:transit_density",
+      "metric": "density_max",
+      "override_type": "floor",
+      "value": 50,
+      "unit": "units/acre",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["all"],
+      "condition": {
+        "type": "proximity",
+        "target": "transit_station",
+        "distance": 0.5,
+        "unit": "miles"
+      },
+      "description": "Within 0.5 miles of transit stations, municipalities cannot limit density below 50 units/acre"
+    },
+    {
+      "id": "texas:SB-2835:transit_height",
+      "metric": "height_max",
+      "override_type": "floor",
+      "value": 65,
+      "unit": "ft",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["all"],
+      "condition": {
+        "type": "proximity",
+        "target": "transit_station",
+        "distance": 0.5,
+        "unit": "miles"
+      },
+      "description": "Within 0.5 miles of transit stations, municipalities cannot limit height below 65 feet"
+    },
+    {
+      "id": "texas:SB-2835:transit_parking",
+      "metric": "parking_spaces_per_unit",
+      "override_type": "ceiling",
+      "value": 0.5,
+      "unit": "spaces",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["all"],
+      "condition": {
+        "type": "proximity",
+        "target": "transit_station",
+        "distance": 0.25,
+        "unit": "miles"
+      },
+      "description": "Within 0.25 miles of transit stations, parking requirement capped at 0.5 spaces per unit"
+    }
+  ],
+  "definitions": {
+    "transit_station": "A station on a fixed rail line or a bus rapid transit (BRT) station with headways of 15 minutes or less during peak hours"
+  },
+  "exclusions": [
+    "Historic districts designated before 2020",
+    "Airport safety zones"
+  ],
+  "notes": "This bill creates transit-oriented development (TOD) overlays with enhanced development allowances. Conditions are based on proximity to qualifying transit stations."
+}
+

@@ -1,4 +1,4 @@
-#!/Users/vishal-works/Documents/cedar/misc/cedar-hackathon-003/zoning-kg/venv/bin/python3
+#!/Users/vishal-works/Documents/cedar/misc/cedar-hackathon-003/zoning-kg/venv/bin/python3.11
 import sys
 from charset_normalizer.cli import cli_detect
 if __name__ == '__main__':

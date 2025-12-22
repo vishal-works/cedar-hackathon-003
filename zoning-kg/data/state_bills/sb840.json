@@ -1,0 +1,88 @@
+{
+  "bill_id": "SB-840",
+  "title": "Housing Development in Commercial Areas",
+  "legislature": "89th Texas Legislature",
+  "effective_date": "2025-09-01",
+  "jurisdiction": "texas",
+  "summary": "Limits local government regulation of multifamily housing development in commercial zoning districts",
+  "source_pdf": "../TX/source_documents/Texas-2025-SB840.pdf",
+  "overrides": [
+    {
+      "id": "texas:SB-840:density",
+      "metric": "density_max",
+      "override_type": "floor",
+      "value": 36,
+      "unit": "units/acre",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot limit density below 36 units/acre"
+    },
+    {
+      "id": "texas:SB-840:height",
+      "metric": "height_max",
+      "override_type": "floor",
+      "value": 45,
+      "unit": "ft",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot limit height below 45 feet"
+    },
+    {
+      "id": "texas:SB-840:setback_front",
+      "metric": "setback_front_min",
+      "override_type": "ceiling",
+      "value": 25,
+      "unit": "ft",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot require front setbacks greater than 25 feet"
+    },
+    {
+      "id": "texas:SB-840:setback_side",
+      "metric": "setback_side_min",
+      "override_type": "ceiling",
+      "value": 10,
+      "unit": "ft",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot require side setbacks greater than 10 feet"
+    },
+    {
+      "id": "texas:SB-840:setback_rear",
+      "metric": "setback_rear_min",
+      "override_type": "ceiling",
+      "value": 10,
+      "unit": "ft",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot require rear setbacks greater than 10 feet"
+    },
+    {
+      "id": "texas:SB-840:parking",
+      "metric": "parking_spaces_per_unit",
+      "override_type": "ceiling",
+      "value": 1,
+      "unit": "spaces",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot require more than 1 parking space per unit"
+    },
+    {
+      "id": "texas:SB-840:lot_area_per_unit",
+      "metric": "lot_area_per_unit_min",
+      "override_type": "ceiling",
+      "value": 1210,
+      "unit": "sqft",
+      "scope_uses": ["multifamily", "mixed_use"],
+      "scope_zones": ["commercial", "office", "mixed_use"],
+      "description": "Municipalities cannot require more than 1,210 sqft of lot area per unit"
+    }
+  ],
+  "exclusions": [
+    "Historic districts",
+    "Properties with deed restrictions",
+    "Cities with population under 50,000"
+  ],
+  "notes": "This bill applies to multifamily and mixed-use development in commercial, office, and mixed-use zoning districts. The 'floor' type means municipalities cannot set limits BELOW these values. The 'ceiling' type means municipalities cannot require values ABOVE these limits."
+}
+
